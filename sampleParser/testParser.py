@@ -9,7 +9,9 @@ class MagicParser(HTMLParser):
 
     def handle_data(self, data):
         if(self.currentTagType):
-            self.currentCard[self.currentTagType] = data
+            if(not self.currentTagType in self.currentCard):
+                self.currentCard[self.currentTagType] = []
+            self.currentCard[self.currentTagType].append(data)
 
     def handle_starttag(self, tag, attrs):
         evenCardItemAttr = ('class', 'cardItem evenItem')
@@ -37,6 +39,12 @@ class MagicParser(HTMLParser):
             
         if(evenCardItemAttr in attrs or oddCardItemAttr in attrs):
             self.currentCard = dict()
+
+        if(tag == "img" and self.currentTagType):
+            for attr in attrs:
+                if(attr[0]=="alt"):
+                    self.currentCard[self.currentTagType].append("<symbol>" + attr[1] + "</symbol>")
+                    
 
     def handle_endtag(self, tag):
         if(tag == 'tr'):
@@ -67,11 +75,11 @@ while pageNumber < 500:
     magicParser.feed(conn.getresponse().read().decode("UTF-8"))
     for card in magicParser.cardList:
         if(card):
-            f.write(card["name"].encode("utf-8"))
+            f.write(' '.join(card["name"]).encode("utf-8").strip())
             f.write("\n")
-            f.write(card["type"].encode("utf-8"))
+            f.write(' '.join(card["type"]).encode("utf-8").strip())
             f.write("\n")
-            f.write(card["rules"].encode("utf-8"))
+            f.write(' '.join(card["rules"]).encode("utf-8").strip())
             f.write("\n")
             f.write("\n")
     pageNumber = pageNumber + 1
