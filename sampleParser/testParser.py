@@ -19,6 +19,7 @@ class MagicParser(HTMLParser):
         cardTitleAttr = ('class', 'cardTitle')
         cardTypeAttr = ('class', 'typeLine')
         cardRulesAttr = ('class', 'rulesText')
+        manaCostAttr = ('class', 'manaCost')
 
         pagingControlAttr = ('class', 'pagingControls')
 
@@ -36,6 +37,9 @@ class MagicParser(HTMLParser):
 
         if(cardRulesAttr in attrs):
             self.currentTagType = "rules"
+
+        if(manaCostAttr in attrs):
+            self.currentTagType = "manaCost"
             
         if(evenCardItemAttr in attrs or oddCardItemAttr in attrs):
             self.currentCard = dict()
@@ -76,6 +80,8 @@ while pageNumber < 500:
     for card in magicParser.cardList:
         if(card):
             f.write(' '.join(card["name"]).encode("utf-8").strip())
+            f.write("\n")
+            f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
             f.write("\n")
             f.write(' '.join(card["type"]).encode("utf-8").strip())
             f.write("\n")
