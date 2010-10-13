@@ -1,5 +1,9 @@
 from HTMLParser import HTMLParser
 
+#FIXME don't want to rely on regex parser. 
+# Try to find an elegant way to come up with the multiverse id without it.
+import re
+
 class MagicParser(HTMLParser):
     cardList = []
     pagingList = []
@@ -13,7 +17,14 @@ class MagicParser(HTMLParser):
 
     divCount = 0
 
+    redirectRequests = 0
+    redirectId = False
+    
+
     def handle_data(self, data):
+        if (data == "Object moved"):
+            self.redirectRequests = self.redirectRequests + 1
+
         if(self.currentTagType):
             if(not self.currentTagType in self.currentCard):
                 self.currentCard[self.currentTagType] = []
@@ -24,8 +35,18 @@ class MagicParser(HTMLParser):
                 self.currentCard[self.singleCardTag] = []
             self.currentCard[self.singleCardTag].append(data)
 
-
+#FIXME this function needs to be split up.
     def handle_starttag(self, tag, attrs):
+        if(self.redirectRequests == 1 and tag == "a"):
+            m = re.search("multiverseid%3d([0-9]*)",attrs[0][1])
+            if(m):
+                self.redirectId = m.group(1)
+            else:
+                m = re.search("multiverseid=([0-9]*)", attrs[0][1])
+                if (m):
+                    self.redirectId = m.group(1)
+        
+
         evenCardItemAttr = ('class', 'cardItem evenItem')
         oddCardItemAttr = ('class', 'cardItem oddItem')
         cardTitleAttr = ('class', 'cardTitle')
@@ -125,6 +146,7 @@ class MagicParser(HTMLParser):
 
         #single card parsing
         if(tag == "div" and self.inValueClass):
+            #FIXME early termination of a value class before its done.  Need to keep a count instead.
             self.inValueClass = False
         if(self.singleCardTag and tag == "div"):
            if(self.divCount == 0):
@@ -137,21 +159,78 @@ class MagicParser(HTMLParser):
 import httplib
 magicParser = MagicParser()
 conn = httplib.HTTPConnection("gatherer.wizards.com")
-
-#Test 1
-
 f = open("/Users/dnmcgoy/code/magicTestOutput.txt","w")
 
-lastCardName = "invalid value"
-pageNumber = 0
-while pageNumber < 500:
+#Multicard List Test
+
+def multicardTest():
+    lastCardName = "invalid value"
+    pageNumber = 0
+    while pageNumber < 500:
+        magicParser.reset()
+        magicParser.cardList = []
+        
+        value = "/Pages/Search/Default.aspx?page="+ str(pageNumber) + "&action=advanced&cmc=+=%5B7%5D"
+        conn.request("GET", value)
+        magicParser.feed(conn.getresponse().read().decode("UTF-8"))
+        for card in magicParser.cardList:
+            if(card):
+                f.write(' '.join(card["name"]).encode("utf-8").strip())
+                f.write("\n")
+                f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
+                f.write("\n")
+                f.write(' '.join(card["type"]).encode("utf-8").strip())
+                f.write("\n")
+                f.write(' '.join(card["rules"]).encode("utf-8").strip())
+                f.write("\n")
+                f.write("\n")
+        pageNumber = pageNumber + 1
+        if (not magicParser.cardList[0] or 
+            len(magicParser.cardList) == 1 or
+            magicParser.cardList[0]["name"] == lastCardName):
+            break
+        else:
+            lastCardName = magicParser.cardList[0]["name"]
+
+
+#Single Card Test with hard id
+
+def staticSingleCardTest():
     magicParser.reset()
     magicParser.cardList = []
-
-    value = "/Pages/Search/Default.aspx?page="+ str(pageNumber) + "&action=advanced&cmc=+=%5B7%5D"
+    value = "/Pages/Card/Details.aspx?multiverseid=158109"
     conn.request("GET", value)
     magicParser.feed(conn.getresponse().read().decode("UTF-8"))
-    for card in magicParser.cardList:
+    card = magicParser.cardList[0]
+    if(card):
+        f.write(' '.join(card["name"]).encode("utf-8").strip())
+        f.write("\n")
+        f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
+        f.write("\n")
+        f.write(' '.join(card["type"]).encode("utf-8").strip())
+        f.write("\n")
+        f.write(' '.join(card["rules"]).encode("utf-8").strip())
+        f.write("\n")
+        f.write("\n")
+
+
+
+#Single Card test with search
+
+def singleCardTest():
+    value = "/Pages/Search/Default.aspx?page=1&name=+[Blackcleave]+[Goblin]"
+    
+    conn.request("GET", value)
+    
+    magicParser = MagicParser()
+    magicParser.feed(conn.getresponse().read().decode("UTF-8"))
+    
+    if (magicParser):
+        magicParser.reset()
+        redirectURL = "/Pages/Card/Details.aspx?multiverseid=" + magicParser.redirectId
+        conn.request("GET", redirectURL)
+        magicParser.feed(conn.getresponse().read().decode("UTF-8"))
+        card = magicParser.cardList[0]
         if(card):
             f.write(' '.join(card["name"]).encode("utf-8").strip())
             f.write("\n")
@@ -161,31 +240,13 @@ while pageNumber < 500:
             f.write("\n")
             f.write(' '.join(card["rules"]).encode("utf-8").strip())
             f.write("\n")
+            f.write(' '.join(card["powerToughness"]).encode("utf-8").strip())
             f.write("\n")
-    pageNumber = pageNumber + 1
-    if (not magicParser.cardList[0] or 
-        len(magicParser.cardList) == 1 or
-        magicParser.cardList[0]["name"] == lastCardName):
-        break
-    else:
-        lastCardName = magicParser.cardList[0]["name"]
+            f.write("\n")
 
 
-#Test 2
+multicardTest()
+staticSingleCardTest()
+singleCardTest()
 
-magicParser.reset()
-magicParser.cardList = []
-value = "/Pages/Card/Details.aspx?multiverseid=158109"
-conn.request("GET", value)
-magicParser.feed(conn.getresponse().read().decode("UTF-8"))
-card = magicParser.cardList[0]
-if(card):
-    f.write(' '.join(card["name"]).encode("utf-8").strip())
-    f.write("\n")
-    f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
-    f.write("\n")
-    f.write(' '.join(card["type"]).encode("utf-8").strip())
-    f.write("\n")
-    f.write(' '.join(card["rules"]).encode("utf-8").strip())
-    f.write("\n")
-    f.write("\n")
+conn.close()
