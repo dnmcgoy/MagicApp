@@ -13,9 +13,9 @@ class MagicParser(HTMLParser):
 
     inSingleCardPage = False
     singleCardTag = False
-    inValueClass = False
 
     divCount = 0
+    inValueClassDivCount = 0
 
     redirectRequests = 0
     redirectId = False
@@ -30,13 +30,23 @@ class MagicParser(HTMLParser):
                 self.currentCard[self.currentTagType] = []
             self.currentCard[self.currentTagType].append(data)
 
-        if(self.singleCardTag and self.inValueClass):
+        if(self.singleCardTag and self.inValueClassDivCount > 0):
             if(not self.singleCardTag in self.currentCard):
                 self.currentCard[self.singleCardTag] = []
             self.currentCard[self.singleCardTag].append(data)
 
 #FIXME this function needs to be split up.
     def handle_starttag(self, tag, attrs):
+        if(self.currentCard and tag == "img"):
+            m = re.search("multiverseid%3d([0-9]*)",attrs[0][1])
+            if(m):
+                self.currentCard["id"] = m.group(1)
+            else:
+                m = re.search("multiverseid=([0-9]*)", attrs[0][1])
+                if (m):
+                    self.currentCard["id"] = m.group(1)
+        
+
         if(self.redirectRequests == 1 and tag == "a"):
             m = re.search("multiverseid%3d([0-9]*)",attrs[0][1])
             if(m):
@@ -76,6 +86,7 @@ class MagicParser(HTMLParser):
             
         if(evenCardItemAttr in attrs or oddCardItemAttr in attrs):
             self.currentCard = dict()
+            self.currentCard["id"] = ""
 
         if(tag == "img" and self.currentTagType):
             for attr in attrs:
@@ -90,10 +101,12 @@ class MagicParser(HTMLParser):
         classValueAttr = ('class', 'value')
 
         if(self.singleCardTag and classValueAttr in attrs):
-            self.inValueClass = True
+            self.inValueClassDivCount = 1
 
         if(self.singleCardTag and tag == "div"):
             self.divCount = self.divCount + 1
+            if(self.inValueClassDivCount > 0):
+                self.inValueClassDivCount = self.inValueClassDivCount + 1
 
         if(self.inSingleCardPage):
             for attr in attrs:
@@ -124,10 +137,11 @@ class MagicParser(HTMLParser):
         if(cardDetailsAttr in attrs):
             self.inSingleCardPage = True
             self.currentCard = dict()
+            self.currentCard["id"] = ""
 
 
         #FIXME copy pasta of the multicard version
-        if(tag == "img" and self.singleCardTag and self.inValueClass):
+        if(tag == "img" and self.singleCardTag and self.inValueClassDivCount > 0):
             for attr in attrs:
                 if(attr[0]=="alt"):
                     if(not self.singleCardTag in self.currentCard):
@@ -145,9 +159,8 @@ class MagicParser(HTMLParser):
             self.inPagingControl = False
 
         #single card parsing
-        if(tag == "div" and self.inValueClass):
-            #FIXME early termination of a value class before its done.  Need to keep a count instead.
-            self.inValueClass = False
+        if(tag == "div" and self.inValueClassDivCount > 0):
+            self.inValueClassDivCount = self.inValueClassDivCount - 1
         if(self.singleCardTag and tag == "div"):
            if(self.divCount == 0):
                self.singleCardTag = False
@@ -155,27 +168,43 @@ class MagicParser(HTMLParser):
                self.divCount = self.divCount - 1
             
 
-
 import httplib
+
+basedir = "/Users/savi/code/personalCode/"
+
 magicParser = MagicParser()
 conn = httplib.HTTPConnection("gatherer.wizards.com")
-f = open("/Users/dnmcgoy/code/magicTestOutput.txt","w")
+f = open(basedir + "magicTestOutput.txt","w")
+
+
+def grabImage(multiverseid):
+    f = open(basedir + "magicCard" + str(multiverseid) + ".png","wt")
+    conn.request("GET", "/Handlers/Image.ashx?multiverseid="  + str(multiverseid) + "&type=card")
+    
+    f.write(conn.getresponse().read())
+    
+    f.close()
+
 
 #Multicard List Test
 
 def multicardTest():
     lastCardName = "invalid value"
     pageNumber = 0
+
     while pageNumber < 500:
         magicParser.reset()
         magicParser.cardList = []
         
-        value = "/Pages/Search/Default.aspx?page="+ str(pageNumber) + "&action=advanced&cmc=+=%5B7%5D"
+        value = "/Pages/Search/Default.aspx?page="+ str(pageNumber) + "&action=advanced&cmc=+=%5B9%5D"
         conn.request("GET", value)
         magicParser.feed(conn.getresponse().read().decode("UTF-8"))
         for card in magicParser.cardList:
             if(card):
                 f.write(' '.join(card["name"]).encode("utf-8").strip())
+                f.write("\n")
+                f.write(card["id"].encode("utf-8").strip())
+                grabImage(card["id"])
                 f.write("\n")
                 f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
                 f.write("\n")
@@ -192,7 +221,6 @@ def multicardTest():
         else:
             lastCardName = magicParser.cardList[0]["name"]
 
-
 #Single Card Test with hard id
 
 def staticSingleCardTest():
@@ -204,6 +232,9 @@ def staticSingleCardTest():
     card = magicParser.cardList[0]
     if(card):
         f.write(' '.join(card["name"]).encode("utf-8").strip())
+        f.write("\n")
+        f.write(card["id"].encode("utf-8").strip())
+        grabImage(card["id"])
         f.write("\n")
         f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
         f.write("\n")
@@ -233,6 +264,9 @@ def singleCardTest():
         card = magicParser.cardList[0]
         if(card):
             f.write(' '.join(card["name"]).encode("utf-8").strip())
+            f.write("\n")
+            f.write(card["id"].encode("utf-8").strip())
+            grabImage(card["id"])
             f.write("\n")
             f.write(' '.join(card["manaCost"]).encode("utf-8").strip())
             f.write("\n")
