@@ -16,4 +16,36 @@ public class GathererParserTest {
 		List<Card> cards = gp.parse();
 		assertEquals(10, cards.size());
 	}
+
+	@Test
+	public void shouldParseCardName() throws Exception {
+		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
+		List<Card> cards = gp.parse();
+		Card card = cards.get(0);
+		assertEquals(card.name, "Omnath, Locus of Mana");
+	}
+
+	@Test
+	public void shouldParseCardMtgID() throws Exception {
+		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
+		List<Card> cards = gp.parse();
+		Card card = cards.get(0);
+		assertEquals("197759", card.mtgID);
+	}
+
+	@Test
+	public void shouldParseCardConvertedManaCost() throws Exception {
+		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
+		List<Card> cards = gp.parse();
+		Card card = cards.get(0);
+		assertEquals(card.cmc, 3);
+	}
+
+	@Test
+	public void shouldParseCardCastingCost() throws Exception {
+		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
+		List<Card> cards = gp.parse();
+		Card card = cards.get(0);
+		assertEquals("2G", card.cc);
+	}
 }

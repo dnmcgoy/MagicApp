@@ -19,11 +19,8 @@ public class AttributeMatcher implements XmlMatcher {
 	public String match(int matchType, XmlPullParser parser) {
 		if (matchType == eventType) {
 			if (parser.getName().equals(tag)) {
-				
 				if (parser.getAttributeCount() > 0) {
-					
 					String parsedAttr = parser.getAttributeValue(null, attributeName);
-					System.out.println("attr  " + parsedAttr);
 					if (parsedAttr != null && parsedAttr.matches(attributeMatch)) {
 						return parsedAttr;
 					}
@@ -32,5 +29,4 @@ public class AttributeMatcher implements XmlMatcher {
 		}
 		return null;
 	}
-
 }

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tr class="cardItem oddItem">
+  <td class="leftCol">
+    <div class="clear"></div>
+    <a href="../Card/Details.aspx?multiverseid=197759" id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_listRepeater_ctl05_cardImageLink" onclick="return CardLinkAction(event, this, 'SameWindow');">
+      <img src="../../Handlers/Image.ashx?multiverseid=197759&amp;type=card" id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_listRepeater_ctl05_cardImage" width="95" height="132" alt="Omnath, Locus of Mana" border="0" />
+    </a>
+    <div class="clear"></div>
+  </td>
+  <td class="middleCol">
+    <div class="clear"></div>
+    <div class="cardInfo">
+      <span class="cardTitle">
+	<a id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_listRepeater_ctl05_cardTitle" onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=197759">Omnath, Locus of Mana</a></span> <span class="manaCost">
+	<img src="/Handlers/Image.ashx?size=small&amp;name=2&amp;type=symbol" alt="2" align="absbottom" /><img src="/Handlers/Image.ashx?size=small&amp;name=G&amp;type=symbol" alt="Green" align="absbottom" /></span> (<span class="convertedManaCost">3</span>)
+	<br />
+	<span class="typeLine">
+	  Legendary Creature  — Elemental
+	(1/1)</span>
+	<div class="rulesText">
+	<p>Green mana doesn't empty from your mana pool as steps and phases end.</p><p>Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.</p></div>
+    </div>
+  </td>
+  <td class="rightCol setVersions">
+    <div class="clear"></div>
+    <div>
+      <div id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ctl00_listRepeater_ctl05_cardSetCurrent" class="rightCol">
+	<a onclick="return CardLinkAction(event, this, 'SameWindow');" href="../Card/Details.aspx?multiverseid=197759"><img title="Worldwake (Mythic Rare)" src="../../Handlers/Image.ashx?type=symbol&amp;set=WWK&amp;size=small&amp;rarity=M" alt="Worldwake (Mythic Rare)" style="border-width:0px;" /></a>
+      </div>
+    </div>
+    
+  </td>
+</tr>
