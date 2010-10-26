@@ -28,9 +28,6 @@ public class AttrRegexMatcher implements XmlMatcher {
 						Pattern p = Pattern.compile(attributeRegex);
 						Matcher matcher = p.matcher(parsedAttr);
 						matcher.matches();
-						System.out.println(parsedAttr);
-						System.out.println(p.toString());
-						System.out.println(matcher.groupCount());
 						return matcher.group(1);
 					}
 				}

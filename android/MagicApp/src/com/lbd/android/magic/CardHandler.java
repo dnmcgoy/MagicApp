@@ -14,6 +14,8 @@ public class CardHandler implements PullHandler {
 	CMCParser cmcParser;
 	CCParser ccParser;
 	MtgIDParser mtgIDParser;
+	TypeParser typeParser;
+	SubTypeParser subTypeParser;
 
 	public CardHandler() {
 		resetParsers();
@@ -23,7 +25,6 @@ public class CardHandler implements PullHandler {
 		boolean allTrue = true;
 		for (ValueParser vp : parsers) {
 			boolean result = vp.handleEvent(eventType, parser);
-			System.out.println("Result for " + vp.getClass().getName() + " is " + result);
 			if (!result)
 				allTrue = false;
 		}
@@ -33,6 +34,8 @@ public class CardHandler implements PullHandler {
 			card.cmc = Integer.parseInt(cmcParser.getValue());
 			card.cc = ccParser.getValue();
 			card.mtgID = mtgIDParser.getValue();
+			card.type = typeParser.getValue();
+			card.subtype = subTypeParser.getValue();
 			cards.add(card);
 			nameParser = new NameParser();
 			resetParsers();
@@ -45,12 +48,16 @@ public class CardHandler implements PullHandler {
 		cmcParser = new CMCParser();
 		ccParser = new CCParser();
 		mtgIDParser = new MtgIDParser();
+		typeParser = new TypeParser();
+		subTypeParser = new SubTypeParser();
 		
 		parsers.clear();
 		parsers.add(nameParser);
 		parsers.add(cmcParser);
 		parsers.add(ccParser);
 		parsers.add(mtgIDParser);
+		parsers.add(typeParser);
+		parsers.add(subTypeParser);
 	}
 
 	public List<Card> getCards() {

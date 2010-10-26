@@ -7,8 +7,6 @@ import java.util.List;
 import org.kxml2.io.KXmlParser;
 import org.xmlpull.v1.XmlPullParser;
 
-import android.util.Log;
-
 public class GathererParser {
 
 	static final String NS = "http://www.w3.org/1999/xhtml";
@@ -24,7 +22,6 @@ public class GathererParser {
 
 	public List<Card> parse() throws Exception {
 
-		List<Card> cards = new ArrayList<Card>();
 		XmlPullParser parser = new KXmlParser(); // Xml.newPullParser();
 
 		parser.setFeature("http://xmlpull.org/v1/doc/features.html#relaxed", true);

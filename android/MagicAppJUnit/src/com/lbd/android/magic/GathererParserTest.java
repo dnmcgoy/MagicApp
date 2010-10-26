@@ -42,10 +42,19 @@ public class GathererParserTest {
 	}
 
 	@Test
-	public void shouldParseCardCastingCost() throws Exception {
+	public void shouldParseCardType() throws Exception {
 		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
 		List<Card> cards = gp.parse();
 		Card card = cards.get(0);
-		assertEquals("2G", card.cc);
+		assertEquals("Legendary Creature", card.type);
 	}
+
+	@Test
+	public void shouldParseCardSubType() throws Exception {
+		GathererParser gp = new GathererParser(new FileInputStream(new File("assets/card.xml")));
+		List<Card> cards = gp.parse();
+		Card card = cards.get(0);
+		assertEquals("Elemental", card.subtype);
+	}
+
 }
