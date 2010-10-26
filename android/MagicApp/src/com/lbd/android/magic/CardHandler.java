@@ -16,6 +16,8 @@ public class CardHandler implements PullHandler {
 	MtgIDParser mtgIDParser;
 	TypeParser typeParser;
 	SubTypeParser subTypeParser;
+	PowerParser powerParser;
+	ToughnessParser toughnessParser;
 
 	public CardHandler() {
 		resetParsers();
