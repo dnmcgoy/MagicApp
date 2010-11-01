@@ -1,19 +1,20 @@
 package com.lbd.android.magic;
 
 import java.io.StringWriter;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
 import org.xmlpull.v1.XmlSerializer;
 
-import com.example.coverflow.CoverFlow;
-
-import android.app.Activity;
 import android.app.ListActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.util.Xml;
 import android.widget.ArrayAdapter;
+
+import com.lbd.android.magic.parser.Card;
+import com.lbd.android.magic.parser.GathererParser;
 
 public class MagicApp extends ListActivity {
 	
@@ -46,8 +47,8 @@ public class MagicApp extends ListActivity {
 	
 	private void loadFeed(){
     	try{
-    		GathererParser parser = new GathererParser(getAssets().open("gatherer.html"));
-    		//"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&color=+@(+[G])&type=+[%22Creature%22]&format=+[%22Standard%22]&rarity=+[M]");
+    		String url = "http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&color=+@(+[G])&type=+[%22Creature%22]&format=+[%22Standard%22]&rarity=+[M]";
+    		GathererParser parser = new GathererParser(new URL(url).openStream());
     		cards = parser.parse();
     		String xml = writeXml();
 	    	Log.i(TAG, xml);

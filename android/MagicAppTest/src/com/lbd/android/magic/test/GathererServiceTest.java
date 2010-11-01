@@ -1,6 +1,6 @@
 package com.lbd.android.magic.test;
 
-import com.lbd.android.magic.GathererService;
+import com.lbd.android.magic.parser.GathererService;
 
 import android.content.Intent;
 import android.os.IBinder;

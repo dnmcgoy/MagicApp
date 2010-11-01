@@ -3,3 +3,15 @@ http://gatherer.wizards.com/Pages/Search/Default.aspx
 single page
 action=advanced&color=+@(+[G])&type=+[%22Creature%22]&format=+[%22Standard%22]&rarity=+[M]
 
+
+color			"color="
+green	   		"+[G]"
+only green		"+@(+[G])"
+green and blue		"+[G]+[U]"
+only green and blue	"+@(+[G]+[U])"
+
+format	       		"format="
+standard		"["standard"]"
+
+type			"type="
+creature and artifact	"+["Creature"]+["Artifact"]"
