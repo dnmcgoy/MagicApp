@@ -20,25 +20,31 @@ public final class R {
         public static final int harrow=0x7f020006;
         public static final int icon=0x7f020007;
         public static final int island=0x7f020008;
-        public static final int misty_rainforest=0x7f020009;
-        public static final int peer_through_depths=0x7f02000a;
-        public static final int remand=0x7f02000b;
-        public static final int repeal=0x7f02000c;
-        public static final int sakura_tribe_elder=0x7f02000d;
-        public static final int scapeshift=0x7f02000e;
-        public static final int stomping_ground=0x7f02000f;
-        public static final int valakut_the_molten_pinnacle=0x7f020010;
-        public static final int wood_elves=0x7f020011;
+        public static final int mic=0x7f020009;
+        public static final int misty_rainforest=0x7f02000a;
+        public static final int peer_through_depths=0x7f02000b;
+        public static final int remand=0x7f02000c;
+        public static final int repeal=0x7f02000d;
+        public static final int sakura_tribe_elder=0x7f02000e;
+        public static final int scapeshift=0x7f02000f;
+        public static final int speak=0x7f020010;
+        public static final int stomping_ground=0x7f020011;
+        public static final int valakut_the_molten_pinnacle=0x7f020012;
+        public static final int wood_elves=0x7f020013;
     }
     public static final class id {
-        public static final int TextView01=0x7f050000;
+        public static final int TextView01=0x7f050002;
+        public static final int result_list=0x7f050001;
+        public static final int speak_button=0x7f050000;
     }
     public static final class layout {
         public static final int main=0x7f030000;
-        public static final int row=0x7f030001;
+        public static final int myvoice=0x7f030001;
+        public static final int row=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f040001;
         public static final int hello=0x7f040000;
+        public static final int speak=0x7f040002;
     }
 }

@@ -2,7 +2,6 @@ package com.lbd.android.magic.parser;
 
 import com.example.coverflow.CoverFlow;
 import com.lbd.android.magic.R;
-import com.lbd.android.magic.R.drawable;
 
 import android.app.Activity;
 import android.content.Context;
