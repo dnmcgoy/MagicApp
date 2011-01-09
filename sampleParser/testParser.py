@@ -170,7 +170,7 @@ class MagicParser(HTMLParser):
 
 import httplib
 
-basedir = "/Users/savi/code/personalCode/"
+basedir = ""
 
 magicParser = MagicParser()
 conn = httplib.HTTPConnection("gatherer.wizards.com")
