@@ -5,6 +5,8 @@ import java.util.List;
 
 import org.xmlpull.v1.XmlPullParser;
 
+import com.lbd.android.magic.model.Card;
+
 public class CardHandler implements PullHandler {
 	
 	List<Card> cards = new ArrayList<Card>();

@@ -7,7 +7,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import com.lbd.android.magic.parser.Card;
+import com.lbd.android.magic.model.Card;
 
 
 public class GathererParserTest {

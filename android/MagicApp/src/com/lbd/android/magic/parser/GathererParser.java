@@ -7,6 +7,8 @@ import java.util.List;
 import org.kxml2.io.KXmlParser;
 import org.xmlpull.v1.XmlPullParser;
 
+import com.lbd.android.magic.model.Card;
+
 public class GathererParser {
 
 	static final String NS = "http://www.w3.org/1999/xhtml";

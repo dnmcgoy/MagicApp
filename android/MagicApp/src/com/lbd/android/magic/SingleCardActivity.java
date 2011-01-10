@@ -1,6 +1,6 @@
 package com.lbd.android.magic;
 
-import com.lbd.android.magic.parser.Card;
+import com.lbd.android.magic.model.Card;
 
 import android.app.Activity;
 import android.os.Bundle;
