@@ -78,3 +78,8 @@ cards.each do |card|
     puts e
   end
 end
+
+
+db.execute( "select count(*) from Cards" ) do |row|
+  puts "Count is #{row.first}"
+end
