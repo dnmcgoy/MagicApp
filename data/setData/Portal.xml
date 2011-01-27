@@ -1,0 +1,1138 @@
+<cards>
+  <name>Portal</name>
+  <key>Portal</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>4207</id>
+      <name>Arrogant Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4208</id>
+      <name>Assassin&apos;s Blade</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Assassin&apos;s Blade only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Destroy target nonblack attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4212</id>
+      <name>Charging Bandits</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4213</id>
+      <name>Craven Knight</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Craven Knight can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4214</id>
+      <name>Cruel Bargain</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw four cards. You lose half your life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4215</id>
+      <name>Cruel Tutor</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4216</id>
+      <name>Dread Charge</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, black creatures you control can be blocked only by black creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4219</id>
+      <name>Ebon Dragon</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Ebon Dragon comes into play, you may have target opponent discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4220</id>
+      <name>Endless Cockroaches</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Endless Cockroaches is put into to a graveyard from play, return Endless Cockroaches to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4222</id>
+      <name>Final Strike</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Final Strike, sacrifice a creature. &lt;br&gt;Final Strike deals damage to target opponent equal to the sacrificed creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4227</id>
+      <name>King&apos;s Assassin</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target tapped creature. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4228</id>
+      <name>Mercenary Knight</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Mercenary Knight</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Mercenary Knight comes into play, sacrifice it unless you discard a creature card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4229</id>
+      <name>Mind Knives</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent discards a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4232</id>
+      <name>Nature&apos;s Ruin</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all green creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4233</id>
+      <name>Noxious Toad</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Frog</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Noxious Toad is put into a graveyard from play, each opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4237</id>
+      <name>Serpent Assassin</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Snake Assassin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Serpent Assassin comes into play, you may destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4239</id>
+      <name>Skeletal Crocodile</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Crocodile Skeleton</type>
+      <power>5</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4240</id>
+      <name>Skeletal Snake</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Snake Skeleton</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4241</id>
+      <name>Soul Shred</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4242</id>
+      <name>Undying Beast</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Undying Beast is put into a graveyard from play, put Undying Beast on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4243</id>
+      <name>Vampiric Feast</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4244</id>
+      <name>Vampiric Touch</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vampiric Touch deals 2 damage to target opponent and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4245</id>
+      <name>Virtue&apos;s Ruin</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all white creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4250</id>
+      <name>Capricious Sorcerer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Capricious Sorcerer deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4251</id>
+      <name>Cloak of Feathers</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains flying until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4252</id>
+      <name>Cloud Dragon</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Illusion Dragon</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Cloud Dragon can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4253</id>
+      <name>Cloud Pirates</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Cloud Pirates can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4254</id>
+      <name>Cloud Spirit</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Cloud Spirit can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4255</id>
+      <name>Command of Unsummoning</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Command of Unsummoning only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Return one or two target attacking creatures to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4257</id>
+      <name>Cruel Fate</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Look at the top five cards of target opponent&apos;s library. Put one of those cards into that player&apos;s graveyard, and the rest on top of his or her library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4258</id>
+      <name>Deep-Sea Serpent</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Deep-Sea Serpent can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4259</id>
+      <name>Déjà Vu</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target sorcery card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4260</id>
+      <name>Djinn of the Lamp</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4262</id>
+      <name>Flux</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player discards any number of cards, then draws that many cards. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4265</id>
+      <name>Ingenious Thief</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Ingenious Thief comes into play, look at target player&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4268</id>
+      <name>Mystic Denial</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target creature or sorcery spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4269</id>
+      <name>Omen</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top three cards of your library. You may put them back in any order or shuffle your library. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4270</id>
+      <name>Owl Familiar</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Owl Familiar comes into play, draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4271</id>
+      <name>Personal Tutor</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4275</id>
+      <name>Sorcerous Sight</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at target opponent&apos;s hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4277</id>
+      <name>Symbol of Unsummoning</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4278</id>
+      <name>Taunt</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>During target player&apos;s next turn, each creature he or she controls attacks you if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4280</id>
+      <name>Thing from the Deep</name>
+      <cost>{6}{U}{U}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4283</id>
+      <name>Touch of Brilliance</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4293</id>
+      <name>Elite Cat Warrior</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Cat Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4297</id>
+      <name>Fruition</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 1 life for each Forest in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4302</id>
+      <name>Jungle Lion</name>
+      <cost>{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Jungle Lion can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4303</id>
+      <name>Mobilize</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap all creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4307</id>
+      <name>Natural Order</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Natural Order, sacrifice a green creature. &lt;br&gt;Search your library for a green creature card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4313</id>
+      <name>Plant Elemental</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Plant Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Plant Elemental comes into play, sacrifice it unless you sacrifice a Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4316</id>
+      <name>Rowan Treefolk</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4320</id>
+      <name>Sylvan Tutor</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4321</id>
+      <name>Thundering Wurm</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Thundering Wurm comes into play, sacrifice it unless you discard a land card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4322</id>
+      <name>Treetop Defense</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Treetop Defense only during the declare attackers step and only if you are the defending player. &lt;br&gt;Creatures you control gain reach until end of turn. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4325</id>
+      <name>Willow Dryad</name>
+      <cost>{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4326</id>
+      <name>Winter&apos;s Grasp</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4331</id>
+      <name>Burning Cloak</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4333</id>
+      <name>Desert Drake</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4336</id>
+      <name>Fire Dragon</name>
+      <cost>{6}{R}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Fire Dragon comes into play, it deals damage equal to the number of Mountains you control to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4337</id>
+      <name>Fire Imp</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Fire Imp comes into play, it deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4338</id>
+      <name>Fire Snake</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Snake</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Fire Snake is put into a graveyard from play, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4341</id>
+      <name>Forked Lightning</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4342</id>
+      <name>Goblin Bully</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4343</id>
+      <name>Highland Giant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4349</id>
+      <name>Lava Flow</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4350</id>
+      <name>Lizard Warrior</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Lizard Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4351</id>
+      <name>Minotaur Warrior</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Minotaur Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4353</id>
+      <name>Pillaging Horde</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Barbarian</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Pillaging Horde comes into play, sacrifice it unless you discard a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4355</id>
+      <name>Raging Cougar</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4358</id>
+      <name>Raging Minotaur</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Minotaur Berserker</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4359</id>
+      <name>Rain of Salt</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy two target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4361</id>
+      <name>Scorching Winds</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Scorching Winds only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Scorching Winds deals 1 damage to each attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4367</id>
+      <name>Wall of Granite</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>7</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4369</id>
+      <name>Alabaster Dragon</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Alabaster Dragon is put into a graveyard from play, shuffle Alabaster Dragon into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4380</id>
+      <name>Defiant Stand</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Defiant Stand only during the declare attackers step and only if you are the defending player. &lt;br&gt;Target creature gets +1/+3 until the end of the turn. If that creature is tapped, untap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4383</id>
+      <name>Fleet-Footed Monk</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fleet-Footed Monk can&apos;t be blocked by creatures with power 2 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4386</id>
+      <name>Harsh Justice</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Harsh Justice only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4387</id>
+      <name>Keen-Eyed Archers</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Elf Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4391</id>
+      <name>Renewing Dawn</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 2 life for each Mountain target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4392</id>
+      <name>Sacred Knight</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacred Knight can&apos;t be blocked by black and/or red creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4395</id>
+      <name>Spiritual Guardian</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Spiritual Guardian comes into play, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4396</id>
+      <name>Spotted Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4398</id>
+      <name>Starlit Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4400</id>
+      <name>Stern Marshal</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4401</id>
+      <name>Temporary Truce</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4402</id>
+      <name>Valorous Charge</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>White creatures get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4406</id>
+      <name>Warrior&apos;s Charge</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

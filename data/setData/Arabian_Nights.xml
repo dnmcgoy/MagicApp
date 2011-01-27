@@ -1,0 +1,514 @@
+<cards>
+  <name>Arabian_Nights</name>
+  <key>Arabian_Nights</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>904</id>
+      <name>City in a Bottle</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a permanent from the Arabian Nights expansion other than City in a Bottle is in play, its controller sacrifices it. &lt;br&gt; &lt;br&gt;Players can&apos;t play cards from the Arabian Nights expansion.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>910</id>
+      <name>Jeweled Bird</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove Jeweled Bird from your deck before playing if you&apos;re not playing for ante. &lt;br&gt; &lt;br&gt;{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own in the ante into your graveyard, then draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>911</id>
+      <name>Pyramids</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Destroy target Aura attached to a land. &lt;br&gt;{2}: Regenerate target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>913</id>
+      <name>Sandals of Abdallah</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Target creature gains islandwalk until end of turn. When that creature is put into a graveyard from play this turn, destroy Sandals of Abdallah.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>914</id>
+      <name>Cuombajj Witches</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent&apos;s choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>918</id>
+      <name>Guardian Beast</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as Guardian Beast is untapped, noncreature artifacts you control can&apos;t be enchanted, they&apos;re indestructible, and other players can&apos;t gain control of them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>919</id>
+      <name>Hasran Ogress</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Ogre</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>922</id>
+      <name>Juzam Djinn</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, Juzam Djinn deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>923</id>
+      <name>Khabal Ghoul</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, put a +1/+1 counter on Khabal Ghoul for each creature put into a graveyard from play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>925</id>
+      <name>Oubliette</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Oubliette comes into play, remove target creature and all Auras attached to it from the game. Note the number and kind of counters that were on that creature. &lt;br&gt;When Oubliette leaves play, return the removed card to play under its owner&apos;s control tapped with the noted number and kind of counters on it. If you do, return the removed Aura cards to play under their owner&apos;s control attached to that permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>927</id>
+      <name>Stone-Throwing Devils</name>
+      <cost>{B}</cost>
+      <type>Creature - Devil</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>932</id>
+      <name>Flying Men</name>
+      <cost>{U}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>936</id>
+      <name>Merchant Ship</name>
+      <cost>{U}</cost>
+      <type>Creature - Human</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Merchant Ship can&apos;t attack unless defending player controls an Island. &lt;br&gt;Whenever Merchant Ship attacks and isn&apos;t blocked, you gain 2 life. &lt;br&gt;When you control no Islands, sacrifice Merchant Ship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>937</id>
+      <name>Old Man of the Sea</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Old Man of the Sea during your untap step. &lt;br&gt;{T}: Gain control of target creature with power less than or equal to Old Man of the Sea&apos;s power as long as Old Man of the Sea remains tapped and that creature&apos;s power remains less than or equal to Old Man of the Sea&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>938</id>
+      <name>Serendib Djinn</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you. &lt;br&gt;When you control no lands, sacrifice Serendib Djinn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>942</id>
+      <name>Cyclone</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Whenever you pay Cyclone&apos;s cumulative upkeep, it deals damage equal to the number of age counters on Cyclone to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>944</id>
+      <name>Drop of Honey</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, destroy the creature with the least power. It can&apos;t be regenerated. If two or more creatures are tied for least power, you choose one of them. &lt;br&gt;When there are no creatures in play, sacrifice Drop of Honey.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>945</id>
+      <name>Erhnam Djinn</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Djinn</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>947</id>
+      <name>Ifh-Biff Efreet</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Ifh-Biff Efreet deals 1 damage to each creature with flying and each player. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>948</id>
+      <name>Metamorphosis</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Metamorphosis, sacrifice a creature. &lt;br&gt; &lt;br&gt;Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature&apos;s converted mana cost. Spend this mana only to play creature spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>952</id>
+      <name>Singing Tree</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Plant</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target attacking creature&apos;s power becomes 0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>955</id>
+      <name>Aladdin</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{R}{R}, {T}: Gain control of target artifact as long as Aladdin remains in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>957</id>
+      <name>Ali from Cairo</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Damage that would reduce your life total to less than 1 reduces it to 1 instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>960</id>
+      <name>Desert Nomads</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Nomad</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Desertwalk &lt;br&gt;Prevent all damage that would be dealt to Desert Nomads by Deserts.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>967</id>
+      <name>Ydwen Efreet</name>
+      <cost>{R}{R}{R}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you&apos;re attacked, flip a coin. If you lose the flip, Ydwen Efreet can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>968</id>
+      <name>Abu Ja&apos;far</name>
+      <cost>{W}</cost>
+      <type>Creature - Human</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Abu Ja&apos;far is put into a graveyard from play, destroy all creatures blocking or blocked by it. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>970</id>
+      <name>Army of Allah</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Attacking creatures get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>971</id>
+      <name>Camel</name>
+      <cost>{W}</cost>
+      <type>Creature - Camel</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding &lt;br&gt;Prevent all damage that would be dealt to Camel or to creatures banded with Camel by Deserts.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>973</id>
+      <name>Jihad</name>
+      <cost>{W}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Jihad comes into play, choose a color and an opponent. &lt;br&gt; &lt;br&gt;White creatures get +2/+1. &lt;br&gt; &lt;br&gt;When the chosen opponent controls no cards of the chosen color, sacrifice Jihad.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>974</id>
+      <name>King Suleiman</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target Djinn or Efreet.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>975</id>
+      <name>Moorish Cavalry</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>980</id>
+      <name>Shahrazad</name>
+      <cost>{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn&apos;t win the subgame loses half his or her life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>984</id>
+      <name>Bazaar of Baghdad</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Draw two cards, then discard three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>986</id>
+      <name>Desert</name>
+      <cost></cost>
+      <type>Land - Desert</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Desert deals 1 damage to target attacking creature. Play this ability only during the end of combat step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>987</id>
+      <name>Diamond Valley</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a creature: You gain life equal to the sacrificed creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>988</id>
+      <name>Elephant Graveyard</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Regenerate target Elephant.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>989</id>
+      <name>Island of Wak-Wak</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: The power of target creature with flying becomes 0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>990</id>
+      <name>Library of Alexandria</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Draw a card. Play this ability only if you have exactly seven cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>991</id>
+      <name>Oasis</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,1632 @@
+<cards>
+  <name>Nemesis</name>
+  <key>Nemesis</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>19579</id>
+      <name>Plague Witch</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Elf Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, {T}, Discard a card: Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21251</id>
+      <name>Defiant Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Rebel Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21255</id>
+      <name>Lawbringer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Lawbringer: Remove target red creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21256</id>
+      <name>Lightbringer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Lightbringer: Remove target black creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21257</id>
+      <name>Lashknife</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>If you control a Plains, you may tap an untapped creature you control rather than pay Lashknife&apos;s mana cost. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21258</id>
+      <name>Angelic Favor</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If you control a Plains, you may tap an untapped creature you control rather than pay Angelic Favor&apos;s mana cost. &lt;br&gt; &lt;br&gt;Play Angelic Favor only during combat. &lt;br&gt; &lt;br&gt;Put a 4/4 white Angel creature token with flying into play. Remove it from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21259</id>
+      <name>Seal of Cleansing</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21260</id>
+      <name>Fanatical Devotion</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a creature: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21262</id>
+      <name>Noble Stand</name>
+      <cost>{4}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature you control blocks, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21263</id>
+      <name>Avenger en-Dal</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{W}, {T}, Discard a card: Remove target attacking creature from the game. Its controller gains life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21264</id>
+      <name>Chieftain en-Dal</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Chieftain &lt;I&gt;en-&lt;/I&gt;Dal attacks, attacking creatures gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21265</id>
+      <name>Voice of Truth</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from white</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21266</id>
+      <name>Defiant Vanguard</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Defiant Vanguard blocks, at end of combat, destroy it and all creatures it blocked this turn. &lt;br&gt;{5}, {T}: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21268</id>
+      <name>Topple</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target creature with the greatest power from the game. &lt;i&gt;(If two or more creatures are tied for greatest power, target any one of them.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21270</id>
+      <name>Sivvi&apos;s Ruse</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If an opponent controls a Mountain and you control a Plains, you may play Sivvi&apos;s Ruse without paying its mana cost. &lt;br&gt; &lt;br&gt;Prevent all damage that would be dealt this turn to creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21271</id>
+      <name>Lin Sivvi, Defiant Hero</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Rebel</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Search your library for a Rebel permanent card with converted mana cost X or less and put that card into play. Then shuffle your library. &lt;br&gt;{3}: Put target Rebel card from your graveyard on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21277</id>
+      <name>Spiritual Asylum</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures and lands you control have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt; &lt;br&gt;When a creature you control attacks, sacrifice Spiritual Asylum.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21278</id>
+      <name>Trickster Mage</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}, Discard a card: You may tap or untap target artifact, creature, or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21279</id>
+      <name>Wandering Eye</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;All players play with their hands revealed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21280</id>
+      <name>Cloudskate</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Fading 3 &lt;I&gt;(This creature comes into play with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21281</id>
+      <name>Jolting Merfolk</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 4 &lt;I&gt;(This creature comes into play with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Remove a fade counter from Jolting Merfolk: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21283</id>
+      <name>Sliptide Serpent</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{U}: Return Sliptide Serpent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21284</id>
+      <name>Daze</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may return an Island you control to its owner&apos;s hand rather than pay Daze&apos;s mana cost. &lt;br&gt; &lt;br&gt;Counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21285</id>
+      <name>Accumulated Knowledge</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21286</id>
+      <name>Infiltrate</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21287</id>
+      <name>Seal of Removal</name>
+      <cost>{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Removal: Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21290</id>
+      <name>Mossdog</name>
+      <cost>{G}</cost>
+      <type>Creature - Plant Hound</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Mossdog becomes the target of a spell or ability an opponent controls, put a +1/+1 counter on Mossdog.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21296</id>
+      <name>Submerge</name>
+      <cost>{4}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If an opponent controls a Forest and you control an Island, you may play Submerge without paying its mana cost. &lt;br&gt; &lt;br&gt;Put target creature on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21297</id>
+      <name>Seahunter</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Mercenary</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Search your library for a Merfolk permanent card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21298</id>
+      <name>Stronghold Biologist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}{U}, {T}, Discard a card: Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21302</id>
+      <name>Pale Moon</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, if a player taps a nonbasic land for mana, it produces colorless mana instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21303</id>
+      <name>Dominate</name>
+      <cost>{X}{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gain control of target creature with converted mana cost X or less. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21304</id>
+      <name>Rising Waters</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lands don&apos;t untap during their controllers&apos; untap steps. &lt;br&gt; &lt;br&gt;At the beginning of each player&apos;s upkeep, that player untaps a land he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21307</id>
+      <name>Rathi Intimidator</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Horror Mercenary</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fear &lt;br&gt;{2}, {T}: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21308</id>
+      <name>Belbe&apos;s Percher</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Belbe&apos;s Percher can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21309</id>
+      <name>Spiteful Bully</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Mercenary</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, Spiteful Bully deals 3 damage to target creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21311</id>
+      <name>Rathi Fiend</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Horror Mercenary</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Rathi Fiend comes into play, each player loses 3 life. &lt;br&gt;{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21313</id>
+      <name>Mind Swords</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>If you control a Swamp, you may sacrifice a creature rather than pay Mind Swords&apos;s mana cost. &lt;br&gt; &lt;br&gt;Each player removes two cards in his or her hand from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21315</id>
+      <name>Parallax Dementia</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Fading 1 &lt;I&gt;(This enchantment comes into play with one fade counter on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Enchanted creature gets +3/+2. &lt;br&gt;When Parallax Dementia leaves play, destroy enchanted creature. That creature can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21318</id>
+      <name>Divining Witch</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{B}, {T}, Discard a card: Name a card. Remove the top six cards of your library from the game. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Remove all other cards revealed this way from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21320</id>
+      <name>Battlefield Percher</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Battlefield Percher can block only creatures with flying. &lt;br&gt;{1}{B}: Battlefield Percher gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21322</id>
+      <name>Dark Triumph</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If you control a Swamp, you may sacrifice a creature rather than pay Dark Triumph&apos;s mana cost. &lt;br&gt; &lt;br&gt;Creatures you control get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21324</id>
+      <name>Massacre</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If an opponent controls a Plains and you control a Swamp, you may play Massacre without paying its mana cost. &lt;br&gt; &lt;br&gt;All creatures get -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21328</id>
+      <name>Volrath the Fallen</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Legendary Creature - Shapeshifter</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{B}, Discard a creature card: Volrath the Fallen gets +X/+X until end of turn, where X is the discarded card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21333</id>
+      <name>Laccolith Grunt</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Laccolith Grunt becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Grunt deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21335</id>
+      <name>Laccolith Whelp</name>
+      <cost>{R}</cost>
+      <type>Creature - Beast</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Laccolith Whelp becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Whelp deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21336</id>
+      <name>Flowstone Wall</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{R}: Flowstone Wall gets +1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21338</id>
+      <name>Downhill Charge</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may sacrifice a Mountain rather than pay Downhill Charge&apos;s mana cost. &lt;br&gt; &lt;br&gt;Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21339</id>
+      <name>Laccolith Rig</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature becomes blocked, you may have it deal damage equal to its power to target creature. If you do, the first creature deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21341</id>
+      <name>Flowstone Strike</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/-1 and gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21343</id>
+      <name>Arc Mage</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}, Discard a card: Arc Mage deals 2 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21344</id>
+      <name>Laccolith Warrior</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Beast Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Laccolith Warrior becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Warrior deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21345</id>
+      <name>Mogg Alarm</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may sacrifice two Mountains rather than pay Mogg Alarm&apos;s mana cost. &lt;br&gt;Put two 1/1 red Goblin creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21347</id>
+      <name>Rupture</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a creature. Rupture deals damage equal to that creature&apos;s power to each creature without flying and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21348</id>
+      <name>Flowstone Surge</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control get +1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21349</id>
+      <name>Mogg Salvage</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If an opponent controls an Island and you control a Mountain, you may play Mogg Salvage without paying its mana cost. &lt;br&gt; &lt;br&gt;Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21350</id>
+      <name>Moggcatcher</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Mercenary</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Search your library for a Goblin permanent card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21351</id>
+      <name>Flowstone Overseer</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}{R}: Target creature gets +1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21353</id>
+      <name>Shrieking Mogg</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;When Shrieking Mogg comes into play, tap all other creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21356</id>
+      <name>Mana Cache</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each player&apos;s turn, put a charge counter on Mana Cache for each untapped land that player controls. &lt;br&gt; &lt;br&gt;Remove a charge counter from Mana Cache: Add {1} to your mana pool. Any player may play this ability but only during his or her turn before the end phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21357</id>
+      <name>Stronghold Gambit</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player chooses a card in his or her hand. Then each player reveals his or her chosen card. The owner of the creature card revealed this way with the lowest converted mana cost puts that card into play. If two or more creature cards are tied for lowest cost, those cards are put into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21359</id>
+      <name>Stampede Driver</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}, {T}, Discard a card: Creatures you control get +1/+1 and gain trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21360</id>
+      <name>Skyshroud Ridgeback</name>
+      <cost>{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fading 2 &lt;I&gt;(This creature comes into play with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21362</id>
+      <name>Skyshroud Sentinel</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Skyshroud Sentinel comes into play, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, and put them into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21363</id>
+      <name>Blastoderm</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;Fading 3 &lt;I&gt;(This creature comes into play with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21364</id>
+      <name>Coiling Woodworm</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Insect Worm</type>
+      <power>*</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Coiling Woodworm&apos;s power is equal to the number of Forests in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21366</id>
+      <name>Seal of Strength</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Strength: Target creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21368</id>
+      <name>Fog Patch</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Fog Patch only during the declare blockers step. &lt;br&gt; &lt;br&gt;Attacking creatures become blocked. &lt;I&gt;(This spell works on unblockable creatures.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21370</id>
+      <name>Harvest Mage</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}, Discard a card: Until end of turn, if you tap a land for mana, it produces one mana of a color of your choice instead of any other type and amount.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21372</id>
+      <name>Skyshroud Cutter</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>If you control a Forest, you may have each other player gain 5 life rather than pay Skyshroud Cutter&apos;s mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21373</id>
+      <name>Nesting Wurm</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;When Nesting Wurm comes into play, you may search your library for up to three cards named Nesting Wurm, reveal them, and put them into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21374</id>
+      <name>Woodripper</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 3 &lt;I&gt;(This creature comes into play with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;{1}, Remove a fade counter from Woodripper: Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21375</id>
+      <name>Pack Hunt</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for up to three cards with the same name as target creature, reveal them, and put them into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21376</id>
+      <name>Wild Mammoth</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if a player controls more creatures than any other, that player gains control of Wild Mammoth.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21377</id>
+      <name>Animate Land</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, target land is a 3/3 creature that&apos;s still a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21378</id>
+      <name>Refreshing Rain</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If an opponent controls a Swamp and you control a Forest, you may play Refreshing Rain without paying its mana cost. &lt;br&gt; &lt;br&gt;Target player gains 6 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21379</id>
+      <name>Skyshroud Poacher</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Search your library for an Elf permanent card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21381</id>
+      <name>Saproling Burst</name>
+      <cost>{4}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 7 &lt;I&gt;(This enchantment comes into play with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Remove a fade counter from Saproling Burst: Put a green Saproling creature token into play. It has &quot;This creature&apos;s power and toughness are each equal to the number of fade counters on Saproling Burst.&quot; &lt;br&gt; &lt;br&gt;When Saproling Burst leaves play, destroy all tokens put into play with Saproling Burst. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21385</id>
+      <name>Saproling Cluster</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Discard a card: Put a 1/1 green Saproling creature token into play. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21386</id>
+      <name>Rejuvenation Chamber</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 2 &lt;I&gt;(This artifact comes into play with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;{T}: You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21388</id>
+      <name>Rusting Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 5 &lt;I&gt;(This creature comes into play with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Rusting Golem&apos;s power and toughness are each equal to the number of fade counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21390</id>
+      <name>Belbe&apos;s Armor</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}, {T}: Target creature gets -X/+X until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21391</id>
+      <name>Flowstone Armor</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Flowstone Armor during your untap step. &lt;br&gt; &lt;br&gt;{3}, {T}: Target creature gets +1/-1 as long as Flowstone Armor remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21392</id>
+      <name>Eye of Yawgmoth</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}, Sacrifice a creature: Reveal cards from the top of your library equal to the sacrificed creature&apos;s power. Put one into your hand and remove the rest from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21394</id>
+      <name>Terrain Generator</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{2}, {T}: You may put a basic land card from your hand into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21395</id>
+      <name>Complex Automaton</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you control seven or more permanents, return Complex Automaton to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21396</id>
+      <name>Rackling</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, Rackling deals X damage to that player, where X is 3 minus the number of cards in his or her hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21397</id>
+      <name>Viseling</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, Viseling deals X damage to that player, where X is the number of cards in his or her hand minus 4.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21398</id>
+      <name>Flowstone Thopter</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Thopter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Flowstone Thopter gets +1/-1 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21399</id>
+      <name>Tangle Wire</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 4 &lt;I&gt;(This artifact comes into play with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;At the beginning of each player&apos;s upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21400</id>
+      <name>Predator, Flagship</name>
+      <cost>{5}</cost>
+      <type>Legendary Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Target creature gains flying until end of turn. &lt;br&gt; &lt;br&gt;{5}, {T}: Destroy target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21401</id>
+      <name>Belbe&apos;s Portal</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Belbe&apos;s Portal comes into play, choose a creature type. &lt;br&gt;{3}, {T}: You may put a creature card of the chosen type from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21402</id>
+      <name>Rath&apos;s Edge</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{4}, {T}, Sacrifice a land: Rath&apos;s Edge deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21403</id>
+      <name>Kor Haven</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22026</id>
+      <name>Defender en-Vec</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fading 4 &lt;I&gt;(This creature comes into play with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Remove a fade counter from Defender &lt;I&gt;en-&lt;/I&gt;Vec: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22027</id>
+      <name>Netter en-Dal</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}, Discard a card: Target creature can&apos;t attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22028</id>
+      <name>Parallax Wave</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 5 &lt;I&gt;(This enchantment comes into play with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Remove a fade counter from Parallax Wave: Remove target creature from the game if Parallax Wave is in play. &lt;br&gt; &lt;br&gt;When Parallax Wave leaves play, each player returns to play all cards other than Parallax Wave he or she owns removed from the game with Parallax Wave.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22029</id>
+      <name>Phyrexian Prowler</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Mercenary</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 3 &lt;I&gt;(This creature comes into play with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Remove a fade counter from Phyrexian Prowler: Phyrexian Prowler gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22031</id>
+      <name>Parallax Nexus</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 5 &lt;I&gt;(This enchantment comes into play with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Remove a fade counter from Parallax Nexus: Target opponent removes a card in his or her hand from the game if Parallax Nexus is in play. Play this ability only any time you could play a sorcery. &lt;br&gt; &lt;br&gt;When Parallax Nexus leaves play, each player returns to his or her hand all cards he or she owns removed from the game with Parallax Nexus.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22032</id>
+      <name>Off Balance</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature can&apos;t attack or block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22033</id>
+      <name>Stronghold Machinist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}{U}, {T}, Discard a card: Counter target noncreature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22035</id>
+      <name>Parallax Tide</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 5 &lt;I&gt;(This enchantment comes into play with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Remove a fade counter from Parallax Tide: Remove target land from the game if Parallax Tide is in play. &lt;br&gt; &lt;br&gt;When Parallax Tide leaves play, each player returns to play all cards he or she owns removed from the game with Parallax Tide.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22060</id>
+      <name>Bola Warrior</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Spellshaper Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, {T}, Discard a card: Target creature can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22061</id>
+      <name>Overlaid Terrain</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Overlaid Terrain comes into play, sacrifice all lands you control. &lt;br&gt; &lt;br&gt;Lands you control have &quot;{T}: Add two mana of any one color to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22284</id>
+      <name>Flint Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Flint Golem becomes blocked, defending player puts the top three cards of his or her library into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22289</id>
+      <name>Æther Barrier</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays a creature spell, that player sacrifices a permanent unless he or she pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22290</id>
+      <name>Flame Rift</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flame Rift deals 4 damage to each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22293</id>
+      <name>Oraxid</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Crab Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22296</id>
+      <name>Ancient Hydra</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Hydra</type>
+      <power>5</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fading 5 &lt;I&gt;(This creature comes into play with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;{1}, Remove a fade counter from Ancient Hydra: Ancient Hydra deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22297</id>
+      <name>Laccolith Titan</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Laccolith Titan becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Titan deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22299</id>
+      <name>Mogg Toady</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mogg Toady can&apos;t attack unless you control more creatures than defending player. &lt;br&gt;Mogg Toady can&apos;t block unless you control more creatures than attacking player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22301</id>
+      <name>Parallax Inhibitor</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Parallax Inhibitor: Put a fade counter on each permanent with fading you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22302</id>
+      <name>Sivvi&apos;s Valor</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you control a Plains, you may tap an untapped creature you control rather than pay the mana cost of Sivvi&apos;s Valor. &lt;br&gt; &lt;br&gt;All damage that would be dealt to target creature this turn is dealt to you instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22316</id>
+      <name>Reverent Silence</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>If you control a Forest, you may have each other player gain 6 life rather than pay Reverent Silence&apos;s mana cost. &lt;br&gt; &lt;br&gt;Destroy all enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22318</id>
+      <name>Kill Switch</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Tap all other artifacts. They don&apos;t untap during their controllers&apos; untap steps as long as Kill Switch remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22320</id>
+      <name>Silkenfist Fighter</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Soldier</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Silkenfist Fighter becomes blocked, untap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22338</id>
+      <name>Silkenfist Order</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Kor Soldier</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Silkenfist Order becomes blocked, untap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22377</id>
+      <name>Air Bladder</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has flying. &lt;br&gt;Enchanted creature can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22379</id>
+      <name>Phyrexian Driver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Mercenary</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Phyrexian Driver comes into play, all other Mercenaries get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22880</id>
+      <name>Stronghold Zeppelin</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Stronghold Zeppelin can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22881</id>
+      <name>Ensnare</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may return two Islands you control to their owner&apos;s hand rather than pay Ensnare&apos;s mana cost. &lt;br&gt; &lt;br&gt;Tap all creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22889</id>
+      <name>Rootwater Thief</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}: Rootwater Thief gains flying until end of turn. &lt;br&gt;Whenever Rootwater Thief deals combat damage to a player, you may pay {2}. If you do, search that player&apos;s library for a card and remove that card from the game, then the player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22890</id>
+      <name>Rathi Assassin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Mercenary Assassin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{B}{B}, {T}: Destroy target tapped nonblack creature. &lt;br&gt;{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22891</id>
+      <name>Skyshroud Claim</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Nemesis</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for up to two Forest cards and put them into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22892</id>
+      <name>Skyshroud Behemoth</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <edition>Nemesis</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fading 2 &lt;I&gt;(This creature comes into play with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can&apos;t, sacrifice it.)&lt;/I&gt; &lt;br&gt;Skyshroud Behemoth comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

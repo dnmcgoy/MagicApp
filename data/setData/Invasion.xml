@@ -1,0 +1,3829 @@
+<cards>
+  <name>Invasion</name>
+  <key>Invasion</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>22317</id>
+      <name>Scouting Trek</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22928</id>
+      <name>Sunscape Apprentice</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Target creature gets +1/+1 until end of turn. &lt;br&gt;{U}, {T}: Put target creature you control on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22929</id>
+      <name>Glimmering Angel</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{U}: Glimmering Angel gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22930</id>
+      <name>Viashino Grappler</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Viashino</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}: Viashino Grappler gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22931</id>
+      <name>Ardent Soldier</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Vigilance &lt;br&gt;If the kicker cost was paid, Ardent Soldier comes into play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22932</id>
+      <name>Benalish Lancer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2}{W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Benalish Lancer comes into play with two +1/+1 counters on it and with first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22934</id>
+      <name>Crimson Acolyte</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from red &lt;br&gt;{W}: Target creature gains protection from red until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22935</id>
+      <name>Obsidian Acolyte</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from black &lt;br&gt;{W}: Target creature gains protection from black until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22936</id>
+      <name>Capashen Unicorn</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}, {T}, Sacrifice Capashen Unicorn: Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22937</id>
+      <name>Benalish Trapper</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22939</id>
+      <name>Strength of Unity</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1 for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22943</id>
+      <name>Restrain</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt by target attacking creature this turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22944</id>
+      <name>Prison Barricade</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Kicker {1}{W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Prison Barricade comes into play with a +1/+1 counter on it and with &quot;Prison Barricade can attack as though it didn&apos;t have defender.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22945</id>
+      <name>Orim&apos;s Touch</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {1} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Prevent the next 2 damage that would be dealt to target creature or player this turn. If the kicker cost was paid, prevent the next 4 damage that would be dealt to that creature or player this turn instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22946</id>
+      <name>Dismantling Blow</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2}{U} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{U}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Destroy target artifact or enchantment. &lt;br&gt; &lt;br&gt;If the kicker cost was paid, draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22947</id>
+      <name>Benalish Heralds</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}{U}, {T}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22948</id>
+      <name>Benalish Emissary</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{G} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{G}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;When Benalish Emissary comes into play, if the kicker cost was paid, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22949</id>
+      <name>Ruham Djinn</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt; &lt;br&gt;Ruham Djinn gets -2/-2 as long as white is the most common color among all permanents or is tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22953</id>
+      <name>Liberate</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target creature you control from the game. At end of turn, return that card to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22954</id>
+      <name>Samite Ministration</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all damage that would be dealt to you this turn by a source of your choice. Whenever damage from a black or red source is prevented this way, you gain life equal to that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22955</id>
+      <name>Blinding Light</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap all nonwhite creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22956</id>
+      <name>Death or Glory</name>
+      <cost>{4}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Separate all creature cards in your graveyard into two piles. Remove the pile of an opponent&apos;s choice from the game and return the other to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22958</id>
+      <name>Pledge of Loyalty</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from the colors of permanents you control. This effect doesn&apos;t remove Pledge of Loyalty.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22959</id>
+      <name>Teferi&apos;s Care</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, Sacrifice an enchantment: Destroy target enchantment. &lt;br&gt; &lt;br&gt;{3}{U}{U}: Counter target enchantment spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22960</id>
+      <name>Alabaster Leech</name>
+      <cost>{W}</cost>
+      <type>Creature - Leech</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>White spells you play cost {W} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22961</id>
+      <name>Sunscape Master</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}{G}, {T}: Creatures you control get +2/+2 until end of turn. &lt;br&gt;{U}{U}, {T}: Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22963</id>
+      <name>Crusading Knight</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from black &lt;br&gt;Crusading Knight gets +1/+1 for each Swamp your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22964</id>
+      <name>Atalya, Samite Master</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Choose one - Prevent the next X damage that would be dealt to target creature this turn; or you gain X life. Spend only white mana this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22966</id>
+      <name>Winnow</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target nonland permanent if another permanent with the same name is in play. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22967</id>
+      <name>Global Ruin</name>
+      <cost>{4}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player chooses from the lands he or she controls a land of each basic land type, then sacrifices the rest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22968</id>
+      <name>Spirit of Resistance</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you control a permanent of each color, prevent all damage that would be dealt to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22969</id>
+      <name>Divine Presence</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a source would deal 4 damage or more to a creature or player, that source deals 3 damage to that creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22970</id>
+      <name>Fight or Flight</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each opponent&apos;s combat phase, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22971</id>
+      <name>Rout</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Rout any time you could play an instant if you pay {2} more to play it. &lt;br&gt; &lt;br&gt;Destroy all creatures. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22972</id>
+      <name>Stormscape Apprentice</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Tap target creature. &lt;br&gt;{B}, {T}: Target player loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22973</id>
+      <name>Metathran Zombie</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Metathran Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Regenerate Metathran Zombie.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22974</id>
+      <name>Tower Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{W}: Tower Drake gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22975</id>
+      <name>Faerie Squadron</name>
+      <cost>{U}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {3}{U} &lt;I&gt;(You may pay an additional &lt;/I&gt;{3}{U}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Faerie Squadron comes into play with two +1/+1 counters on it and with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22976</id>
+      <name>Vodalian Serpent</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Vodalian Serpent can&apos;t attack unless defending player controls an Island. &lt;br&gt;If the kicker cost was paid, Vodalian Serpent comes into play with four +1/+1 counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22977</id>
+      <name>Tidal Visionary</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22978</id>
+      <name>Shoreline Raider</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Kavu</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22979</id>
+      <name>Dream Thrush</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Target land becomes the basic land type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22982</id>
+      <name>Worldly Counsel</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22984</id>
+      <name>Barrin&apos;s Unmaking</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target permanent to its owner&apos;s hand if that permanent shares a color with the most common color among all permanents or a color tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22985</id>
+      <name>Repulse</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22986</id>
+      <name>Exclude</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target creature spell. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22987</id>
+      <name>Traveler&apos;s Cloak</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As Traveler&apos;s Cloak comes into play, choose a land type. &lt;br&gt;Enchanted creature has landwalk of the chosen type. &lt;br&gt;When Traveler&apos;s Cloak comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22988</id>
+      <name>Opt</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top card of your library. You may put that card on the bottom of your library. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22989</id>
+      <name>Prohibit</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Counter target spell if its converted mana cost is 2 or less. If the kicker cost was paid, counter that spell if its converted mana cost is 4 or less instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22990</id>
+      <name>Probe</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {1}{B} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{B}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Draw three cards, then discard two cards. &lt;br&gt;If the kicker cost was paid, target player discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22991</id>
+      <name>Tolarian Emissary</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Flying &lt;br&gt; &lt;br&gt;When Tolarian Emissary comes into play, if the kicker cost was paid, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22992</id>
+      <name>Zanam Djinn</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Zanam Djinn gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22993</id>
+      <name>Vodalian Hypnotist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{B}, {T}: Target player discards a card. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22994</id>
+      <name>Rainbow Crow</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{1}: Rainbow Crow becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22997</id>
+      <name>Essence Leak</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant permanent &lt;br&gt;If enchanted permanent is red or green, it has &quot;At the beginning of your upkeep, sacrifice this permanent unless you pay its mana cost.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22998</id>
+      <name>Fact or Fiction</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22999</id>
+      <name>Sway of Illusion</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Any number of target creatures become the color of your choice until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23000</id>
+      <name>Disrupt</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target instant or sorcery spell unless its controller pays {1}. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23001</id>
+      <name>Collective Restraint</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures can&apos;t attack you unless their controller pays {X} for each creature he or she controls that&apos;s attacking you, where X is the number of basic land types among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23003</id>
+      <name>Manipulate Fate</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for three cards, remove them from the game, then shuffle your library. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23004</id>
+      <name>Metathran Aerostat</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Metathran</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{X}{U}: You may put a creature card with converted mana cost X from your hand into play. If you do, return Metathran Aerostat to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23005</id>
+      <name>Stormscape Master</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn. &lt;br&gt;{B}{B}, {T}: Target player loses 2 life and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23006</id>
+      <name>Blind Seer</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{U}: Target spell or permanent becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23007</id>
+      <name>Empress Galina</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}{U}, {T}: Gain control of target legendary permanent. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23008</id>
+      <name>Crystal Spray</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the text of target spell or permanent by replacing all instances of one color word or basic land type with another until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23009</id>
+      <name>Mana Maze</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players can&apos;t play spells that share a color with the spell last played this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23010</id>
+      <name>Sapphire Leech</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Leech</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Blue spells you play cost {U} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23011</id>
+      <name>Distorting Wake</name>
+      <cost>{X}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return X target nonland permanents to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23012</id>
+      <name>Breaking Wave</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Breaking Wave any time you could play an instant if you pay {2} more to play it. &lt;br&gt; &lt;br&gt;Simultaneously untap all tapped creatures and tap all untapped creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23015</id>
+      <name>Teferi&apos;s Response</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell or ability an opponent controls that targets a land you control. If a permanent&apos;s ability is countered this way, destroy that permanent. &lt;br&gt; &lt;br&gt;Draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23016</id>
+      <name>Nightscape Apprentice</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}: Put target creature you control on top of its owner&apos;s library. &lt;br&gt;{R}, {T}: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23017</id>
+      <name>Firescreamer</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Firescreamer gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23018</id>
+      <name>Urborg Phantom</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit Minion</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Urborg Phantom can&apos;t block. &lt;br&gt;{U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23019</id>
+      <name>Duskwalker</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Minion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {3}{B} &lt;I&gt;(You may pay an additional &lt;/I&gt;{3}{B}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Duskwalker comes into play with two +1/+1 counters on it and with fear.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23020</id>
+      <name>Urborg Skeleton</name>
+      <cost>{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {3} &lt;I&gt;(You may pay an additional &lt;/I&gt;{3}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;{B}: Regenerate Urborg Skeleton. &lt;br&gt; &lt;br&gt;If the kicker cost was paid, Urborg Skeleton comes into play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23021</id>
+      <name>Plague Spitter</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player. &lt;br&gt; &lt;br&gt;When Plague Spitter is put into a graveyard from play, Plague Spitter deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23022</id>
+      <name>Phyrexian Delver</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Phyrexian Delver comes into play, return target creature card from your graveyard to play. You lose life equal to that card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23023</id>
+      <name>Phyrexian Battleflies</name>
+      <cost>{B}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{B}: Phyrexian Battleflies gets +1/+0 until end of turn. Play this ability no more than twice each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23024</id>
+      <name>Bog Initiate</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: Add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23028</id>
+      <name>Scavenged Weaponry</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Scavenged Weaponry comes into play, draw a card. &lt;br&gt;Enchanted creature gets +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23030</id>
+      <name>Addle</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a color. Target player reveals his or her hand, then you choose a card of that color from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23031</id>
+      <name>Mourning</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -2/-0. &lt;br&gt;{B}: Return Mourning to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23032</id>
+      <name>Exotic Curse</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -1/-1 for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23033</id>
+      <name>Hypnotic Cloud</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {4} &lt;I&gt;(You may pay an additional &lt;/I&gt;{4}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Target player discards a card. If the kicker cost was paid, that player discards three cards instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23034</id>
+      <name>Agonizing Demise</name>
+      <cost>{3}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {1}{R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Destroy target nonblack creature. It can&apos;t be regenerated. If the kicker cost was paid, Agonizing Demise deals damage equal to that creature&apos;s power to the creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23035</id>
+      <name>Urborg Shambler</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All other black creatures get -1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23036</id>
+      <name>Phyrexian Reaper</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Phyrexian Reaper becomes blocked by a green creature, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23037</id>
+      <name>Goham Djinn</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{B}: Regenerate Goham Djinn. &lt;br&gt;Goham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23038</id>
+      <name>Urborg Emissary</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{U} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{U}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;When Urborg Emissary comes into play, if the kicker cost was paid, return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23039</id>
+      <name>Trench Wurm</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Wurm</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}: Destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23040</id>
+      <name>Phyrexian Slayer</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Minion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;Whenever Phyrexian Slayer becomes blocked by a white creature, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23042</id>
+      <name>Annihilate</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. It can&apos;t be regenerated. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23045</id>
+      <name>Reckless Spite</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy two target nonblack creatures. You lose 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23046</id>
+      <name>Defiling Tears</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, target creature becomes black, gets +1/-1, and gains &quot;{B}: Regenerate this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23048</id>
+      <name>Tsabo&apos;s Assassin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23049</id>
+      <name>Nightscape Master</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}{U}, {T}: Return target creature to its owner&apos;s hand. &lt;br&gt;{R}{R}, {T}: Nightscape Master deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23050</id>
+      <name>Devouring Strossus</name>
+      <cost>{5}{B}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt;At the beginning of your upkeep, sacrifice a creature. &lt;br&gt;Sacrifice a creature: Regenerate Devouring Strossus.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23052</id>
+      <name>Andradite Leech</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Leech</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Black spells you play cost {B} more to play. &lt;br&gt; &lt;br&gt;{B}: Andradite Leech gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23053</id>
+      <name>Marauding Knight</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from white &lt;br&gt;Marauding Knight gets +1/+1 for each Plains your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23054</id>
+      <name>Yawgmoth&apos;s Agenda</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play no more than one spell each turn. &lt;br&gt;You may play cards in your graveyard. &lt;br&gt;If a card would be put into your graveyard from anywhere, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23055</id>
+      <name>Desperate Research</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Name a card other than a basic land card. Then reveal the top seven cards of your library and put all of them with that name into your hand. Remove the rest from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23057</id>
+      <name>Spreading Plague</name>
+      <cost>{4}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, destroy all other creatures that share a color with it. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23058</id>
+      <name>Twilight&apos;s Call</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Twilight&apos;s Call any time you could play an instant if you pay {2} more to play it. &lt;br&gt; &lt;br&gt;Each player returns all creature cards from his or her graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23059</id>
+      <name>Do or Die</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Separate all creatures target player controls into two piles. Destroy all creatures in the pile of that player&apos;s choice. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23060</id>
+      <name>Thunderscape Apprentice</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, {T}: Target player loses 1 life. &lt;br&gt;{G}, {T}: Target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23061</id>
+      <name>Hooded Kavu</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Hooded Kavu gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23062</id>
+      <name>Rampant Elephant</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Elephant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}: Target creature blocks Rampant Elephant this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23063</id>
+      <name>Kavu Aggressor</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {4} &lt;I&gt;(You may pay an additional &lt;/I&gt;{4}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Kavu Aggressor can&apos;t block. &lt;br&gt;If the kicker cost was paid, Kavu Aggressor comes into play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23064</id>
+      <name>Pouncing Kavu</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2}{R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;First strike &lt;br&gt; &lt;br&gt;If the kicker cost was paid, Pouncing Kavu comes into play with two +1/+1 counters on it and with haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23067</id>
+      <name>Scarred Puma</name>
+      <cost>{R}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Scarred Puma can&apos;t attack unless a black or green creature also attacks.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23068</id>
+      <name>Slimy Kavu</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes a Swamp until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23069</id>
+      <name>Ancient Kavu</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Ancient Kavu becomes colorless until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23070</id>
+      <name>Overload</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Destroy target artifact if its converted mana cost is 2 or less. If the kicker cost was paid, destroy that artifact if its converted mana cost is 5 or less instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23071</id>
+      <name>Turf Wound</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player can&apos;t play land cards this turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23074</id>
+      <name>Crown of Flames</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn. &lt;br&gt;{R}: Return Crown of Flames to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23075</id>
+      <name>Zap</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Zap deals 1 damage to target creature or player. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23076</id>
+      <name>Tribal Flames</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23077</id>
+      <name>Scorching Lava</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Scorching Lava deals 2 damage to target creature or player. If the kicker cost was paid, that creature can&apos;t be regenerated this turn and if it would be put into a graveyard this turn, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23078</id>
+      <name>Savage Offensive</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {G} &lt;I&gt;(You may pay an additional &lt;/I&gt;{G}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Creatures you control gain first strike until end of turn. If the kicker cost was paid, they get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23079</id>
+      <name>Kavu Runner</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kavu Runner has haste as long as no opponent controls a white or blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23080</id>
+      <name>Skittish Kavu</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Skittish Kavu gets +1/+1 as long as no opponent controls a white or blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23082</id>
+      <name>Halam Djinn</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Djinn</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;Halam Djinn gets -2/-2 as long as red is the most common color among all permanents or is tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23083</id>
+      <name>Firebrand Ranger</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, {T}: You may put a basic land card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23084</id>
+      <name>Shivan Emissary</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{B} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{B}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;When Shivan Emissary comes into play, if the kicker cost was paid, destroy target nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23085</id>
+      <name>Chaotic Strike</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Chaotic Strike only during combat after blockers are declared. &lt;br&gt; &lt;br&gt;Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23086</id>
+      <name>Ghitu Fire</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Ghitu Fire any time you could play an instant if you pay {2} more to play it. &lt;br&gt; &lt;br&gt;Ghitu Fire deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23087</id>
+      <name>Urza&apos;s Rage</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {8}{R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{8}{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Urza&apos;s Rage can&apos;t be countered by spells or abilities. &lt;br&gt; &lt;br&gt;Urza&apos;s Rage deals 3 damage to target creature or player. If the kicker cost was paid, instead Urza&apos;s Rage deals 10 damage to that creature or player and the damage can&apos;t be prevented.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23088</id>
+      <name>Lightning Dart</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lightning Dart deals 1 damage to target creature. If that creature is white or blue, Lightning Dart deals 4 damage to it instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23089</id>
+      <name>Collapsing Borders</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player gains 1 life for each basic land type among lands he or she controls. Then Collapsing Borders deals 3 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23090</id>
+      <name>Breath of Darigaaz</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Breath of Darigaaz deals 1 damage to each creature without flying and each player. If the kicker cost was paid, Breath of Darigaaz deals 4 damage to each creature without flying and each player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23091</id>
+      <name>Shivan Harvest</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R}, Sacrifice a creature: Destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23092</id>
+      <name>Loafing Giant</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Loafing Giant attacks or blocks, put the top card of your library into your graveyard. If that card is a land card, prevent all combat damage that Loafing Giant would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23093</id>
+      <name>Thunderscape Master</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}{B}, {T}: Target player loses 2 life and you gain 2 life. &lt;br&gt;{G}{G}, {T}: Creatures you control get +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23094</id>
+      <name>Callous Giant</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a source would deal 3 damage or less to Callous Giant, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23095</id>
+      <name>Ruby Leech</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Leech</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike &lt;br&gt; &lt;br&gt;Red spells you play cost {R} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23096</id>
+      <name>Skizzik</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Trample, haste &lt;br&gt;At end of turn, sacrifice Skizzik unless the kicker cost was paid.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23097</id>
+      <name>Kavu Monarch</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kavu creatures have trample. &lt;br&gt;Whenever another Kavu comes into play, put a +1/+1 counter on Kavu Monarch.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23099</id>
+      <name>Bend or Break</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player separates all lands he or she controls into two piles. For each player, an opponent chooses a pile. Destroy all lands in the chosen piles. Tap all lands in the other piles.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23100</id>
+      <name>Tectonic Instability</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a land comes into play, tap all lands its controller controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23102</id>
+      <name>Mages&apos; Contest</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You and target spell&apos;s controller bid life. You start the bidding with a bid of 1. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid. If you win the bidding, counter that spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23104</id>
+      <name>Thornscape Apprentice</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Tap target creature. &lt;br&gt;{R}, {T}: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23105</id>
+      <name>Serpentine Kavu</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Serpentine Kavu gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23106</id>
+      <name>Kavu Titan</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {2}{G} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{G}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Kavu Titan comes into play with three +1/+1 counters on it and with trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23107</id>
+      <name>Pincer Spider</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {3} &lt;I&gt;(You may pay an additional &lt;/I&gt;{3}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;If the kicker cost was paid, Pincer Spider comes into play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23110</id>
+      <name>Quirion Trailblazer</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Scout</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Quirion Trailblazer comes into play, you may search your library for a basic land card and put that card into play tapped. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23111</id>
+      <name>Nomadic Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Nomad</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23115</id>
+      <name>Tangle</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn. &lt;br&gt;Each attacking creature doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23118</id>
+      <name>Whip Silk</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt; &lt;br&gt;{G}: Return Whip Silk to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23119</id>
+      <name>Wandering Stream</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 2 life for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23120</id>
+      <name>Explosive Growth</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {5} &lt;I&gt;(You may pay an additional &lt;/I&gt;{5}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Target creature gets +2/+2 until end of turn. If the kicker cost was paid, that creature gets +5/+5 until end of turn instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23121</id>
+      <name>Vigorous Charge</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Target creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if the kicker cost was paid, you gain life equal to that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23122</id>
+      <name>Rooting Kavu</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Rooting Kavu is put into a graveyard from play, you may remove Rooting Kavu from the game. If you do, shuffle all creature cards from your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23123</id>
+      <name>Llanowar Vanguard</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Llanowar Vanguard gets +0/+4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23125</id>
+      <name>Kavu Chameleon</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kavu Chameleon can&apos;t be countered. &lt;br&gt;{G}: Kavu Chameleon becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23126</id>
+      <name>Sulam Djinn</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Djinn</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Sulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23127</id>
+      <name>Verduran Emissary</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;When Verduran Emissary comes into play, if the kicker cost was paid, destroy target artifact. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23128</id>
+      <name>Treefolk Healer</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23130</id>
+      <name>Wallop</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target blue or black creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23131</id>
+      <name>Harrow</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Harrow, sacrifice a land. &lt;br&gt; &lt;br&gt;Search your library for up to two basic land cards and put them into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23134</id>
+      <name>Canopy Surge</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Canopy Surge deals 1 damage to each creature with flying and each player. If the kicker cost was paid, Canopy Surge deals 4 damage to each creature with flying and each player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23135</id>
+      <name>Thicket Elemental</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{G} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{G}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;When Thicket Elemental comes into play, if the kicker cost was paid, you may reveal cards from the top of your library until you reveal a creature card. If you do, put that card into play and shuffle all other cards revealed this way into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23136</id>
+      <name>Thornscape Master</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}{R}, {T}: Thornscape Master deals 2 damage to target creature. &lt;br&gt;{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23137</id>
+      <name>Verdeloth the Ancient</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Legendary Creature - Treefolk</type>
+      <power>4</power>
+      <toughness>7</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {X} &lt;i&gt;(You may pay an additional {X} as you play this spell.)&lt;/i&gt; &lt;br&gt;Other Treefolk creatures and Saproling creatures get +1/+1. &lt;br&gt;When Verdeloth the Ancient comes into play, if the kicker cost was paid, put X 1/1 green Saproling creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23139</id>
+      <name>Blurred Mongoose</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Mongoose</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;Blurred Mongoose can&apos;t be countered.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23140</id>
+      <name>Jade Leech</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Leech</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Green spells you play cost {G} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23142</id>
+      <name>Elfhame Sanctuary</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23143</id>
+      <name>Pulse of Llanowar</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23144</id>
+      <name>Kavu Lair</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature with power 4 or greater comes into play, its controller draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23145</id>
+      <name>Restock</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return two target cards from your graveyard to your hand. Remove Restock from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23146</id>
+      <name>Bind</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target activated ability. &lt;I&gt;(Mana abilities can&apos;t be targeted.)&lt;/I&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23147</id>
+      <name>Noble Panther</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: Noble Panther gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23149</id>
+      <name>Slinking Serpent</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Creature - Serpent</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23150</id>
+      <name>Riptide Crab</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Crab</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;When Riptide Crab is put into a graveyard from play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23151</id>
+      <name>Vicious Kavu</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Vicious Kavu attacks, it gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23152</id>
+      <name>Aura Shards</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature comes into play under your control, you may destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23153</id>
+      <name>Plague Spores</name>
+      <cost>{4}{B}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature and target land. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23154</id>
+      <name>Recoil</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target permanent to its owner&apos;s hand. Then that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23155</id>
+      <name>Absorb</name>
+      <cost>{W}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell. You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23156</id>
+      <name>Frenzied Tilling</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. Search your library for a basic land card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23157</id>
+      <name>Llanowar Knight</name>
+      <cost>{G}{W}</cost>
+      <type>Creature - Elf Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from black</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23158</id>
+      <name>Galina&apos;s Knight</name>
+      <cost>{W}{U}</cost>
+      <type>Creature - Merfolk Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23159</id>
+      <name>Vodalian Zombie</name>
+      <cost>{U}{B}</cost>
+      <type>Creature - Merfolk Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from green</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23160</id>
+      <name>Shivan Zombie</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Barbarian Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from white</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23161</id>
+      <name>Yavimaya Barbarian</name>
+      <cost>{R}{G}</cost>
+      <type>Creature - Elf Barbarian</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from blue</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23162</id>
+      <name>Charging Troll</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Creature - Troll</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;{G}: Regenerate Charging Troll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23163</id>
+      <name>Horned Cheetah</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23164</id>
+      <name>Armadillo Cloak</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 and has trample.  &lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23165</id>
+      <name>Samite Archer</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Human Cleric Archer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt;{T}: Samite Archer deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23167</id>
+      <name>Teferi&apos;s Moat</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Teferi&apos;s Moat comes into play, choose a color. &lt;br&gt;Creatures of the chosen color without flying can&apos;t attack you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23168</id>
+      <name>Sleeper&apos;s Robe</name>
+      <cost>{U}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has fear. &lt;br&gt;Whenever enchanted creature deals combat damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23170</id>
+      <name>Lobotomy</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player&apos;s graveyard, hand, and library for all cards with the same name as the chosen card and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23171</id>
+      <name>Backlash</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap target untapped creature. That creature deals damage equal to its power to its controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23172</id>
+      <name>Cinder Shade</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Shade</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Cinder Shade gets +1/+1 until end of turn. &lt;br&gt;{R}, Sacrifice Cinder Shade: Cinder Shade deals damage equal to its power to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23173</id>
+      <name>Cauldron Dance</name>
+      <cost>{4}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Cauldron Dance only during combat. &lt;br&gt;Return target creature card from your graveyard to play. That creature gains haste. Return it to your hand at end of turn.  &lt;br&gt;You may put a creature card from your hand into play. That creature gains haste. Put it into your graveyard at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23174</id>
+      <name>Yavimaya Kavu</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Yavimaya Kavu&apos;s power is equal to the number of red creatures in play. &lt;br&gt;Yavimaya Kavu&apos;s toughness is equal to the number of green creatures in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23175</id>
+      <name>Simoon</name>
+      <cost>{R}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Simoon deals 1 damage to each creature target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23176</id>
+      <name>Hunting Kavu</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R}{G}, {T}: Remove from the game Hunting Kavu and target creature without flying that&apos;s attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23177</id>
+      <name>Angelic Shield</name>
+      <cost>{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control get +0/+1. &lt;br&gt; &lt;br&gt;Sacrifice Angelic Shield: Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23178</id>
+      <name>Seer&apos;s Vision</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All opponents play with their hands revealed. &lt;br&gt; &lt;br&gt;Sacrifice Seer&apos;s Vision: Look at target player&apos;s hand and choose a card from it. That player discards that card. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23179</id>
+      <name>Smoldering Tar</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, target player loses 1 life. &lt;br&gt; &lt;br&gt;Sacrifice Smoldering Tar: Smoldering Tar deals 4 damage to target creature. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23180</id>
+      <name>Fires of Yavimaya</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control have haste. &lt;br&gt; &lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23181</id>
+      <name>Sterling Grove</name>
+      <cost>{G}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All other enchantments you control have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt; &lt;br&gt;{1}, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23183</id>
+      <name>Heroes&apos; Reunion</name>
+      <cost>{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player gains 7 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23184</id>
+      <name>Aura Mutation</name>
+      <cost>{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target enchantment. Put X 1/1 green Saproling creature tokens into play, where X is its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23186</id>
+      <name>Kangee, Aerie Keeper</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Legendary Creature - Bird Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {2}{X} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{X}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Flying &lt;br&gt;When Kangee, Aerie Keeper comes into play, if the kicker cost was paid, put X feather counters on it. &lt;br&gt;Other Bird creatures get +1/+1 for each feather counter on Kangee, Aerie Keeper.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23187</id>
+      <name>Ordered Migration</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put a 1/1 blue Bird creature token with flying into play for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23188</id>
+      <name>Vile Consumption</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures have &quot;At the beginning of your upkeep, sacrifice this creature unless you pay 1 life.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23189</id>
+      <name>Spinal Embrace</name>
+      <cost>{3}{U}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Spinal Embrace only during combat. &lt;br&gt; &lt;br&gt;Untap target creature you don&apos;t control and gain control of it. It gains haste until end of turn. At end of turn, sacrifice it. If you do, you gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23190</id>
+      <name>Undermine</name>
+      <cost>{U}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell. Its controller loses 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23191</id>
+      <name>Reckless Assault</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Pay 2 life: Reckless Assault deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23192</id>
+      <name>Blazing Specter</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, haste &lt;br&gt;Whenever Blazing Specter deals combat damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23193</id>
+      <name>Meteor Storm</name>
+      <cost>{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{R}{G}, Discard two cards at random: Meteor Storm deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23194</id>
+      <name>Æther Rift</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, reveal a card at random from your hand. If you reveal a noncreature card this way, discard that card. If you reveal a creature card this way, put that card into play unless any player pays 5 life. If a player pays 5 life, discard that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23195</id>
+      <name>Artifact Mutation</name>
+      <cost>{R}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target artifact. It can&apos;t be regenerated. Put X 1/1 green Saproling creature tokens into play, where X is its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23196</id>
+      <name>Reviving Vapors</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card&apos;s converted mana cost. Put all other cards revealed this way into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23197</id>
+      <name>Armored Guardian</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Creature - Cat Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}{W}: Target creature you control gains protection from the color of your choice until end of turn. &lt;br&gt;{1}{U}{U}: Armored Guardian gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23200</id>
+      <name>Void</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23201</id>
+      <name>Pyre Zombie</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if Pyre Zombie is in your graveyard, you may pay {1}{B}{B}. If you do, return Pyre Zombie from your graveyard to your hand. &lt;br&gt;{1}{R}{R}, Sacrifice Pyre Zombie: Pyre Zombie deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23202</id>
+      <name>Overabundance</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of the same type, and Overabundance deals 1 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23203</id>
+      <name>Voracious Cobra</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt; &lt;br&gt;Whenever Voracious Cobra deals combat damage to a creature, destroy that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23205</id>
+      <name>Sabertooth Nishoba</name>
+      <cost>{4}{G}{W}</cost>
+      <type>Creature - Cat Beast Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample, protection from blue, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23206</id>
+      <name>Dromar, the Banisher</name>
+      <cost>{3}{W}{U}{B}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color. Return all creatures of that color to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23207</id>
+      <name>Crosis, the Purger</name>
+      <cost>{3}{U}{B}{R}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color. That player reveals his or her hand and discards all cards of that color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23208</id>
+      <name>Darigaaz, the Igniter</name>
+      <cost>{3}{B}{R}{G}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Darigaaz, the Igniter deals combat damage to a player, you may pay {2}{R}. If you do, choose a color. That player reveals his or her hand and Darigaaz deals X damage to him or her, where X is the number of cards revealed of that color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23209</id>
+      <name>Rith, the Awakener</name>
+      <cost>{3}{R}{G}{W}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color. Put a 1/1 green Saproling creature token into play for each permanent of that color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23210</id>
+      <name>Treva, the Renewer</name>
+      <cost>{3}{G}{W}{U}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color. You gain 1 life for each permanent of that color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23211</id>
+      <name>Wayfaring Giant</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Giant</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wayfaring Giant gets +1/+1 for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23212</id>
+      <name>Temporal Distortion</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature or land becomes tapped, put an hourglass counter on it. &lt;br&gt; &lt;br&gt;Permanents with an hourglass counter on them don&apos;t untap during their controllers&apos; untap steps. &lt;br&gt; &lt;br&gt;At the beginning of each player&apos;s upkeep, remove all hourglass counters from permanents that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23216</id>
+      <name>Coalition Victory</name>
+      <cost>{3}{W}{U}{B}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You win the game if you control a land of each basic land type and a creature of each color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23217</id>
+      <name>Seashell Cameo</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23218</id>
+      <name>Drake-Skull Cameo</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23219</id>
+      <name>Bloodstone Cameo</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23220</id>
+      <name>Troll-Horn Cameo</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {R} or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23221</id>
+      <name>Tigereye Cameo</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23222</id>
+      <name>Power Armor</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Target creature gets +1/+1 until end of turn for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23223</id>
+      <name>Juntu Stakes</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with power 1 or less don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23224</id>
+      <name>Alloy Golem</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Alloy Golem comes into play, choose a color. &lt;br&gt; &lt;br&gt;Alloy Golem is the chosen color. &lt;I&gt;(It&apos;s still an artifact.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23225</id>
+      <name>Sparring Golem</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Sparring Golem becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23226</id>
+      <name>Phyrexian Altar</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a creature: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23227</id>
+      <name>Urza&apos;s Filter</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Multicolored spells cost up to {2} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23228</id>
+      <name>Tsabo&apos;s Web</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Tsabo&apos;s Web comes into play, draw a card. &lt;br&gt;Each land with an activated ability that isn&apos;t a mana ability doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23229</id>
+      <name>Tek</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Dragon</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tek gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23230</id>
+      <name>Chromatic Sphere</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23231</id>
+      <name>Phyrexian Lens</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23233</id>
+      <name>Lotus Guardian</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23235</id>
+      <name>Irrigation Ditch</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Irrigation Ditch comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23236</id>
+      <name>Ancient Spring</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Ancient Spring comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Ancient Spring: Add {W}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23237</id>
+      <name>Sulfur Vent</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sulfur Vent comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Sulfur Vent: Add {U}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23238</id>
+      <name>Geothermal Crevice</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Geothermal Crevice comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Geothermal Crevice: Add {B}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23239</id>
+      <name>Tinder Farm</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tinder Farm comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Tinder Farm: Add {R}{W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23240</id>
+      <name>Coastal Tower</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Coastal Tower comes into play tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23241</id>
+      <name>Salt Marsh</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Salt Marsh comes into play tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23242</id>
+      <name>Urborg Volcano</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Urborg Volcano comes into play tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23243</id>
+      <name>Shivan Oasis</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shivan Oasis comes into play tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23245</id>
+      <name>Archaeological Dig</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Archaeological Dig: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23319</id>
+      <name>Pure Reflection</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays a creature spell, destroy all Reflections. Then that player puts a white Reflection creature token into play with power and toughness each equal to the converted mana cost of that spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23320</id>
+      <name>Crypt Angel</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, protection from white &lt;br&gt;When Crypt Angel comes into play, return target blue or red creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23321</id>
+      <name>Tsabo Tavoc</name>
+      <cost>{5}{B}{R}</cost>
+      <type>Legendary Creature - Horror</type>
+      <power>7</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike, protection from legendary creatures &lt;br&gt;{B}{B}, {T}: Destroy target legendary creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23322</id>
+      <name>Llanowar Cavalry</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}: Llanowar Cavalry gains vigilance until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23323</id>
+      <name>Kavu Scout</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu Scout</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kavu Scout gets +1/+0 for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24117</id>
+      <name>Well-Laid Plans</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Prevent all damage that would be dealt to a creature by another creature if they share a color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24118</id>
+      <name>Wings of Hope</name>
+      <cost>{W}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+3 and has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24119</id>
+      <name>Cremate</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target card in a graveyard from the game. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24124</id>
+      <name>Dredge</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a creature or land. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24670</id>
+      <name>Saproling Symbiosis</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Saproling Symbiosis any time you could play an instant if you pay {2} more to play it. &lt;br&gt; &lt;br&gt;Put a 1/1 green Saproling creature token into play for each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25320</id>
+      <name>Wash Out</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return all permanents of the color of your choice to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25323</id>
+      <name>Rewards of Diversity</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a multicolored spell, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25363</id>
+      <name>Llanowar Elite</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {8} &lt;I&gt;(You may pay an additional &lt;/I&gt;{8}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Trample &lt;br&gt; &lt;br&gt;If the kicker cost was paid, Llanowar Elite comes into play with five +1/+1 counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25438</id>
+      <name>Dueling Grounds</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>No more than one creature can attack each turn. &lt;br&gt;No more than one creature can block each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25748</id>
+      <name>Tainted Well</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;When Tainted Well comes into play, draw a card. &lt;br&gt;Enchanted land is a Swamp.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25749</id>
+      <name>Searing Rays</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25750</id>
+      <name>Saproling Infestation</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player pays a kicker cost, you put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25751</id>
+      <name>Barrin&apos;s Spite</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a player and two target creatures that player controls. The player chooses and sacrifices one of them. Return the other to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25752</id>
+      <name>Stalking Assassin</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{U}, {T}: Tap target creature. &lt;br&gt;{3}{B}, {T}: Destroy target tapped creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25836</id>
+      <name>Dromar&apos;s Attendant</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice Dromar&apos;s Attendant: Add {W}{U}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25837</id>
+      <name>Crosis&apos;s Attendant</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice Crosis&apos;s Attendant: Add {U}{B}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25838</id>
+      <name>Darigaaz&apos;s Attendant</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice Darigaaz&apos;s Attendant: Add {B}{R}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25839</id>
+      <name>Rith&apos;s Attendant</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice Rith&apos;s Attendant: Add {R}{G}{W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25840</id>
+      <name>Treva&apos;s Attendant</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice Treva&apos;s Attendant: Add {G}{W}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25930</id>
+      <name>Keldon Necropolis</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{4}{R}, {T}, Sacrifice a creature: Keldon Necropolis deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25964</id>
+      <name>Island</name>
+      <cost></cost>
+      <type>Basic Land - Island</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Land</rarity>
+      <oracleText>[U]</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25975</id>
+      <name>Urborg Drake</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Urborg Drake attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25976</id>
+      <name>Captain Sisay</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25977</id>
+      <name>Hanna, Ship&apos;s Navigator</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Legendary Creature - Human Artificer</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26257</id>
+      <name>Protective Sphere</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, Pay 1 life: Prevent all damage that would be dealt to you this turn by a source of your choice that shares a color with the mana spent on this activation cost. &lt;I&gt;(Colorless mana prevents no damage.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26282</id>
+      <name>Harsh Judgment</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Harsh Judgment comes into play, choose a color. &lt;br&gt; &lt;br&gt;If an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26287</id>
+      <name>Psychic Battle</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player chooses one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn&apos;t trigger this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26296</id>
+      <name>Vodalian Merchant</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Vodalian Merchant comes into play, draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26372</id>
+      <name>Phyrexian Infiltrator</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Minion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{U}{U}: Exchange control of Phyrexian Infiltrator and target creature. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26379</id>
+      <name>Metathran Transport</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Metathran</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Metathran Transport can&apos;t be blocked by blue creatures. &lt;br&gt;{U}: Target creature becomes blue until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26380</id>
+      <name>Tsabo&apos;s Decree</name>
+      <cost>{5}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26389</id>
+      <name>Stand or Fall</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your combat phase, separate all creatures defending player controls into two piles. Only creatures in the pile of that player&apos;s choice can block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26416</id>
+      <name>Quirion Sentinel</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Quirion Sentinel comes into play, add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>5680</id>
+      <name>Goblin Spy</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play with the top card of your library revealed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

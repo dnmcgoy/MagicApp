@@ -1,0 +1,3660 @@
+<cards>
+  <name>Lorwyn</name>
+  <key>Lorwyn</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>139395</id>
+      <name>Burrenton Forge-Tender</name>
+      <cost>{W}</cost>
+      <type>Creature - Kithkin Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from red &lt;br&gt;Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139396</id>
+      <name>Plover Knights</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Kithkin Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139397</id>
+      <name>Goldmeadow Harrier</name>
+      <cost>{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139399</id>
+      <name>Kithkin Harbinger</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kithkin Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Kithkin Harbinger comes into play, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139400</id>
+      <name>Wellgabber Apothecary</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Merfolk Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139401</id>
+      <name>Lys Alana Huntmaster</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139403</id>
+      <name>Kinsbaile Balloonist</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Kinsbaile Balloonist attacks, you may have target creature gain flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139404</id>
+      <name>Lammastide Weave</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Name a card, then target player puts the top card of his or her library into his or her graveyard. If that card is the named card, you gain life equal to its converted mana cost. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139406</id>
+      <name>Judge of Currents</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a Merfolk you control becomes tapped, you may gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139407</id>
+      <name>Harpoon Sniper</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Merfolk Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, {T}: Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139410</id>
+      <name>Bog-Strider Ash</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk Shaman</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk &lt;br&gt;Whenever a player plays a Goblin spell, you may pay {G}. If you do, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139411</id>
+      <name>Shields of Velis Vel</name>
+      <cost>{W}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Creatures target player controls get +0/+1 and gain all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139414</id>
+      <name>Oblivion Ring</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Oblivion Ring comes into play, remove another target nonland permanent from the game. &lt;br&gt;When Oblivion Ring leaves play, return the removed card to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139419</id>
+      <name>Inkfathom Divers</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Islandwalk &lt;br&gt;When Inkfathom Divers comes into play, look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139420</id>
+      <name>Merrow Harbinger</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islandwalk &lt;br&gt;When Merrow Harbinger comes into play, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139424</id>
+      <name>Streambed Aquitects</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Merfolk Scout</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. &lt;br&gt;{T}: Target land becomes an Island until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139426</id>
+      <name>Sentinels of Glen Elendra</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Faerie Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139427</id>
+      <name>Faerie Harbinger</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;When Faerie Harbinger comes into play, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139428</id>
+      <name>Pestermite</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;When Pestermite comes into play, you may tap or untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139429</id>
+      <name>Spellstutter Sprite</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;When Spellstutter Sprite comes into play, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139431</id>
+      <name>Ethereal Whiskergill</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Ethereal Whiskergill can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139435</id>
+      <name>Faerie Trickery</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Tribal Instant - Faerie</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target non-Faerie spell. If that spell is countered this way, remove it from the game instead of putting it into its owner&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139436</id>
+      <name>Glimmerdust Nap</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant tapped creature &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139440</id>
+      <name>Footbottom Feast</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put any number of target creature cards from your graveyard on top of your library. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139441</id>
+      <name>Boggart Harbinger</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Boggart Harbinger comes into play, you may search your library for a Goblin card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139445</id>
+      <name>Boggart Shenanigans</name>
+      <cost>{2}{R}</cost>
+      <type>Tribal Enchantment - Goblin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever another Goblin you control is put into a graveyard from play, you may have Boggart Shenanigans deal 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139446</id>
+      <name>Nath&apos;s Buffoon</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Elves</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139447</id>
+      <name>Ghostly Changeling</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139449</id>
+      <name>Eyeblight&apos;s Ending</name>
+      <cost>{2}{B}</cost>
+      <type>Tribal Instant - Elf</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target non-Elf creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139450</id>
+      <name>Warren-Scourge Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Goblins</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139451</id>
+      <name>Nectar Faerie</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{B}, {T}: Target Faerie or Elf gains lifelink until end of turn. &lt;i&gt;(Whenever it deals damage, its controller gains that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139452</id>
+      <name>Thieving Sprite</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Thieving Sprite comes into play, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139453</id>
+      <name>Dreamspoiler Witches</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a spell during an opponent&apos;s turn, you may have target creature get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139454</id>
+      <name>Black Poplar Shaman</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Treefolk Shaman</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{B}: Regenerate target Treefolk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139456</id>
+      <name>Nightshade Stinger</name>
+      <cost>{B}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Nightshade Stinger can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139458</id>
+      <name>Peppersmoke</name>
+      <cost>{B}</cost>
+      <type>Tribal Instant - Faerie</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139461</id>
+      <name>Flamekin Brawler</name>
+      <cost>{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Flamekin Brawler gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139462</id>
+      <name>Inner-Flame Igniter</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139463</id>
+      <name>Flamekin Harbinger</name>
+      <cost>{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Flamekin Harbinger comes into play, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139465</id>
+      <name>Smokebraider</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to play Elemental spells or activated abilities of Elementals.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139466</id>
+      <name>Ceaseless Searblades</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you play an activated ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139467</id>
+      <name>Soulbright Flamekin</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139468</id>
+      <name>Heat Shimmer</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a token into play that&apos;s a copy of target creature. It has haste and &quot;At end of turn, remove this permanent from the game.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139469</id>
+      <name>Quill-Slinger Boggart</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a player plays a Kithkin spell, you may have target player lose 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139470</id>
+      <name>Tar Pitcher</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139471</id>
+      <name>Caterwauling Boggart</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each Goblin you control can&apos;t be blocked except by two or more creatures. &lt;br&gt;Each Elemental you control can&apos;t be blocked except by two or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139474</id>
+      <name>Giant Harbinger</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Giant Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Giant Harbinger comes into play, you may search your library for a Giant card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139476</id>
+      <name>Tarfire</name>
+      <cost>{R}</cost>
+      <type>Tribal Instant - Goblin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tarfire deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139477</id>
+      <name>Giant&apos;s Ire</name>
+      <cost>{3}{R}</cost>
+      <type>Tribal Sorcery - Giant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Giant&apos;s Ire deals 4 damage to target player. If you control a Giant, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139480</id>
+      <name>Blades of Velis Vel</name>
+      <cost>{1}{R}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Up to two target creatures each get +2/+0 and gain all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139483</id>
+      <name>Moonglove Winnower</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Elf Rogue</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Deathtouch &lt;i&gt;(Whenever this creature deals damage to a creature, destroy that creature.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139485</id>
+      <name>Elvish Harbinger</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Elvish Harbinger comes into play, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it. &lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139487</id>
+      <name>Leaf Gilder</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139489</id>
+      <name>Spring Cleaning</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139492</id>
+      <name>Cloudcrown Oak</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139494</id>
+      <name>Oakgnarl Warrior</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>5</power>
+      <toughness>7</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance, trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139495</id>
+      <name>Treefolk Harbinger</name>
+      <cost>{G}</cost>
+      <type>Creature - Treefolk Druid</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Treefolk Harbinger comes into play, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139497</id>
+      <name>Kithkin Mourncaller</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Kithkin Scout</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an attacking Kithkin or Elf is put into your graveyard from play, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139498</id>
+      <name>Kithkin Daggerdare</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Target attacking creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139499</id>
+      <name>Rootgrapple</name>
+      <cost>{4}{G}</cost>
+      <type>Tribal Instant - Treefolk</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target noncreature permanent. If you control a Treefolk, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139502</id>
+      <name>Fertile Ground</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139505</id>
+      <name>Thousand-Year Elixir</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play the activated abilities of creatures you control as though those creatures had haste. &lt;br&gt;{1}, {T}: Untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139506</id>
+      <name>Moonglove Extract</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139508</id>
+      <name>Runed Stalactite</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Equipped creature gets +1/+1 and is every creature type. &lt;br&gt;Equip {2}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139509</id>
+      <name>Springleaf Drum</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139510</id>
+      <name>Wanderer&apos;s Twig</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, Sacrifice Wanderer&apos;s Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139511</id>
+      <name>Soaring Hope</name>
+      <cost>{4}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Soaring Hope comes into play, you gain 3 life. &lt;br&gt;Enchanted creature has flying. &lt;br&gt;{W}: Put Soaring Hope on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139512</id>
+      <name>Ponder</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139513</id>
+      <name>Howltooth Hollow</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hideaway &lt;i&gt;(This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)&lt;/i&gt; &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt;{B}, {T}: You may play the removed card without paying its mana cost if each player has no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139514</id>
+      <name>Spinerock Knoll</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hideaway &lt;i&gt;(This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)&lt;/i&gt; &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt;{R}, {T}: You may play the removed card without paying its mana cost if an opponent was dealt 7 or more damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139515</id>
+      <name>Mosswort Bridge</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hideaway &lt;i&gt;(This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)&lt;/i&gt; &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;{G}, {T}: You may play the removed card without paying its mana cost if creatures you control have total power 10 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139663</id>
+      <name>Merrow Commerce</name>
+      <cost>{1}{U}</cost>
+      <type>Tribal Enchantment - Merfolk</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the end of your turn, untap all Merfolk you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139664</id>
+      <name>Cloudgoat Ranger</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Cloudgoat Ranger comes into play, put three 1/1 white Kithkin Soldier creature tokens into play. &lt;br&gt;Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139665</id>
+      <name>Guardian of Cloverdell</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Treefolk Shaman</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Guardian of Cloverdell comes into play, put three 1/1 white Kithkin Soldier creature tokens into play. &lt;br&gt;{G}, Sacrifice a Kithkin: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139666</id>
+      <name>Galepowder Mage</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kithkin Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Galepowder Mage attacks, remove another target creature from the game. Return that card to play under its owner&apos;s control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139667</id>
+      <name>Sunrise Sovereign</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Giant creatures you control get +2/+2 and have trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139668</id>
+      <name>Scattering Stroke</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add {X} to your mana pool, where X is that spell&apos;s converted mana cost. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139669</id>
+      <name>Veteran of the Depths</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Veteran of the Depths becomes tapped, you may put a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139670</id>
+      <name>Makeshift Mannequin</name>
+      <cost>{3}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play with a mannequin counter on it. As long as that creature has a mannequin counter on it, it has &quot;When this creature becomes the target of a spell or ability, sacrifice it.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139674</id>
+      <name>Scarred Vinebreeder</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{B}, Remove an Elf card in your graveyard from the game: Scarred Vinebreeder gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139676</id>
+      <name>Elvish Promenade</name>
+      <cost>{3}{G}</cost>
+      <type>Tribal Sorcery - Elf</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put a 1/1 green Elf Warrior creature token into play for each Elf you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139678</id>
+      <name>Wings of Velis Vel</name>
+      <cost>{1}{U}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Target creature becomes 4/4, gains all creature types, and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139679</id>
+      <name>Rebellion of the Flamekin</name>
+      <cost>{3}{R}</cost>
+      <type>Tribal Enchantment - Elemental</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you clash, you may pay {1}. If you do, put a 3/1 red Elemental Shaman creature token into play. If you won, that token gains haste until end of turn. &lt;i&gt;(This ability triggers after the clash ends.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139682</id>
+      <name>Silvergill Adept</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Silvergill Adept, reveal a Merfolk card from your hand or pay {3}. &lt;br&gt;When Silvergill Adept comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139683</id>
+      <name>Imperious Perfect</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Other Elf creatures you control get +1/+1. &lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139685</id>
+      <name>Faerie Tauntings</name>
+      <cost>{2}{B}</cost>
+      <type>Tribal Enchantment - Faerie</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you play a spell during an opponent&apos;s turn, you may have each opponent lose 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139686</id>
+      <name>Ingot Chewer</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ingot Chewer comes into play, destroy target artifact. &lt;br&gt;Evoke {R} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139687</id>
+      <name>Protective Bubble</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature is unblockable and has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139688</id>
+      <name>Consuming Bonfire</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Tribal Sorcery - Elemental</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Consuming Bonfire deals 4 damage to target non-Elemental creature; or Consuming Bonfire deals 7 damage to target Treefolk creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139690</id>
+      <name>Timber Protector</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Treefolk creatures you control get +1/+1. &lt;br&gt;Other Treefolk and Forests you control are indestructible.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139691</id>
+      <name>Hearthcage Giant</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Hearthcage Giant comes into play, put two 3/1 red Elemental Shaman creature tokens into play. &lt;br&gt;Sacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139692</id>
+      <name>Ego Erasure</name>
+      <cost>{2}{U}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Creatures target player controls get -2/-0 and lose all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139693</id>
+      <name>Neck Snap</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139696</id>
+      <name>Benthicore</name>
+      <cost>{6}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Benthicore comes into play, put two 1/1 blue Merfolk Wizard creature tokens into play. &lt;br&gt;Tap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139698</id>
+      <name>Goldmeadow Stalwart</name>
+      <cost>{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139702</id>
+      <name>Merrow Reejerey</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Other Merfolk creatures you control get +1/+1. &lt;br&gt;Whenever you play a Merfolk spell, you may tap or untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139703</id>
+      <name>Lignify</name>
+      <cost>{1}{G}</cost>
+      <type>Tribal Enchantment - Treefolk Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature is a 0/4 Treefolk with no abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139705</id>
+      <name>Marsh Flitter</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Marsh Flitter comes into play, put two 1/1 black Goblin Rogue creature tokens into play. &lt;br&gt;Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139708</id>
+      <name>Mad Auntie</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Goblin creatures you control get +1/+1. &lt;br&gt;{T}: Regenerate another target Goblin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139709</id>
+      <name>Boggart Loggers</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk &lt;br&gt;{2}{B}, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139710</id>
+      <name>Squeaking Pie Sneak</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Squeaking Pie Sneak, reveal a Goblin card from your hand or pay {3}. &lt;br&gt;Fear</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139715</id>
+      <name>Knight of Meadowgrain</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Kithkin Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139716</id>
+      <name>Wizened Cenn</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Kithkin Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Other Kithkin creatures you control get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139721</id>
+      <name>Immaculate Magistrate</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Put a +1/+1 counter on target creature for each Elf you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139723</id>
+      <name>Hunter of Eyeblights</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Elf Assassin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Hunter of Eyeblights comes into play, put a +1/+1 counter on target creature you don&apos;t control. &lt;br&gt;{2}{B}, {T}: Destroy target creature with a counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139726</id>
+      <name>Jagged-Scar Archers</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Elf Archer</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Jagged-Scar Archers&apos;s power and toughness are each equal to the number of Elves you control. &lt;br&gt;{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139727</id>
+      <name>Deathrender</name>
+      <cost>{4}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Equipped creature gets +2/+2. &lt;br&gt;Whenever equipped creature is put into a graveyard from play, you may put a creature card from your hand into play and attach Deathrender to it. &lt;br&gt;Equip {2}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139728</id>
+      <name>Flamekin Spitfire</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}{R}: Flamekin Spitfire deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139730</id>
+      <name>Incandescent Soulstoke</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Elemental creatures you control get +1/+1. &lt;br&gt;{1}{R}, {T}: You may put an Elemental creature card from your hand into play. That creature gains haste until end of turn. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139736</id>
+      <name>Wren&apos;s Run Vanquisher</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Wren&apos;s Run Vanquisher, reveal an Elf card from your hand or pay {3}. &lt;br&gt;Deathtouch &lt;i&gt;(Whenever this creature deals damage to a creature, destroy that creature.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139738</id>
+      <name>Thundercloud Shaman</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Giant Shaman</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Thundercloud Shaman comes into play, it deals damage equal to the number of Giants you control to each non-Giant creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139740</id>
+      <name>Herbal Poultice</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}, Sacrifice Herbal Poultice: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139741</id>
+      <name>Scion of Oona</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Faerie Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;Other Faerie creatures you control get +1/+1. &lt;br&gt;Other Faeries you control have shroud. &lt;i&gt;(A permanent with shroud can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>139742</id>
+      <name>Mudbutton Torchrunner</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Mudbutton Torchrunner is put into a graveyard from play, it deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140164</id>
+      <name>Hostility</name>
+      <cost>{3}{R}{R}{R}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;If a spell you control would deal damage to an opponent, prevent that damage. Put a 3/1 red Elemental Shaman creature token with haste into play for each 1 damage prevented this way. &lt;br&gt;When Hostility is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140165</id>
+      <name>Sower of Temptation</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Sower of Temptation comes into play, gain control of target creature as long as Sower of Temptation remains in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140166</id>
+      <name>Thorn of Amethyst</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Noncreature spells cost {1} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140168</id>
+      <name>Dread</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fear &lt;br&gt;Whenever a creature deals damage to you, destroy it. &lt;br&gt;When Dread is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140171</id>
+      <name>Cairn Wanderer</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;As long as a creature card with flying is in a graveyard, Cairn Wanderer has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140172</id>
+      <name>Sygg, River Guide</name>
+      <cost>{W}{U}</cost>
+      <type>Legendary Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk &lt;br&gt;{1}{W}: Target Merfolk you control gains protection from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140176</id>
+      <name>Chandra Nalaar</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Planeswalker - Chandra</type>
+      <power></power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>[+1]: Chandra Nalaar deals 1 damage to target player. &lt;br&gt;[-X]: Chandra Nalaar deals X damage to target creature. &lt;br&gt;[-8]: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140177</id>
+      <name>Wanderwine Prophets</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Champion a Merfolk &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Merfolk you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;Whenever Wanderwine Prophets deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140183</id>
+      <name>Lowland Oaf</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140184</id>
+      <name>Masked Admirers</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Masked Admirers comes into play, draw a card. &lt;br&gt;Whenever you play a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140188</id>
+      <name>Gaddock Teeg</name>
+      <cost>{G}{W}</cost>
+      <type>Legendary Creature - Kithkin Advisor</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Noncreature spells with converted mana cost 4 or greater can&apos;t be played. &lt;br&gt;Noncreature spells with {X} in their mana costs can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140189</id>
+      <name>Arbiter of Knollridge</name>
+      <cost>{6}{W}</cost>
+      <type>Creature - Giant Wizard</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Vigilance &lt;br&gt;When Arbiter of Knollridge comes into play, each player&apos;s life total becomes the highest life total among all players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140190</id>
+      <name>Guile</name>
+      <cost>{3}{U}{U}{U}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Guile can&apos;t be blocked except by three or more creatures. &lt;br&gt;If a spell or ability you control would counter a spell, instead remove that spell from the game and you may play that card without paying its mana cost. &lt;br&gt;When Guile is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140193</id>
+      <name>Militia&apos;s Pride</name>
+      <cost>{1}{W}</cost>
+      <type>Tribal Enchantment - Kithkin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a nontoken creature you control attacks, you may pay {W}. If you do, put a 1/1 white Kithkin Soldier creature token into play tapped and attacking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140194</id>
+      <name>Wren&apos;s Run Packmaster</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Champion an Elf &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Elf you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;{2}{G}: Put a 2/2 green Wolf creature token into play. &lt;br&gt;Each Wolf you control has deathtouch. &lt;i&gt;(When it deals damage to a creature, destroy that creature.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140200</id>
+      <name>Shapesharer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{2}{U}: Target Shapeshifter becomes a copy of target creature until your next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140201</id>
+      <name>Doran, the Siege Tower</name>
+      <cost>{B}{G}{W}</cost>
+      <type>Legendary Creature - Treefolk Shaman</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each creature assigns combat damage equal to its toughness rather than its power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140205</id>
+      <name>Garruk Wildspeaker</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Planeswalker - Garruk</type>
+      <power></power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>[+1]: Untap two target lands. &lt;br&gt;[-1]: Put a 3/3 green Beast creature token into play. &lt;br&gt;[-4]: Creatures you control get +3/+3 and gain trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140206</id>
+      <name>Dolmen Gate</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Prevent all combat damage that would be dealt to attacking creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140209</id>
+      <name>Colfenor&apos;s Urn</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature with toughness 4 or greater is put into your graveyard from play, you may remove it from the game. &lt;br&gt;At end of turn, if three or more cards have been removed from the game with Colfenor&apos;s Urn, sacrifice it. If you do, return those cards to play under their owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140212</id>
+      <name>Liliana Vess</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Planeswalker - Liliana</type>
+      <power></power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>[+1]: Target player discards a card. &lt;br&gt;[-2]: Search your library for a card, then shuffle your library and put that card on top of it. &lt;br&gt;[-8]: Put all creature cards in all graveyards into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140214</id>
+      <name>Purity</name>
+      <cost>{3}{W}{W}{W}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;If noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way. &lt;br&gt;When Purity is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140216</id>
+      <name>Rings of Brighthearth</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play an activated ability, if it isn&apos;t a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140217</id>
+      <name>Brion Stoutarm</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Legendary Creature - Giant Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt; &lt;br&gt;{R}, {T}, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature&apos;s power to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140219</id>
+      <name>Horde of Notions</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Legendary Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Vigilance, trample, haste &lt;br&gt;{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140222</id>
+      <name>Jace Beleren</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Planeswalker - Jace</type>
+      <power></power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>[+2]: Each player draws a card. &lt;br&gt;[-1]: Target player draws a card. &lt;br&gt;[-10]: Target player puts the top twenty cards of his or her library into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140226</id>
+      <name>Wort, Boggart Auntie</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Legendary Creature - Goblin Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fear &lt;br&gt;At the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140227</id>
+      <name>Vigor</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Creature - Elemental Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;If damage would be dealt to a creature you control other than Vigor, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way. &lt;br&gt;When Vigor is put into a graveyard from anywhere, shuffle it into its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140229</id>
+      <name>Wydwen, the Biting Gale</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Legendary Creature - Faerie Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;{U}{B}, Pay 1 life: Return Wydwen, the Biting Gale to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140230</id>
+      <name>Boggart Mob</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Champion a Goblin &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Goblin you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;Whenever a Goblin you control deals combat damage to a player, you may put a 1/1 black Goblin Rogue creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140232</id>
+      <name>Thoughtweft Trio</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike, vigilance &lt;br&gt;Champion a Kithkin &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Kithkin you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;Thoughtweft Trio can block any number of creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140233</id>
+      <name>Ajani Goldmane</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Planeswalker - Ajani</type>
+      <power></power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>[+1]: You gain 2 life. &lt;br&gt;[-1]: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn. &lt;br&gt;[-6]: Put a white Avatar creature token into play with &quot;This creature&apos;s power and toughness are each equal to your life total.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140239</id>
+      <name>Nova Chaser</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>10</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Champion an Elemental &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Elemental you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140338</id>
+      <name>Fire-Belly Changeling</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Play this ability no more than twice each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140339</id>
+      <name>Amoeboid Changeling</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{T}: Target creature gains all creature types until end of turn. &lt;br&gt;{T}: Target creature loses all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140343</id>
+      <name>Flamekin Bladewhirl</name>
+      <cost>{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Flamekin Bladewhirl, reveal an Elemental card from your hand or pay {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>140345</id>
+      <name>Changeling Titan</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Champion a creature &lt;i&gt;(When this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141802</id>
+      <name>Shimmering Grotto</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141804</id>
+      <name>Elvish Eulogist</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141814</id>
+      <name>Profane Command</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose two - Target player loses X life; or return target creature card with converted mana cost X or less from your graveyard to play; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141817</id>
+      <name>Austere Command</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose two - Destroy all artifacts; or destroy all enchantments; or destroy all creatures with converted mana cost 3 or less; or destroy all creatures with converted mana cost 4 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141818</id>
+      <name>Mirror Entity</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{X}: Creatures you control become X/X and gain all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141819</id>
+      <name>Cryptic Command</name>
+      <cost>{1}{U}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose two - Counter target spell; or return target permanent to its owner&apos;s hand; or tap all creatures your opponents control; or draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141822</id>
+      <name>Ashling the Pilgrim</name>
+      <cost>{1}{R}</cost>
+      <type>Legendary Creature - Elemental Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{R}: Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim, and it deals that much damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141824</id>
+      <name>Primal Command</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose two - Target player gains 7 life; or put target noncreature permanent on top of its owner&apos;s library; or target player shuffles his or her graveyard into his or her library; or search your library for a creature card, reveal it, put it into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141825</id>
+      <name>Mistbind Clique</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;Champion a Faerie &lt;i&gt;(When this comes into play, sacrifice it unless you remove another Faerie you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;When a Faerie is championed with Mistbind Clique, tap all lands target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141828</id>
+      <name>Surgespanner</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Surgespanner becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141829</id>
+      <name>Brigid, Hero of Kinsbaile</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Legendary Creature - Kithkin Archer</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike &lt;br&gt;{T}: Brigid, Hero of Kinsbaile deals 2 damage to each attacking or blocking creature target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141830</id>
+      <name>Incendiary Command</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose two - Incendiary Command deals 4 damage to target player; or Incendiary Command deals 2 damage to each creature; or destroy target nonbasic land; or each player discards all the cards in his or her hand, then draws that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141851</id>
+      <name>Dauntless Dourbark</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Dauntless Dourbark&apos;s power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control. &lt;br&gt;Dauntless Dourbark has trample as long as you control another Treefolk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141853</id>
+      <name>Silvergill Douser</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141857</id>
+      <name>Battlewand Oak</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a Forest comes into play under your control, Battlewand Oak gets +2/+2 until end of turn. &lt;br&gt;Whenever you play a Treefolk spell, Battlewand Oak gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141879</id>
+      <name>Vivid Grove</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vivid Grove comes into play tapped with two charge counters on it. &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141880</id>
+      <name>Vivid Marsh</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vivid Marsh comes into play tapped with two charge counters on it. &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt;{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141881</id>
+      <name>Vivid Creek</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vivid Creek comes into play tapped with two charge counters on it. &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141882</id>
+      <name>Vivid Crag</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vivid Crag comes into play tapped with two charge counters on it. &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt;{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>141883</id>
+      <name>Vivid Meadow</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vivid Meadow comes into play tapped with two charge counters on it. &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt;{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142352</id>
+      <name>Deeptread Merrow</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Deeptread Merrow gains islandwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142354</id>
+      <name>Aquitect&apos;s Will</name>
+      <cost>{U}</cost>
+      <type>Tribal Sorcery - Merfolk</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put a flood counter on target land. That land is an Island in addition to its other types as long as it has a flood counter on it. If you control a Merfolk, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142355</id>
+      <name>Hornet Harasser</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Hornet Harasser is put into a graveyard from play, target creature gets -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142356</id>
+      <name>Goldmeadow Dodger</name>
+      <cost>{W}</cost>
+      <type>Creature - Kithkin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Goldmeadow Dodger can&apos;t be blocked by creatures with power 4 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142357</id>
+      <name>Zephyr Net</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has defender and flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142358</id>
+      <name>Stonybrook Angler</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{U}, {T}: You may tap or untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142359</id>
+      <name>Boggart Birth Rite</name>
+      <cost>{B}</cost>
+      <type>Tribal Sorcery - Goblin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target Goblin card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142360</id>
+      <name>Cenn&apos;s Heir</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Cenn&apos;s Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142361</id>
+      <name>Facevaulter</name>
+      <cost>{B}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142362</id>
+      <name>Tideshaper Mystic</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes the basic land type of your choice until end of turn. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142363</id>
+      <name>Goatnapper</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Goatnapper comes into play, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142365</id>
+      <name>Briarhorn</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;br&gt;When Briarhorn comes into play, target creature gets +3/+3 until end of turn. &lt;br&gt;Evoke {1}{G} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143015</id>
+      <name>Thorntooth Witch</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Treefolk Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you play a Treefolk spell, you may have target creature get +3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143016</id>
+      <name>Springjack Knight</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kithkin Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143018</id>
+      <name>Kinsbaile Skirmisher</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Kinsbaile Skirmisher comes into play, target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143021</id>
+      <name>Lys Alana Scarblade</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Elf Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143370</id>
+      <name>Nath of the Gilt-Leaf</name>
+      <cost>{3}{B}{G}</cost>
+      <type>Legendary Creature - Elf Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may have target opponent discard a card at random. &lt;br&gt;Whenever an opponent discards a card, you may put a 1/1 green Elf Warrior creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143372</id>
+      <name>Fistful of Force</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143375</id>
+      <name>Twinning Glass</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}: You may play a nonland card from your hand without paying its mana cost if it has the same name as a spell that was played this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143376</id>
+      <name>Lace with Moonglove</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains deathtouch until end of turn. &lt;i&gt;(Whenever it deals damage to a creature, destroy that creature.)&lt;/i&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143380</id>
+      <name>Crib Swap</name>
+      <cost>{2}{W}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Remove target creature from the game. Its controller puts a 1/1 colorless Shapeshifter creature token with changeling into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143381</id>
+      <name>Hurly-Burly</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Hurly-Burly deals 1 damage to each creature without flying; or Hurly-Burly deals 1 damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143383</id>
+      <name>Lairwatch Giant</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Lairwatch Giant can block an additional creature. &lt;br&gt;Whenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143384</id>
+      <name>Crush Underfoot</name>
+      <cost>{1}{R}</cost>
+      <type>Tribal Instant - Giant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a Giant creature you control. It deals damage equal to its power to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143388</id>
+      <name>Nameless Inversion</name>
+      <cost>{1}{B}</cost>
+      <type>Tribal Instant - Shapeshifter</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Target creature gets +3/-3 and loses all creature types until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143607</id>
+      <name>Stinkdrinker Daredevil</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Giant spells you play cost {2} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143609</id>
+      <name>Knucklebone Witch</name>
+      <cost>{B}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a Goblin you control is put into a graveyard from play, you may put a +1/+1 counter on Knucklebone Witch.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143611</id>
+      <name>Hunt Down</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature blocks target creature this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143682</id>
+      <name>Hamletback Goliath</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever another creature comes into play, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143683</id>
+      <name>Favor of the Mighty</name>
+      <cost>{1}{W}</cost>
+      <type>Tribal Enchantment - Giant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each creature with the highest converted mana cost has protection from all colors.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143684</id>
+      <name>Summon the School</name>
+      <cost>{3}{W}</cost>
+      <type>Tribal Sorcery - Merfolk</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put two 1/1 blue Merfolk Wizard creature tokens into play. &lt;br&gt;Tap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143728</id>
+      <name>Eyes of the Wisent</name>
+      <cost>{1}{G}</cost>
+      <type>Tribal Enchantment - Elemental</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a blue spell during your turn, you may put a 4/4 green Elemental creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143730</id>
+      <name>Hoofprints of the Stag</name>
+      <cost>{1}{W}</cost>
+      <type>Tribal Enchantment - Elemental</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag. &lt;br&gt;{2}{W}, Remove four hoofprint counters from Hoofprints of the Stag: Put a 4/4 white Elemental creature token with flying into play. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143731</id>
+      <name>Nettlevine Blight</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature or land &lt;br&gt;Enchanted permanent has &quot;At the end of your turn, sacrifice this permanent and attach Nettlevine Blight to a creature or land you control.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>143732</id>
+      <name>Epic Proportions</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +5/+5 and has trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145798</id>
+      <name>Windbrisk Heights</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hideaway &lt;i&gt;(This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)&lt;/i&gt; &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt;{W}, {T}: You may play the removed card without paying its mana cost if you attacked with three or more creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145799</id>
+      <name>Surge of Thoughtweft</name>
+      <cost>{1}{W}</cost>
+      <type>Tribal Instant - Kithkin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145800</id>
+      <name>Mournwhelk</name>
+      <cost>{6}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Mournwhelk comes into play, target player discards two cards. &lt;br&gt;Evoke {3}{B} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145801</id>
+      <name>Dawnfluke</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;When Dawnfluke comes into play, prevent the next 3 damage that would be dealt to target creature or player this turn. &lt;br&gt;Evoke {W} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145802</id>
+      <name>Ringskipper</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Ringskipper is put into a graveyard from play, clash with an opponent. If you win, return Ringskipper to its owner&apos;s hand. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145803</id>
+      <name>Fallowsage</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Fallowsage becomes tapped, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145804</id>
+      <name>Changeling Berserker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Haste &lt;br&gt;Champion a creature &lt;i&gt;(When this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145807</id>
+      <name>Turtleshell Changeling</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{1}{U}: Switch Turtleshell Changeling&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145808</id>
+      <name>Heal the Scars</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Regenerate target creature. You gain life equal to that creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145809</id>
+      <name>Skeletal Changeling</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;{1}{B}: Regenerate Skeletal Changeling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145811</id>
+      <name>Mulldrifter</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Mulldrifter comes into play, draw two cards. &lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145812</id>
+      <name>Gilt-Leaf Seer</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Look at the top two cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145813</id>
+      <name>Avian Changeling</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145814</id>
+      <name>Paperfin Rascal</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Paperfin Rascal comes into play, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145815</id>
+      <name>Pollen Lullaby</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don&apos;t untap during the player&apos;s next untap step. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145816</id>
+      <name>Woodland Changeling</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145817</id>
+      <name>Æthersnipe</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Æthersnipe comes into play, return target nonland permanent to its owner&apos;s hand. &lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145964</id>
+      <name>Faultgrinder</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample &lt;br&gt;When Faultgrinder comes into play, destroy target land. &lt;br&gt;Evoke {4}{R} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145966</id>
+      <name>Bog Hoodlums</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bog Hoodlums can&apos;t block. &lt;br&gt;When Bog Hoodlums comes into play, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145967</id>
+      <name>Warren Pilferers</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Warren Pilferers comes into play, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145968</id>
+      <name>Changeling Hero</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt; &lt;br&gt;Champion a creature &lt;i&gt;(When this comes into play, sacrifice it unless you remove another creature you control from the game. When this leaves play, that card returns to play.)&lt;/i&gt; &lt;br&gt;Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145969</id>
+      <name>Thoughtseize</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145970</id>
+      <name>Sentry Oak</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;br&gt;At the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145971</id>
+      <name>Hillcomber Giant</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Giant Scout</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145973</id>
+      <name>Battle Mastery</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has double strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145974</id>
+      <name>Wispmare</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Wispmare comes into play, destroy target enchantment. &lt;br&gt;Evoke {W} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145975</id>
+      <name>Whirlpool Whelm</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Clash with an opponent, then return target creature to its owner&apos;s hand. If you win, you may put that creature on top of its owner&apos;s library instead. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145976</id>
+      <name>Axegrinder Giant</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145979</id>
+      <name>Drowner of Secrets</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap an untapped Merfolk you control: Target player puts the top card of his or her library into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145981</id>
+      <name>Glarewielder</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;When Glarewielder comes into play, up to two target creatures can&apos;t block this turn. &lt;br&gt;Evoke {1}{R} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145984</id>
+      <name>Gilt-Leaf Ambush</name>
+      <cost>{2}{G}</cost>
+      <type>Tribal Instant - Elf</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put two 1/1 green Elf Warrior creature tokens into play. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost. Whenever a creature with deathtouch deals damage to a creature, destroy that creature.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145986</id>
+      <name>Kithkin Healer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kithkin Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145987</id>
+      <name>Lash Out</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature&apos;s controller. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145988</id>
+      <name>Oaken Brawler</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Treefolk Warrior</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Oaken Brawler comes into play, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145989</id>
+      <name>Broken Ambitions</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {X}. Clash with an opponent. If you win, that spell&apos;s controller puts the top four cards of his or her library into his or her graveyard. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145990</id>
+      <name>Nath&apos;s Elite</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures able to block Nath&apos;s Elite do so. &lt;br&gt;When Nath&apos;s Elite comes into play, clash with an opponent. If you win, put a +1/+1 counter on Nath&apos;s Elite. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145991</id>
+      <name>Weed Strangle</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature&apos;s toughness. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>145992</id>
+      <name>Adder-Staff Boggart</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Adder-Staff Boggart comes into play, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146160</id>
+      <name>Hoarder&apos;s Greed</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146161</id>
+      <name>Needle Drop</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Needle Drop deals 1 damage to target creature or player that was dealt damage this turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146162</id>
+      <name>Glen Elendra Pranksters</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a spell during an opponent&apos;s turn, you may return target creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146165</id>
+      <name>Seedguide Ash</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk Druid</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Seedguide Ash is put into a graveyard from play, you may search your library for up to three Forest cards and put them into play tapped. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146166</id>
+      <name>Forced Fruition</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a spell, that player draws seven cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146167</id>
+      <name>Prowess of the Fair</name>
+      <cost>{1}{B}</cost>
+      <type>Tribal Enchantment - Elf</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever another nontoken Elf is put into your graveyard from play, you may put a 1/1 green Elf Warrior creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146168</id>
+      <name>Boggart Forager</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, Sacrifice Boggart Forager: Target player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146169</id>
+      <name>Elvish Branchbender</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146170</id>
+      <name>Fathom Trawl</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal cards from the top of your library until you reveal three nonland cards. Put the nonland cards revealed this way into your hand, then put the rest of the revealed cards on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146171</id>
+      <name>Final Revels</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - All creatures get +2/+0 until end of turn; or all creatures get -0/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146172</id>
+      <name>Captivating Glance</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the end of your turn, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146173</id>
+      <name>Cloudthresher</name>
+      <cost>{2}{G}{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt; &lt;br&gt;When Cloudthresher comes into play, it deals 2 damage to each creature with flying and each player. &lt;br&gt;Evoke {2}{G}{G} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146175</id>
+      <name>Shriekmaw</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fear &lt;br&gt;When Shriekmaw comes into play, destroy target nonartifact, nonblack creature. &lt;br&gt;Evoke {1}{B} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146178</id>
+      <name>Shelldock Isle</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hideaway &lt;i&gt;(This land comes into play tapped. When it does, look at the top four cards of your library, remove one from the game face down, then put the rest on the bottom of your library.)&lt;/i&gt; &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt;{U}, {T}: You may play the removed card without paying its mana cost if a library has twenty or fewer cards in it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146179</id>
+      <name>Elvish Handservant</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a player plays a Giant spell, you may put a +1/+1 counter on Elvish Handservant.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146443</id>
+      <name>Exiled Boggart</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Exiled Boggart is put into a graveyard from play, discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146444</id>
+      <name>Kithkin Greatheart</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146445</id>
+      <name>Spiderwig Boggart</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Spiderwig Boggart comes into play, target creature gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146446</id>
+      <name>Boggart Sprite-Chaser</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as you control a Faerie, Boggart Sprite-Chaser gets +1/+1 and has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146447</id>
+      <name>Fodder Launch</name>
+      <cost>{3}{B}</cost>
+      <type>Tribal Sorcery - Goblin</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Fodder Launch, sacrifice a Goblin. &lt;br&gt;Target creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146580</id>
+      <name>Triclopean Sight</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;When Triclopean Sight comes into play, untap enchanted creature. &lt;br&gt;Enchanted creature gets +1/+1 and has vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146581</id>
+      <name>Colfenor&apos;s Plans</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Colfenor&apos;s Plans comes into play, remove the top seven cards of your library from the game face down. &lt;br&gt;You may look at and play cards removed from the game with Colfenor&apos;s Plans. &lt;br&gt;Skip your draw step. &lt;br&gt;You can&apos;t play more than one spell each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146582</id>
+      <name>Oona&apos;s Prowler</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Discard a card: Oona&apos;s Prowler gets -2/-0 until end of turn. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146583</id>
+      <name>Entangling Trap</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn&apos;t untap during its controller&apos;s next untap step. &lt;i&gt;(This ability triggers after the clash ends.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146584</id>
+      <name>Familiar&apos;s Ruse</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Familiar&apos;s Ruse, return a creature you control to its owner&apos;s hand. &lt;br&gt;Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146594</id>
+      <name>Woodland Guidance</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. &lt;i&gt;(Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)&lt;/i&gt; &lt;br&gt;Remove Woodland Guidance from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146595</id>
+      <name>Ashling&apos;s Prerogative</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Ashling&apos;s Prerogative comes into play, choose odd or even. &lt;i&gt;(Zero is even.)&lt;/i&gt; &lt;br&gt;Each creature with converted mana cost of the chosen value has haste. &lt;br&gt;Each creature without converted mana cost of the chosen value comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146597</id>
+      <name>Blind-Spot Giant</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>Blind-Spot Giant can&apos;t attack or block unless you control another Giant.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146599</id>
+      <name>Inner-Flame Acolyte</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Inner-Flame Acolyte comes into play, target creature gets +2/+0 and gains haste until end of turn. &lt;br&gt;Evoke {R} &lt;i&gt;(You may play this spell for its evoke cost. If you do, it&apos;s sacrificed when it comes into play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146600</id>
+      <name>Wild Ricochet</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146601</id>
+      <name>Sylvan Echoes</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you clash and win, you may draw a card. &lt;i&gt;(This ability triggers after the clash ends.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146777</id>
+      <name>Incremental Growth</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153454</id>
+      <name>Ancient Amphitheater</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Ancient Amphitheater comes into play, you may reveal a Giant card from your hand. If you don&apos;t, Ancient Amphitheater comes into play tapped. &lt;br&gt;{T}: Add {R} or {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153455</id>
+      <name>Gilt-Leaf Palace</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Gilt-Leaf Palace comes into play, you may reveal an Elf card from your hand. If you don&apos;t, Gilt-Leaf Palace comes into play tapped. &lt;br&gt;{T}: Add {B} or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153456</id>
+      <name>Wanderwine Hub</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Wanderwine Hub comes into play, you may reveal a Merfolk card from your hand. If you don&apos;t, Wanderwine Hub comes into play tapped. &lt;br&gt;{T}: Add {W} or {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153457</id>
+      <name>Auntie&apos;s Hovel</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Auntie&apos;s Hovel comes into play, you may reveal a Goblin card from your hand. If you don&apos;t, Auntie&apos;s Hovel comes into play tapped. &lt;br&gt;{T}: Add {B} or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153458</id>
+      <name>Secluded Glen</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Lorwyn</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Secluded Glen comes into play, you may reveal a Faerie card from your hand. If you don&apos;t, Secluded Glen comes into play tapped. &lt;br&gt;{T}: Add {U} or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

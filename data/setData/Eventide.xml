@@ -1,0 +1,2347 @@
+<cards>
+  <name>Eventide</name>
+  <key>Eventide</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>141942</id>
+      <name>Heartlash Cinder</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;&lt;i&gt;Chroma&lt;/i&gt; - When Heartlash Cinder comes into play, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142010</id>
+      <name>Inundate</name>
+      <cost>{3}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return all nonblue creatures to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142015</id>
+      <name>Marshdrinker Giant</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Marshdrinker Giant comes into play, destroy target Island or Swamp an opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>142054</id>
+      <name>Soul Snuffers</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Soul Snuffers comes into play, put a -1/-1 counter on each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146006</id>
+      <name>Archon of Justice</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Archon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Archon of Justice is put into a graveyard from play, remove target permanent from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>146010</id>
+      <name>Doomgape</name>
+      <cost>{4}{B/G}{B/G}{B/G}</cost>
+      <type>Creature - Elemental</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;At the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>147373</id>
+      <name>Regal Force</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Regal Force comes into play, draw a card for each green creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>147413</id>
+      <name>Hatchet Bully</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}, Put a -1/-1 counter on a creature you control: Hatchet Bully deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>147437</id>
+      <name>Lingering Tormentor</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fear &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150975</id>
+      <name>Duergar Assailant</name>
+      <cost>{R/W}</cost>
+      <type>Creature - Dwarf Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150977</id>
+      <name>Odious Trow</name>
+      <cost>{B/G}</cost>
+      <type>Creature - Troll</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{B/G}: Regenerate Odious Trow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150986</id>
+      <name>Nip Gwyllion</name>
+      <cost>{W/B}</cost>
+      <type>Creature - Hag</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150992</id>
+      <name>Helix Pinnacle</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Shroud &lt;br&gt;{X}: Put X tower counters on Helix Pinnacle. &lt;br&gt;At the beginning of your upkeep, if there are 100 or more tower counters on Helix Pinnacle, you win the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150995</id>
+      <name>Divinity of Pride</name>
+      <cost>{W/B}{W/B}{W/B}{W/B}{W/B}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, lifelink &lt;br&gt;Divinity of Pride gets +4/+4 as long as you have 25 or more life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>150999</id>
+      <name>Slippery Bogle</name>
+      <cost>{G/U}</cost>
+      <type>Creature - Beast</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Slippery Bogle can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151059</id>
+      <name>Loyal Gyrfalcon</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender, flying &lt;br&gt;Whenever you play a white spell, Loyal Gyrfalcon loses defender until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151060</id>
+      <name>Cauldron Haze</name>
+      <cost>{1}{W/B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose any number of target creatures. Each of those creatures gains persist until end of turn. &lt;i&gt;(When it&apos;s put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151067</id>
+      <name>Cinder Pyromancer</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Cinder Pyromancer deals 1 damage to target player. &lt;br&gt;Whenever you play a red spell, you may untap Cinder Pyromancer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151068</id>
+      <name>Riverfall Mimic</name>
+      <cost>{1}{U/R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a spell that&apos;s both blue and red, Riverfall Mimic becomes 3/3 and is unblockable until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151079</id>
+      <name>Drain the Well</name>
+      <cost>{2}{B/G}{B/G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151083</id>
+      <name>Unmake</name>
+      <cost>{W/B}{W/B}{W/B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151088</id>
+      <name>Merrow Levitator</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gains flying until end of turn. &lt;br&gt;Whenever you play a blue spell, you may untap Merrow Levitator.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151089</id>
+      <name>Flickerwisp</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Flickerwisp comes into play, remove another target permanent from the game. Return that card to play under its owner&apos;s control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151090</id>
+      <name>Hobgoblin Dragoon</name>
+      <cost>{2}{R/W}</cost>
+      <type>Creature - Goblin Knight</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151095</id>
+      <name>Nettle Sentinel</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Nettle Sentinel doesn&apos;t untap during your untap step. &lt;br&gt;Whenever you play a green spell, you may untap Nettle Sentinel.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151096</id>
+      <name>Tilling Treefolk</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Treefolk Druid</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Tilling Treefolk comes into play, you may return up to two target land cards from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151097</id>
+      <name>Wickerbough Elder</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk Shaman</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wickerbough Elder comes into play with a -1/-1 counter on it. &lt;br&gt;{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151098</id>
+      <name>Bloodied Ghost</name>
+      <cost>{1}{W/B}{W/B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Bloodied Ghost comes into play with a -1/-1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151099</id>
+      <name>Nightsky Mimic</name>
+      <cost>{1}{W/B}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a spell that&apos;s both white and black, Nightsky Mimic becomes 4/4 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151106</id>
+      <name>Duergar Mine-Captain</name>
+      <cost>{2}{R/W}</cost>
+      <type>Creature - Dwarf Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R/W}, {Q}: Attacking creatures get +1/+0 until end of turn. &lt;i&gt;({Q} is the untap symbol.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151108</id>
+      <name>Invert the Skies</name>
+      <cost>{3}{G/U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures your opponents control lose flying until end of turn if {G} was spent to play Invert the Skies, and creatures you control gain flying until end of turn if {U} was spent to play it. &lt;i&gt;(Do both if {G}{U} was spent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151113</id>
+      <name>Phosphorescent Feast</name>
+      <cost>{2}{G}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards&apos; mana costs.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151114</id>
+      <name>Rise of the Hobgoblins</name>
+      <cost>{R/W}{R/W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Rise of the Hobgoblins comes into play, you may pay {X}. If you do, put X 1/1 red and white Goblin Soldier creature tokens into play. &lt;br&gt;{R/W}: Red creatures and white creatures you control gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151118</id>
+      <name>Favor of the Overbeing</name>
+      <cost>{1}{G/U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As long as enchanted creature is green, it gets +1/+1 and has vigilance. &lt;br&gt;As long as enchanted creature is blue, it gets +1/+1 and has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151120</id>
+      <name>Stalker Hag</name>
+      <cost>{B/G}{B/G}{B/G}</cost>
+      <type>Creature - Hag</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk, forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151124</id>
+      <name>Stream Hopper</name>
+      <cost>{U/R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U/R}: Stream Hopper gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151132</id>
+      <name>Mindwrack Liege</name>
+      <cost>{3}{U/R}{U/R}{U/R}</cost>
+      <type>Creature - Horror</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other blue creatures you control get +1/+1. &lt;br&gt;Other red creatures you control get +1/+1. &lt;br&gt;{U/R}{U/R}{U/R}{U/R}: You may put a blue or red creature card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151135</id>
+      <name>Worm Harvest</name>
+      <cost>{2}{B/G}{B/G}{B/G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a 1/1 black and green Worm creature token into play for each land card in your graveyard. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151137</id>
+      <name>Ashling, the Extinguisher</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Elemental Shaman</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Ashling, the Extinguisher deals combat damage to a player, choose target creature that player controls. He or she sacrifices that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151139</id>
+      <name>Light from Within</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - Each creature you control gets +1/+1 for each white mana symbol in its mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151142</id>
+      <name>Talara&apos;s Bane</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. Choose a green or white creature card from it. You gain life equal that creature card&apos;s toughness, then that player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151143</id>
+      <name>Wistful Selkie</name>
+      <cost>{G/U}{G/U}{G/U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Wistful Selkie comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151147</id>
+      <name>Shorecrasher Mimic</name>
+      <cost>{1}{G/U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a spell that&apos;s both green and blue, Shorecrasher Mimic becomes 5/3 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151149</id>
+      <name>Fire at Will</name>
+      <cost>{R/W}{R/W}{R/W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fire at Will deals 3 damage divided as you choose among any number of target attacking or blocking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151150</id>
+      <name>Soul Reap</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nongreen creature. Its controller loses 3 life if you played another black spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151151</id>
+      <name>Overbeing of Myth</name>
+      <cost>{G/U}{G/U}{G/U}{G/U}{G/U}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Overbeing of Myth&apos;s power and toughness are each equal to the number of cards in your hand. &lt;br&gt;At the beginning of your draw step, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151153</id>
+      <name>Gift of the Deity</name>
+      <cost>{4}{B/G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As long as enchanted creature is black, it gets +1/+1 and has deathtouch. &lt;i&gt;(Whenever it deals damage to a creature, destroy that creature.)&lt;/i&gt; &lt;br&gt;As long as enchanted creature is green, it gets +1/+1 and all creatures able to block it do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151154</id>
+      <name>Dominus of Fealty</name>
+      <cost>{U/R}{U/R}{U/R}{U/R}{U/R}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151155</id>
+      <name>Edge of the Divinity</name>
+      <cost>{W/B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As long as enchanted creature is white, it gets +1/+2. &lt;br&gt;As long as enchanted creature is black, it gets +2/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151158</id>
+      <name>Merrow Bonegnawer</name>
+      <cost>{B}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target player removes a card in his or her graveyard from the game.  &lt;br&gt;Whenever you play a black spell, you may untap Merrow Bonegnawer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151164</id>
+      <name>Duskdale Wurm</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151165</id>
+      <name>Battlegate Mimic</name>
+      <cost>{1}{R/W}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a spell that&apos;s both red and white, Battlegate Mimic becomes 4/2 and gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>151169</id>
+      <name>Spirit of the Hearth</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Cat Spirit</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;You can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152015</id>
+      <name>Scourge of the Nobilis</name>
+      <cost>{2}{R/W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As long as enchanted creature is red, it gets +1/+1 and has &quot;{R/W}: This creature gets +1/+0 until end of turn.&quot; &lt;br&gt;As long as enchanted creature is white, it gets +1/+1 and has lifelink. &lt;i&gt;(Whenever it deals damage, its controller gains that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152032</id>
+      <name>Noggle Ransacker</name>
+      <cost>{2}{U/R}</cost>
+      <type>Creature - Noggle Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Noggle Ransacker comes into play, each player draws two cards, then discards a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152033</id>
+      <name>Canker Abomination</name>
+      <cost>{2}{B/G}{B/G}</cost>
+      <type>Creature - Treefolk Horror</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Canker Abomination comes into play, choose an opponent. Canker Abomination comes into play with a -1/-1 counter on it for each creature that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152034</id>
+      <name>Puncture Blast</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Puncture Blast deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152044</id>
+      <name>Spitemare</name>
+      <cost>{2}{R/W}{R/W}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152046</id>
+      <name>Gilder Bairn</name>
+      <cost>{1}{G/U}{G/U}</cost>
+      <type>Creature - Ouphe</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{G/U}, {Q}: For each counter on target permanent, put another of those counters on that permanent. &lt;i&gt;({Q} is the untap symbol.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152049</id>
+      <name>Impelled Giant</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152080</id>
+      <name>Necroskitter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Whenever a creature an opponent controls with a -1/-1 counter on it is put into a graveyard, you may return that card to play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152086</id>
+      <name>Quillspike</name>
+      <cost>{2}{B/G}</cost>
+      <type>Creature - Beast</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152087</id>
+      <name>Fable of Wolf and Owl</name>
+      <cost>{3}{G/U}{G/U}{G/U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a green spell, you may put a 2/2 green Wolf creature token into play. &lt;br&gt;Whenever you play a blue spell, you may put a 1/1 blue Bird creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152089</id>
+      <name>Harvest Gwyllion</name>
+      <cost>{2}{W/B}{W/B}</cost>
+      <type>Creature - Hag</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152091</id>
+      <name>Murkfiend Liege</name>
+      <cost>{2}{G/U}{G/U}{G/U}</cost>
+      <type>Creature - Horror</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other green creatures you control get +1/+1. &lt;br&gt;Other blue creatures you control get +1/+1. &lt;br&gt;Untap all green and/or blue creatures you control during each other player&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152092</id>
+      <name>Clout of the Dominus</name>
+      <cost>{U/R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As long as enchanted creature is blue, it gets +1/+1 and has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;As long as enchanted creature is red, it gets +1/+1 and has haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152096</id>
+      <name>Kithkin Spellduster</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Kithkin Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{W}, Sacrifice Kithkin Spellduster: Destroy target enchantment. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152106</id>
+      <name>Mirror Sheen</name>
+      <cost>{1}{U/R}{U/R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{U/R}{U/R}: Copy target instant or sorcery spell that targets you. You may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152140</id>
+      <name>Trapjaw Kelpie</name>
+      <cost>{4}{G/U}{G/U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>152155</id>
+      <name>Hateflayer</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;{2}{R}, {Q}: Hateflayer deals damage equal to its power to target creature or player. &lt;i&gt;({Q} is the untap symbol.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153032</id>
+      <name>Springjack Shepherd</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kithkin Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - When Springjack Shepherd comes into play, put a 0/1 white Goat creature token into play for each white mana symbol in the mana costs of permanents you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153036</id>
+      <name>Dream Fracture</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell. Its controller draws a card. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153037</id>
+      <name>Stillmoon Cavalier</name>
+      <cost>{1}{W/B}{W/B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from white and from black &lt;br&gt;{W/B}: Stillmoon Cavalier gains flying until end of turn. &lt;br&gt;{W/B}: Stillmoon Cavalier gains first strike until end of turn. &lt;br&gt;{W/B}{W/B}: Stillmoon Cavalier gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153039</id>
+      <name>Double Cleave</name>
+      <cost>{1}{R/W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153049</id>
+      <name>Stigma Lasher</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Elemental Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Whenever Stigma Lasher deals damage to a player, that player can&apos;t gain life for the rest of the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153056</id>
+      <name>Groundling Pouncer</name>
+      <cost>{1}{G/U}</cost>
+      <type>Creature - Faerie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G/U}: Groundling Pouncer gets +1/+3 and gains flying until end of turn. Play this ability only once each turn and only if an opponent controls a creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153058</id>
+      <name>Nucklavee</name>
+      <cost>{4}{U/R}{U/R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Nucklavee comes into play, you may return target red sorcery card from your graveyard to your hand. &lt;br&gt;When Nucklavee comes into play, you may return target blue instant card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153419</id>
+      <name>Cache Raiders</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, return a permanent you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153420</id>
+      <name>Suture Spirit</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{W/B}{W/B}{W/B}: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153422</id>
+      <name>Indigo Faerie</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{U}: Target permanent becomes blue in addition to its other colors until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153425</id>
+      <name>Twilight Mire</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153426</id>
+      <name>Hotheaded Giant</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;Hotheaded Giant comes into play with two -1/-1 counters on it unless you played another red spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153427</id>
+      <name>Aerie Ouphes</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Ouphe</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Aerie Ouphes: Aerie Ouphes deals damage equal to its power to target creature with flying. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153428</id>
+      <name>Grazing Kelpie</name>
+      <cost>{3}{G/U}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G/U}, Sacrifice Grazing Kelpie: Put target card in a graveyard on the bottom of its owner&apos;s library. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153430</id>
+      <name>Talonrend</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{U/R}: Talonrend gets +1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153431</id>
+      <name>Primalcrux</name>
+      <cost>{G}{G}{G}{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;&lt;i&gt;Chroma&lt;/i&gt; - Primalcrux&apos;s power and toughness are each equal to the number of green mana symbols in the mana costs of permanents you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153432</id>
+      <name>Flame Jab</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flame Jab deals 1 damage to target creature or player. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153433</id>
+      <name>Cascade Bluffs</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153434</id>
+      <name>Rugged Prairie</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153435</id>
+      <name>Recumbent Bliss</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack or block. &lt;br&gt;At the beginning of your upkeep, you may gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153436</id>
+      <name>Twinblade Slasher</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;{1}{G}: Twinblade Slasher gets +2/+2 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153437</id>
+      <name>Duergar Cave-Guard</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Dwarf Warrior</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;{R/W}: Duergar Cave-Guard gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153438</id>
+      <name>Savage Conception</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put a 3/3 green Beast creature token into play. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153439</id>
+      <name>Glamerdye</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the text of target spell or permanent by replacing all instances of one color word with another. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153441</id>
+      <name>Monstrify</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +4/+4 until end of turn. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153442</id>
+      <name>Razorfin Abolisher</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}, {T}: Return target creature with a counter on it to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153444</id>
+      <name>Voracious Hatchling</name>
+      <cost>{3}{W/B}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink &lt;br&gt;Voracious Hatchling comes into play with four -1/-1 counters on it. &lt;br&gt;Whenever you play a white spell, remove a -1/-1 counter from Voracious Hatchling. &lt;br&gt;Whenever you play a black spell, remove a -1/-1 counter from Voracious Hatchling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153446</id>
+      <name>Fetid Heath</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153447</id>
+      <name>Syphon Life</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player loses 2 life and you gain 2 life. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153448</id>
+      <name>Noxious Hatchling</name>
+      <cost>{3}{B/G}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Noxious Hatchling comes into play with four -1/-1 counters on it. &lt;br&gt;Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Whenever you play a black spell, remove a -1/-1 counter from Noxious Hatchling. &lt;br&gt;Whenever you play a green spell, remove a -1/-1 counter from Noxious Hatchling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153469</id>
+      <name>Cenn&apos;s Enlistment</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put two 1/1 white Kithkin Soldier creature tokens into play. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153471</id>
+      <name>Cold-Eyed Selkie</name>
+      <cost>{1}{G/U}{G/U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk &lt;br&gt;Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153473</id>
+      <name>Outrage Shaman</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - When Outrage Shaman comes into play, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153474</id>
+      <name>Needle Specter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Whenever Needle Specter deals combat damage to a player, that player discards that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153475</id>
+      <name>Oona&apos;s Grace</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player draws a card. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153476</id>
+      <name>Wilderness Hypnotist</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target red or green creature gets -2/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153477</id>
+      <name>Sturdy Hatchling</name>
+      <cost>{3}{G/U}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sturdy Hatchling comes into play with four -1/-1 counters on it. &lt;br&gt;{G/U}: Sturdy Hatchling gains shroud until end of turn. &lt;br&gt;Whenever you play a green spell, remove a -1/-1 counter from Sturdy Hatchling. &lt;br&gt;Whenever you play a blue spell, remove a -1/-1 counter from Sturdy Hatchling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153478</id>
+      <name>Belligerent Hatchling</name>
+      <cost>{3}{R/W}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;Belligerent Hatchling comes into play with four -1/-1 counters on it. &lt;br&gt;Whenever you play a red spell, remove a -1/-1 counter from Belligerent Hatchling. &lt;br&gt;Whenever you play a white spell, remove a -1/-1 counter from Belligerent Hatchling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153480</id>
+      <name>Ballynock Trapper</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Tap target creature. &lt;br&gt;Whenever you play a white spell, you may untap Ballynock Trapper.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153481</id>
+      <name>Flooded Grove</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153486</id>
+      <name>Shrewd Hatchling</name>
+      <cost>{3}{U/R}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shrewd Hatchling comes into play with four -1/-1 counters on it. &lt;br&gt;{U/R}: Target creature can&apos;t block Shrewd Hatchling this turn. &lt;br&gt;Whenever you play a blue spell, remove a -1/-1 counter from Shrewd Hatchling. &lt;br&gt;Whenever you play a red spell, remove a -1/-1 counter from Shrewd Hatchling.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153487</id>
+      <name>Raven&apos;s Crime</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards a card. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>153488</id>
+      <name>Deity of Scars</name>
+      <cost>{B/G}{B/G}{B/G}{B/G}{B/G}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Deity of Scars comes into play with two -1/-1 counters on it. &lt;br&gt;{B/G}, Remove a -1/-1 counter from Deity of Scars: Regenerate Deity of Scars.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154258</id>
+      <name>Nobilis of War</name>
+      <cost>{R/W}{R/W}{R/W}{R/W}{R/W}</cost>
+      <type>Creature - Spirit Avatar</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Attacking creatures you control get +2/+0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154261</id>
+      <name>Spitting Image</name>
+      <cost>{4}{G/U}{G/U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a token into play that&apos;s a copy of target creature. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154263</id>
+      <name>Inside Out</name>
+      <cost>{1}{U/R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Switch target creature&apos;s power and toughness until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154346</id>
+      <name>Kithkin Zealot</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Kithkin Zealot comes into play, you gain 1 life for each black and/or red permanent target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154348</id>
+      <name>Swirling Spriggan</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>154350</id>
+      <name>Banishing Knack</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, target creature gains &quot;{T}: Return target nonland permanent to its owner&apos;s hand.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157199</id>
+      <name>Endure</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all damage that would be dealt to you and permanents you control this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157200</id>
+      <name>Fiery Bombardment</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - {2}, Sacrifice a creature: Fiery Bombardment deals damage to target creature or player equal to the number of red mana symbols in the sacrificed creature&apos;s mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157201</id>
+      <name>Hearthfire Hobgoblin</name>
+      <cost>{R/W}{R/W}{R/W}</cost>
+      <type>Creature - Goblin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Double strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157202</id>
+      <name>Unwilling Recruit</name>
+      <cost>{X}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gets +X/+0 and gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157204</id>
+      <name>Sanity Grinding</name>
+      <cost>{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - Reveal the top ten cards of your library. For each blue mana symbol in the mana costs of the revealed cards, target opponent puts the top card of his or her library into his or her graveyard. Then put the cards you revealed this way on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157206</id>
+      <name>Creakwood Ghoul</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Plant Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B/G}{B/G}: Remove target card in a graveyard from the game. You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157207</id>
+      <name>Dream Thief</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Faerie Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Dream Thief comes into play, draw a card if you played another blue spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157210</id>
+      <name>Patrol Signaler</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{W}, {Q}: Put a 1/1 white Kithkin Soldier creature token into play. &lt;i&gt;({Q} is the untap symbol.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157211</id>
+      <name>Smoldering Butcher</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157285</id>
+      <name>Crag Puca</name>
+      <cost>{U/R}{U/R}{U/R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U/R}: Switch Crag Puca&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157286</id>
+      <name>Noggle Bandit</name>
+      <cost>{1}{U/R}{U/R}</cost>
+      <type>Creature - Noggle Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Noggle Bandit can&apos;t be blocked except by creatures with defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157288</id>
+      <name>Deathbringer Liege</name>
+      <cost>{2}{W/B}{W/B}{W/B}</cost>
+      <type>Creature - Horror</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other white creatures you control get +1/+1. &lt;br&gt;Other black creatures you control get +1/+1. &lt;br&gt;Whenever you play a white spell, you may tap target creature. &lt;br&gt;Whenever you play a black spell, you may destroy target creature if it&apos;s tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157291</id>
+      <name>Restless Apparition</name>
+      <cost>{W/B}{W/B}{W/B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157393</id>
+      <name>Cankerous Thirst</name>
+      <cost>{3}{B/G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If {B} was spent to play Cankerous Thirst, you may have target creature get -3/-3 until end of turn. If {G} was spent to play Cankerous Thirst, you may have target creature get +3/+3 until end of turn. &lt;i&gt;(Do both if {B}{G} was spent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157394</id>
+      <name>Hallowed Burial</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put all creatures on the bottom of their owners&apos; libraries.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157395</id>
+      <name>Talara&apos;s Battalion</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Play Talara&apos;s Battalion only if you played another green spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157397</id>
+      <name>Pyrrhic Revival</name>
+      <cost>{3}{W/B}{W/B}{W/B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player returns each creature card in his or her graveyard to play with an additional -1/-1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157399</id>
+      <name>Umbra Stalker</name>
+      <cost>{4}{B}{B}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;Chroma&lt;/i&gt; - Umbra Stalker&apos;s power and toughness are each equal to the number of black mana symbols in the mana costs of cards in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157400</id>
+      <name>Call the Skybreaker</name>
+      <cost>{5}{U/R}{U/R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a 5/5 blue and red Elemental creature token with flying into play. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157401</id>
+      <name>Snakeform</name>
+      <cost>{2}{G/U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature loses all abilities and becomes a 1/1 green Snake until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157403</id>
+      <name>Moonhold</name>
+      <cost>{2}{R/W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player can&apos;t play land cards this turn if {R} was spent to play Moonhold and can&apos;t play creature cards this turn if {W} was spent to play it. &lt;i&gt;(Do both if {R}{W} was spent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157405</id>
+      <name>Wake Thrasher</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157406</id>
+      <name>Creakwood Liege</name>
+      <cost>{1}{B/G}{B/G}{B/G}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other black creatures you control get +1/+1. &lt;br&gt;Other green creatures you control get +1/+1. &lt;br&gt;At the beginning of your upkeep, you may put a 1/1 black and green Worm creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157407</id>
+      <name>Batwing Brume</name>
+      <cost>{1}{W/B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn if {W} was spent to play Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if {B} was spent to play Batwing Brume. &lt;i&gt;(Do both if {W}{B} was spent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157411</id>
+      <name>Thunderblust</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;Thunderblust has trample as long as it has a -1/-1 counter on it. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157412</id>
+      <name>Idle Thoughts</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Draw a card if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157414</id>
+      <name>Nightmare Incursion</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target player&apos;s library for up to X cards, where X is the number of Swamps you control, and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157415</id>
+      <name>Beckon Apparition</name>
+      <cost>{W/B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target card in a graveyard from the game. Put a 1/1 white and black Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157416</id>
+      <name>Unnerving Assault</name>
+      <cost>{2}{U/R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures your opponents control get -1/-0 until end of turn if {U} was spent to play Unnerving Assault, and creatures you control get +1/+0 until end of turn if {R} was spent to play it. &lt;i&gt;(Do both if {U}{R} was spent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157419</id>
+      <name>Desecrator Hag</name>
+      <cost>{2}{B/G}{B/G}</cost>
+      <type>Creature - Hag</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Desecrator Hag comes into play, return to your hand the creature card in your graveyard with the highest power. If two or more cards are tied for highest power, you choose one of them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157420</id>
+      <name>Crackleburr</name>
+      <cost>{1}{U/R}{U/R}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U/R}{U/R}, {T}, Tap two untapped red creatures you control: Crackleburr deals 3 damage to target creature or player. &lt;br&gt;{U/R}{U/R}, {Q}, Untap two tapped blue creatures you control: Return target creature to its owner&apos;s hand. &lt;i&gt;({Q} is the untap symbol.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157971</id>
+      <name>Leering Emblem</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a spell, equipped creature gets +2/+2 until end of turn. &lt;br&gt;Equip {2}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157972</id>
+      <name>Ward of Bones</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each opponent who controls more creatures than you can&apos;t play creature cards. The same is true for artifacts, enchantments, and lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157973</id>
+      <name>Sapling of Colfenor</name>
+      <cost>{3}{B/G}{B/G}</cost>
+      <type>Legendary Creature - Treefolk Shaman</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sapling of Colfenor is indestructible. &lt;br&gt;Whenever Sapling of Colfenor attacks, reveal the top card of your library. If it&apos;s a creature card, you gain life equal to that card&apos;s toughness, lose life equal to its power, then put it into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157974</id>
+      <name>Altar Golem</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Altar Golem&apos;s power and toughness are each equal to the number of creatures in play. &lt;br&gt;Altar Golem doesn&apos;t untap during your untap step. &lt;br&gt;Tap five untapped creatures you control: Untap Altar Golem.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157975</id>
+      <name>Endless Horizons</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Endless Horizons comes into play, search your library for any number of Plains cards and remove them from the game. Then shuffle your library. &lt;br&gt;At the beginning of your upkeep, you may put a card you own removed from the game with Endless Horizons into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157976</id>
+      <name>Springjack Pasture</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{4}, {T}: Put a 0/1 white Goat creature token into play. &lt;br&gt;{T}, Sacrifice X Goats: Add X mana of any one color to your mana pool. You gain X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157977</id>
+      <name>Glen Elendra Archmage</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell. &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157978</id>
+      <name>Evershrike</name>
+      <cost>{3}{W/B}{W/B}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Evershrike gets +2/+2 for each Aura attached to it. &lt;br&gt;{X}{W/B}{W/B}: Return Evershrike from your graveyard to play. You may put an Aura card with converted mana cost X or less from your hand into play attached to it. If you don&apos;t, remove Evershrike from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157979</id>
+      <name>Scarecrone</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Sacrifice a Scarecrow: Draw a card. &lt;br&gt;{4}, {T}: Return target artifact creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>157980</id>
+      <name>Hag Hedge-Mage</name>
+      <cost>{2}{B/G}</cost>
+      <type>Creature - Hag Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Hag Hedge-Mage comes into play, if you control two or more Swamps, you may have target player discard a card. &lt;br&gt;When Hag Hedge-Mage comes into play, if you control two or more Forests, you may put target card in your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158103</id>
+      <name>Crumbling Ashes</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, destroy target creature with a -1/-1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158104</id>
+      <name>Balefire Liege</name>
+      <cost>{2}{R/W}{R/W}{R/W}</cost>
+      <type>Creature - Spirit Horror</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other red creatures you control get +1/+1. &lt;br&gt;Other white creatures you control get +1/+1. &lt;br&gt;Whenever you play a red spell, Balefire Liege deals 3 damage to target player. &lt;br&gt;Whenever you play a white spell, you gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158106</id>
+      <name>Figure of Destiny</name>
+      <cost>{R/W}</cost>
+      <type>Creature - Kithkin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit. &lt;br&gt;{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior. &lt;br&gt;{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158107</id>
+      <name>Waves of Aggression</name>
+      <cost>{3}{R/W}{R/W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase. &lt;br&gt;Retrace &lt;i&gt;(You may play this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158108</id>
+      <name>Rekindled Flame</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Rekindled Flame deals 4 damage to target creature or player. &lt;br&gt;At the beginning of your upkeep, if an opponent has no cards in hand, you may return Rekindled Flame from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158293</id>
+      <name>Antler Skulkin</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Target white creature gains persist until end of turn. &lt;i&gt;(When it&apos;s put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158294</id>
+      <name>Hoof Skulkin</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}: Target green creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158295</id>
+      <name>Jawbone Skulkin</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Target red creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158296</id>
+      <name>Fang Skulkin</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Target black creature gains wither until end of turn. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158297</id>
+      <name>Shell Skulkin</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}: Target blue creature gains shroud until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158599</id>
+      <name>Woodlurker Mimic</name>
+      <cost>{1}{B/G}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a spell that&apos;s both black and green, Woodlurker Mimic becomes 4/5 and gains wither until end of turn. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158899</id>
+      <name>Noggle Bridgebreaker</name>
+      <cost>{2}{U/R}{U/R}</cost>
+      <type>Creature - Noggle Rogue</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Noggle Bridgebreaker comes into play, return a land you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158900</id>
+      <name>Soot Imp</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever a player plays a nonblack spell, that player loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158901</id>
+      <name>Bloom Tender</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eventide</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: For each color among permanents you control, add one mana of that color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158902</id>
+      <name>Rendclaw Trow</name>
+      <cost>{2}{B/G}</cost>
+      <type>Creature - Troll</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wither &lt;i&gt;(This deals damage to creatures in the form of -1/-1 counters.)&lt;/i&gt; &lt;br&gt;Persist &lt;i&gt;(When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner&apos;s control with a -1/-1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>158903</id>
+      <name>Chaotic Backlash</name>
+      <cost>{4}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Chaotic Backlash deals damage to target player equal to twice the number of white and/or blue permanents he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159066</id>
+      <name>Noggle Hedge-Mage</name>
+      <cost>{2}{U/R}</cost>
+      <type>Creature - Noggle Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Noggle Hedge-Mage comes into play, if you control two or more Islands, you may tap two target permanents. &lt;br&gt;When Noggle Hedge-Mage comes into play, if you control two or more Mountains, you may have Noggle Hedge-Mage deal 2 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159067</id>
+      <name>Selkie Hedge-Mage</name>
+      <cost>{2}{G/U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Selkie Hedge-Mage comes into play, if you control two or more Forests, you may gain 3 life. &lt;br&gt;When Selkie Hedge-Mage comes into play, if you control two or more Islands, you may return target tapped creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159068</id>
+      <name>Duergar Hedge-Mage</name>
+      <cost>{2}{R/W}</cost>
+      <type>Creature - Dwarf Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Duergar Hedge-Mage comes into play, if you control two or more Mountains, you may destroy target artifact. &lt;br&gt;When Duergar Hedge-Mage comes into play, if you control two or more Plains, you may destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159069</id>
+      <name>Gwyllion Hedge-Mage</name>
+      <cost>{2}{W/B}</cost>
+      <type>Creature - Hag Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eventide</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Gwyllion Hedge-Mage comes into play, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token into play. &lt;br&gt;When Gwyllion Hedge-Mage comes into play, if you control two or more Swamps, you may put a -1/-1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

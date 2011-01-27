@@ -1,0 +1,1008 @@
+<cards>
+  <name>Fallen_Empires</name>
+  <key>Fallen_Empires</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>1827</id>
+      <name>Aeolipile</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1828</id>
+      <name>Balm of Restoration</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Balm of Restoration: Choose one - You gain 2 life; or prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1829</id>
+      <name>Conch Horn</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1830</id>
+      <name>Delif&apos;s Cone</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Delif&apos;s Cone: This turn, when target creature you control attacks and isn&apos;t blocked, you may gain life equal to its power. If you do, it deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1831</id>
+      <name>Delif&apos;s Cube</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: This turn, when target creature you control attacks and isn&apos;t blocked, it deals no combat damage this turn and you put a cube counter on Delif&apos;s Cube. &lt;br&gt; &lt;br&gt;{2}, Remove a cube counter from Delif&apos;s Cube: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1832</id>
+      <name>Draconian Cylix</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}, Discard a card at random: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1833</id>
+      <name>Elven Lyre</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1834</id>
+      <name>Implements of Sacrifice</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1835</id>
+      <name>Ring of Renewal</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}, Discard a card at random: Draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1836</id>
+      <name>Spirit Shield</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Spirit Shield during your untap step. &lt;br&gt; &lt;br&gt;{2}, {T}: Target creature gets +0/+2 as long as Spirit Shield remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1837</id>
+      <name>Zelyon Sword</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Zelyon Sword during your untap step. &lt;br&gt; &lt;br&gt;{3}, {T}: Target creature gets +2/+0 as long as Zelyon Sword remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1841</id>
+      <name>Armor Thrull</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1842</id>
+      <name>Basal Thrull</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1848</id>
+      <name>Ebon Praetor</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Avatar</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample, first strike &lt;br&gt;At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor unless you sacrifice a creature. If you sacrifice a Thrull this way, put a +1/+0 counter on Ebon Praetor.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1850</id>
+      <name>Hymn to Tourach</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards two cards at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1863</id>
+      <name>Order of the Ebon Hand</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Cleric Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from white &lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn. &lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1865</id>
+      <name>Soul Exchange</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Soul Exchange, remove a creature you control from the game. &lt;br&gt;Return target creature card from your graveyard to play. Put a +2/+2 counter on that creature if the removed creature was a Thrull.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1866</id>
+      <name>Thrull Champion</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Thrull creatures get +1/+1. &lt;br&gt;{T}: Gain control of target Thrull as long as you control Thrull Champion.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1868</id>
+      <name>Thrull Wizard</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Thrull Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{B}: Counter target black spell unless that spell&apos;s controller pays {B} or {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1869</id>
+      <name>Tourach&apos;s Chant</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Tourach&apos;s Chant unless you pay {B}. &lt;br&gt; &lt;br&gt;Whenever a player puts a Forest into play, Tourach&apos;s Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1870</id>
+      <name>Tourach&apos;s Gate</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Sacrifice a Thrull: Put three time counters on Tourach&apos;s Gate. &lt;br&gt;At the beginning of your upkeep, remove a time counter from Tourach&apos;s Gate. If there are no time counters on Tourach&apos;s Gate, sacrifice it. &lt;br&gt;Enchanted land has &quot;{T}: Attacking creatures you control get +2/-1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1871</id>
+      <name>Deep Spawn</name>
+      <cost>{5}{U}{U}{U}</cost>
+      <type>Creature - Homarid</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard. &lt;br&gt;{U}: Deep Spawn gains shroud until end of turn and doesn&apos;t untap during its controller&apos;s next untap step. Tap Deep Spawn. &lt;i&gt;(A permanent with shroud can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1874</id>
+      <name>High Tide</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1876</id>
+      <name>Homarid</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Homarid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Homarid comes into play with a tide counter on it. &lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid. &lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1. &lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1. &lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1879</id>
+      <name>Homarid Shaman</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Homarid Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}: Tap target green creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1880</id>
+      <name>Homarid Spawning Bed</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}{U}, Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens into play, where X is the sacrificed creature&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1887</id>
+      <name>Merseine</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Merseine comes into play with three net counters on it. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step as long as Merseine has a net counter on it. &lt;br&gt;Enchanted creature has &quot;Pay this creature&apos;s mana cost: Remove a net counter from a Merseine attached to this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1888</id>
+      <name>River Merfolk</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}: River Merfolk gains mountainwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1890</id>
+      <name>Svyelunite Priest</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}{U}, {T}: Target creature gains shroud until end of turn. Play this ability only during your upkeep. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1892</id>
+      <name>Tidal Flats</name>
+      <cost>{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn&apos;t, creatures you control blocking that creature gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1894</id>
+      <name>Tidal Influence</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Tidal Influence only if no permanents named Tidal Influence are in play. &lt;br&gt; &lt;br&gt;Tidal Influence comes into play with a tide counter on it. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, put a tide counter on Tidal Influence. &lt;br&gt; &lt;br&gt;As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0. &lt;br&gt; &lt;br&gt;As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0. &lt;br&gt; &lt;br&gt;Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1895</id>
+      <name>Vodalian Knights</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Merfolk Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike &lt;br&gt;Vodalian Knights can&apos;t attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Vodalian Knights. &lt;br&gt;{U}: Vodalian Knights gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1898</id>
+      <name>Vodalian Mage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}: Counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1903</id>
+      <name>Vodalian War Machine</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn&apos;t have defender. &lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn. &lt;br&gt;When Vodalian War Machine is put into a graveyard from play, destroy all Merfolk tapped this turn to pay for its abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1906</id>
+      <name>Elven Fortress</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}: Target blocking creature gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1908</id>
+      <name>Elvish Farmer</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Elvish Farmer. &lt;br&gt;Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1911</id>
+      <name>Elvish Hunter</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Archer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}, {T}: Target creature doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1914</id>
+      <name>Elvish Scout</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1915</id>
+      <name>Feral Thallid</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>6</power>
+      <toughness>3</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Feral Thallid. &lt;br&gt; &lt;br&gt;Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1916</id>
+      <name>Fungal Bloom</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}{G}: Put a spore counter on target Fungus.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1919</id>
+      <name>Night Soil</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, Remove two creature cards in a single graveyard from the game: Put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1921</id>
+      <name>Spore Cloud</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1923</id>
+      <name>Spore Flower</name>
+      <cost>{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Spore Flower. &lt;br&gt;Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1926</id>
+      <name>Thallid</name>
+      <cost>{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid. &lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1928</id>
+      <name>Thallid Devourer</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid Devourer. &lt;br&gt; &lt;br&gt;Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token into play. &lt;br&gt; &lt;br&gt;Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1929</id>
+      <name>Thelon&apos;s Chant</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Thelon&apos;s Chant unless you pay {G}. &lt;br&gt; &lt;br&gt;Whenever a player puts a Swamp into play, Thelon&apos;s Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1930</id>
+      <name>Thelon&apos;s Curse</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Blue creatures don&apos;t untap during their controllers&apos; untap steps. &lt;br&gt; &lt;br&gt;Blue creatures have &quot;At the beginning of your upkeep, you may pay {U}. If you do, untap this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1931</id>
+      <name>Thelonite Druid</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Cleric Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}, {T}, Sacrifice a creature: Until end of turn, all Forests you control become 2/3 creatures that are still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1932</id>
+      <name>Thelonite Monk</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Insect Monk Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice a green creature: Target land becomes a Forest. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1934</id>
+      <name>Thorn Thallid</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thorn Thallid. &lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1941</id>
+      <name>Dwarven Armorer</name>
+      <cost>{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1943</id>
+      <name>Dwarven Lieutenant</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Dwarf Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1947</id>
+      <name>Goblin Chirurgeon</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Goblin: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1950</id>
+      <name>Goblin Flotilla</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk &lt;br&gt;At the beginning of combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1951</id>
+      <name>Goblin Grenade</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Goblin Grenade, sacrifice a Goblin. &lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1954</id>
+      <name>Goblin Kites</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at end of turn. If you lose the flip, sacrifice that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1967</id>
+      <name>Orcish Veteran</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Orcish Veteran can&apos;t block white creatures with power 2 or greater. &lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1969</id>
+      <name>Raiding Party</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Raiding Party can&apos;t be the target of white spells or abilities from white sources. &lt;br&gt; &lt;br&gt;Sacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren&apos;t chosen this way by any player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1970</id>
+      <name>Combat Medic</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric Soldier</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1974</id>
+      <name>Farrel&apos;s Mantle</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;Whenever this creature attacks and isn&apos;t blocked, you may have it deal X plus 2 damage to target creature, where X is this creature&apos;s power. If you do, this creature deals no combat damage this turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1977</id>
+      <name>Farrel&apos;s Zealot</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Farrel&apos;s Zealot attacks and isn&apos;t blocked, you may have it deal 3 damage to target creature. If you do, Farrel&apos;s Zealot deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1978</id>
+      <name>Farrelite Priest</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Add {W} to your mana pool. At end of turn, if this ability has been played four or more times this turn, sacrifice Farrelite Priest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1979</id>
+      <name>Hand of Justice</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Avatar</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Tap three untapped white creatures you control: Destroy target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1980</id>
+      <name>Heroism</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by it this turn unless the attacking player pays {2}{R}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1984</id>
+      <name>Icatian Infantry</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: Icatian Infantry gains banding until end of turn. &lt;br&gt;{1}: Icatian Infantry gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1987</id>
+      <name>Icatian Javelineers</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Icatian Javelineers comes into play with a javelin counter on it. &lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1988</id>
+      <name>Icatian Lieutenant</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}: Target Soldier creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1990</id>
+      <name>Icatian Moneychanger</name>
+      <cost>{W}</cost>
+      <type>Creature - Human</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Icatian Moneychanger comes into play with three credit counters on it. &lt;br&gt;When Icatian Moneychanger comes into play, it deals 3 damage to you. &lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger. &lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1998</id>
+      <name>Icatian Skirmishers</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Banding, first strike &lt;br&gt;Whenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2000</id>
+      <name>Order of Leitbur</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Cleric Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from black &lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn. &lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2003</id>
+      <name>Bottomless Vault</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Bottomless Vault comes into play tapped. &lt;br&gt; &lt;br&gt;You may choose not to untap Bottomless Vault during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it. &lt;br&gt; &lt;br&gt;{T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2004</id>
+      <name>Dwarven Hold</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Dwarven Hold comes into play tapped. &lt;br&gt; &lt;br&gt;You may choose not to untap Dwarven Hold during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it. &lt;br&gt; &lt;br&gt;{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2007</id>
+      <name>Havenwood Battleground</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Havenwood Battleground comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2008</id>
+      <name>Hollow Trees</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hollow Trees comes into play tapped. &lt;br&gt; &lt;br&gt;You may choose not to untap Hollow Trees during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it. &lt;br&gt; &lt;br&gt;{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2009</id>
+      <name>Icatian Store</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Icatian Store comes into play tapped. &lt;br&gt; &lt;br&gt;You may choose not to untap Icatian Store during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it. &lt;br&gt; &lt;br&gt;{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2010</id>
+      <name>Rainbow Vale</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2011</id>
+      <name>Ruins of Trokair</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fallen Empires</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Ruins of Trokair comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,1723 @@
+<cards>
+  <name>Planeshift</name>
+  <key>Planeshift</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>12691</id>
+      <name>Radiant Kavu</name>
+      <cost>{R}{G}{W}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15144</id>
+      <name>Dralnu&apos;s Pet</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker-{2}{B}, Discard a creature card. &lt;I&gt;(You may pay &lt;/I&gt;{2}{B}&lt;I&gt; and discard a creature card in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Dralnu&apos;s Pet has flying and comes into play with X +1/+1 counters on it, where X is the discarded card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19141</id>
+      <name>Guard Dogs</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19149</id>
+      <name>Ancient Spider</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike, reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19358</id>
+      <name>Keldon Mantle</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{B}: Regenerate enchanted creature. &lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn. &lt;br&gt;{G}: Enchanted creature gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21276</id>
+      <name>Escape Routes</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{U}: Return target white or black creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21323</id>
+      <name>Keldon Twilight</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each player&apos;s turn, if no creatures attacked that turn, that player sacrifices a creature he or she controlled since the beginning of the turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22025</id>
+      <name>Slingshot Goblin</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22298</id>
+      <name>Multani&apos;s Harmony</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: Add one mana of any color to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22962</id>
+      <name>Samite Elder</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22980</id>
+      <name>Hunting Drake</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Hunting Drake comes into play, put target red or green creature on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23051</id>
+      <name>Doomsday Specter</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Doomsday Specter comes into play, return a blue or black creature you control to its owner&apos;s hand. &lt;br&gt;Whenever Doomsday Specter deals combat damage to a player, look at that player&apos;s hand and choose a card from it. The player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23113</id>
+      <name>Pygmy Kavu</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Pygmy Kavu comes into play, draw a card for each black creature your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25614</id>
+      <name>Ertai, the Corrupted</name>
+      <cost>{2}{W}{U}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25615</id>
+      <name>Sunscape Familiar</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Green spells and blue spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25616</id>
+      <name>Stormscape Familiar</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;White spells and black spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25617</id>
+      <name>Thunderscape Familiar</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt; &lt;br&gt;Black spells and green spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25618</id>
+      <name>Thornscape Familiar</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Red spells and white spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25646</id>
+      <name>Eladamri&apos;s Call</name>
+      <cost>{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25693</id>
+      <name>Nightscape Familiar</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Blue spells and red spells you play cost {1} less to play. &lt;br&gt;{1}{B}: Regenerate Nightscape Familiar.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25797</id>
+      <name>Draco</name>
+      <cost>{16}</cost>
+      <type>Artifact Creature - Dragon</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draco costs {2} less to play for each basic land type among lands you control. &lt;br&gt;Flying &lt;br&gt;At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25822</id>
+      <name>Daring Leap</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 and gains flying and first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25862</id>
+      <name>Dromar&apos;s Charm</name>
+      <cost>{W}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - You gain 5 life; or counter target spell; or target creature gets -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25863</id>
+      <name>Crosis&apos;s Charm</name>
+      <cost>{U}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Return target permanent to its owner&apos;s hand; or destroy target nonblack creature, and it can&apos;t be regenerated; or destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25864</id>
+      <name>Darigaaz&apos;s Charm</name>
+      <cost>{B}{R}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Return target creature card from your graveyard to your hand; or Darigaaz&apos;s Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25865</id>
+      <name>Rith&apos;s Charm</name>
+      <cost>{R}{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens into play; or prevent all damage a source of your choice would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25866</id>
+      <name>Treva&apos;s Charm</name>
+      <cost>{G}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Destroy target enchantment; or remove target attacking creature from the game; or draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25869</id>
+      <name>Stratadon</name>
+      <cost>{10}</cost>
+      <type>Artifact Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Stratadon costs {1} less to play for each basic land type among lands you control. &lt;br&gt; &lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25870</id>
+      <name>Malicious Advice</name>
+      <cost>{X}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap X target artifacts, creatures, and/or lands. You lose X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25871</id>
+      <name>Terminate</name>
+      <cost>{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25872</id>
+      <name>Hull Breach</name>
+      <cost>{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25873</id>
+      <name>Gerrard&apos;s Command</name>
+      <cost>{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap target creature. It gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25886</id>
+      <name>Planeswalker&apos;s Mirth</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{W}: Target opponent reveals a card at random in his or her hand. You gain life equal to that card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25887</id>
+      <name>Planeswalker&apos;s Mischief</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{U}: Target opponent reveals a card at random in his or her hand. If it&apos;s an instant or sorcery card, remove it from the game. As long as it remains removed from the game, you may play it without paying its mana cost. &lt;i&gt;(If it has X in its mana cost, X is 0.)&lt;/i&gt; At end of turn, if you haven&apos;t played it, return it to its owner&apos;s hand. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25888</id>
+      <name>Planeswalker&apos;s Scorn</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{B}: Target opponent reveals a card at random in his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card&apos;s converted mana cost. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25889</id>
+      <name>Planeswalker&apos;s Fury</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{R}: Target opponent reveals a card at random in his or her hand. Planeswalker&apos;s Fury deals damage equal to that card&apos;s converted mana cost to that player. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25890</id>
+      <name>Planeswalker&apos;s Favor</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{G}: Target opponent reveals a card at random in his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25893</id>
+      <name>Forsaken City</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Forsaken City doesn&apos;t untap during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, you may remove a card in your hand from the game. If you do, untap Forsaken City. &lt;br&gt; &lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25899</id>
+      <name>Cloud Cover</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25900</id>
+      <name>Singe</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Singe deals 1 damage to target creature. That creature becomes black until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25912</id>
+      <name>Sunscape Battlemage</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{G} and/or {2}{U} &lt;br&gt;When Sunscape Battlemage comes into play, if the {1}{G} kicker cost was paid, destroy target creature with flying. &lt;br&gt;When Sunscape Battlemage comes into play, if the {2}{U} kicker cost was paid, draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25913</id>
+      <name>Stormscape Battlemage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Metathran Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {W} and/or {2}{B} &lt;br&gt;When Stormscape Battlemage comes into play, if the {W} kicker cost was paid, you gain 3 life. &lt;br&gt;When Stormscape Battlemage comes into play, if the {2}{B} kicker cost was paid, destroy target nonblack creature. That creature can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25914</id>
+      <name>Nightscape Battlemage</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2}{U} and/or {2}{R} &lt;br&gt;When Nightscape Battlemage comes into play, if the {2}{U} kicker cost was paid, return up to two target nonblack creatures to their owners&apos; hands. &lt;br&gt;When Nightscape Battlemage comes into play, if the {2}{R} kicker cost was paid, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25915</id>
+      <name>Thunderscape Battlemage</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {1}{B} and/or {G} &lt;br&gt;When Thunderscape Battlemage comes into play, if the {1}{B} kicker cost was paid, target player discards two cards. &lt;br&gt;When Thunderscape Battlemage comes into play, if the {G} kicker cost was paid, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25916</id>
+      <name>Thornscape Battlemage</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {R} and/or {W} &lt;br&gt;When Thornscape Battlemage comes into play, if the {R} kicker cost was paid, it deals 2 damage to target creature or player. &lt;br&gt;When Thornscape Battlemage comes into play, if the {W} kicker cost was paid, destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25918</id>
+      <name>Urza&apos;s Guilt</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player draws two cards, then discards three cards, then loses 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25924</id>
+      <name>Shivan Wurm</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;When Shivan Wurm comes into play, return a red or green creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25925</id>
+      <name>Silver Drake</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Silver Drake comes into play, return a white or blue creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25926</id>
+      <name>Cavern Harpy</name>
+      <cost>{U}{B}</cost>
+      <type>Creature - Harpy Beast</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Cavern Harpy comes into play, return a blue or black creature you control to its owner&apos;s hand. &lt;br&gt;Pay 1 life: Return Cavern Harpy to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25927</id>
+      <name>Lava Zombie</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Lava Zombie comes into play, return a black or red creature you control to its owner&apos;s hand. &lt;br&gt;{2}: Lava Zombie gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25928</id>
+      <name>Horned Kavu</name>
+      <cost>{R}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Horned Kavu comes into play, return a red or green creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25929</id>
+      <name>Steel Leaf Paladin</name>
+      <cost>{4}{G}{W}</cost>
+      <type>Creature - Elf Knight</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;When Steel Leaf Paladin comes into play, return a green or white creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25931</id>
+      <name>Exotic Disease</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25932</id>
+      <name>Dromar&apos;s Cavern</name>
+      <cost></cost>
+      <type>Land - Lair</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Dromar&apos;s Cavern comes into play, sacrifice it unless you return a non-Lair land you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;{T}: Add {W}, {U}, or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25933</id>
+      <name>Sawtooth Loon</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Sawtooth Loon comes into play, return a white or blue creature you control to its owner&apos;s hand. &lt;br&gt;When Sawtooth Loon comes into play, draw two cards, then put two cards from your hand on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25934</id>
+      <name>Marsh Crocodile</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Creature - Crocodile</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Marsh Crocodile comes into play, return a blue or black creature you control to its owner&apos;s hand. &lt;br&gt;When Marsh Crocodile comes into play, each player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25935</id>
+      <name>Sparkcaster</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Sparkcaster comes into play, return a red or green creature you control to its owner&apos;s hand. &lt;br&gt;When Sparkcaster comes into play, it deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25936</id>
+      <name>Crosis&apos;s Catacombs</name>
+      <cost></cost>
+      <type>Land - Lair</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Crosis&apos;s Catacombs comes into play, sacrifice it unless you return a non-Lair land you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25937</id>
+      <name>Razing Snidd</name>
+      <cost>{4}{B}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Razing Snidd comes into play, return a black or red creature you control to its owner&apos;s hand. &lt;br&gt;When Razing Snidd comes into play, each player sacrifices a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25938</id>
+      <name>Darigaaz&apos;s Caldera</name>
+      <cost></cost>
+      <type>Land - Lair</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Darigaaz&apos;s Caldera comes into play, sacrifice it unless you return a non-Lair land you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;{T}: Add {B}, {R}, or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25939</id>
+      <name>Rith&apos;s Grove</name>
+      <cost></cost>
+      <type>Land - Lair</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Rith&apos;s Grove comes into play, sacrifice it unless you return a non-Lair land you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25940</id>
+      <name>Treva&apos;s Ruins</name>
+      <cost></cost>
+      <type>Land - Lair</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Treva&apos;s Ruins comes into play, sacrifice it unless you return a non-Lair land you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25941</id>
+      <name>Pollen Remedy</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice a land. &lt;I&gt;(You may sacrifice a land in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If the kicker cost was paid, prevent the next 6 damage this way instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25942</id>
+      <name>Rushing River</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice a land. &lt;I&gt;(You may sacrifice a land in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Return target nonland permanent to its owner&apos;s hand. If the kicker cost was paid, return another target nonland permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25943</id>
+      <name>Bog Down</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice two lands. &lt;I&gt;(You may sacrifice two lands in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt;Target player discards two cards. If the kicker cost was paid, that player discards three cards instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25944</id>
+      <name>Magma Burst</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice two lands. &lt;I&gt;(You may sacrifice two lands in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Magma Burst deals 3 damage to target creature or player. If the kicker cost was paid, Magma Burst deals 3 damage to another target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25945</id>
+      <name>Falling Timber</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice a land. &lt;I&gt;(You may sacrifice a land in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Prevent all combat damage target creature would deal this turn. If the kicker cost was paid, prevent all combat damage another target creature would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25954</id>
+      <name>Sinister Strength</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+1 and is black.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25979</id>
+      <name>Meteor Crater</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25980</id>
+      <name>Terminal Moraine</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26260</id>
+      <name>Implode</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26262</id>
+      <name>Flametongue Kavu</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Flametongue Kavu comes into play, it deals 4 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26263</id>
+      <name>Honorable Scout</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Honorable Scout comes into play, you gain 2 life for each black and/or red creature target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26268</id>
+      <name>Kavu Recluse</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes a Forest until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26271</id>
+      <name>Samite Pilgrim</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26275</id>
+      <name>Mogg Jailer</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Mogg Jailer can&apos;t attack if defending player controls an untapped creature with power 2 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26277</id>
+      <name>March of Souls</name>
+      <cost>{4}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures. They can&apos;t be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26280</id>
+      <name>Phyrexian Bloodstock</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Phyrexian Bloodstock leaves play, destroy target white creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26281</id>
+      <name>Phyrexian Tyranny</name>
+      <cost>{U}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26284</id>
+      <name>Aurora Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{W}: Target permanent becomes white until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26285</id>
+      <name>Disciple of Kangee</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}: Target creature gains flying and becomes blue until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26288</id>
+      <name>Strafe</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Strafe deals 3 damage to target nonred creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26292</id>
+      <name>Hobble</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Hobble comes into play, draw a card. &lt;br&gt;Enchanted creature can&apos;t attack. &lt;br&gt;Enchanted creature can&apos;t block if it&apos;s black.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26348</id>
+      <name>Quirion Explorer</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26360</id>
+      <name>Arctic Merfolk</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Return a creature you control to its owner&apos;s hand. &lt;I&gt;(You may return a creature you control to its owner&apos;s hand in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Arctic Merfolk comes into play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26362</id>
+      <name>Sea Snidd</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes the basic land type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26363</id>
+      <name>Mire Kavu</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mire Kavu gets +1/+1 as long as you control a Swamp.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26368</id>
+      <name>Volcano Imp</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{1}{R}: Volcano Imp gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26377</id>
+      <name>Stone Kavu</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Stone Kavu gets +1/+0 until end of turn. &lt;br&gt;{W}: Stone Kavu gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26381</id>
+      <name>Mana Cylix</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26382</id>
+      <name>Aura Blast</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target enchantment. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26383</id>
+      <name>Allied Strategies</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player draws a card for each basic land type among lands he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26396</id>
+      <name>Primal Growth</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-Sacrifice a creature. &lt;I&gt;(You may sacrifice a creature in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Search your library for a basic land card, put that card into play, then shuffle your library. If the kicker cost was paid, instead search your library for two basic land cards, put them into play, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26397</id>
+      <name>Magnigoth Treefolk</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26402</id>
+      <name>Skyshroud Blessing</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lands gain shroud until end of turn. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26403</id>
+      <name>Surprise Deployment</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Surprise Deployment only during combat. &lt;br&gt;You may put a nonwhite creature card from your hand into play. At end of turn, return that creature to your hand. &lt;I&gt;(Return it only if it&apos;s in play.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26407</id>
+      <name>Sisay&apos;s Ingenuity</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Sisay&apos;s Ingenuity comes into play, draw a card. &lt;br&gt;Enchanted creature has &quot;{2}{U}: Target creature becomes the color of your choice until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26408</id>
+      <name>Tahngarth, Talruum Hero</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Minotaur Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Vigilance &lt;br&gt;{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26409</id>
+      <name>Amphibious Kavu</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26410</id>
+      <name>Natural Emergence</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Natural Emergence comes into play, return a red or green enchantment you control to its owner&apos;s hand. &lt;br&gt; &lt;br&gt;Lands you control are 2/2 creatures with first strike. They&apos;re still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26412</id>
+      <name>Nemata, Grove Guardian</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Legendary Creature - Treefolk</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{G}: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26414</id>
+      <name>Dark Suspicions</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, that player loses 1 life for each card in his or her hand more than you have in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26415</id>
+      <name>Insolence</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26420</id>
+      <name>Heroic Defiance</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26422</id>
+      <name>Diabolic Intent</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Diabolic Intent, sacrifice a creature. &lt;br&gt; &lt;br&gt;Search your library for a card and put that card into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26423</id>
+      <name>Dominaria&apos;s Judgment</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26437</id>
+      <name>Caldera Kavu</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{B}: Caldera Kavu gets +1/+1 until end of turn. &lt;br&gt;{G}: Caldera Kavu becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26477</id>
+      <name>Phyrexian Scuta</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker-Pay 3 life. &lt;I&gt;(You may pay 3 life in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt;If the kicker cost was paid, Phyrexian Scuta comes into play with two +1/+1 counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26478</id>
+      <name>Noxious Vapors</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26479</id>
+      <name>Fleetfoot Panther</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;br&gt;When Fleetfoot Panther comes into play, return a green or white creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26480</id>
+      <name>Skyship Weatherlight</name>
+      <cost>{4}</cost>
+      <type>Legendary Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Skyship Weatherlight comes into play, search your library for any number of artifact and/or creature cards and remove them from the game. Then shuffle your library. &lt;br&gt;{4}, {T}: Choose a card at random that was removed from the game with Skyship Weatherlight. Put that card into its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26590</id>
+      <name>Ertai&apos;s Trickery</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell if a kicker cost was paid for it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26591</id>
+      <name>Meddling Mage</name>
+      <cost>{W}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Meddling Mage comes into play, name a nonland card. &lt;br&gt;The named card can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26781</id>
+      <name>Sleeping Potion</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Sleeping Potion comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step. &lt;br&gt;When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26782</id>
+      <name>Death Bomb</name>
+      <cost>{3}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Death Bomb, sacrifice a creature. &lt;br&gt;Destroy target nonblack creature. It can&apos;t be regenerated. Its controller loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26833</id>
+      <name>Lashknife Barrier</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Lashknife Barrier comes into play, draw a card. &lt;br&gt; &lt;br&gt;If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26835</id>
+      <name>Planar Overlay</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player chooses a land he or she controls of each basic land type. Return those lands to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26837</id>
+      <name>Deadapult</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26838</id>
+      <name>Gaea&apos;s Might</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 until end of turn for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26839</id>
+      <name>Mirrorwood Treefolk</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26840</id>
+      <name>Dralnu&apos;s Crusade</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Goblin creatures get +1/+1. &lt;br&gt;All Goblins are black and are Zombies in addition to their other creature types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26851</id>
+      <name>Waterspout Elemental</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {U} &lt;I&gt;(You may pay an additional &lt;/I&gt;{U}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Flying &lt;br&gt; &lt;br&gt;When Waterspout Elemental comes into play, if the kicker cost was paid, return all other creatures to their owners&apos; hands and you skip your next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26852</id>
+      <name>Orim&apos;s Chant</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Target player can&apos;t play spells this turn. &lt;br&gt;If the kicker cost was paid, creatures can&apos;t attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27189</id>
+      <name>Gainsay</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target blue spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27229</id>
+      <name>Shriek of Dread</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27589</id>
+      <name>Morgue Toad</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Frog</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27613</id>
+      <name>Alpha Kavu</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}: Target Kavu creature gets -1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27634</id>
+      <name>Questing Phelddagrif</name>
+      <cost>{1}{G}{W}{U}</cost>
+      <type>Creature - Phelddagrif</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token into play. &lt;br&gt;{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life. &lt;br&gt;{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27714</id>
+      <name>Confound</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell that targets one or more creatures. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>8827</id>
+      <name>Root Greevil</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Planeshift</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>8902</id>
+      <name>Goblin Game</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>9690</id>
+      <name>Destructive Flow</name>
+      <cost>{B}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planeshift</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player sacrifices a nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

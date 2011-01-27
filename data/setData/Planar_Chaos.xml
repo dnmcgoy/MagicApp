@@ -1,0 +1,2139 @@
+<cards>
+  <name>Planar_Chaos</name>
+  <key>Planar_Chaos</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>108899</id>
+      <name>Aven Riftwatcher</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Bird Rebel Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Vanishing 3 &lt;i&gt;(This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Aven Riftwatcher comes into play or leaves play, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109740</id>
+      <name>Deadwood Treefolk</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vanishing 3 &lt;i&gt;(This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Deadwood Treefolk comes into play or leaves play, return another target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110501</id>
+      <name>Dust Corona</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+0 and can&apos;t be blocked by creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110503</id>
+      <name>Waning Wurm</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Wurm</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vanishing 2 &lt;i&gt;(This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110536</id>
+      <name>Cradle to Grave</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature that came into play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111046</id>
+      <name>Deadly Grub</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vanishing 3 &lt;i&gt;(This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Deadly Grub is put into a graveyard from play, if it had no time counters on it, put a 6/1 green Insect creature token into play with shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111055</id>
+      <name>Lavacore Elemental</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vanishing 1 &lt;i&gt;(This permanent comes into play with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;Whenever a creature you control deals combat damage to a player, put a time counter on Lavacore Elemental.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111066</id>
+      <name>Chronozoa</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Vanishing 3 &lt;i&gt;(This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Chronozoa is put into a graveyard from play, if it had no time counters on it, put two tokens into play that are copies of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122268</id>
+      <name>Needlepeak Spider</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Spider</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122280</id>
+      <name>Gossamer Phantasm</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122282</id>
+      <name>Revered Dead</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Spirit Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}: Regenerate Revered Dead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122285</id>
+      <name>Shrouded Lore</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent chooses a card in your graveyard. You may pay {B}. If you do, repeat this process except that opponent can&apos;t choose a card already chosen for Shrouded Lore. Then put the last chosen card into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122287</id>
+      <name>Rebuff the Wicked</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell that targets a permanent you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122290</id>
+      <name>Citanul Woodreaders</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you play this spell.)&lt;/i&gt; &lt;br&gt;When Citanul Woodreaders comes into play, if the kicker cost was paid, draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122313</id>
+      <name>Giant Dustwasp</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Suspend 4-{1}{G} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{G} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122321</id>
+      <name>Bog Serpent</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Serpent</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bog Serpent can&apos;t attack unless defending player controls a Swamp. &lt;br&gt;When you control no Swamps, sacrifice Bog Serpent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122323</id>
+      <name>Pouncing Wurm</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you play this spell.)&lt;/i&gt; &lt;br&gt;If the kicker cost was paid, Pouncing Wurm comes into play with three +1/+1 counters on it and with haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122324</id>
+      <name>Mana Tithe</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122325</id>
+      <name>Riptide Pilferer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Riptide Pilferer deals combat damage to a player, that player discards a card. &lt;br&gt;Morph {U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122349</id>
+      <name>Mantle of Leadership</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Whenever a creature comes into play, enchanted creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122355</id>
+      <name>Sunlance</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sunlance deals 3 damage to target nonwhite creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122360</id>
+      <name>Calciderm</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;Vanishing 4 &lt;i&gt;(This permanent comes into play with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122362</id>
+      <name>Harmonize</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122366</id>
+      <name>Vampiric Link</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122367</id>
+      <name>Gaea&apos;s Anthem</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122370</id>
+      <name>Timebender</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Timebender is turned face up, choose one - Remove two time counters from target permanent or suspended card; or put two time counters on target permanent with a time counter on it or suspended card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122371</id>
+      <name>Healing Leaves</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122373</id>
+      <name>Brute Force</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122374</id>
+      <name>Fa&apos;adiyah Seer</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Draw a card and reveal it. If it isn&apos;t a land card, discard it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122375</id>
+      <name>Shaper Parasite</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122402</id>
+      <name>Frozen Æther</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Artifacts, creatures, and lands your opponents control come into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122405</id>
+      <name>Hedge Troll</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Troll Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Hedge Troll gets +1/+1 as long as you control a Plains. &lt;br&gt;{W}: Regenerate Hedge Troll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122406</id>
+      <name>Mirri the Cursed</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Vampire Cat</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, first strike, haste &lt;br&gt;Whenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122408</id>
+      <name>Benalish Commander</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Benalish Commander&apos;s power and toughness are each equal to the number of Soldiers you control. &lt;br&gt;Suspend X-{X}{W}{W}. X can&apos;t be 0. &lt;br&gt;Whenever a time counter is removed from Benalish Commander while it&apos;s removed from the game, put a 1/1 white Soldier creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122412</id>
+      <name>Stormfront Riders</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Stormfront Riders comes into play, return two creatures you control to their owner&apos;s hand.   &lt;br&gt;Whenever Stormfront Riders or another creature is returned to your hand from play, put a 1/1 white Soldier creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122413</id>
+      <name>Enslave</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;You control enchanted creature. &lt;br&gt;At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122416</id>
+      <name>Sulfur Elemental</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;White creatures get +1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122420</id>
+      <name>Mire Boa</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk &lt;br&gt;{G}: Regenerate Mire Boa.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122423</id>
+      <name>Damnation</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122428</id>
+      <name>Essence Warden</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever another creature comes into play, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122429</id>
+      <name>Groundbreaker</name>
+      <cost>{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample, haste &lt;br&gt;At end of turn, sacrifice Groundbreaker.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122431</id>
+      <name>Roiling Horror</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Roiling Horror&apos;s power and toughness are each equal to your life total minus the life total of an opponent with the most life. &lt;br&gt;Suspend X-{X}{B}{B}{B}. X can&apos;t be 0. &lt;br&gt;Whenever a time counter is removed from Roiling Horror while it&apos;s removed from the game, target player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122432</id>
+      <name>Akroma, Angel of Fury</name>
+      <cost>{5}{R}{R}{R}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Akroma, Angel of Fury can&apos;t be countered. &lt;br&gt;Flying, trample, protection from white, protection from blue &lt;br&gt;{R}: Akroma, Angel of Fury gets +1/+0 until end of turn. &lt;br&gt;Morph {3}{R}{R}{R} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122434</id>
+      <name>Imp&apos;s Mischief</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the target of target spell with a single target. You lose life equal to that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122435</id>
+      <name>Saltblast</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonwhite permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122436</id>
+      <name>Pyrohemia</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, if no creatures are in play, sacrifice Pyrohemia. &lt;br&gt;{R}: Pyrohemia deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122438</id>
+      <name>Heroes Remembered</name>
+      <cost>{6}{W}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You gain 20 life. &lt;br&gt;Suspend 10-{W} &lt;i&gt;(Rather than play this card from your hand, you may pay {W} and remove it from the game with ten time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122442</id>
+      <name>Serendib Sorcerer</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature other than Serendib Sorcerer becomes 0/2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122449</id>
+      <name>Aeon Chronicler</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Aeon Chronicler&apos;s power and toughness are each equal to the number of cards in your hand. &lt;br&gt;Suspend X-{X}{3}{U}. X can&apos;t be 0. &lt;br&gt;Whenever a time counter is removed from Aeon Chronicler while it&apos;s removed from the game, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122451</id>
+      <name>Keen Sense</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122455</id>
+      <name>Dichotomancy</name>
+      <cost>{7}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>For each tapped nonland permanent target opponent controls, search that player&apos;s library for a card with the same name as that permanent and put it into play under your control. Then that player shuffles his or her library. &lt;br&gt;Suspend 3-{1}{U}{U}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122458</id>
+      <name>Hunting Wilds</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {3}{G} &lt;i&gt;(You may pay an additional {3}{G} as you play this spell.)&lt;/i&gt; &lt;br&gt;Search your library for up to two Forest cards and put them into play tapped. Then shuffle your library. &lt;br&gt;If the kicker cost was paid, untap all Forests put into play this way. They become 3/3 green creatures with haste that are still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122459</id>
+      <name>Spellshift</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target instant or sorcery spell. Its controller reveals cards from the top of his or her library until he or she reveals an instant or sorcery card. That player may play that card without paying its mana cost. Then he or she shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122468</id>
+      <name>Wild Pair</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, if you played it from your hand, you may search your library for a creature card with the same total power and toughness and put it into play. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122469</id>
+      <name>Stonecloaker</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;When Stonecloaker comes into play, return a creature you control to its owner&apos;s hand. &lt;br&gt;When Stonecloaker comes into play, remove target card in a graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122477</id>
+      <name>Whitemane Lion</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Whitemane Lion comes into play, return a creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122478</id>
+      <name>Muck Drubb</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Muck Drubb comes into play, change the target of target spell that targets only a single creature to Muck Drubb. &lt;br&gt;Madness {2}{B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122481</id>
+      <name>Malach of the Dawn</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{W}{W}{W}: Regenerate Malach of the Dawn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122487</id>
+      <name>Crovax, Ascendant Hero</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Legendary Creature - Human</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other white creatures get +1/+1. &lt;br&gt;Nonwhite creatures get -1/-1. &lt;br&gt;Pay 2 life: Return Crovax, Ascendant Hero to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124033</id>
+      <name>Mycologist</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Druid</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Mycologist. &lt;br&gt;Remove three spore counters from Mycologist: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124034</id>
+      <name>Midnight Charm</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Midnight Charm deals 1 damage to target creature and you gain 1 life; or target creature gains first strike until end of turn; or tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124037</id>
+      <name>Saltfield Recluse</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gets -2/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124039</id>
+      <name>Fury Charm</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target artifact; or target creature gets +1/+1 and gains trample until end of turn; or remove two time counters from target permanent or suspended card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124040</id>
+      <name>Brain Gorgers</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>When you play Brain Gorgers, any player may sacrifice a creature. If a player does, counter Brain Gorgers. &lt;br&gt;Madness {1}{B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124044</id>
+      <name>Synchronous Sliver</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124047</id>
+      <name>Evolution Charm</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library; or return target creature card from your graveyard to your hand; or target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124055</id>
+      <name>Wistful Thinking</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player draws two cards, then discards four cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124057</id>
+      <name>Vorosh, the Hunter</name>
+      <cost>{3}{G}{U}{B}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124062</id>
+      <name>Numot, the Devastator</name>
+      <cost>{3}{R}{W}{U}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124065</id>
+      <name>Fungal Behemoth</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fungal Behemoth&apos;s power and toughness are each equal to the number of +1/+1 counters on creatures you control. &lt;br&gt;Suspend X-{X}{G}{G}. X can&apos;t be 0. &lt;br&gt;Whenever a time counter is removed from Fungal Behemoth while it&apos;s removed from the game, you may put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124066</id>
+      <name>Piracy Charm</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target creature gains islandwalk until end of turn; or target creature gets +2/-1 until end of turn; or target player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124073</id>
+      <name>Intet, the Dreamer</name>
+      <cost>{3}{U}{R}{G}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, remove the top card of your library from the game face down. You may look at that card as long as it remains removed from the game. You may play that card without paying its mana cost as long as Intet remains in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124075</id>
+      <name>Teneb, the Harvester</name>
+      <cost>{3}{B}{G}{W}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card in a graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124080</id>
+      <name>Dawn Charm</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Prevent all combat damage that would be dealt this turn; or regenerate target creature; or counter target spell that targets you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124316</id>
+      <name>Braids, Conjurer Adept</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player may put an artifact, creature, or land card from his or her hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124342</id>
+      <name>Ana Battlemage</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2}{U} and/or {1}{B} &lt;br&gt;When Ana Battlemage comes into play, if the {2}{U} kicker cost was paid, target player discards three cards. &lt;br&gt;When Ana Battlemage comes into play, if the {1}{B} kicker cost was paid, tap target untapped creature and that creature deals damage equal to its power to its controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124343</id>
+      <name>Dust Elemental</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying, fear &lt;br&gt;When Dust Elemental comes into play, return three creatures you control to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124344</id>
+      <name>Jedit Ojanen of Efrava</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Legendary Creature - Cat Warrior</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Forestwalk &lt;br&gt;Whenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124443</id>
+      <name>Body Double</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Body Double comes into play, you may choose a creature card in a graveyard. If you do, Body Double comes into play as a copy of that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124445</id>
+      <name>Shivan Wumpus</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;When Shivan Wumpus comes into play, any player may sacrifice a land. If a player does, put Shivan Wumpus on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124470</id>
+      <name>Porphyry Nodes</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, destroy the creature with the least power. It can&apos;t be regenerated. If two or more creatures are tied for least power, you choose one of them. &lt;br&gt;When there are no creatures in play, sacrifice Porphyry Nodes.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124471</id>
+      <name>Life and Limb</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Forests and all Saprolings are 1/1 green Saproling creatures and Forest lands in addition to their other types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124472</id>
+      <name>Phantasmagorian</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When you play Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian. &lt;br&gt;Discard three cards: Return Phantasmagorian from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124474</id>
+      <name>Simian Spirit Guide</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ape Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove Simian Spirit Guide in your hand from the game: Add {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124476</id>
+      <name>Erratic Mutation</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card&apos;s converted mana cost. Put all cards revealed this way on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124478</id>
+      <name>Timbermare</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elemental Horse</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;Echo {5}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Timbermare comes into play, tap all other creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124482</id>
+      <name>Jodah&apos;s Avenger</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{0}: Until end of turn, Jodah&apos;s Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. &lt;i&gt;(A creature with shadow can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124504</id>
+      <name>Æther Membrane</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender, reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;Whenever Æther Membrane blocks a creature, return that creature to its owner&apos;s hand at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124505</id>
+      <name>Sophic Centaur</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Centaur Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{G}{G}, {T}, Discard a card: You gain 2 life for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124506</id>
+      <name>Blightspeaker</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Rebel Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target player loses 1 life. &lt;br&gt;{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124507</id>
+      <name>Magus of the Coffers</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Add {B} to your mana pool for each Swamp you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124508</id>
+      <name>Pallid Mycoderm</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Fungus</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Pallid Mycoderm. &lt;br&gt;Remove three spore counters from Pallid Mycoderm: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Each Fungus creature and each Saproling creature you control gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124748</id>
+      <name>Fatal Frenzy</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, target creature you control gains trample and gets +X/+0, where X is its power. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124757</id>
+      <name>Primal Plasma</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Elemental Shapeshifter</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>As Primal Plasma comes into play, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125873</id>
+      <name>Serra Sphinx</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Sphinx</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125874</id>
+      <name>Null Profusion</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skip your draw step. &lt;br&gt;Whenever you play a card, draw a card. &lt;br&gt;Your maximum hand size is two.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125877</id>
+      <name>Merfolk Thaumaturgist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Switch target creature&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125879</id>
+      <name>Sinew Sliver</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125880</id>
+      <name>Reality Acid</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant permanent &lt;br&gt;Vanishing 3 &lt;i&gt;(This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Reality Acid leaves play, enchanted permanent&apos;s controller sacrifices it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125882</id>
+      <name>Voidstone Gargoyle</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;As Voidstone Gargoyle comes into play, name a nonland card. &lt;br&gt;The named card can&apos;t be played. &lt;br&gt;Activated abilities of sources with the chosen name can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125885</id>
+      <name>Keldon Marauders</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vanishing 2 &lt;i&gt;(This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;When Keldon Marauders comes into play or leaves play, it deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126011</id>
+      <name>Frenetic Sliver</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{0}: If this permanent is in play, flip a coin. If you win the flip, remove this permanent from the game and return it to play under its owner&apos;s control at end of turn. If you lose the flip, sacrifice it.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126012</id>
+      <name>Darkheart Sliver</name>
+      <cost>{B}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;Sacrifice this permanent: You gain 3 life.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126014</id>
+      <name>Poultice Sliver</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{2}, {T}: Regenerate target Sliver.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126015</id>
+      <name>Battering Sliver</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126018</id>
+      <name>Reflex Sliver</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126021</id>
+      <name>Cautery Sliver</name>
+      <cost>{R}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{1}, Sacrifice this permanent: This permanent deals 1 damage to target creature or player.&quot; &lt;br&gt;All Slivers have &quot;{1}, Sacrifice this permanent: Prevent the next 1 damage that would be dealt to target Sliver creature or player this turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126022</id>
+      <name>Spitting Sliver</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126023</id>
+      <name>Necrotic Sliver</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{3}, Sacrifice this permanent: Destroy target permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126024</id>
+      <name>Aquamorph Entity</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>As Aquamorph Entity comes into play or is turned face up, it becomes your choice of 5/1 or 1/5. &lt;br&gt;Morph {2}{U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126025</id>
+      <name>Dormant Sliver</name>
+      <cost>{2}{G}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have defender. &lt;br&gt;All Slivers have &quot;When this permanent comes into play, draw a card.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126212</id>
+      <name>Ovinize</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature loses all abilities and becomes 0/1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126214</id>
+      <name>Mesa Enchantress</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Druid</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play an enchantment spell, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126216</id>
+      <name>Venarian Glimmer</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand. Choose a nonland card with converted mana cost X or less from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126218</id>
+      <name>Boom // Bust</name>
+      <cost>{1}{R} // {5}{R}</cost>
+      <type>Sorcery // Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target land you control and target land you don&apos;t control. &lt;br&gt;// &lt;br&gt;Destroy all lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126303</id>
+      <name>Volcano Hellion</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Hellion</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Volcano Hellion has echo {X}, where X is your life total. &lt;br&gt;When Volcano Hellion comes into play, it deals an amount of damage of your choice to you and target creature. The damage can&apos;t be prevented.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126306</id>
+      <name>Uktabi Drake</name>
+      <cost>{G}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, haste &lt;br&gt;Echo {1}{G}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126408</id>
+      <name>Shade of Trokair</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Shade</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}: Shade of Trokair gets +1/+1 until end of turn. &lt;br&gt;Suspend 3-{W} &lt;i&gt;(Rather than play this card from your hand, you may pay {W} and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126419</id>
+      <name>Dead // Gone</name>
+      <cost>{R} // {2}{R}</cost>
+      <type>Instant // Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dead deals 2 damage to target creature. &lt;br&gt;//  &lt;br&gt;Return target creature you don&apos;t control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126420</id>
+      <name>Rough // Tumble</name>
+      <cost>{1}{R} // {5}{R}</cost>
+      <type>Sorcery // Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rough deals 2 damage to each creature without flying. &lt;br&gt;// &lt;br&gt;Tumble deals 6 damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126803</id>
+      <name>Circle of Affliction</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Circle of Affliction comes into play, choose a color. &lt;br&gt;Whenever a source of the chosen color deals damage to you, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126804</id>
+      <name>Extirpate</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Choose target card in a graveyard other than a basic land. Search its owner&apos;s graveyard, hand, and library for all cards with the same name as that card and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126806</id>
+      <name>Veiling Oddity</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Suspend 4-{1}{U} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{U} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt; &lt;br&gt;When the last time counter is removed from Veiling Oddity while it&apos;s removed from the game, creatures are unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126809</id>
+      <name>Ghost Tactician</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Spirit Spellshaper</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126810</id>
+      <name>Torchling</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}: Untap Torchling. &lt;br&gt;{R}: Target creature blocks Torchling this turn if able. &lt;br&gt;{R}: Change the target of target spell that targets only Torchling. &lt;br&gt;{1}: Torchling gets +1/-1 until end of turn. &lt;br&gt;{1}: Torchling gets -1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126811</id>
+      <name>Detritivore</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Lhurgoyf</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Detritivore&apos;s power and toughness are each equal to the number of nonbasic land cards in your opponents&apos; graveyards. &lt;br&gt;Suspend X-{X}{3}{R}. X can&apos;t be 0. &lt;br&gt;Whenever a time counter is removed from Detritivore while it&apos;s removed from the game, destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126812</id>
+      <name>Dash Hopes</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>When you play Dash Hopes, any player may pay 5 life. If a player does, counter Dash Hopes.  &lt;br&gt;Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126813</id>
+      <name>Kavu Predator</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126814</id>
+      <name>Temporal Extortion</name>
+      <cost>{B}{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When you play Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion. &lt;br&gt;Take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126816</id>
+      <name>Riftmarked Knight</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Rebel Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking, protection from black &lt;br&gt;Suspend 3-{1}{W}{W} &lt;br&gt;When the last time counter is removed from Riftmarked Knight while it&apos;s removed from the game, put a 2/2 black Knight creature token with flanking, protection from white, and haste into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126818</id>
+      <name>Reckless Wurm</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Madness {2}{R} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>128940</id>
+      <name>Dunerider Outlaw</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Human Rebel Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from green &lt;br&gt;At end of turn, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>128941</id>
+      <name>Vitaspore Thallid</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Vitaspore Thallid. &lt;br&gt;Remove three spore counters from Vitaspore Thallid: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Target creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>128944</id>
+      <name>Psychotrope Thallid</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Psychotrope Thallid. &lt;br&gt;Remove three spore counters from Psychotrope Thallid: Put a 1/1 green Saproling creature token into play. &lt;br&gt;{1}, Sacrifice a Saproling: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>128948</id>
+      <name>Hammerheim Deadeye</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Echo {5}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Hammerheim Deadeye comes into play, destroy target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>128949</id>
+      <name>Radha, Heir to Keld</name>
+      <cost>{R}{G}</cost>
+      <type>Legendary Creature - Elf Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Radha, Heir to Keld attacks, you may add {R}{R} to your mana pool. &lt;br&gt;{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>129012</id>
+      <name>Timecrafting</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Remove X time counters from target permanent or suspended card; or put X time counters on target permanent with a time counter on it or suspended card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>129014</id>
+      <name>Serra&apos;s Boon</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+2 as long as it&apos;s white. Otherwise, it gets -2/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>129015</id>
+      <name>Pongify</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature. It can&apos;t be regenerated. That creature&apos;s controller puts a 3/3 green Ape creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>129022</id>
+      <name>Dismal Failure</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell. Its controller discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130714</id>
+      <name>Melancholy</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Melancholy comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step. &lt;br&gt;At the beginning of your upkeep, sacrifice Melancholy unless you pay {B}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130715</id>
+      <name>Blood Knight</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike, protection from white</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130717</id>
+      <name>Ridged Kusite</name>
+      <cost>{B}</cost>
+      <type>Creature - Horror Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{B}, {T}, Discard a card: Target creature gets +1/+0 and gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130718</id>
+      <name>Rathi Trapper</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Rebel Rogue</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, {T}: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130719</id>
+      <name>Magus of the Tabernacle</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures have &quot;At the beginning of your upkeep, sacrifice this creature unless you pay {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130720</id>
+      <name>Firefright Mage</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{R}, {T}, Discard a card: Target creature can&apos;t be blocked this turn except by artifact creatures and/or red creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130813</id>
+      <name>Auramancer&apos;s Guise</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 for each Aura attached to it and has vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130814</id>
+      <name>Tidewalker</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tidewalker comes into play with a time counter on it for each Island you control. &lt;br&gt;Vanishing &lt;i&gt;(At the beginning of your upkeep, remove a time counter from this permanent. When the last is removed, sacrifice it.)&lt;/i&gt; &lt;br&gt;Tidewalker&apos;s power and toughness are each equal to the number of time counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>130816</id>
+      <name>Seal of Primordium</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Primordium: Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131002</id>
+      <name>Treacherous Urge</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent reveals his or her hand. You may put a creature card from it into play under your control. That creature has haste. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131004</id>
+      <name>Utopia Vow</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack or block. &lt;br&gt;Enchanted creature has &quot;{T}: Add one mana of any color to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131005</id>
+      <name>Urborg, Tomb of Yawgmoth</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each land is a Swamp in addition to its other land types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131006</id>
+      <name>Kor Dirge</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131007</id>
+      <name>Retether</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return each Aura card from your graveyard to play. Only creatures can be enchanted this way. &lt;i&gt;(Aura cards that can&apos;t enchant a creature in play remain in your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131008</id>
+      <name>Magus of the Bazaar</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Draw two cards, then discard three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>131011</id>
+      <name>Skirk Shaman</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Skirk Shaman can&apos;t be blocked except by artifact creatures and/or red creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134738</id>
+      <name>Molten Firebird</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Molten Firebird is put into a graveyard from play, return it to play under its owner&apos;s control at end of turn and you skip your next draw step. &lt;br&gt;{4}{R}: Remove Molten Firebird from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134739</id>
+      <name>Big Game Hunter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Rebel Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Big Game Hunter comes into play, destroy target creature with power 4 or greater. It can&apos;t be regenerated. &lt;br&gt;Madness {B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134740</id>
+      <name>Shivan Meteor</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shivan Meteor deals 13 damage to target creature. &lt;br&gt;Suspend 2-{1}{R}{R} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{R}{R} and remove it from the game with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134741</id>
+      <name>Magus of the Library</name>
+      <cost>{G}{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Draw a card. Play this ability only if you have exactly seven cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134743</id>
+      <name>Dreamscape Artist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{U}, {T}, Discard a card, Sacrifice a land: Search your library for up to two basic land cards and put them into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134744</id>
+      <name>Stingscourger</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Echo {3}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Stingscourger comes into play, return target creature an opponent controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>134746</id>
+      <name>Magus of the Arena</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Tap target creature you control and target creature of an opponent&apos;s choice he or she controls. Each of those creatures deals damage equal to its power to the other.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>136170</id>
+      <name>Oros, the Avenger</name>
+      <cost>{3}{W}{B}{R}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

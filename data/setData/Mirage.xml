@@ -1,0 +1,3166 @@
+<cards>
+  <name>Mirage</name>
+  <key>Mirage</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>3239</id>
+      <name>Acidic Dagger</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves play this turn, sacrifice Acidic Dagger. Play this ability only during combat before the declare blockers step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3241</id>
+      <name>Amulet of Unmaking</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}, Remove Amulet of Unmaking from the game: Remove target artifact, creature, or land from the game. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3242</id>
+      <name>Basalt Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Basalt Golem can&apos;t be blocked by artifact creatures. &lt;br&gt;Whenever Basalt Golem becomes blocked by a creature, that creature&apos;s controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 Wall artifact creature token with defender into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3243</id>
+      <name>Bone Mask</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage. For each 1 damage prevented this way, remove the top card of your library from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3245</id>
+      <name>Chariot of the Sun</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Until end of turn, target creature you control gains flying and its toughness becomes 1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3246</id>
+      <name>Crystal Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the end of your turn, Crystal Golem phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3248</id>
+      <name>Elixir of Vitality</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Elixir of Vitality comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Elixir of Vitality: You gain 4 life. &lt;br&gt; &lt;br&gt;{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3249</id>
+      <name>Ersatz Gnomes</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Gnome</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target spell is colorless. &lt;br&gt; &lt;br&gt;{T}: Target permanent becomes colorless until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3252</id>
+      <name>Horrible Hordes</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rampage 1 &lt;I&gt;(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3253</id>
+      <name>Igneous Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Igneous Golem gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3255</id>
+      <name>Lion&apos;s Eye Diamond</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice Lion&apos;s Eye Diamond, Discard your hand: Add three mana of any one color to your mana pool. Play this ability only any time you could play an instant.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3257</id>
+      <name>Mangara&apos;s Tome</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Mangara&apos;s Tome comes into play, search your library for five cards. Remove those cards from the game face down, then shuffle them. Then shuffle your library. &lt;br&gt; &lt;br&gt;{2}: The next time you would draw a card this turn, instead put the top card removed from the game with Mangara&apos;s Tome into its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3259</id>
+      <name>Misers&apos; Cage</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, if that player has five or more cards in hand, Misers&apos; Cage deals 2 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3262</id>
+      <name>Paupers&apos; Cage</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, if that player has two or fewer cards in hand, Paupers&apos; Cage deals 2 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3263</id>
+      <name>Phyrexian Dreadnought</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Dreadnought</type>
+      <power>12</power>
+      <toughness>12</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;When Phyrexian Dreadnought comes into play, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3265</id>
+      <name>Razor Pendulum</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each player&apos;s turn, if that player has 5 life or less, Razor Pendulum deals 2 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3266</id>
+      <name>Sand Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to play at end of turn with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3268</id>
+      <name>Teeka&apos;s Dragon</name>
+      <cost>{9}</cost>
+      <type>Artifact Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying; trample; rampage 4 &lt;I&gt;(Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3269</id>
+      <name>Telim&apos;Tor&apos;s Darts</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Telim&apos;Tor&apos;s Darts deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3270</id>
+      <name>Unerring Sling</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature&apos;s power to target attacking or blocking creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3271</id>
+      <name>Ventifact Bottle</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{X}, {T}: Put X charge counters on Ventifact Bottle. Play this ability only any time you could play a sorcery. &lt;br&gt; &lt;br&gt;At the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Then add {X} to your mana pool, where X is the number of charge counters removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3274</id>
+      <name>Barbed-Back Wurm</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Target green creature blocking Barbed-Back Wurm gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3275</id>
+      <name>Binding Agony</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3278</id>
+      <name>Breathstealer</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Breathstealer gets +1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3279</id>
+      <name>Cadaverous Knight</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{1}{B}{B}: Regenerate Cadaverous Knight.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3280</id>
+      <name>Carrion</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Carrion, sacrifice a creature. &lt;br&gt;Put X 0/1 black Insect creature tokens into play, where X is the sacrificed creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3281</id>
+      <name>Catacomb Dragon</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature&apos;s power, rounded down.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3282</id>
+      <name>Choking Sands</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3283</id>
+      <name>Crypt Cobra</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Snake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Crypt Cobra attacks and isn&apos;t blocked, defending player gets a poison counter. &lt;I&gt;(A player with ten or more poison counters loses the game.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3286</id>
+      <name>Dirtwater Wraith</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Wraith</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk &lt;br&gt; &lt;br&gt;{B}: Dirtwater Wraith gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3288</id>
+      <name>Dread Specter</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3289</id>
+      <name>Ebony Charm</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target opponent loses 1 life and you gain 1 life; or remove from the game up to three target cards in a single graveyard; or target creature gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3292</id>
+      <name>Fetid Horror</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Shade Horror</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Fetid Horror gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3294</id>
+      <name>Forsaken Wastes</name>
+      <cost>{2}{B}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a player would gain life, that player gains no life instead. &lt;br&gt;At the beginning of each player&apos;s upkeep, that player loses 1 life. &lt;br&gt;When Forsaken Wastes becomes the target of a spell, that spell&apos;s controller loses 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3295</id>
+      <name>Grave Servitude</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Grave Servitude any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +3/-1 and is black.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3297</id>
+      <name>Harbinger of Night</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a -1/-1 counter on each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3299</id>
+      <name>Kaervek&apos;s Hex</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kaervek&apos;s Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3300</id>
+      <name>Mire Shade</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Shade</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3303</id>
+      <name>Phyrexian Tribute</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Phyrexian Tribute, sacrifice two creatures. &lt;br&gt; &lt;br&gt;Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3304</id>
+      <name>Purraj of Urborg</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Cat Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Purraj of Urborg attacks, it gains first strike until end of combat. &lt;br&gt;Whenever a player plays a black spell, you may pay {B}. If you do, put a +1/+1 counter on Purraj of Urborg.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3305</id>
+      <name>Ravenous Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on Ravenous Vampire. If you don&apos;t, tap Ravenous Vampire.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3306</id>
+      <name>Reign of Terror</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all white creatures or all green creatures. They can&apos;t be regenerated. You lose 2 life for each creature put into a graveyard this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3307</id>
+      <name>Restless Dead</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Regenerate Restless Dead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3309</id>
+      <name>Shadow Guildmage</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}: Put target creature you control on top of its owner&apos;s library. &lt;br&gt;{R}, {T}: Shadow Guildmage deals 1 damage to target creature or player and 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3310</id>
+      <name>Shallow Grave</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return the top creature card from your graveyard to play. That creature gains haste until end of turn. Remove it from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3311</id>
+      <name>Shauku, Endbringer</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Legendary Creature - Vampire</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Shauku, Endbringer can&apos;t attack if there&apos;s another creature in play. &lt;br&gt;At the beginning of your upkeep, you lose 3 life. &lt;br&gt;{T}: Remove target creature from the game and put a +1/+1 counter on Shauku.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3312</id>
+      <name>Skulking Ghost</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Skulking Ghost becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3313</id>
+      <name>Soul Rend</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature if it&apos;s white. A creature destroyed this way can&apos;t be regenerated. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3314</id>
+      <name>Soulshriek</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3315</id>
+      <name>Spirit of the Night</name>
+      <cost>{6}{B}{B}{B}</cost>
+      <type>Legendary Creature - Demon Spirit</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample, haste, protection from black &lt;br&gt;Whenever Spirit of the Night attacks, it gains first strike until end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3317</id>
+      <name>Tainted Specter</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{1}{B}{B}, {T}: Target player puts a card from his or her hand into his or her graveyard or on top of his or her library. If the card is put into that player&apos;s graveyard, Tainted Specter deals 1 damage to each creature and each player. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3318</id>
+      <name>Tombstone Stairwell</name>
+      <cost>{2}{B}{B}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1}{B} &lt;br&gt;At the beginning of each upkeep, if Tombstone Stairwell is in play, each player puts into play a 2/2 black Zombie creature token with haste named Tombspawn for each creature card in his or her graveyard. &lt;br&gt;At end of turn or when Tombstone Stairwell leaves play, destroy all tokens put into play with it. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3319</id>
+      <name>Urborg Panther</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Nightstalker Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther. &lt;br&gt;Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3320</id>
+      <name>Wall of Corpses</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{B}, Sacrifice Wall of Corpses: Destroy target creature Wall of Corpses is blocking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3321</id>
+      <name>Withering Boon</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Withering Boon, pay 3 life. &lt;br&gt;Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3322</id>
+      <name>Zombie Mob</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>0</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Zombie Mob comes into play with a +1/+1 counter on it for each creature card in your graveyard. &lt;br&gt;When Zombie Mob comes into play, remove all creature cards in your graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3324</id>
+      <name>Azimaet Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{U}: Azimaet Drake gets +1/+0 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3325</id>
+      <name>Bay Falcon</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3326</id>
+      <name>Bazaar of Wonders</name>
+      <cost>{3}{U}{U}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Bazaar of Wonders comes into play, remove all cards in all graveyards from the game. &lt;br&gt;Whenever a spell is played, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3328</id>
+      <name>Cerulean Wyvern</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from green</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3329</id>
+      <name>Cloak of Invisibility</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has phasing and can&apos;t be blocked except by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3330</id>
+      <name>Coral Fighters</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Coral Fighters attacks and isn&apos;t blocked, look at the top card of defending player&apos;s library. You may put that card on the bottom of that player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3332</id>
+      <name>Dissipate</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell. If that spell is countered this way, remove it from the game instead of putting it into its owner&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3334</id>
+      <name>Dream Fighter</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3335</id>
+      <name>Energy Vortex</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Energy Vortex comes into play, choose an opponent. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, remove all energy counters from Energy Vortex. &lt;br&gt; &lt;br&gt;At the beginning of the chosen player&apos;s upkeep, Energy Vortex deals 3 damage to that player unless he or she pays {1} for each energy counter on Energy Vortex. &lt;br&gt; &lt;br&gt;{X}: Put X energy counters on Energy Vortex. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3336</id>
+      <name>Ether Well</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target creature on top of its owner&apos;s library. If that creature is red, you may put it on the bottom of its owner&apos;s library instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3338</id>
+      <name>Floodgate</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;When Floodgate has flying, sacrifice it. &lt;br&gt;When Floodgate leaves play, it deals 1 damage for each two Islands you control to each nonblue creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3339</id>
+      <name>Hakim, Loreweaver</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{U}{U}: Return target Aura card from your graveyard to play attached to Hakim, Loreweaver. Play this ability only during your upkeep and only if Hakim isn&apos;t enchanted. &lt;br&gt;{U}{U}, {T}: Destroy all Auras attached to Hakim.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3341</id>
+      <name>Jolt</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may tap or untap target artifact, creature, or land. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3342</id>
+      <name>Kukemssa Pirates</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Kukemssa Pirates attacks and isn&apos;t blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3343</id>
+      <name>Kukemssa Serpent</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kukemssa Serpent can&apos;t attack unless defending player controls an Island. &lt;br&gt; &lt;br&gt;{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn. &lt;br&gt; &lt;br&gt;When you control no Islands, sacrifice Kukemssa Serpent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3344</id>
+      <name>Meddle</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If target spell has only one target and that target is a creature, change that spell&apos;s target to another creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3346</id>
+      <name>Merfolk Raiders</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Phasing, islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3347</id>
+      <name>Merfolk Seer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Merfolk Seer is put into a graveyard from play, you may pay {1}{U}. If you do, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3349</id>
+      <name>Mind Harness</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant red or green creature &lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;You control enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3350</id>
+      <name>Mist Dragon</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{0}: Mist Dragon gains flying. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt; &lt;br&gt;{0}: Mist Dragon loses flying. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt; &lt;br&gt;{3}{U}{U}: Mist Dragon phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3352</id>
+      <name>Political Trickery</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Exchange control of target land you control and target land an opponent controls. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3355</id>
+      <name>Prismatic Lace</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target permanent becomes the color or colors of your choice. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3358</id>
+      <name>Reality Ripple</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target artifact, creature, or land phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3359</id>
+      <name>Sandbar Crocodile</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Crocodile</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Phasing</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3360</id>
+      <name>Sapphire Charm</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target player draws a card at the beginning of the next turn&apos;s upkeep; or target creature an opponent controls phases out; or target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3361</id>
+      <name>Sea Scryer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Add {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3362</id>
+      <name>Shaper Guildmage</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Target creature gains first strike until end of turn. &lt;br&gt;{B}, {T}: Target creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3363</id>
+      <name>Shimmer</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Shimmer comes into play, choose a land type. &lt;br&gt; &lt;br&gt;All lands of the chosen type have phasing.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3364</id>
+      <name>Soar</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Soar any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +0/+1 and has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3365</id>
+      <name>Suq&apos;Ata Firewalker</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Suq&apos;Ata Firewalker can&apos;t be the target of red spells or abilities from red sources. &lt;br&gt;{T}: Suq&apos;Ata Firewalker deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3366</id>
+      <name>Taniwha</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Serpent</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phasing, trample &lt;br&gt;At the beginning of your upkeep, all lands you control phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3367</id>
+      <name>Teferi&apos;s Curse</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant artifact or creature &lt;br&gt;Enchanted permanent has phasing.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3368</id>
+      <name>Teferi&apos;s Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, phasing</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3369</id>
+      <name>Teferi&apos;s Imp</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, phasing &lt;br&gt;Whenever Teferi&apos;s Imp phases out, discard a card. &lt;br&gt;Whenever Teferi&apos;s Imp phases in, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3370</id>
+      <name>Thirst</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Thirst comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step. &lt;br&gt;At the beginning of your upkeep, sacrifice Thirst unless you pay {U}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3371</id>
+      <name>Tidal Wave</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put a 5/5 blue Wall creature token with defender into play. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3372</id>
+      <name>Vaporous Djinn</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3373</id>
+      <name>Wave Elemental</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}, {T}, Sacrifice Wave Elemental: Tap up to three target creatures without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3374</id>
+      <name>Afiya Grove</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Afiya Grove comes into play with three +1/+1 counters on it. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, move a +1/+1 counter from Afiya Grove onto target creature. &lt;br&gt; &lt;br&gt;When Afiya Grove has no +1/+1 counters on it, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3375</id>
+      <name>Armor of Thorns</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Armor of Thorns any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant nonblack creature &lt;br&gt;Enchanted creature gets +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3376</id>
+      <name>Barbed Foliage</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks you, it loses flanking until end of turn. &lt;br&gt; &lt;br&gt;Whenever a creature without flying attacks you, Barbed Foliage deals 1 damage to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3377</id>
+      <name>Brushwagg</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Brushwagg</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3378</id>
+      <name>Canopy Dragon</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;{1}{G}: Canopy Dragon gains flying and loses trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3380</id>
+      <name>Cycle of Life</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return Cycle of Life to its owner&apos;s hand: Target creature you played this turn is 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3381</id>
+      <name>Decomposition</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant black creature &lt;br&gt;Enchanted creature has &quot;Cumulative upkeep-Pay 1 life.&quot; &lt;br&gt;When enchanted creature is put into a graveyard, its controller loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3387</id>
+      <name>Giant Mantis</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3388</id>
+      <name>Gibbering Hyenas</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Hyena</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Gibbering Hyenas can&apos;t block black creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3389</id>
+      <name>Granger Guildmage</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Target creature gains first strike until end of turn. &lt;br&gt;{R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3390</id>
+      <name>Hall of Gemstone</name>
+      <cost>{1}{G}{G}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3391</id>
+      <name>Jolrael&apos;s Centaur</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Centaur Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3392</id>
+      <name>Jungle Patrol</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{G}, {T}: Put a 0/1 green Plant Wall creature token with defender into play. &lt;br&gt;Sacrifice a Plant Wall token: Add {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3393</id>
+      <name>Jungle Wurm</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3394</id>
+      <name>Karoo Meerkat</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Mongoose</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from blue</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3395</id>
+      <name>Locust Swarm</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Regenerate Locust Swarm. &lt;br&gt;{G}: Untap Locust Swarm. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3396</id>
+      <name>Lure of Prey</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Lure of Prey only if an opponent played a creature spell this turn. &lt;br&gt;You may put a green creature card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3398</id>
+      <name>Mindbender Spores</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Fungus Wall</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;Whenever Mindbender Spores blocks a creature, put four fungus counters on that creature. The creature gains &quot;This creature doesn&apos;t untap during your untap step if it has a fungus counter on it&quot; and &quot;At the beginning of your upkeep, remove a fungus counter from this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3399</id>
+      <name>Mtenda Lion</name>
+      <cost>{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3400</id>
+      <name>Natural Balance</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player who controls six or more lands chooses five lands he or she controls and sacrifices the rest. Each player who controls four or fewer lands may search his or her library for X basic land cards and put them into play, where X is five minus the number of lands he or she controls. Then each player who searched his or her library this way shuffles it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3401</id>
+      <name>Nettletooth Djinn</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Djinn</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, Nettletooth Djinn deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3402</id>
+      <name>Preferred Selection</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice Preferred Selection and pay {2}{G}{G}. If you do, put one of those cards into your hand. If you don&apos;t, put one of those cards on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3406</id>
+      <name>Roots of Life</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Roots of Life comes into play, choose Islands or Swamps. &lt;br&gt;Whenever a land of the chosen type an opponent controls becomes tapped, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3407</id>
+      <name>Sabertooth Cobra</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Sabertooth Cobra deals damage to a player, he or she gets a poison counter. That player gets another poison counter at the beginning of his or her next upkeep unless he or she pays {2} before that turn to prevent this effect. &lt;I&gt;(A player with ten or more poison counters loses the game.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3409</id>
+      <name>Seedling Charm</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Return target Aura attached to a creature to its owner&apos;s hand; or regenerate target green creature; or target creature gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3410</id>
+      <name>Seeds of Innocence</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all artifacts. They can&apos;t be regenerated. The controller of each artifact destroyed this way gains life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3411</id>
+      <name>Serene Heart</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all Auras.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3413</id>
+      <name>Superior Numbers</name>
+      <cost>{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Superior Numbers deals damage to target creature equal to the number of creatures you control in excess of the number of creatures that creature&apos;s controller controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3414</id>
+      <name>Tranquil Domain</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all non-Aura enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3415</id>
+      <name>Tropical Storm</name>
+      <cost>{X}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3416</id>
+      <name>Uktabi Faerie</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3419</id>
+      <name>Unyaro Bee Sting</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Unyaro Bee Sting deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3422</id>
+      <name>Wall of Roots</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;br&gt;Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3423</id>
+      <name>Wild Elephant</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3425</id>
+      <name>Agility</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1 and has flanking. &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3426</id>
+      <name>Aleatory</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Aleatory only during combat after blockers are declared. &lt;br&gt;Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3427</id>
+      <name>Armorer Guildmage</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, {T}: Target creature gets +1/+0 until end of turn. &lt;br&gt;{G}, {T}: Target creature gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3428</id>
+      <name>Barreling Attack</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature gets +1/+1 for each creature blocking it and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3429</id>
+      <name>Blind Fury</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Blind Fury only before the combat damage step. &lt;br&gt;All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3430</id>
+      <name>Blistering Barrier</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3431</id>
+      <name>Builder&apos;s Bane</name>
+      <cost>{X}{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy X target artifacts. Builder&apos;s Bane deals damage to each player equal to the number of artifacts he or she controlled destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3432</id>
+      <name>Burning Palm Efreet</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Efreet</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R}{R}: Burning Palm Efreet deals 2 damage to target creature with flying and that creature loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3433</id>
+      <name>Burning Shield Askari</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{R}{R}: Burning Shield Askari gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3434</id>
+      <name>Chaos Charm</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target Wall; or Chaos Charm deals 1 damage to target creature; or target creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3435</id>
+      <name>Chaosphere</name>
+      <cost>{2}{R}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with flying have &quot;This creature can&apos;t block creatures without flying.&quot; &lt;br&gt;Creatures without flying have reach. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3436</id>
+      <name>Cinder Cloud</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature. If a white creature is put into a graveyard this way, Cinder Cloud deals damage to that creature&apos;s controller equal to the creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3437</id>
+      <name>Consuming Ferocity</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant non-Wall creature &lt;br&gt;Enchanted creature gets +1/+0. &lt;br&gt;At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3439</id>
+      <name>Crimson Roc</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3440</id>
+      <name>Dwarven Miner</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}: Destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3441</id>
+      <name>Dwarven Nomad</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Dwarf Nomad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature with power 2 or less is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3442</id>
+      <name>Ekundu Cyclops</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Cyclops</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>If a creature you control attacks, Ekundu Cyclops also attacks if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3443</id>
+      <name>Emberwilde Djinn</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;At the beginning of each player&apos;s upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3446</id>
+      <name>Flame Elemental</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}, {T}, Sacrifice Flame Elemental: Flame Elemental deals damage equal to its power to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3449</id>
+      <name>Goblin Scouts</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put three 1/1 red Goblin Scout creature tokens with mountainwalk into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3450</id>
+      <name>Goblin Soothsayer</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3451</id>
+      <name>Goblin Tinkerer</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Artificer</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3453</id>
+      <name>Hivis of the Scale</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Viashino Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Hivis of the Scale during your untap step. &lt;br&gt;{T}: Gain control of target Dragon as long as Hivis remains tapped and as long as you control Hivis.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3456</id>
+      <name>Kaervek&apos;s Torch</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as Kaervek&apos;s Torch is on the stack, spells that target it cost {2} more to play. &lt;br&gt; &lt;br&gt;Kaervek&apos;s Torch deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3457</id>
+      <name>Lightning Reflexes</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Lightning Reflexes any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +1/+0 and has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3458</id>
+      <name>Pyric Salamander</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Salamander</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3459</id>
+      <name>Raging Spirit</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}: Raging Spirit becomes colorless until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3461</id>
+      <name>Reign of Chaos</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Destroy target Plains and target white creature; or destroy target Island and target blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3462</id>
+      <name>Searing Spear Askari</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{1}{R}: Searing Spear Askari can&apos;t be blocked except by two or more creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3463</id>
+      <name>Sirocco</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand. For each blue instant card revealed, he or she pays 4 life or discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3466</id>
+      <name>Subterranean Spirit</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from red &lt;br&gt;{T}: Subterranean Spirit deals 1 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3468</id>
+      <name>Telim&apos;Tor</name>
+      <cost>{4}{R}</cost>
+      <type>Legendary Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;Whenever Telim&apos;Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3469</id>
+      <name>Telim&apos;Tor&apos;s Edict</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove target permanent you own or control from the game. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3470</id>
+      <name>Torrent of Lava</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may tap any number of untapped creatures he or she controls. Torrent of Lava deals X damage to each creature without flying not tapped this way. Torrent of Lava deals X-1 damage to each creature without flying tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3475</id>
+      <name>Zirilan of the Claw</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Viashino Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card into play. Then shuffle your library. That Dragon gains haste until end of turn. At end of turn, remove it from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3476</id>
+      <name>Afterlife</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature. It can&apos;t be regenerated. Its controller puts a 1/1 white Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3477</id>
+      <name>Alarum</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap target nonattacking creature. It gets +1/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3478</id>
+      <name>Auspicious Ancestor</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Auspicious Ancestor is put into a graveyard from play, you gain 3 life. &lt;br&gt;Whenever a player plays a white spell, you may pay {1}. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3479</id>
+      <name>Benevolent Unicorn</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>If a spell would deal damage to a creature or player, it deals that much damage minus 1 to that creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3482</id>
+      <name>Civic Guildmage</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Target creature gets +0/+1 until end of turn. &lt;br&gt;{U}, {T}: Put target creature you control on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3483</id>
+      <name>Dazzling Beauty</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Dazzling Beauty only during the declare blockers step. &lt;br&gt;Target attacking unblocked creature becomes blocked. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3484</id>
+      <name>Disempower</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put target artifact or enchantment on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3487</id>
+      <name>Divine Retribution</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3491</id>
+      <name>Favorable Destiny</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+2 as long as it&apos;s white. &lt;br&gt;Enchanted creature has shroud as long as its controller controls another creature. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3492</id>
+      <name>Femeref Healer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3493</id>
+      <name>Femeref Knight</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{W}: Femeref Knight gains vigilance until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3494</id>
+      <name>Femeref Scouts</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Scout</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3496</id>
+      <name>Illumination</name>
+      <cost>{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3497</id>
+      <name>Iron Tusk Elephant</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3498</id>
+      <name>Ivory Charm</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - All creatures get -2/-0 until end of turn; or tap target creature; or prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3499</id>
+      <name>Jabari&apos;s Influence</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Jabari&apos;s Influence only after combat. &lt;br&gt; &lt;br&gt;Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3500</id>
+      <name>Mangara&apos;s Blessing</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 5 life. &lt;br&gt; &lt;br&gt;When a spell or ability an opponent controls causes you to discard Mangara&apos;s Blessing from your hand, you gain 2 life, and you return Mangara&apos;s Blessing from your graveyard to your hand at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3501</id>
+      <name>Mangara&apos;s Equity</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Mangara&apos;s Equity comes into play, choose black or red. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Mangara&apos;s Equity unless you pay {1}{W}. &lt;br&gt; &lt;br&gt;Whenever a creature of the chosen color deals damage to you or a white creature you control, Mangara&apos;s Equity deals X damage to that creature, where X is equal to the damage dealt to you or the white creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3502</id>
+      <name>Melesse Spirit</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from black</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3503</id>
+      <name>Mtenda Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{W}, {T}: Return Mtenda Griffin to its owner&apos;s hand and return target Griffin card in your graveyard to your hand. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3504</id>
+      <name>Mtenda Herder</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3505</id>
+      <name>Noble Elephant</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Elephant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding, trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3506</id>
+      <name>Null Chamber</name>
+      <cost>{3}{W}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Null Chamber comes into play, you and an opponent each name a card other than a basic land card. &lt;br&gt;The named cards can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3509</id>
+      <name>Prismatic Circle</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;As Prismatic Circle comes into play, choose a color. &lt;br&gt;{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3510</id>
+      <name>Rashida Scalebane</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target attacking or blocking Dragon. It can&apos;t be regenerated. You gain life equal to its power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3511</id>
+      <name>Ritual of Steel</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Ritual of Steel comes into play, draw a card at the beginning of the next turn&apos;s upkeep. &lt;br&gt;Enchanted creature gets +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3512</id>
+      <name>Sacred Mesa</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus. &lt;br&gt;{1}{W}: Put a 1/1 white Pegasus creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3513</id>
+      <name>Shadowbane</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>The next time a source of your choice would deal damage to you or a creature you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain life equal to the damage prevented this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3514</id>
+      <name>Sidar Jabari</name>
+      <cost>{3}{W}</cost>
+      <type>Legendary Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;Whenever Sidar Jabari attacks, tap target creature defending player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3515</id>
+      <name>Soul Echo</name>
+      <cost>{X}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Soul Echo comes into play with X echo counters on it. &lt;br&gt;You don&apos;t lose the game for having 0 or less life. &lt;br&gt;At the beginning of your upkeep, sacrifice Soul Echo if there are no echo counters on it. Otherwise, an opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove 1 echo counter from Soul Echo instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3516</id>
+      <name>Spectral Guardian</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Noncreature artifacts have shroud as long as Spectral Guardian is untapped. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3518</id>
+      <name>Teremko Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding, flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3520</id>
+      <name>Vigilant Martyr</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Vigilant Martyr: Regenerate target creature. &lt;br&gt;{W}{W}, {T}, Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3521</id>
+      <name>Wall of Resistance</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;At end of turn, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3522</id>
+      <name>Ward of Lights</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Ward of Lights any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;As Ward of Lights comes into play, choose a color. &lt;br&gt;Enchanted creature has protection from the chosen color. This effect doesn&apos;t remove Ward of Lights.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3523</id>
+      <name>Yare</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature defending player controls gets +3/+0 until end of turn. That creature can block up to two additional creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3524</id>
+      <name>Zhalfirin Commander</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3525</id>
+      <name>Zhalfirin Knight</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{W}{W}: Zhalfirin Knight gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3526</id>
+      <name>Zuberi, Golden Feather</name>
+      <cost>{4}{W}</cost>
+      <type>Legendary Creature - Griffin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Other Griffin creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3527</id>
+      <name>Asmira, Holy Avenger</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;At end of turn, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3528</id>
+      <name>Benthic Djinn</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, you lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3529</id>
+      <name>Cadaverous Bloom</name>
+      <cost>{3}{B}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove a card in your hand from the game: Add {B}{B} or {G}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3530</id>
+      <name>Circle of Despair</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3531</id>
+      <name>Delirium</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Delirium only during an opponent&apos;s turn. &lt;br&gt;Tap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3532</id>
+      <name>Discordant Spirit</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each turn, if it was an opponent&apos;s turn, put a +1/+1 counter on Discordant Spirit for each 1 damage dealt to you that turn. &lt;br&gt;At the end of your turn, remove all +1/+1 counters on Discordant Spirit.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3533</id>
+      <name>Emberwilde Caliph</name>
+      <cost>{2}{U}{R}</cost>
+      <type>Creature - Djinn</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt; &lt;br&gt;Emberwilde Caliph attacks each turn if able. &lt;br&gt; &lt;br&gt;Whenever Emberwilde Caliph deals damage, you lose that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3534</id>
+      <name>Energy Bolt</name>
+      <cost>{X}{R}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose one - Energy Bolt deals X damage to target player; or target player gains X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3535</id>
+      <name>Frenetic Efreet</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Creature - Efreet</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{0}: If Frenetic Efreet is in play, flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3536</id>
+      <name>Grim Feast</name>
+      <cost>{1}{B}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, Grim Feast deals 1 damage to you. &lt;br&gt; &lt;br&gt;Whenever a creature is put into an opponent&apos;s graveyard from play, you gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3537</id>
+      <name>Harbor Guardian</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;Whenever Harbor Guardian attacks, defending player may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3538</id>
+      <name>Haunting Apparition</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1+*</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;As Haunting Apparition comes into play, choose an opponent. &lt;br&gt;Haunting Apparition&apos;s power is equal to 1 plus the number of green creature cards in the chosen player&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3539</id>
+      <name>Hazerider Drake</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3540</id>
+      <name>Jungle Troll</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Troll</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Regenerate Jungle Troll. &lt;br&gt; &lt;br&gt;{G}: Regenerate Jungle Troll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3541</id>
+      <name>Kaervek&apos;s Purge</name>
+      <cost>{X}{B}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature with converted mana cost X. If that creature is put into a graveyard this way, Kaervek&apos;s Purge deals damage equal to the creature&apos;s power to the creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3542</id>
+      <name>Leering Gargoyle</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{T}: Leering Gargoyle gets -2/+2 and loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3543</id>
+      <name>Malignant Growth</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;br&gt;At the beginning of your upkeep, put a growth counter on Malignant Growth. &lt;br&gt;At the beginning of each of your opponents&apos; draw steps, that player draws a card for each growth counter on Malignant Growth, then Malignant Growth deals damage to the player equal to the number of cards he or she drew this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3544</id>
+      <name>Phyrexian Purge</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy any number of target creatures. You lose 3 life for each creature targeted this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3545</id>
+      <name>Prismatic Boon</name>
+      <cost>{X}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>X target creatures gain protection from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3546</id>
+      <name>Purgatory</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a nontoken creature is put into your graveyard from play, remove that card from the game. &lt;br&gt;At the beginning of your upkeep, you may pay {4} and 2 life. If you do, return a card removed from the game with Purgatory to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3547</id>
+      <name>Radiant Essence</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Radiant Essence gets +1/+2 as long as an opponent controls a black permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3548</id>
+      <name>Reflect Damage</name>
+      <cost>{3}{R}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>The next time a source of your choice would deal damage this turn, that damage is dealt to that source&apos;s controller instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3549</id>
+      <name>Reparations</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a spell that targets you or a creature you control, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3550</id>
+      <name>Rock Basilisk</name>
+      <cost>{4}{R}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3551</id>
+      <name>Savage Twister</name>
+      <cost>{X}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Savage Twister deals X damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3552</id>
+      <name>Sawback Manticore</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Creature - Manticore</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}: Sawback Manticore gains flying until end of turn. &lt;br&gt;{1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Play this ability only if Sawback Manticore is attacking or blocking and only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3553</id>
+      <name>Sealed Fate</name>
+      <cost>{X}{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Look at the top X cards of target opponent&apos;s library. Remove one of those cards from the game and put the rest back on top of that player&apos;s library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3554</id>
+      <name>Shauku&apos;s Minion</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Human Minion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}{R}, {T}: Shauku&apos;s Minion deals 2 damage to target white creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3555</id>
+      <name>Spatial Binding</name>
+      <cost>{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Pay 1 life: Until your next upkeep step, target permanent can&apos;t phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3556</id>
+      <name>Unfulfilled Desires</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Pay 1 life: Draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3557</id>
+      <name>Vitalizing Cascade</name>
+      <cost>{X}{G}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain X+3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3558</id>
+      <name>Warping Wurm</name>
+      <cost>{2}{G}{U}</cost>
+      <type>Creature - Wurm</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phasing &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, you may pay {2}{G}{U}. If you don&apos;t, Warping Wurm phases out. &lt;br&gt; &lt;br&gt;When Warping Wurm phases in, put a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3559</id>
+      <name>Wellspring</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land &lt;br&gt;When Wellspring comes into play, gain control of enchanted land until end of turn. &lt;br&gt;At the beginning of your upkeep, untap enchanted land. You gain control of that land until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3560</id>
+      <name>Windreaper Falcon</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from blue</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3561</id>
+      <name>Zebra Unicorn</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3570</id>
+      <name>Bad River</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bad River comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3572</id>
+      <name>Flood Plain</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flood Plain comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3573</id>
+      <name>Grasslands</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Grasslands comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3574</id>
+      <name>Mountain Valley</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Mountain Valley comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3575</id>
+      <name>Rocky Tar Pit</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rocky Tar Pit comes into play tapped. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3576</id>
+      <name>Teferi&apos;s Isle</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Mirage</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phasing &lt;br&gt; &lt;br&gt;Teferi&apos;s Isle comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {U}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

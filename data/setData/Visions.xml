@@ -1,0 +1,1515 @@
+<cards>
+  <name>Visions</name>
+  <key>Visions</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>3589</id>
+      <name>Anvil of Bogardan</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players have no maximum hand size. &lt;br&gt;At the beginning of each player&apos;s draw step, that player draws a card, then discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3590</id>
+      <name>Brass-Talon Chimera</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Chimera</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;Sacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera creature. It gains first strike. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3591</id>
+      <name>Diamond Kaleidoscope</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Put a 0/1 Prism artifact creature token into play. &lt;br&gt;Sacrifice a Prism token: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3593</id>
+      <name>Helm of Awakening</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Spells cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3594</id>
+      <name>Iron-Heart Chimera</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Chimera</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3595</id>
+      <name>Juju Bubble</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;When you play a card, sacrifice Juju Bubble. &lt;br&gt;{2}: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3596</id>
+      <name>Lead-Belly Chimera</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Chimera</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Sacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera creature. It gains trample. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3597</id>
+      <name>Magma Mine</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}: Put a pressure counter on Magma Mine. &lt;br&gt;{T}, Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3598</id>
+      <name>Matopi Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3599</id>
+      <name>Phyrexian Marauder</name>
+      <cost>{X}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phyrexian Marauder comes into play with X +1/+1 counters on it. &lt;br&gt;Phyrexian Marauder can&apos;t block. &lt;br&gt;Phyrexian Marauder can&apos;t attack unless you pay {1} for each +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3600</id>
+      <name>Phyrexian Walker</name>
+      <cost>{0}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3601</id>
+      <name>Sands of Time</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player skips his or her untap step. &lt;br&gt;At the beginning of each player&apos;s upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3605</id>
+      <name>Tin-Wing Chimera</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Chimera</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera creature. It gains flying. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3606</id>
+      <name>Triangle of War</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Sacrifice Triangle of War: Choose target creature you control and target creature an opponent controls. Each creature deals damage equal to its power to the other.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3608</id>
+      <name>Aku Djinn</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3609</id>
+      <name>Blanket of Night</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each land is a Swamp in addition to its other land types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3610</id>
+      <name>Brood of Cockroaches</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Brood of Cockroaches is put into your graveyard from play, at end of turn, you lose 1 life and return Brood of Cockroaches to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3613</id>
+      <name>Dark Privilege</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;Sacrifice a creature: Regenerate enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3614</id>
+      <name>Death Watch</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, its controller loses life equal to its power and you gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3615</id>
+      <name>Desolation</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, each player who tapped a land for mana this turn sacrifices a land. If a Plains is sacrificed this way, Desolation deals 2 damage to that Plains&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3616</id>
+      <name>Fallen Askari</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;Fallen Askari can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3617</id>
+      <name>Forbidden Ritual</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a nontoken permanent. If you do, target opponent loses 2 life unless he or she sacrifices a permanent or discards a card. You may repeat this process any number of times.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3619</id>
+      <name>Infernal Harvest</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Infernal Harvest, return X Swamps you control to their owner&apos;s hand. &lt;br&gt;Infernal Harvest deals X damage divided as you choose among any number of target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3620</id>
+      <name>Kaervek&apos;s Spite</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Kaervek&apos;s Spite, sacrifice all permanents you control and discard your hand. &lt;br&gt;Target player loses 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3621</id>
+      <name>Necromancy</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may play Necromancy any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;When Necromancy comes into play, if it&apos;s in play, it becomes an Aura with &quot;enchant creature put into play with Necromancy.&quot; Put target creature card from a graveyard into play under your control and attach Necromancy to it. When Necromancy leaves play, that creature&apos;s controller sacrifices it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3624</id>
+      <name>Pillar Tombs of Aku</name>
+      <cost>{2}{B}{B}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player may sacrifice a creature. If that player doesn&apos;t, he or she loses 5 life and you sacrifice Pillar Tombs of Aku.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3626</id>
+      <name>Suq&apos;Ata Assassin</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fear &lt;br&gt;Whenever Suq&apos;Ata Assassin attacks and isn&apos;t blocked, defending player gets a poison counter. &lt;I&gt;(A player with ten or more poison counters loses the game.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3628</id>
+      <name>Urborg Mindsucker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3630</id>
+      <name>Vampirism</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Vampirism comes into play, draw a card at the beginning of the next turn&apos;s upkeep. &lt;br&gt;Enchanted creature gets +1/+1 for each other creature you control. &lt;br&gt;All other creatures you control get -1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3631</id>
+      <name>Wake of Vultures</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3632</id>
+      <name>Wicked Reward</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Wicked Reward, sacrifice a creature. &lt;br&gt;Target creature gets +4/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3633</id>
+      <name>Betrayal</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature an opponent controls &lt;br&gt;Whenever enchanted creature becomes tapped, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3634</id>
+      <name>Breezekeeper</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, phasing</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3635</id>
+      <name>Chronatog</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Atog</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{0}: Chronatog gets +3/+3 until end of turn. You skip your next turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3638</id>
+      <name>Dream Tides</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures don&apos;t untap during their controllers&apos; untap steps. &lt;br&gt;Nongreen creatures have &quot;At the beginning of your upkeep, you may pay {2}. If you do, untap this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3639</id>
+      <name>Flooded Shoreline</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}{U}, Return two Islands you control to their owner&apos;s hand: Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3640</id>
+      <name>Foreshadow</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Name a card, then put the top card of target opponent&apos;s library into his or her graveyard. If that card is the named card, you draw a card. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3643</id>
+      <name>Knight of the Mists</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;When Knight of the Mists comes into play, you may pay {U}. If you don&apos;t, destroy target Knight and it can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3645</id>
+      <name>Mystic Veil</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Mystic Veil any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3648</id>
+      <name>Rainbow Efreet</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{U}{U}: Rainbow Efreet phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3649</id>
+      <name>Shimmering Efreet</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Efreet</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, phasing &lt;br&gt;Whenever Shimmering Efreet phases in, target creature phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3650</id>
+      <name>Shrieking Drake</name>
+      <cost>{U}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Shrieking Drake comes into play, return a creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3651</id>
+      <name>Teferi&apos;s Realm</name>
+      <cost>{1}{U}{U}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3652</id>
+      <name>Three Wishes</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove the top three cards of your library from the game face down. You may look at those cards as long as they remain removed from the game. Until your next turn, you may play those cards. At the beginning of your next upkeep, put any of those cards you didn&apos;t play into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3653</id>
+      <name>Time and Tide</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Simultaneously, all creature cards that are phased out phase in and all creatures with phasing phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3654</id>
+      <name>Undo</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return two target creatures to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3655</id>
+      <name>Vanishing</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{U}{U}: Enchanted creature phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3656</id>
+      <name>Vision Charm</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target artifact phases out; or target player puts the top four cards of his or her library into his or her graveyard; or choose a land type and a basic land type, and each land of the first chosen type becomes the second chosen type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3657</id>
+      <name>Waterspout Djinn</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3658</id>
+      <name>Bull Elephant</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Bull Elephant comes into play, sacrifice it unless you return two Forests you control to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3659</id>
+      <name>City of Solitude</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players can play spells and activated abilities only during their own turns.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3661</id>
+      <name>Elephant Grass</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Black creatures can&apos;t attack you. &lt;br&gt;Nonblack creatures can&apos;t attack you unless their controller pays {2} for each creature he or she controls that&apos;s attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3663</id>
+      <name>Emerald Charm</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3664</id>
+      <name>Feral Instinct</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 until end of turn. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3666</id>
+      <name>Katabatic Winds</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phasing &lt;br&gt;Creatures with flying can&apos;t attack or block, and their activated abilities with {T} in their costs can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3668</id>
+      <name>Kyscu Drake</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Kyscu Drake gets +0/+1 until end of turn. Play this ability only once each turn. &lt;br&gt;Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3669</id>
+      <name>Lichenthrope</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Plant Fungus</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If damage would be dealt to Lichenthrope, put that many -1/-1 counters on it instead. &lt;br&gt;At the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3670</id>
+      <name>Mortal Wound</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is dealt damage, destroy it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3673</id>
+      <name>Quirion Druid</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}, {T}: Target land becomes a 2/2 green creature that&apos;s still a land. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3674</id>
+      <name>Quirion Ranger</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return a Forest you control to its owner&apos;s hand: Untap target creature. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3677</id>
+      <name>Spider Climb</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Spider Climb any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +0/+3 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3682</id>
+      <name>Wind Shear</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Attacking creatures with flying get -2/-2 and lose flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3683</id>
+      <name>Bogardan Phoenix</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Bogardan Phoenix is put into a graveyard from play, remove it from the game if it had a death counter on it. Otherwise, return it to play and put a death counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3684</id>
+      <name>Dwarven Vigilantes</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Dwarven Vigilantes attacks and isn&apos;t blocked, you may have it deal damage equal to its power to target creature. If you do, Dwarven Vigilantes deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3685</id>
+      <name>Elkin Lair</name>
+      <cost>{3}{R}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player removes a card at random in his or her hand from the game. The player may play that card this turn. At end of turn, if the player hasn&apos;t played the card, he or she puts it into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3686</id>
+      <name>Fireblast</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may sacrifice two Mountains rather than pay Fireblast&apos;s mana cost. &lt;br&gt;Fireblast deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3688</id>
+      <name>Goblin Swine-Rider</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and 2 damage to each blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3689</id>
+      <name>Hearth Charm</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target artifact creature; or attacking creatures get +1/+0 until end of turn; or target creature with power 2 or less is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3690</id>
+      <name>Heat Wave</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {R} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Blue creatures can&apos;t block creatures you control. &lt;br&gt;Nonblue creatures can&apos;t block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3692</id>
+      <name>Keeper of Kookus</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Keeper of Kookus gains protection from red until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3693</id>
+      <name>Kookus</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Djinn</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;At the beginning of your upkeep, if you don&apos;t control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able. &lt;br&gt;{R}: Kookus gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3694</id>
+      <name>Lightning Cloud</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays a red spell, you may pay {R}. If you do, Lightning Cloud deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3695</id>
+      <name>Mob Mentality</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has trample. &lt;br&gt;Whenever all non-Wall creatures you control attack, enchanted creature gets +X/+0 until end of turn, where X is the number of attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3696</id>
+      <name>Ogre Enforcer</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Ogre Enforcer would be dealt nonlethal damage by a single source, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3697</id>
+      <name>Raging Gorilla</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ape</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3699</id>
+      <name>Rock Slide</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3700</id>
+      <name>Solfatara</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player can&apos;t play lands this turn. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3701</id>
+      <name>Song of Blood</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put the top four cards of your library into your graveyard. &lt;br&gt;Whenever a creature attacks this turn, it gets +1/+0 until end of turn for each creature card put into your graveyard this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3704</id>
+      <name>Talruum Champion</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Minotaur</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;Whenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3705</id>
+      <name>Talruum Piper</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Minotaur</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All creatures with flying able to block Talruum Piper do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3710</id>
+      <name>Equipoise</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, for each artifact target player controls in excess of the number you control, choose an artifact he or she controls. Repeat this process for creatures and lands. The chosen permanents phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3711</id>
+      <name>Eye of Singularity</name>
+      <cost>{3}{W}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Eye of Singularity comes into play, destroy each permanent with the same name as another permanent, except for basic lands. They can&apos;t be regenerated. &lt;br&gt;Whenever a permanent other than a basic land comes into play, destroy all other permanents with that name. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3712</id>
+      <name>Freewind Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3713</id>
+      <name>Gossamer Chains</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return Gossamer Chains to its owner&apos;s hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3715</id>
+      <name>Hope Charm</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target creature gains first strike until end of turn; or target player gains 2 life; or destroy target Aura.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3717</id>
+      <name>Jamuraan Lion</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Target creature can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3718</id>
+      <name>Knight of Valor</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{1}{W}: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3720</id>
+      <name>Miraculous Recovery</name>
+      <cost>{4}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3721</id>
+      <name>Parapet</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play Parapet any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Creatures you control get +0/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3722</id>
+      <name>Peace Talks</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>This turn and next turn, creatures can&apos;t attack, and players and permanents can&apos;t be the targets of spells or activated abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3723</id>
+      <name>Relic Ward</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may play Relic Ward any time you could play an instant. If it was played any time a sorcery couldn&apos;t have been played, it gains substance until end of turn and when it loses substance, sacrifice it. &lt;br&gt;Enchant artifact &lt;br&gt;Enchanted artifact has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3726</id>
+      <name>Retribution of the Meek</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures with power 4 or greater. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3729</id>
+      <name>Teferi&apos;s Honor Guard</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{U}{U}: Teferi&apos;s Honor Guard phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3730</id>
+      <name>Tithe</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a Plains card. If you control fewer lands than an opponent, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3732</id>
+      <name>Zhalfirin Crusader</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt; &lt;br&gt;{1}{W}: The next 1 damage that would be dealt to Zhalfirin Crusader this turn is dealt to target creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3733</id>
+      <name>Army Ants</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a land: Destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3734</id>
+      <name>Breathstealer&apos;s Crypt</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a player would draw a card, instead he or she draws a card and reveals it. If it&apos;s a creature card, that player discards it unless he or she pays 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3735</id>
+      <name>Corrosion</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;br&gt;At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can&apos;t be regenerated. &lt;br&gt;When Corrosion leaves play, remove all rust counters from all permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3736</id>
+      <name>Femeref Enchantress</name>
+      <cost>{G}{W}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an enchantment is put into a graveyard from play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3737</id>
+      <name>Firestorm Hellkite</name>
+      <cost>{4}{U}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt;Cumulative upkeep {U}{R} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3738</id>
+      <name>Guiding Spirit</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Angel Spirit</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: If the top card of target player&apos;s graveyard is a creature card, put that card on the top of that player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3739</id>
+      <name>Mundungu</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Counter target spell unless its controller pays {1} and 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3740</id>
+      <name>Pygmy Hippo</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Hippo</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Pygmy Hippo attacks and isn&apos;t blocked, you may have defending player play a mana ability of each land he or she controls and empty his or her mana pool. If you do, Pygmy Hippo deals no combat damage this turn and at the beginning of your postcombat main phase, you add {X} to your mana pool, where X is equal to the amount of mana emptied from defending player&apos;s mana pool this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3741</id>
+      <name>Righteous War</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>White creatures you control have protection from black. &lt;br&gt;Black creatures you control have protection from white.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3742</id>
+      <name>Scalebane&apos;s Elite</name>
+      <cost>{3}{W}{G}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from black</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3744</id>
+      <name>Squandered Resources</name>
+      <cost>{B}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3745</id>
+      <name>Suleiman&apos;s Legacy</name>
+      <cost>{R}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Suleiman&apos;s Legacy comes into play, destroy all Djinns and Efreets. They can&apos;t be regenerated. &lt;br&gt;Whenever a Djinn or Efreet comes into play, destroy it. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3746</id>
+      <name>Tempest Drake</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3747</id>
+      <name>Viashivan Dragon</name>
+      <cost>{2}{R}{R}{G}{G}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Viashivan Dragon gets +1/+0 until end of turn. &lt;br&gt;{G}: Viashivan Dragon gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3748</id>
+      <name>Coral Atoll</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Coral Atoll comes into play tapped. &lt;br&gt;When Coral Atoll comes into play, sacrifice it unless you return an untapped Island you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {1}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3749</id>
+      <name>Dormant Volcano</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Dormant Volcano comes into play tapped. &lt;br&gt;When Dormant Volcano comes into play, sacrifice it unless you return an untapped Mountain you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {1}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3750</id>
+      <name>Everglades</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Everglades comes into play tapped. &lt;br&gt;When Everglades comes into play, sacrifice it unless you return an untapped Swamp you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {1}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3751</id>
+      <name>Griffin Canyon</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Untap target Griffin. If it&apos;s a creature, it gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3752</id>
+      <name>Jungle Basin</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Jungle Basin comes into play tapped. &lt;br&gt;When Jungle Basin comes into play, sacrifice it unless you return an untapped Forest you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {1}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3753</id>
+      <name>Karoo</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Karoo comes into play tapped. &lt;br&gt;When Karoo comes into play, sacrifice it unless you return an untapped Plains you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {1}{W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3755</id>
+      <name>Undiscovered Paradise</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Visions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

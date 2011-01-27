@@ -1,0 +1,2113 @@
+<cards>
+  <name>Guildpact</name>
+  <key>Guildpact</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>106568</id>
+      <name>Mimeofacture</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Replicate {3}{U} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Choose target permanent an opponent controls. Search that player&apos;s library for a card with the same name and put it into play under your control. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106575</id>
+      <name>Streetbreaker Wurm</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106576</id>
+      <name>Giant Solifuge</name>
+      <cost>{2}{R/G}{R/G}</cost>
+      <type>Creature - Insect</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({R/G} can be paid with either {R} or {G}.)&lt;/i&gt; &lt;br&gt;Trample, haste, shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107090</id>
+      <name>Witch-Maw Nephilim</name>
+      <cost>{G}{W}{U}{B}</cost>
+      <type>Creature - Nephilim</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a spell, you may put two +1/+1 counters on Witch-Maw Nephilim. &lt;br&gt;Whenever Witch-Maw Nephilim attacks, it gains trample until end of turn if its power is 10 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107091</id>
+      <name>Dune-Brood Nephilim</name>
+      <cost>{B}{R}{G}{W}</cost>
+      <type>Creature - Nephilim</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Dune-Brood Nephilim deals combat damage to a player, put a 1/1 colorless Sand creature token into play for each land you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107092</id>
+      <name>Ink-Treader Nephilim</name>
+      <cost>{R}{G}{W}{U}</cost>
+      <type>Creature - Nephilim</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays an instant or sorcery spell, if Ink-Treader Nephilim is the only target of that spell, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107093</id>
+      <name>Yore-Tiller Nephilim</name>
+      <cost>{W}{U}{B}{R}</cost>
+      <type>Creature - Nephilim</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Yore-Tiller Nephilim attacks, return target creature card from your graveyard to play tapped and attacking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107094</id>
+      <name>Glint-Eye Nephilim</name>
+      <cost>{U}{B}{R}{G}</cost>
+      <type>Creature - Nephilim</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Glint-Eye Nephilim deals combat damage to a player, draw that many cards. &lt;br&gt;{1}, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107095</id>
+      <name>Sword of the Paruns</name>
+      <cost>{4}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as equipped creature is tapped, tapped creatures you control get +2/+0. &lt;br&gt;As long as equipped creature is untapped, untapped creatures you control get +0/+2. &lt;br&gt;{3}: You may tap or untap equipped creature. &lt;br&gt;Equip {3}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107096</id>
+      <name>Mizzium Transreliquat</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn. &lt;br&gt;{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107097</id>
+      <name>Wildsize</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +2/+2 and gains trample until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107098</id>
+      <name>Gruul War Plow</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control have trample. &lt;br&gt;{1}{R}{G}: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107099</id>
+      <name>Poisonbelly Ogre</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever another creature comes into play, its controller loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107680</id>
+      <name>Leap of Flame</name>
+      <cost>{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Replicate {U}{R} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Target creature gets +1/+0 and gains flying and first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107681</id>
+      <name>Fencer&apos;s Magemark</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Creatures you control that are enchanted get +1/+1 and have first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107682</id>
+      <name>Leyline of the Void</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Leyline of the Void is in your opening hand, you may begin the game with it in play. &lt;br&gt;If a card would be put into an opponent&apos;s graveyard, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107683</id>
+      <name>Gruul Nodorog</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Gruul Nodorog can&apos;t be blocked this turn except by two or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107684</id>
+      <name>Infiltrator&apos;s Magemark</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Creatures you control that are enchanted get +1/+1 and can&apos;t be blocked except by creatures with defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107685</id>
+      <name>Necromancer&apos;s Magemark</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Creatures you control that are enchanted get +1/+1. &lt;br&gt;If a creature you control that&apos;s enchanted would be put into a graveyard, return it to its owner&apos;s hand instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107686</id>
+      <name>Leyline of Lightning</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Leyline of Lightning is in your opening hand, you may begin the game with it in play. &lt;br&gt;Whenever you play a spell, you may pay {1}. If you do, Leyline of Lightning deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107687</id>
+      <name>Drowned Rusalka</name>
+      <cost>{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}, Sacrifice a creature: Discard a card, then draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107688</id>
+      <name>Guardian&apos;s Magemark</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Creatures you control that are enchanted get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107689</id>
+      <name>Beastmaster&apos;s Magemark</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Creatures you control that are enchanted get +1/+1. &lt;br&gt;Whenever a creature you control that&apos;s enchanted becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107691</id>
+      <name>Plagued Rusalka</name>
+      <cost>{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107692</id>
+      <name>Starved Rusalka</name>
+      <cost>{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, Sacrifice a creature: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107693</id>
+      <name>Wreak Havoc</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wreak Havoc can&apos;t be countered by spells or abilities. &lt;br&gt;Destroy target artifact or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107694</id>
+      <name>Primeval Light</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all enchantments target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107695</id>
+      <name>Leyline of Lifeforce</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Leyline of Lifeforce is in your opening hand, you may begin the game with it in play. &lt;br&gt;Creature spells can&apos;t be countered.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107696</id>
+      <name>Martyred Rusalka</name>
+      <cost>{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, Sacrifice a creature: Target creature can&apos;t attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107697</id>
+      <name>Leyline of Singularity</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Leyline of Singularity is in your opening hand, you may begin the game with it in play. &lt;br&gt;All nonland permanents are legendary.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107698</id>
+      <name>Scorched Rusalka</name>
+      <cost>{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107699</id>
+      <name>Leyline of the Meek</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Leyline of the Meek is in your opening hand, you may begin the game with it in play. &lt;br&gt;Creature tokens get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83546</id>
+      <name>Teysa, Orzhov Scion</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice three white creatures: Remove target creature from the game. &lt;br&gt;Whenever another black creature you control is put into a graveyard from play, put a 1/1 white Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83630</id>
+      <name>Invoke the Firemind</name>
+      <cost>{X}{U}{U}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose one - Draw X cards; or Invoke the Firemind deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83733</id>
+      <name>Crystal Seer</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Vedalken Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Crystal Seer comes into play, look at the top four cards of your library, then put them back in any order. &lt;br&gt;{4}{U}: Return Crystal Seer to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83739</id>
+      <name>To Arms!</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Untap all creatures you control. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83869</id>
+      <name>Angel of Despair</name>
+      <cost>{3}{W}{W}{B}{B}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Angel of Despair comes into play, destroy target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96825</id>
+      <name>Silhana Ledgewalker</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Silhana Ledgewalker can&apos;t be blocked except by creatures with flying. &lt;br&gt;Silhana Ledgewalker can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96826</id>
+      <name>Quicken</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>The next sorcery card you play this turn can be played as though it had flash. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96827</id>
+      <name>Repeal</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target nonland permanent with converted mana cost X to its owner&apos;s hand. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96829</id>
+      <name>Electrolyze</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Electrolyze deals 2 damage divided as you choose among any number of target creatures and/or players. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96833</id>
+      <name>Gristleback</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Boar Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt; &lt;br&gt;Sacrifice Gristleback: You gain life equal to Gristleback&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96834</id>
+      <name>Ghor-Clan Bloodscale</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Viashino Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;{3}{G}: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96835</id>
+      <name>Sky Swallower</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Sky Swallower comes into play, target opponent gains control of all other permanents you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96836</id>
+      <name>Bloodscale Prowler</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Viashino Warrior</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96837</id>
+      <name>Gruul Guildmage</name>
+      <cost>{R/G}{R/G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({R/G} can be paid with either {R} or {G}.)&lt;/i&gt; &lt;br&gt;{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player. &lt;br&gt;{3}{G}: Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96838</id>
+      <name>Skyrider Trainee</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as Skyrider Trainee is enchanted, it has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96840</id>
+      <name>Hypervolt Grasp</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: This creature deals 1 damage to target creature or player.&quot; &lt;br&gt;{1}{U}: Return Hypervolt Grasp to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96841</id>
+      <name>Lionheart Maverick</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance &lt;br&gt;{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96842</id>
+      <name>Ghostway</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove each creature you control from the game. Return those creatures to play under their owners&apos; control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96843</id>
+      <name>Harrier Griffin</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96844</id>
+      <name>Orzhov Pontiff</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Orzhov Pontiff comes into play or the creature it haunts is put into a graveyard, choose one - creatures you control get +1/+1 until end of turn; or creatures you don&apos;t control get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96845</id>
+      <name>Pyromatics</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Replicate {1}{R} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Pyromatics deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96848</id>
+      <name>Dryad Sophisticate</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Nonbasic landwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96849</id>
+      <name>Ghor-Clan Savage</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Centaur Berserker</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with three +1/+1 counters on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96851</id>
+      <name>Vacuumelt</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Replicate {2}{U} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96853</id>
+      <name>Petrified Wood-Kin</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Petrified Wood-Kin can&apos;t be countered. &lt;br&gt;Bloodthirst X &lt;i&gt;(This creature comes into play with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)&lt;/i&gt; &lt;br&gt;Protection from instants</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96855</id>
+      <name>Restless Bones</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}{B}, {T}: Target creature gains swampwalk until end of turn. &lt;br&gt;{1}{B}: Regenerate Restless Bones.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96857</id>
+      <name>Bioplasm</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Ooze</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Bioplasm attacks, remove the top card of your library from the game. If it&apos;s a creature card, Bioplasm gets +X/+Y until end of turn, where X is the removed creature card&apos;s power and Y is its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96858</id>
+      <name>Abyssal Nocturnus</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96859</id>
+      <name>Gruul Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {R}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96860</id>
+      <name>Vertigo Spawn</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Whenever Vertigo Spawn blocks a creature, tap that creature. It doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96863</id>
+      <name>Silhana Starfletcher</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Druid Archer</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;As Silhana Starfletcher comes into play, choose a color. &lt;br&gt;{T}: Add one mana of the chosen color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96864</id>
+      <name>Gigadrowse</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Replicate {U} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Tap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96865</id>
+      <name>Spelltithe Enforcer</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Elephant Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a spell, that player sacrifices a permanent unless he or she pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96867</id>
+      <name>Izzet Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {U}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96870</id>
+      <name>Orzhov Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {W}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96871</id>
+      <name>Orzhov Basilica</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Orzhov Basilica comes into play tapped. &lt;br&gt;When Orzhov Basilica comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {W}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96873</id>
+      <name>Hatching Plans</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Hatching Plans is put into a graveyard from play, draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96874</id>
+      <name>Living Inferno</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>8</power>
+      <toughness>5</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96876</id>
+      <name>Cryptwailing</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Remove two creature cards in your graveyard from the game: Target player discards a card. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96877</id>
+      <name>Gatherer of Graces</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gatherer of Graces gets +1/+1 for each Aura attached to it. &lt;br&gt;Sacrifice an Aura: Regenerate Gatherer of Graces.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96882</id>
+      <name>Pillory of the Sleepless</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack or block. &lt;br&gt;Enchanted creature has &quot;At the beginning of your upkeep, you lose 1 life.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96887</id>
+      <name>Gruul Scrapper</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Gruul Scrapper comes into play, if {R} was spent to play Gruul Scrapper, it gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96888</id>
+      <name>Seize the Soul</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target nonwhite nonblack creature. Put a 1/1 white Spirit creature token with flying into play. &lt;br&gt;Haunt &lt;br&gt;When the creature Seize the Soul haunts is put into a graveyard, destroy target nonwhite nonblack creature. Put a 1/1 white Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96889</id>
+      <name>Sinstriker&apos;s Will</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: This creature deals damage equal to its power to target attacking or blocking creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96890</id>
+      <name>Frazzle</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target nonblue spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96891</id>
+      <name>Gelectrode</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Creature - Weird</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Gelectrode deals 1 damage to target creature or player. &lt;br&gt;Whenever you play an instant or sorcery spell, you may untap Gelectrode.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96892</id>
+      <name>Agent of Masks</name>
+      <cost>{3}{W}{B}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96893</id>
+      <name>Orzhov Euthanist</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Orzhov Euthanist comes into play or the creature it haunts is put into a graveyard, destroy target creature that was dealt damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96896</id>
+      <name>Stomping Ground</name>
+      <cost></cost>
+      <type>Land - Mountain Forest</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Stomping Ground comes into play, you may pay 2 life. If you don&apos;t, Stomping Ground comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96897</id>
+      <name>Petrahydrox</name>
+      <cost>{3}{U/R}</cost>
+      <type>Creature - Weird</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({U/R} can be paid with either {U} or {R}.)&lt;/i&gt; &lt;br&gt;When Petrahydrox becomes the target of a spell or ability, return Petrahydrox to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96898</id>
+      <name>Burning-Tree Bloodscale</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Creature - Viashino Berserker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt; &lt;br&gt;{2}{R}: Target creature can&apos;t block Burning-Tree Bloodscale this turn. &lt;br&gt;{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96899</id>
+      <name>Skeletal Vampire</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Vampire Skeleton</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Skeletal Vampire comes into play, put two 1/1 black Bat creature tokens with flying into play. &lt;br&gt;{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying into play. &lt;br&gt;Sacrifice a Bat: Regenerate Skeletal Vampire.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96903</id>
+      <name>Wee Dragonauts</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Creature - Faerie Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96904</id>
+      <name>Scab-Clan Mauler</name>
+      <cost>{R}{G}</cost>
+      <type>Creature - Human Berserker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with two +1/+1 counters on it.)&lt;/i&gt; &lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96906</id>
+      <name>Train of Thought</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Replicate {1}{U} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost.)&lt;/i&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96907</id>
+      <name>Cerebral Vortex</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards he or she has drawn this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96908</id>
+      <name>Ghost Council of Orzhova</name>
+      <cost>{W}{W}{B}{B}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Ghost Council of Orzhova comes into play, target opponent loses 1 life and you gain 1 life. &lt;br&gt;{1}, Sacrifice a creature: Remove Ghost Council of Orzhova from the game. Return it to play under its owner&apos;s control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96910</id>
+      <name>Mourning Thrull</name>
+      <cost>{1}{W/B}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({W/B} can be paid with either {W} or {B}.)&lt;/i&gt; &lt;br&gt;Flying, lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96916</id>
+      <name>Runeboggle</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {1}. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96918</id>
+      <name>Crash Landing</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of Forests you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96920</id>
+      <name>Vedalken Plotter</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Vedalken Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Vedalken Plotter comes into play, exchange control of target land you control and target land an opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96921</id>
+      <name>Orzhov Guildmage</name>
+      <cost>{W/B}{W/B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({W/B} can be paid with either {W} or {B}.)&lt;/i&gt; &lt;br&gt;{2}{W}: Target player gains 1 life. &lt;br&gt;{2}{B}: Each player loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96922</id>
+      <name>Hissing Miasma</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks you, its controller loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96923</id>
+      <name>Steam Vents</name>
+      <cost></cost>
+      <type>Land - Island Mountain</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {U} or {R} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Steam Vents comes into play, you may pay 2 life. If you don&apos;t, Steam Vents comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96924</id>
+      <name>Ætherplasm</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Ætherplasm blocks a creature, you may return Ætherplasm to its owner&apos;s hand. If you do, you may put a creature card from your hand into play blocking that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96927</id>
+      <name>Stratozeppelid</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Stratozeppelid can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96928</id>
+      <name>Stitch in Time</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flip a coin. If you win the flip, take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96929</id>
+      <name>Droning Bureaucrats</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}, {T}: Each creature with converted mana cost X can&apos;t attack or block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96930</id>
+      <name>Mortify</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96931</id>
+      <name>Predatory Focus</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may have creatures you control assign their combat damage this turn as though they weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96932</id>
+      <name>Smogsteed Rider</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Smogsteed Rider attacks, each other attacking creature gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96934</id>
+      <name>Wild Cantor</name>
+      <cost>{R/G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({R/G} can be paid with either {R} or {G}.)&lt;/i&gt; &lt;br&gt;Sacrifice Wild Cantor: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96935</id>
+      <name>Godless Shrine</name>
+      <cost></cost>
+      <type>Land - Plains Swamp</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {B} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Godless Shrine comes into play, you may pay 2 life. If you don&apos;t, Godless Shrine comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96937</id>
+      <name>Nivix, Aerie of the Firemind</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{2}{U}{R}, {T}: Remove the top card of your library from the game. Until your next turn, you may play that card if it&apos;s an instant or sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96938</id>
+      <name>Order of the Stars</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;As Order of the Stars comes into play, choose a color. &lt;br&gt;Order of the Stars has protection from the chosen color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96940</id>
+      <name>Skarrgan Pit-Skulk</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt; &lt;br&gt;Creatures with power less than Skarrgan Pit-Skulk&apos;s power can&apos;t block it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96944</id>
+      <name>Shadow Lance</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has first strike. &lt;br&gt;{1}{B}: Enchanted creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96945</id>
+      <name>Feral Animist</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96946</id>
+      <name>Thunderheads</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Replicate {2}{U} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost.)&lt;/i&gt; &lt;br&gt;Put a 3/3 blue Weird creature token with defender and flying into play. Remove it from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96949</id>
+      <name>Daggerclaw Imp</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Daggerclaw Imp can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96951</id>
+      <name>Benediction of Moons</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 1 life for each player. &lt;br&gt;Haunt &lt;i&gt;(When this spell card is put into a graveyard after resolving, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When the creature Benediction of Moons haunts is put into a graveyard, you gain 1 life for each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96952</id>
+      <name>Niv-Mizzet, the Firemind</name>
+      <cost>{2}{U}{U}{R}{R}</cost>
+      <type>Legendary Creature - Dragon Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player. &lt;br&gt;{T}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96953</id>
+      <name>Absolver Thrull</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Thrull Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Absolver Thrull comes into play or the creature it haunts is put into a graveyard, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96954</id>
+      <name>Shrieking Grotesque</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Shrieking Grotesque comes into play, if {B} was spent to play Shrieking Grotesque, target player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96957</id>
+      <name>Skarrgan Firebird</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Phoenix</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with three +1/+1 counters on it.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Play this ability only if an opponent was dealt damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96960</id>
+      <name>Tin Street Hooligan</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Tin Street Hooligan comes into play, if {G} was spent to play Tin Street Hooligan, destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96961</id>
+      <name>Cry of Contrition</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards a card. &lt;br&gt;Haunt &lt;i&gt;(When this spell card is put into a graveyard after resolving, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When the creature Cry of Contrition haunts is put into a graveyard, target player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96962</id>
+      <name>Belfry Spirit</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Belfry Spirit comes into play or the creature it haunts is put into a graveyard, put two 1/1 black Bat creature tokens with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96964</id>
+      <name>Battering Wurm</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt; &lt;br&gt;Creatures with power less than Battering Wurm&apos;s power can&apos;t block it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96966</id>
+      <name>Izzet Guildmage</name>
+      <cost>{U/R}{U/R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({U/R} can be paid with either {U} or {R}.)&lt;/i&gt; &lt;br&gt;{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy. &lt;br&gt;{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96968</id>
+      <name>Storm Herd</name>
+      <cost>{8}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put X 1/1 white Pegasus creature tokens with flying into play, where X is your life total.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96969</id>
+      <name>Caustic Rain</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target land from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96970</id>
+      <name>Skarrg, the Rage Pits</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96972</id>
+      <name>Revenant Patriarch</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Revenant Patriarch comes into play, if {W} was spent to play Revenant Patriarch, target player skips his or her next combat phase. &lt;br&gt;Revenant Patriarch can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>96974</id>
+      <name>Ostiary Thrull</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97190</id>
+      <name>Sanguine Praetor</name>
+      <cost>{6}{B}{B}</cost>
+      <type>Creature - Avatar</type>
+      <power>7</power>
+      <toughness>5</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97192</id>
+      <name>Moratorium Stone</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Remove target card in a graveyard from the game. &lt;br&gt;{2}{W}{B}, {T}, Sacrifice Moratorium Stone: Remove from the game target nonland card in a graveyard, all other cards in graveyards with the same name as that card, and all permanents with that name.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97193</id>
+      <name>Debtors&apos; Knell</name>
+      <cost>{4}{W/B}{W/B}{W/B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({W/B} can be paid with either {W} or {B}.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, put target creature card in a graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97194</id>
+      <name>Conjurer&apos;s Ban</name>
+      <cost>{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Name a card. Until your next turn, the named card can&apos;t be played. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97197</id>
+      <name>Djinn Illuminatus</name>
+      <cost>{5}{U/R}{U/R}</cost>
+      <type>Creature - Djinn</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({U/R} can be paid with either {U} or {R}.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;Each instant and sorcery spell you play has replicate. The replicate cost is equal to its mana cost. &lt;i&gt;(When you play it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97199</id>
+      <name>Rumbling Slum</name>
+      <cost>{1}{R}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97200</id>
+      <name>Rabble-Rouser</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.)&lt;/i&gt; &lt;br&gt;{R}, {T}: Attacking creatures get +X/+0 until end of turn, where X is Rabble-Rouser&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97201</id>
+      <name>Steamcore Weird</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Weird</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Steamcore Weird comes into play, if {R} was spent to play Steamcore Weird, it deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97202</id>
+      <name>Izzet Chronarch</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Izzet Chronarch comes into play, return target instant or sorcery card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97203</id>
+      <name>Withstand</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature or player this turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97204</id>
+      <name>Schismotivate</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +4/+0 until end of turn. Another target creature gets -4/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97205</id>
+      <name>Burning-Tree Shaman</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Centaur Shaman</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays an activated ability that isn&apos;t a mana ability, Burning-Tree Shaman deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97206</id>
+      <name>Orzhova, the Church of Deals</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{3}{W}{B}, {T}: Target player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97207</id>
+      <name>Killer Instinct</name>
+      <cost>{4}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, reveal the top card of your library. If it&apos;s a creature card, put it into play. That creature gains haste until end of turn. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97208</id>
+      <name>Tibor and Lumia</name>
+      <cost>{2}{U}{R}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a blue spell, target creature gains flying until end of turn. &lt;br&gt;Whenever you play a red spell, Tibor and Lumia deals 1 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97211</id>
+      <name>Goblin Flectomancer</name>
+      <cost>{U}{R}{R}</cost>
+      <type>Creature - Goblin Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97212</id>
+      <name>Ulasht, the Hate Seed</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Legendary Creature - Hellion Hydra</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Ulasht, the Hate Seed comes into play with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control. &lt;br&gt;{1}, Remove a +1/+1 counter from Ulasht: Choose one - Ulasht deals 1 damage to target creature; or put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97215</id>
+      <name>Culling Sun</name>
+      <cost>{2}{W}{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy each creature with converted mana cost 3 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97217</id>
+      <name>Parallectric Feedback</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Parallectric Feedback deals damage to target spell&apos;s controller equal to that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97218</id>
+      <name>Torch Drake</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{R}: Torch Drake gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97219</id>
+      <name>Castigate</name>
+      <cost>{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. Choose a nonland card from it. Remove that card from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97220</id>
+      <name>Izzet Boilerworks</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Izzet Boilerworks comes into play tapped. &lt;br&gt;When Izzet Boilerworks comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {U}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97221</id>
+      <name>Douse in Gloom</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Douse in Gloom deals 2 damage to target creature and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97222</id>
+      <name>Skarrgan Skybreaker</name>
+      <cost>{4}{R}{R}{G}</cost>
+      <type>Creature - Giant Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature comes into play with three +1/+1 counters on it.)&lt;/i&gt; &lt;br&gt;{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97223</id>
+      <name>Gruul Turf</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Gruul Turf comes into play tapped. &lt;br&gt;When Gruul Turf comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {R}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97225</id>
+      <name>Exhumer Thrull</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Exhumer Thrull comes into play or the creature it haunts is put into a graveyard, return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97227</id>
+      <name>Blind Hunter</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Blind Hunter comes into play or the creature it haunts is put into a graveyard, target player loses 2 life and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97228</id>
+      <name>Graven Dominator</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Haunt &lt;i&gt;(When this card is put into a graveyard from play, remove it from the game haunting target creature.)&lt;/i&gt; &lt;br&gt;When Graven Dominator comes into play or the creature it haunts is put into a graveyard, each other creature becomes 1/1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97229</id>
+      <name>Borborygmos</name>
+      <cost>{3}{R}{R}{G}{G}</cost>
+      <type>Legendary Creature - Cyclops</type>
+      <power>6</power>
+      <toughness>7</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97230</id>
+      <name>Wurmweaver Coil</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant green creature &lt;br&gt;Enchanted creature gets +6/+6. &lt;br&gt;{G}{G}{G}, Sacrifice Wurmweaver Coil: Put a 6/6 green Wurm creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97231</id>
+      <name>Souls of the Faultless</name>
+      <cost>{W}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Whenever Souls of the Faultless is dealt combat damage, you gain that much life and attacking player loses that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97233</id>
+      <name>Shattering Spree</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Replicate {R} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97234</id>
+      <name>Siege of Towers</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Replicate {1}{R} &lt;i&gt;(When you play this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)&lt;/i&gt; &lt;br&gt;Target Mountain becomes a 3/1 creature. It&apos;s still a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97236</id>
+      <name>Ogre Savant</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Ogre Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Guildpact</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ogre Savant comes into play, if {U} was spent to play Ogre Savant, return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97238</id>
+      <name>Earth Surge</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Guildpact</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each land gets +2/+2 as long as it&apos;s a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

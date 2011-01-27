@@ -1,0 +1,2087 @@
+<cards>
+  <name>Classic_Sixth_Edition</name>
+  <key>Classic_Sixth_Edition</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>10816</id>
+      <name>Prosperity</name>
+      <cost>{X}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player draws X cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11158</id>
+      <name>Ashnod&apos;s Altar</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a creature: Add {2} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11295</id>
+      <name>Tranquil Grove</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{G}{G}: Destroy all other enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11303</id>
+      <name>Giant Strength</name>
+      <cost>{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11371</id>
+      <name>Kjeldoran Royal Guard</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11429</id>
+      <name>Order of the Sacred Torch</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life: Counter target black spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11438</id>
+      <name>Pestilence</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, if no creatures are in play, sacrifice Pestilence. &lt;br&gt; &lt;br&gt;{B}: Pestilence deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11453</id>
+      <name>Pradesh Gypsies</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Nomad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}, {T}: Target creature gets -2/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11472</id>
+      <name>Reverse Damage</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11506</id>
+      <name>Rag Man</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Minion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11518</id>
+      <name>Stromgald Cabal</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life: Counter target white spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12966</id>
+      <name>Rampant Growth</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a basic land card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12974</id>
+      <name>Viashino Warrior</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Viashino Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14454</id>
+      <name>Venerable Monk</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Monk Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Venerable Monk comes into play, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14455</id>
+      <name>Circle of Protection: White</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14457</id>
+      <name>Circle of Protection: Black</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14459</id>
+      <name>Circle of Protection: Green</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14463</id>
+      <name>Disenchant</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14464</id>
+      <name>Remedy</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14465</id>
+      <name>Warrior&apos;s Honor</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14469</id>
+      <name>Armored Pegasus</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Pegasus</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14472</id>
+      <name>D&apos;Avenant Archer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: D&apos;Avenant Archer deals 1 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14473</id>
+      <name>Regal Unicorn</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14474</id>
+      <name>Ekundu Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14475</id>
+      <name>Longbow Archer</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike, reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14476</id>
+      <name>Serra&apos;s Blessing</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control have vigilance. &lt;i&gt;(Attacking doesn&apos;t cause them to tap.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14481</id>
+      <name>Light of Day</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Black creatures can&apos;t attack or block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14482</id>
+      <name>Warmth</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a red spell, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14486</id>
+      <name>Heavy Ballista</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14489</id>
+      <name>Ardent Militia</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14493</id>
+      <name>Archangel</name>
+      <cost>{5}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14503</id>
+      <name>Crusade</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>White creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14507</id>
+      <name>Inspiration</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player draws two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14523</id>
+      <name>Prodigal Sorcerer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14526</id>
+      <name>Abduction</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Abduction comes into play, untap enchanted creature. &lt;br&gt;You control enchanted creature. &lt;br&gt;When enchanted creature is put into a graveyard, return that card to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14560</id>
+      <name>Fear</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature has fear. &lt;i&gt;(It can&apos;t be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14564</id>
+      <name>Painful Memories</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at target opponent&apos;s hand and choose a card from it. Put that card on top of that player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14572</id>
+      <name>Razortooth Rats</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fear &lt;i&gt;(This creature can&apos;t be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14578</id>
+      <name>Hidden Horror</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Hidden Horror comes into play, sacrifice it unless you discard a creature card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14580</id>
+      <name>Dread of Night</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>White creatures get -1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14581</id>
+      <name>Perish</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all green creatures. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14585</id>
+      <name>Leshrac&apos;s Rite</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has swampwalk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14589</id>
+      <name>Bog Wraith</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Wraith</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14599</id>
+      <name>Zombie Master</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Zombie creatures have swampwalk. &lt;br&gt;All other Zombies have &quot;{B}: Regenerate this permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14604</id>
+      <name>Infernal Contract</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw four cards. You lose half your life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14612</id>
+      <name>Spitting Earth</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14624</id>
+      <name>Talruum Minotaur</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Minotaur Berserker</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14626</id>
+      <name>Flame Spirit</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Flame Spirit gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14632</id>
+      <name>Volcanic Geyser</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Volcanic Geyser deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14648</id>
+      <name>Fervor</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control have haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14654</id>
+      <name>Manabarbs</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14660</id>
+      <name>Volcanic Dragon</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14667</id>
+      <name>Vitalize</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap all creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14677</id>
+      <name>Stalking Tiger</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Stalking Tiger can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14682</id>
+      <name>Fog</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14684</id>
+      <name>Regeneration</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;{G}: Regenerate enchanted creature. &lt;i&gt;(The next time that creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14685</id>
+      <name>Tranquility</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14686</id>
+      <name>Elven Cache</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14690</id>
+      <name>Uktabi Orangutan</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Uktabi Orangutan comes into play, destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14691</id>
+      <name>Familiar Ground</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each creature you control can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14695</id>
+      <name>Untamed Wilds</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a basic land card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14699</id>
+      <name>Fyndhorn Elder</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {G}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14705</id>
+      <name>Elven Riders</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Elven Riders can&apos;t be blocked except by Walls and/or creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14711</id>
+      <name>Rowen</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14714</id>
+      <name>Early Harvest</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player untaps all basic lands he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14718</id>
+      <name>Maro</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Maro&apos;s power and toughness are each equal to the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14720</id>
+      <name>Wyluli Wolf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14721</id>
+      <name>Uktabi Wildcats</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Uktabi Wildcats&apos;s power and toughness are each equal to the number of Forests you control. &lt;br&gt;{G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14784</id>
+      <name>Pentagram of the Ages</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15350</id>
+      <name>Exile</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove target nonwhite attacking creature from the game. You gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15352</id>
+      <name>Reprisal</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature with power 4 or greater. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15354</id>
+      <name>Celestial Dawn</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lands you control are Plains. &lt;br&gt;Nonland cards you own that aren&apos;t in play, spells you control, and nonland permanents you control are white. &lt;br&gt;You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15355</id>
+      <name>Enlightened Tutor</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15356</id>
+      <name>Ethereal Champion</name>
+      <cost>{2}{W}{W}{W}</cost>
+      <type>Creature - Avatar</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15357</id>
+      <name>Unyaro Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15358</id>
+      <name>Daraja Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice Daraja Griffin: Destroy target black creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15359</id>
+      <name>Infantry Veteran</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target attacking creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15360</id>
+      <name>Serenity</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, destroy all artifacts and enchantments. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15361</id>
+      <name>Tariff</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature&apos;s mana cost. If two creatures a player controls are tied for highest cost, that player chooses one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15362</id>
+      <name>Resistance Fighter</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15363</id>
+      <name>Diminishing Returns</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player shuffles his or her hand and graveyard into his or her library. You remove the top ten cards of your library from the game. Then each player draws up to seven cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15364</id>
+      <name>Library of Lat-Nam</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>An opponent chooses one - You draw three cards at the beginning of the next turn&apos;s upkeep; or you search your library for a card, put that card into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15365</id>
+      <name>Dream Cache</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw three cards, then put two cards from your hand both on top of your library or both on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15366</id>
+      <name>Harmattan Efreet</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Efreet</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{1}{U}{U}: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15367</id>
+      <name>Mystical Tutor</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15368</id>
+      <name>Psychic Transfer</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If the difference between your life total and target player&apos;s life total is 5 or less, exchange life totals with that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15370</id>
+      <name>Desertion</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell. If an artifact or creature spell is countered this way, put that card into play under your control instead of into its owner&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15375</id>
+      <name>Relearn</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target instant or sorcery card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15376</id>
+      <name>Insight</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a green spell, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15377</id>
+      <name>Spell Blast</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell with converted mana cost X.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15380</id>
+      <name>Syphon Soul</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15381</id>
+      <name>Abyssal Specter</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15382</id>
+      <name>Dry Spell</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dry Spell deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15383</id>
+      <name>Abyssal Hunter</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter&apos;s power to that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15384</id>
+      <name>Ashen Powder</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put target creature card from an opponent&apos;s graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15385</id>
+      <name>Blighted Shaman</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn. &lt;br&gt;{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15387</id>
+      <name>Feral Shadow</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15388</id>
+      <name>Forbidden Crypt</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you would draw a card, return a card from your graveyard to your hand instead. If you can&apos;t, you lose the game. &lt;br&gt;If a card would be put into your graveyard, remove that card from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15389</id>
+      <name>Gravebane Zombie</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If Gravebane Zombie would be put into a graveyard from play, put Gravebane Zombie on top of its owner&apos;s library instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15390</id>
+      <name>Necrosavant</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Zombie Giant</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to play. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15392</id>
+      <name>Python</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Snake</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15393</id>
+      <name>Vampiric Tutor</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15397</id>
+      <name>Doomsday</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library and graveyard for five cards and remove the rest from the game. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15398</id>
+      <name>Mischievous Poltergeist</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Pay 1 life: Regenerate Mischievous Poltergeist.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15399</id>
+      <name>Blight</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;When enchanted land becomes tapped, destroy it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15400</id>
+      <name>Blood Pet</name>
+      <cost>{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Blood Pet: Add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15403</id>
+      <name>Amber Prison</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Amber Prison during your untap step. &lt;br&gt; &lt;br&gt;{4}, {T}: Tap target artifact, creature, or land. As long as Amber Prison remains tapped, that permanent doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15404</id>
+      <name>Cursed Totem</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Activated abilities of creatures can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15405</id>
+      <name>Fire Diamond</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fire Diamond comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15406</id>
+      <name>Grinning Totem</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}, Sacrifice Grinning Totem: Search target opponent&apos;s library for a card and remove it from the game. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven&apos;t played it, put it into its owner&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15407</id>
+      <name>Lead Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Lead Golem attacks, it doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15409</id>
+      <name>Snake Basket</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens into play. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15410</id>
+      <name>Teferi&apos;s Puzzle Box</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15411</id>
+      <name>Wand of Denial</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Look at the top card of target player&apos;s library. If it&apos;s a nonland card, you may pay 2 life. If you do, put it into that player&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15413</id>
+      <name>Crystal Vein</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15415</id>
+      <name>Goblin Hero</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15417</id>
+      <name>Goblin Recruiter</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Goblin Recruiter comes into play, search your library for any number of Goblin cards and reveal them. Shuffle your library, then put those cards on top of it in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15418</id>
+      <name>Spitting Drake</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Spitting Drake gets +1/+0 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15423</id>
+      <name>Balduvian Horde</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Barbarian</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Balduvian Horde comes into play, sacrifice it unless you discard a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15424</id>
+      <name>Crimson Hellkite</name>
+      <cost>{6}{R}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15429</id>
+      <name>Worldly Tutor</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a creature card and reveal that card. Shuffle your library, then put the revealed card back on top of it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15431</id>
+      <name>Dense Foliage</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures can&apos;t be the targets of spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15433</id>
+      <name>Call of the Wild</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{G}{G}: Reveal the top card of your library. If it&apos;s a creature card, put it into play. Otherwise, put it into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15434</id>
+      <name>Waiting in the Weeds</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player puts a 1/1 green Cat creature token into play for each untapped Forest he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15435</id>
+      <name>Mystic Compass</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Target land becomes the basic land type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15436</id>
+      <name>Phyrexian Vault</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}, Sacrifice a creature: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15437</id>
+      <name>Dragon Mask</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Target creature you control gets +2/+2 until end of turn. Return it to its owner&apos;s hand at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15439</id>
+      <name>Mana Prism</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15440</id>
+      <name>Charcoal Diamond</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Charcoal Diamond comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15441</id>
+      <name>Marble Diamond</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Marble Diamond comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15442</id>
+      <name>Moss Diamond</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Moss Diamond comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15444</id>
+      <name>Chill</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Red spells cost {2} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15445</id>
+      <name>Polymorph</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target creature. It can&apos;t be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card into play and shuffles all other cards revealed this way into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15446</id>
+      <name>Pearl Dragon</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{W}: Pearl Dragon gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15447</id>
+      <name>Æther Flash</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature comes into play, Æther Flash deals 2 damage to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16426</id>
+      <name>Hero&apos;s Resolve</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+5.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16427</id>
+      <name>Mesa Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16429</id>
+      <name>Tidal Surge</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap up to three target creatures without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16430</id>
+      <name>Psychic Venom</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16432</id>
+      <name>Vodalian Soldiers</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16434</id>
+      <name>Browse</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{U}{U}: Look at the top five cards of your library and put one of them into your hand. Remove the rest from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16436</id>
+      <name>Soldevi Sage</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice two lands: Draw three cards, then discard one of them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16437</id>
+      <name>Wind Spirit</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Wind Spirit can&apos;t be blocked except by two or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16440</id>
+      <name>Flash</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may put a creature card from your hand into play. If you do, sacrifice it unless you pay its mana cost reduced by up to {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16441</id>
+      <name>Anaba Shaman</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Minotaur Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16447</id>
+      <name>Vertigo</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vertigo deals 2 damage to target creature with flying. That creature loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16449</id>
+      <name>Illicit Auction</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16451</id>
+      <name>Fyndhorn Brownie</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Ouphe</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{G}, {T}: Untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16453</id>
+      <name>Panther Warriors</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Cat Warrior</type>
+      <power>6</power>
+      <toughness>3</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16454</id>
+      <name>Fallow Earth</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target land on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16455</id>
+      <name>Thicket Basilisk</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16456</id>
+      <name>Unseen Walker</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forestwalk &lt;br&gt; &lt;br&gt;{1}{G}{G}: Target creature gains forestwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16457</id>
+      <name>River Boa</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islandwalk &lt;br&gt;{G}: Regenerate River Boa.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16458</id>
+      <name>Warthog</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Boar</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16622</id>
+      <name>Fit of Rage</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +3/+3 and gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16623</id>
+      <name>Fatal Blow</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature that was dealt damage this turn. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16624</id>
+      <name>Terror</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonartifact, nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16625</id>
+      <name>Feast of the Unicorn</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +4/+0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>16628</id>
+      <name>Stupor</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent discards a card at random, then discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20178</id>
+      <name>Lost Soul</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Spirit Minion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Classic Sixth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,1515 @@
+<cards>
+  <name>Weatherlight</name>
+  <key>Weatherlight</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>4429</id>
+      <name>Bosium Strip</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Until end of turn, if the top card in your graveyard is an instant or sorcery card, you may play that card. If a card played this way would be put into a graveyard this turn, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4430</id>
+      <name>Bubble Matrix</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Prevent all damage that would be dealt to creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4431</id>
+      <name>Chimeric Sphere</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying. &lt;br&gt;{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4432</id>
+      <name>Dingus Staff</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature is put into a graveyard from play, Dingus Staff deals 2 damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4433</id>
+      <name>Jabari&apos;s Banner</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Target creature gains flanking until end of turn. &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4434</id>
+      <name>Jangling Automaton</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Jangling Automaton attacks, untap all creatures defending player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4435</id>
+      <name>Mana Web</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that can produce any type of mana that land could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4437</id>
+      <name>Null Rod</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Activated abilities of artifacts can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4438</id>
+      <name>Phyrexian Furnace</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Remove the bottom card of target player&apos;s graveyard from the game. &lt;br&gt;{1}, Sacrifice Phyrexian Furnace: Remove target card in a graveyard from the game. Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4439</id>
+      <name>Serrated Biskelion</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4441</id>
+      <name>Straw Golem</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When an opponent plays a creature spell, sacrifice Straw Golem.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4442</id>
+      <name>Thran Forge</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4443</id>
+      <name>Thran Tome</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4444</id>
+      <name>Touchstone</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Tap target artifact you don&apos;t control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4445</id>
+      <name>Well of Knowledge</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Draw a card. Any player may play this ability but only during his or her draw step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4446</id>
+      <name>Xanthic Statue</name>
+      <cost>{8}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4447</id>
+      <name>Abyssal Gatekeeper</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Abyssal Gatekeeper is put into a graveyard from play, each player sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4449</id>
+      <name>Barrow Ghoul</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Barrow Ghoul unless you remove the top creature card in your graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4450</id>
+      <name>Bone Dancer</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Bone Dancer attacks and isn&apos;t blocked, you may put the top creature card from defending player&apos;s graveyard into play under your control. If you do, Bone Dancer deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4452</id>
+      <name>Circling Vultures</name>
+      <cost>{B}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;You may discard Circling Vultures any time you could play an instant. &lt;br&gt;At the beginning of your upkeep, sacrifice Circling Vultures unless you remove the top creature card in your graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4453</id>
+      <name>Coils of the Medusa</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/-1. &lt;br&gt;Sacrifice Coils of the Medusa: Destroy all non-Wall creatures blocking enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4456</id>
+      <name>Festering Evil</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player. &lt;br&gt; &lt;br&gt;{B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4457</id>
+      <name>Fledgling Djinn</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4458</id>
+      <name>Gallowbraid</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Horror</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Cumulative upkeep-Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4459</id>
+      <name>Haunting Misery</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Haunting Misery, remove X creature cards in your graveyard from the game. &lt;br&gt;Haunting Misery deals X damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4461</id>
+      <name>Infernal Tribute</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Sacrifice a nontoken permanent: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4463</id>
+      <name>Morinfen</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Horror</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Cumulative upkeep-Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4464</id>
+      <name>Necratog</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Atog</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove the top creature card in your graveyard from the game: Necratog gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4465</id>
+      <name>Odylic Wraith</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Wraith</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk &lt;br&gt;Whenever Odylic Wraith deals damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4467</id>
+      <name>Shadow Rider</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;I&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4468</id>
+      <name>Shattered Crypt</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return X target creature cards from your graveyard to your hand. You lose X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4469</id>
+      <name>Spinning Darkness</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may remove the top three black cards in your graveyard from the game rather than pay Spinning Darkness&apos;s mana cost. &lt;br&gt; &lt;br&gt;Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4471</id>
+      <name>Tendrils of Despair</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Tendrils of Despair, sacrifice a creature. &lt;br&gt;Target opponent discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4472</id>
+      <name>Urborg Justice</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target opponent sacrifices a creature for each creature put into your graveyard from play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4473</id>
+      <name>Urborg Stalker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4474</id>
+      <name>Wave of Terror</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4475</id>
+      <name>Zombie Scavengers</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove the top creature card in your graveyard from the game: Regenerate Zombie Scavengers.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4477</id>
+      <name>Abjure</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Abjure, sacrifice a blue permanent. &lt;br&gt; &lt;br&gt;Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4478</id>
+      <name>Ancestral Knowledge</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;br&gt;When Ancestral Knowledge comes into play, look at the top ten cards of your library, then remove any number of them from the game and put the rest back on top of your library in any order. &lt;br&gt;When Ancestral Knowledge leaves play, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4479</id>
+      <name>Apathy</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step. &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, that player may discard a card at random. If he or she does, untap that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4480</id>
+      <name>Argivian Restoration</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target artifact card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4481</id>
+      <name>Avizoa</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Jellyfish</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4484</id>
+      <name>Ertai&apos;s Familiar</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phasing &lt;br&gt;When Ertai&apos;s Familiar phases out or leaves play, put the top three cards of your library into your graveyard. &lt;br&gt;{U}: Until your next upkeep, Ertai&apos;s Familiar can&apos;t phase out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4487</id>
+      <name>Mana Chains</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;Cumulative upkeep {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4488</id>
+      <name>Manta Ray</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Manta Ray can&apos;t attack unless defending player controls an Island. &lt;br&gt;Manta Ray can&apos;t be blocked except by blue creatures. &lt;br&gt;When you control no Islands, sacrifice Manta Ray.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4489</id>
+      <name>Merfolk Traders</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Merfolk Traders comes into play, draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4490</id>
+      <name>Noble Benefactor</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Noble Benefactor is put into a graveyard from play, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4491</id>
+      <name>Ophidian</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Ophidian attacks and isn&apos;t blocked, you may draw a card. If you do, Ophidian deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4492</id>
+      <name>Paradigm Shift</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove all cards in your library from the game. Then shuffle your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4493</id>
+      <name>Pendrell Mists</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures have &quot;At the beginning of your upkeep, sacrifice this creature unless you pay {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4496</id>
+      <name>Psychic Vortex</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep-Draw a card. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;At the end of your turn, sacrifice a land and discard your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4499</id>
+      <name>Teferi&apos;s Veil</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature you control attacks, it phases out at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4500</id>
+      <name>Timid Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When another creature comes into play, return Timid Drake to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4501</id>
+      <name>Tolarian Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, phasing</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4502</id>
+      <name>Tolarian Entrancer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4503</id>
+      <name>Tolarian Serpent</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put the top seven cards of your library into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4504</id>
+      <name>Vodalian Illusionist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}{U}, {T}: Target creature phases out.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4505</id>
+      <name>Aboroth</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep-Put a -1/-1 counter on Aboroth. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4506</id>
+      <name>Arctic Wolves</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;When Arctic Wolves comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4507</id>
+      <name>Barishi</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Barishi is put into a graveyard from play, remove Barishi from the game, then shuffle all creature cards from your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4508</id>
+      <name>Blossoming Wreath</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain life equal to the number of creature cards in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4509</id>
+      <name>Briar Shield</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4511</id>
+      <name>Choking Vines</name>
+      <cost>{X}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Choking Vines only during the declare blockers step. &lt;br&gt;X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. &lt;I&gt;(This spell works on unblockable creatures.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4513</id>
+      <name>Downdraft</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}: Target creature loses flying until end of turn. &lt;br&gt; &lt;br&gt;Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4514</id>
+      <name>Fallow Wurm</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Fallow Wurm comes into play, sacrifice it unless you discard a land card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4516</id>
+      <name>Fungus Elemental</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Fungus Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Play this ability only if Fungus Elemental came into play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4517</id>
+      <name>Gaea&apos;s Blessing</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player shuffles up to three target cards from his or her graveyard into his or her library. &lt;br&gt;Draw a card. &lt;br&gt;When Gaea&apos;s Blessing is put into your graveyard from your library, shuffle your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4518</id>
+      <name>Harvest Wurm</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Harvest Wurm comes into play, sacrifice it unless you return a basic land card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4519</id>
+      <name>Liege of the Hollows</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Liege of the Hollows is put into a graveyard from play, each player may pay any amount of mana. Then each player puts into play a number of 1/1 green Squirrel creature tokens equal to the amount of mana he or she paid this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4521</id>
+      <name>Llanowar Druid</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Llanowar Druid: Untap all Forests.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4523</id>
+      <name>Mwonvuli Ooze</name>
+      <cost>{G}</cost>
+      <type>Creature - Ooze</type>
+      <power>1+*</power>
+      <toughness>1+*</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.)&lt;/i&gt; &lt;br&gt;Mwonvuli Ooze&apos;s power and toughness are each equal to 1 plus twice the number of age counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4524</id>
+      <name>Nature&apos;s Kiss</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{1}, Remove the top card in your graveyard from the game: Enchanted creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4527</id>
+      <name>Rogue Elephant</name>
+      <cost>{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Rogue Elephant comes into play, sacrifice it unless you sacrifice a Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4528</id>
+      <name>Striped Bears</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Striped Bears comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4529</id>
+      <name>Sylvan Hierophant</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Sylvan Hierophant is put into a graveyard from play, remove Sylvan Hierophant from the game, then return another target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4531</id>
+      <name>Uktabi Efreet</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Efreet</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cumulative upkeep {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4532</id>
+      <name>Veteran Explorer</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Veteran Explorer is put into a graveyard from play, each player may search his or her library for up to two basic land cards and put them into play. Then each player who searched his or her library this way shuffles it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4535</id>
+      <name>Betrothed of Fire</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn. &lt;br&gt;Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4538</id>
+      <name>Boiling Blood</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature attacks this turn if able. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4539</id>
+      <name>Cinder Giant</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4542</id>
+      <name>Desperate Gambit</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4543</id>
+      <name>Dwarven Berserker</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Dwarf Berserker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4544</id>
+      <name>Dwarven Thaumaturgist</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Dwarf Shaman</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Switch target creature&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4547</id>
+      <name>Firestorm</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Firestorm, discard X cards. &lt;br&gt;Firestorm deals X damage to each of X target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4549</id>
+      <name>Goblin Bomb</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb. &lt;br&gt;Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4550</id>
+      <name>Goblin Grenadiers</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Goblin Grenadiers attacks and isn&apos;t blocked, you may sacrifice it. If you do, destroy target creature and target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4551</id>
+      <name>Goblin Vandal</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Goblin Vandal attacks and isn&apos;t blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4552</id>
+      <name>Heart of Bogardan</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;When Heart of Bogardan&apos;s cumulative upkeep isn&apos;t paid, it deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus two.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4553</id>
+      <name>Heat Stroke</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At end of combat, destroy each creature that blocked or was blocked this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4554</id>
+      <name>Hurloon Shaman</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Minotaur Shaman</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Hurloon Shaman is put into a graveyard from play, each player sacrifices a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4556</id>
+      <name>Lava Storm</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Lava Storm deals 2 damage to each attacking creature; or Lava Storm deals 2 damage to each blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4557</id>
+      <name>Maraxus of Keld</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Maraxus of Keld&apos;s power and toughness are each equal to the number of untapped artifacts, creatures, and lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4558</id>
+      <name>Orcish Settlers</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4559</id>
+      <name>Roc Hatchling</name>
+      <cost>{R}</cost>
+      <type>Creature - Bird</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Roc Hatchling comes into play with four shell counters on it. &lt;br&gt;At the beginning of your upkeep, remove a shell counter from Roc Hatchling. &lt;br&gt;Roc Hatchling gets +3/+2 and has flying as long as it has no shell counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4560</id>
+      <name>Sawtooth Ogre</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4563</id>
+      <name>Abeyance</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, target player can&apos;t play instants, sorceries, or activated abilities that aren&apos;t mana abilities. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4565</id>
+      <name>Alms</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, Remove the top card in your graveyard from the game: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4566</id>
+      <name>Angelic Renewal</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a creature is put into your graveyard from play, you may sacrifice Angelic Renewal. If you do, return that card to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4568</id>
+      <name>Argivian Find</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target artifact or enchantment card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4570</id>
+      <name>Benalish Infantry</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4572</id>
+      <name>Benalish Missionary</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4573</id>
+      <name>Debt of Loyalty</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Regenerate target creature. You gain control of that creature if it regenerates this way this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4574</id>
+      <name>Duskrider Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, protection from black</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4575</id>
+      <name>Empyrial Armor</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1 for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4576</id>
+      <name>Foriysian Brigade</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Foriysian Brigade can block an additional creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4580</id>
+      <name>Inner Sanctum</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep-Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Prevent all damage that would be dealt to creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4581</id>
+      <name>Kithkin Armor</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by creatures with power 3 or greater. &lt;br&gt;Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4582</id>
+      <name>Master of Arms</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;{1}{W}: Tap target creature blocking Master of Arms. Prevent all combat damage that creature would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4583</id>
+      <name>Mistmoon Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Mistmoon Griffin is put into a graveyard from play, remove Mistmoon Griffin from the game, then return the top creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4584</id>
+      <name>Peacekeeper</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}. &lt;br&gt;Creatures can&apos;t attack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4585</id>
+      <name>Revered Unicorn</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;When Revered Unicorn leaves play, its controller gains life equal to the number of age counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4588</id>
+      <name>Soul Shepherd</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, Remove a creature card in your graveyard from the game: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4591</id>
+      <name>Volunteer Reserves</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Banding &lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4593</id>
+      <name>Lotus Vale</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Lotus Vale would come into play, sacrifice two untapped lands instead. If you do, put Lotus Vale into play. If you don&apos;t, put it into its owner&apos;s graveyard. &lt;br&gt; &lt;br&gt;{T}: Add three mana of any one color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4594</id>
+      <name>Scorched Ruins</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Scorched Ruins would come into play, sacrifice two untapped lands instead. If you do, put Scorched Ruins into play. If you don&apos;t, put it into its owner&apos;s graveyard. &lt;br&gt; &lt;br&gt;{T}: Add {4} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4595</id>
+      <name>Winding Canyons</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Weatherlight</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{2}, {T}: Until end of turn, you may play creature cards as though they had flash.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

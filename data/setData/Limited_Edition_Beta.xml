@@ -1,0 +1,215 @@
+<cards>
+  <name>Limited_Edition_Beta</name>
+  <key>Limited_Edition_Beta</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>304</id>
+      <name>Copper Tablet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, Copper Tablet deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>306</id>
+      <name>Cyclopean Tomb</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Put a mire counter on target land. That land is a Swamp as long as it has a mire counter on it. Play this ability only during your upkeep. &lt;br&gt; &lt;br&gt;When Cyclopean Tomb leaves play, at the beginning of each of your upkeeps until the end of the game, remove one of those mire counters.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>308</id>
+      <name>Disrupting Scepter</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Target player discards a card. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>328</id>
+      <name>Mox Jet</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>330</id>
+      <name>Mox Ruby</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>340</id>
+      <name>Time Vault</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Time Vault comes into play tapped. &lt;br&gt;If Time Vault would become untapped, instead choose one - untap Time Vault and you skip your next turn; or Time Vault remains tapped. &lt;br&gt;{T}: Take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>391</id>
+      <name>Animate Artifact</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;Enchanted artifact is a creature with power and toughness each equal to its converted mana cost. It&apos;s still an artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>405</id>
+      <name>Lord of Atlantis</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Merfolk creatures get +1/+1 and have islandwalk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>415</id>
+      <name>Power Sink</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {X}. If he or she doesn&apos;t, that player taps all lands he or she controls and empties his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>417</id>
+      <name>Psionic Blast</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Psionic Blast deals 4 damage to target creature or player and 2 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>427</id>
+      <name>Timetwister</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player shuffles his or her hand and graveyard into his or her library and then draws seven cards. &lt;I&gt;(Then put Timetwister into its owner&apos;s graveyard.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>499</id>
+      <name>Gray Ogre</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>537</id>
+      <name>Circle of Protection: Blue</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>539</id>
+      <name>Circle of Protection: Red</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>577</id>
+      <name>Bayou</name>
+      <cost></cost>
+      <type>Land - Swamp Forest</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>582</id>
+      <name>Tropical Island</name>
+      <cost></cost>
+      <type>Land - Island Forest</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Limited Edition Beta</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

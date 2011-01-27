@@ -1,0 +1,1502 @@
+<cards>
+  <name>Urza_s_Destiny</name>
+  <key>Urza_s_Destiny</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>12148</id>
+      <name>Treachery</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Treachery comes into play, untap up to five lands. &lt;br&gt;You control enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12612</id>
+      <name>Æther Sting</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a creature spell, Æther Sting deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13087</id>
+      <name>Masticore</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Masticore</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may discard a card. If you don&apos;t, sacrifice Masticore. &lt;br&gt;{2}: Masticore deals 1 damage to target creature. &lt;br&gt;{2}: Regenerate Masticore.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13821</id>
+      <name>Landslide</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice any number of Mountains. Landslide deals that much damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14442</id>
+      <name>Apprentice Necromancer</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to play. That creature gains haste. At end of turn, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15120</id>
+      <name>Wall of Glare</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Wall of Glare can block any number of creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15121</id>
+      <name>Field Surgeon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15123</id>
+      <name>Reliquary Monk</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Monk Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Reliquary Monk is put into a graveyard from play, destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15124</id>
+      <name>Jasmine Seer</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15125</id>
+      <name>Capashen Knight</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;{1}{W}: Capashen Knight gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15127</id>
+      <name>Flicker</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove target nontoken permanent from the game, then return it to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15129</id>
+      <name>Mask of Law and Grace</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from black and protection from red.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15131</id>
+      <name>Voice of Reason</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from blue</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15132</id>
+      <name>Voice of Duty</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from green</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15134</id>
+      <name>Scour</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target enchantment from the game. Search its controller&apos;s graveyard, hand, and library for all cards with the same name as that enchantment and remove them from the game. That player then shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15135</id>
+      <name>Archery Training</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, you may put an arrow counter on Archery Training. &lt;br&gt;Enchanted creature has &quot;{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15138</id>
+      <name>Academy Rector</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Academy Rector is put into a graveyard from play, you may remove Academy Rector from the game. If you do, search your library for an enchantment card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15142</id>
+      <name>Opalescence</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each other non-Aura enchantment is a creature with power and toughness each equal to its converted mana cost. It&apos;s still an enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15143</id>
+      <name>Replenish</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return all enchantment cards from your graveyard to play. &lt;I&gt;(Auras with nothing to enchant remain in your graveyard.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15145</id>
+      <name>Fledgling Osprey</name>
+      <cost>{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fledgling Osprey has flying as long as it&apos;s enchanted.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15147</id>
+      <name>Kingfisher</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Kingfisher is put into a graveyard from play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15148</id>
+      <name>Brine Seer</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{U}, {T}: Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15151</id>
+      <name>Disappear</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{U}: Return enchanted creature and Disappear to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15154</id>
+      <name>Rescue</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target permanent you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15157</id>
+      <name>Metathran Elite</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Metathran Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Metathran Elite is unblockable as long as it&apos;s enchanted.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15158</id>
+      <name>Mental Discipline</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{U}, Discard a card: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15161</id>
+      <name>Private Research</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, you may put a page counter on Private Research. &lt;br&gt;When enchanted creature is put into a graveyard, draw a card for each page counter on Private Research.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15163</id>
+      <name>Iridescent Drake</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Iridescent Drake comes into play, put target Aura card from a graveyard into play attached to Iridescent Drake. &lt;I&gt;(You control that Aura.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15164</id>
+      <name>Rayne, Academy Chancellor</name>
+      <cost>{2}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card, and if Rayne, Academy Chancellor is enchanted, you may draw another card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15168</id>
+      <name>Donate</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player gains control of target permanent you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15169</id>
+      <name>Disease Carriers</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Disease Carriers is put into a graveyard from play, target creature gets -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15170</id>
+      <name>Squirming Mass</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fear</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15173</id>
+      <name>Nightshade Seer</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15175</id>
+      <name>Encroach</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand. Choose a nonbasic land card from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15177</id>
+      <name>Rapid Decay</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove from the game up to three target cards in a single graveyard. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15179</id>
+      <name>Bubbling Muck</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, whenever a player taps a Swamp for mana, its controller adds {B} to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15180</id>
+      <name>Plague Dogs</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie Hound</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Plague Dogs is put into a graveyard from play, all creatures get -1/-1 until end of turn. &lt;br&gt;{2}, Sacrifice Plague Dogs: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15183</id>
+      <name>Dying Wail</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, target player discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15184</id>
+      <name>Festering Wound</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, you may put an infection counter on Festering Wound. &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15186</id>
+      <name>Eradicate</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target nonblack creature from the game. Search its controller&apos;s graveyard, hand, and library for all cards with the same name as that creature and remove them from the game. That player then shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15189</id>
+      <name>Body Snatcher</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Minion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Body Snatcher comes into play, you may discard a creature card. If you don&apos;t, remove Body Snatcher from the game. &lt;br&gt;When Body Snatcher is put into a graveyard from play, remove Body Snatcher from the game and return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15191</id>
+      <name>Attrition</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}, Sacrifice a creature: Destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15193</id>
+      <name>Yawgmoth&apos;s Bargain</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skip your draw step. &lt;br&gt; &lt;br&gt;Pay 1 life: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15194</id>
+      <name>Keldon Vandals</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Echo {2}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Keldon Vandals comes into play, destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15195</id>
+      <name>Colos Yearling</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goat Beast</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk &lt;br&gt;{R}: Colos Yearling gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15196</id>
+      <name>Hulking Ogre</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Hulking Ogre can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15198</id>
+      <name>Wild Colos</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goat Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15199</id>
+      <name>Cinder Seer</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to target creature or player, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15200</id>
+      <name>Trumpet Blast</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Attacking creatures get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15201</id>
+      <name>Flame Jet</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flame Jet deals 3 damage to target player. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15202</id>
+      <name>Goblin Masons</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Goblin Masons is put into a graveyard from play, destroy target Wall.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15203</id>
+      <name>Mark of Fury</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has haste. &lt;br&gt;At end of turn, return Mark of Fury to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15204</id>
+      <name>Reckless Abandon</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Reckless Abandon, sacrifice a creature. &lt;br&gt; &lt;br&gt;Reckless Abandon deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15206</id>
+      <name>Keldon Champion</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Human Barbarian</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;Echo {2}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Keldon Champion comes into play, it deals 3 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15208</id>
+      <name>Splinter</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target artifact from the game. Search its controller&apos;s graveyard, hand, and library for all cards with the same name as that artifact and remove them from the game. That player then shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15211</id>
+      <name>Incendiary</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, you may put a fuse counter on Incendiary. &lt;br&gt;When enchanted creature is put into a graveyard, Incendiary deals X damage to target creature or player, where X is the number of fuse counters on Incendiary.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15212</id>
+      <name>Goblin Marshal</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Echo {4}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Goblin Marshal comes into play or is put into a graveyard from play, put two 1/1 red Goblin creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15216</id>
+      <name>Repercussion</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature is dealt damage, Repercussion deals that much damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15218</id>
+      <name>Wake of Destruction</name>
+      <cost>{3}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target land and all other lands with the same name as that land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15219</id>
+      <name>Hunting Moa</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Bird Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Echo {2}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Hunting Moa comes into play or is put into a graveyard from play, put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15220</id>
+      <name>Heart Warden</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G} to your mana pool. &lt;br&gt;{2}, Sacrifice Heart Warden: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15221</id>
+      <name>Taunting Elf</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures able to block Taunting Elf do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15222</id>
+      <name>Marker Beetles</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Marker Beetles is put into a graveyard from play, target creature gets +1/+1 until end of turn. &lt;br&gt;{2}, Sacrifice Marker Beetles: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15223</id>
+      <name>Goliath Beetle</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15224</id>
+      <name>Ivy Seer</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15225</id>
+      <name>Yavimaya Elder</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Yavimaya Elder is put into a graveyard from play, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library. &lt;br&gt;{2}, Sacrifice Yavimaya Elder: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15228</id>
+      <name>Multani&apos;s Decree</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15230</id>
+      <name>Gamekeeper</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Gamekeeper is put into a graveyard from play, you may remove Gamekeeper from the game. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into play and put all other cards revealed this way into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15234</id>
+      <name>Pattern of Rebirth</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, that creature&apos;s controller may search his or her library for a creature card and put that card into play. If that player does, he or she then shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15235</id>
+      <name>Momentum</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, you may put a growth counter on Momentum. &lt;br&gt;Enchanted creature gets +1/+1 for each growth counter on Momentum.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15237</id>
+      <name>Rofellos, Llanowar Emissary</name>
+      <cost>{G}{G}</cost>
+      <type>Legendary Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {G} to your mana pool for each Forest you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15245</id>
+      <name>Brass Secretary</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, Sacrifice Brass Secretary: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15246</id>
+      <name>Metalworker</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Reveal any number of artifact cards in your hand. Add {2} to your mana pool for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15248</id>
+      <name>Thran Dynamo</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {3} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15249</id>
+      <name>Braidwood Cup</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15251</id>
+      <name>Braidwood Sextant</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15254</id>
+      <name>Thran Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15255</id>
+      <name>Extruder</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Juggernaut</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Echo {4} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;Sacrifice an artifact: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15256</id>
+      <name>Junk Diver</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Junk Diver is put into a graveyard from play, return another target artifact card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15257</id>
+      <name>Urza&apos;s Incubator</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Urza&apos;s Incubator comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;Creature spells of the chosen type cost {2} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15259</id>
+      <name>Powder Keg</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may put a fuse counter on Powder Keg. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15261</id>
+      <name>Aura Thief</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Aura Thief is put into a graveyard from play, you gain control of all enchantments. &lt;I&gt;(You don&apos;t get to move Auras.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15262</id>
+      <name>Scrying Glass</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals his or her hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15263</id>
+      <name>Scent of Jasmine</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15264</id>
+      <name>Scent of Cinder</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15265</id>
+      <name>Scent of Nightshade</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15266</id>
+      <name>Scent of Brine</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15267</id>
+      <name>Scent of Ivy</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15762</id>
+      <name>Capashen Templar</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}: Capashen Templar gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15763</id>
+      <name>Fend Off</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt by target creature this turn. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15765</id>
+      <name>False Prophet</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When False Prophet is put into a graveyard from play, remove all creatures from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15768</id>
+      <name>Chime of Night</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Chime of Night is put into a graveyard from play, destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15769</id>
+      <name>Tethered Griffin</name>
+      <cost>{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;When you control no enchantments, sacrifice Tethered Griffin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15770</id>
+      <name>Covetous Dragon</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When you control no artifacts, sacrifice Covetous Dragon.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15771</id>
+      <name>Goblin Festival</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Goblin Festival deals 1 damage to target creature or player. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15772</id>
+      <name>Yavimaya Hollow</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{G}, {T}: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15783</id>
+      <name>Bubbling Beebles</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Beeble</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bubbling Beebles is unblockable as long as defending player controls an enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15784</id>
+      <name>Sigil of Sleep</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15786</id>
+      <name>Slinking Skirge</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}, Sacrifice Slinking Skirge: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15819</id>
+      <name>Magnify</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15876</id>
+      <name>Goblin Berserker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Berserker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15877</id>
+      <name>Rofellos&apos;s Gift</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>18287</id>
+      <name>Tormented Angel</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19095</id>
+      <name>Capashen Standard</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;{2}, Sacrifice Capashen Standard: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19096</id>
+      <name>Metathran Soldier</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Metathran Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Metathran Soldier is unblockable.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19097</id>
+      <name>Illuminated Wings</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has flying. &lt;br&gt;{2}, Sacrifice Illuminated Wings: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19098</id>
+      <name>Fatigue</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player skips his or her next draw step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19109</id>
+      <name>Elvish Lookout</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19111</id>
+      <name>Thran Foundry</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}, Remove Thran Foundry from the game: Target player shuffles his or her graveyard into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19113</id>
+      <name>Phyrexian Monitor</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Regenerate Phyrexian Monitor.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19114</id>
+      <name>Twisted Experiment</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19115</id>
+      <name>Carnival of Souls</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, you lose 1 life and add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19116</id>
+      <name>Lurking Jackals</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When an opponent has 10 life or less, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19239</id>
+      <name>Plated Spider</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>5559</id>
+      <name>Phyrexian Negator</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Urza&apos;s Destiny</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Phyrexian Negator is dealt damage, sacrifice a permanent for each 1 damage dealt to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

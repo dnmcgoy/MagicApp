@@ -1,0 +1,1710 @@
+<cards>
+  <name>Legions</name>
+  <key>Legions</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>29717</id>
+      <name>Cephalid Pathmage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Cephalid Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cephalid Pathmage is unblockable. &lt;br&gt;{T}, Sacrifice Cephalid Pathmage: Target creature is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>30659</id>
+      <name>Covert Operative</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Covert Operative is unblockable.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34263</id>
+      <name>Feral Throwback</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Amplify 2 &lt;I&gt;(As this card comes into play, put two +1/+1 counters on it for each Beast card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35166</id>
+      <name>Krosan Cloudscraper</name>
+      <cost>{7}{G}{G}{G}</cost>
+      <type>Creature - Beast Mutant</type>
+      <power>13</power>
+      <toughness>13</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}. &lt;br&gt;Morph {7}{G}{G} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35249</id>
+      <name>Deathmark Prelate</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can&apos;t be regenerated. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35299</id>
+      <name>Wirewood Channeler</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add X mana of any one color to your mana pool, where X is the number of Elves in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35335</id>
+      <name>Keeneye Aven</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>37909</id>
+      <name>Branchsnap Lorian</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Morph {G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39566</id>
+      <name>Ridgetop Raptor</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Lizard Beast</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Double strike &lt;I&gt;(This creature deals both first-strike and regular combat damage.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39603</id>
+      <name>Liege of the Axe</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;Morph {1}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Liege of the Axe is turned face up, untap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39653</id>
+      <name>Kilnmouth Dragon</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Amplify 3 &lt;I&gt;(As this card comes into play, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;Flying &lt;br&gt;{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39707</id>
+      <name>Defiant Elf</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39733</id>
+      <name>Riptide Director</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{U}{U}, {T}: Draw a card for each Wizard you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39736</id>
+      <name>Rockshard Elemental</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Double strike &lt;I&gt;(This creature deals both first-strike and regular combat damage.)&lt;/I&gt; &lt;br&gt;Morph {4}{R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39738</id>
+      <name>Brood Sliver</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39850</id>
+      <name>Wall of Deceit</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{3}: Turn Wall of Deceit face down. &lt;br&gt;Morph {U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39888</id>
+      <name>Goblin Goon</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Mutant</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Goblin Goon can&apos;t attack unless you control more creatures than defending player. &lt;br&gt;Goblin Goon can&apos;t block unless you control more creatures than attacking player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39914</id>
+      <name>Riptide Mangler</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{U}: Change Riptide Mangler&apos;s power to target creature&apos;s power. &lt;I&gt;(It doesn&apos;t change back at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42016</id>
+      <name>Blade Sliver</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures get +1/+0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42017</id>
+      <name>Plated Sliver</name>
+      <cost>{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures get +0/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42025</id>
+      <name>Essence Sliver</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Slivers have lifelink. &lt;i&gt;(Whenever a Sliver deals damage, its controller gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42026</id>
+      <name>Synapse Sliver</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a Sliver deals combat damage to a player, its controller may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42028</id>
+      <name>Frenetic Raptor</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Lizard Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Beasts can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42029</id>
+      <name>Quick Sliver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Any player may play Sliver cards as though they had flash.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42033</id>
+      <name>Crypt Sliver</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{T}: Regenerate target Sliver.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42037</id>
+      <name>Mistform Sliver</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42038</id>
+      <name>Toxin Sliver</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a Sliver deals combat damage to a creature, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42039</id>
+      <name>Needleshot Gourna</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42041</id>
+      <name>Magma Sliver</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Slivers have &quot;{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers in play.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42049</id>
+      <name>Akroma, Angel of Wrath</name>
+      <cost>{5}{W}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, first strike, vigilance, trample, haste, protection from black, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42050</id>
+      <name>Scion of Darkness</name>
+      <cost>{5}{B}{B}{B}</cost>
+      <type>Creature - Avatar</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player&apos;s graveyard into play under your control. &lt;br&gt;Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42053</id>
+      <name>Daru Mender</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Daru Mender is turned face up, regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42055</id>
+      <name>Skinthinner</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {3}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Skinthinner is turned face up, destroy target nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42056</id>
+      <name>Skirk Marauder</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42057</id>
+      <name>Patron of the Wild</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Patron of the Wild is turned face up, target creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42058</id>
+      <name>Wingbeat Warrior</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Bird Soldier Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Morph {2}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42059</id>
+      <name>Echo Tracer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Echo Tracer is turned face up, return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42060</id>
+      <name>Aphetto Exterminator</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {3}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42064</id>
+      <name>Gempalm Sorcerer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cycling {2}{U} &lt;I&gt;(&lt;/I&gt;{2}{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42065</id>
+      <name>Gempalm Polluter</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cycling {B}{B} &lt;I&gt;(&lt;/I&gt;{B}{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Gempalm Polluter, you may have target player lose 1 life for each Zombie in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42066</id>
+      <name>Gempalm Incinerator</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cycling {1}{R} &lt;I&gt;(&lt;/I&gt;{1}{R}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42067</id>
+      <name>Gempalm Strider</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cycling {2}{G}{G} &lt;I&gt;(&lt;/I&gt;{2}{G}{G}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42068</id>
+      <name>Master of the Veil</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {2}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Master of the Veil is turned face up, you may turn target creature with morph face down.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42069</id>
+      <name>Voidmage Apprentice</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{U}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Voidmage Apprentice is turned face up, counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42073</id>
+      <name>Glowrider</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Noncreature spells cost {1} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42077</id>
+      <name>Dark Supplicant</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it into play. If you search your library this way, shuffle it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42078</id>
+      <name>Shifting Sliver</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Slivers can&apos;t be blocked except by Slivers.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42082</id>
+      <name>Skirk Outrider</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Skirk Outrider gets +2/+2 and has trample as long as you control a Beast.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42083</id>
+      <name>Elvish Soultiller</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elf Mutant</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Elvish Soultiller is put into a graveyard from play, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42156</id>
+      <name>Weaver of Lies</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {4}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Weaver of Lies is turned face up, turn any number of target creatures with morph other than Weaver of Lies face down.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42165</id>
+      <name>Mistform Wakecaster</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Mistform Wakecaster becomes the creature type of your choice until end of turn. &lt;br&gt;{2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42170</id>
+      <name>Tribal Forcemage</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {1}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Tribal Forcemage is turned face up, creatures of the type of your choice get +2/+2 and gain trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42171</id>
+      <name>Earthblighter</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42172</id>
+      <name>Crookclaw Elder</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Bird Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Tap two untapped Birds you control: Draw a card. &lt;br&gt;Tap two untapped Wizards you control: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42178</id>
+      <name>Ghastly Remains</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;At the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42187</id>
+      <name>Caller of the Claw</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;When Caller of the Claw comes into play, put a 2/2 green Bear creature token into play for each nontoken creature put into your graveyard from play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42249</id>
+      <name>Hundroog</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>7</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42265</id>
+      <name>Stoic Champion</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42270</id>
+      <name>Zombie Brute</name>
+      <cost>{6}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42271</id>
+      <name>Celestial Gatekeeper</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Bird Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Celestial Gatekeeper is put into a graveyard from play, remove it from the game, then return up to two target Bird and/or Cleric permanent cards from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42272</id>
+      <name>Primal Whisperer</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elf Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Primal Whisperer gets +2/+2 for each face-down creature in play. &lt;br&gt;Morph {3}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42274</id>
+      <name>Goblin Dynamo</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Goblin Mutant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Goblin Dynamo deals 1 damage to target creature or player. &lt;br&gt;{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42277</id>
+      <name>Clickslither</name>
+      <cost>{1}{R}{R}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42278</id>
+      <name>Daru Stinger</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Soldier card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;{T}: Daru Stinger deals damage equal to the number of +1/+1 counters on it to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42437</id>
+      <name>Primoc Escapee</name>
+      <cost>{6}{U}</cost>
+      <type>Creature - Bird Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42440</id>
+      <name>Macetail Hystrodon</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike, haste &lt;br&gt;Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43497</id>
+      <name>Aven Redeemer</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43534</id>
+      <name>Stonewood Invoker</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Mutant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43714</id>
+      <name>Smokespew Invoker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Mutant</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{7}{B}: Target creature gets -3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43721</id>
+      <name>Mistform Seaswift</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Mistform Seaswift becomes the creature type of your choice until end of turn. &lt;br&gt;Morph {1}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43723</id>
+      <name>Glowering Rogon</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Beast card you reveal in your hand.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43724</id>
+      <name>Embalmed Brawler</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;Whenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43791</id>
+      <name>Gempalm Avenger</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cycling {2}{W} &lt;I&gt;(&lt;/I&gt;{2}{W}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43794</id>
+      <name>Wirewood Hivemaster</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever another nontoken Elf comes into play, you may put a 1/1 green Insect creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44204</id>
+      <name>Glintwing Invoker</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Wizard Mutant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44205</id>
+      <name>Chromeshell Crab</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Crab Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {4}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44206</id>
+      <name>Blood Celebrant</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Pay 1 life: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44207</id>
+      <name>Sootfeather Flock</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Morph {3}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44209</id>
+      <name>Bloodstoke Howler</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {6}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Bloodstoke Howler is turned face up, Beast creatures you control get +3/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44210</id>
+      <name>Nantuko Vigilante</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Insect Druid Mutant</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {1}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44271</id>
+      <name>Root Sliver</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Root Sliver can&apos;t be countered. &lt;br&gt;Sliver spells can&apos;t be countered by spells or abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44274</id>
+      <name>Warped Researcher</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Wizard Mutant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44276</id>
+      <name>Noxious Ghoul</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Noxious Ghoul or another Zombie comes into play, all non-Zombie creatures get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44277</id>
+      <name>Spectral Sliver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Sliver Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have &quot;{2}: This creature gets +1/+1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44279</id>
+      <name>Corpse Harvester</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, and put them into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44282</id>
+      <name>Shaleskin Plower</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {4}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Shaleskin Plower is turned face up, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44286</id>
+      <name>Goblin Firebug</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Goblin Firebug leaves play, sacrifice a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44294</id>
+      <name>Goblin Turncoat</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Goblin Mercenary</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Goblin: Regenerate Goblin Turncoat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44296</id>
+      <name>Ward Sliver</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Ward Sliver comes into play, choose a color. &lt;br&gt;All Slivers have protection from the chosen color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44299</id>
+      <name>Havoc Demon</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Havoc Demon is put into a graveyard from play, all creatures get -5/-5 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44300</id>
+      <name>Dermoplasm</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Morph {2}{U}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Dermoplasm is turned face up, you may put a creature card with morph from your hand into play face up. If you do, return Dermoplasm to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44306</id>
+      <name>Skirk Alarmist</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;{T}: Turn target face-down creature you control face up. At end of turn, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44316</id>
+      <name>Dripping Dead</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dripping Dead can&apos;t block. &lt;br&gt;Whenever Dripping Dead deals combat damage to a creature, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44317</id>
+      <name>Goblin Clearcutter</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44323</id>
+      <name>Planar Guide</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{W}, Remove Planar Guide from the game: Remove all creatures from the game. At end of turn, return those cards to play under their owners&apos; control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44324</id>
+      <name>Wall of Hope</name>
+      <cost>{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Whenever Wall of Hope is dealt damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44325</id>
+      <name>Aven Envoy</name>
+      <cost>{U}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44327</id>
+      <name>Vexing Beetle</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Vexing Beetle can&apos;t be countered. &lt;br&gt;Vexing Beetle gets +3/+3 as long as no opponent controls a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44328</id>
+      <name>Sunstrike Legionnaire</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sunstrike Legionnaire doesn&apos;t untap during your untap step. &lt;br&gt;Whenever another creature comes into play, untap Sunstrike Legionnaire. &lt;br&gt;{T}: Tap target creature with converted mana cost 3 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44329</id>
+      <name>Defender of the Order</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {W}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Defender of the Order is turned face up, creatures you control get +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44334</id>
+      <name>Berserk Murlodont</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44405</id>
+      <name>Unstable Hulk</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Goblin Mutant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {3}{R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44411</id>
+      <name>Infernal Caretaker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {3}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44492</id>
+      <name>Drinker of Sorrow</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Drinker of Sorrow can&apos;t block. &lt;br&gt;Whenever Drinker of Sorrow deals combat damage, sacrifice a permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44493</id>
+      <name>Bane of the Living</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {X}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Bane of the Living is turned face up, all creatures get -X/-X until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44496</id>
+      <name>Beacon of Destiny</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44504</id>
+      <name>Daru Sanctifier</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {1}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Daru Sanctifier is turned face up, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44623</id>
+      <name>Imperial Hellkite</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Morph {6}{R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44626</id>
+      <name>Keeper of the Nine Gales</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Bird Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}, Tap two untapped Birds you control: Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44656</id>
+      <name>Goblin Assassin</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Goblin Assassin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Goblin Assassin or another Goblin comes into play, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44747</id>
+      <name>Akroma&apos;s Devoted</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cleric creatures have vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>44772</id>
+      <name>Hunter Sliver</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have provoke. &lt;I&gt;(When a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45121</id>
+      <name>Timberwatch Elf</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45122</id>
+      <name>Whipgrass Entangler</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}: Until end of turn, target creature gains &quot;This creature can&apos;t attack or block unless its controller pays {1} for each Cleric in play.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45123</id>
+      <name>Goblin Lookout</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45124</id>
+      <name>Totem Speaker</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a Beast comes into play, you may gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45125</id>
+      <name>Goblin Grappler</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45126</id>
+      <name>Swooping Talon</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Swooping Talon loses flying until end of turn. &lt;br&gt;Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45127</id>
+      <name>Crested Craghorn</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Goat Beast</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45130</id>
+      <name>Warbreak Trumpeter</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {X}{X}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt; &lt;br&gt;When Warbreak Trumpeter is turned face up, put X 1/1 red Goblin creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45131</id>
+      <name>Lowland Tracker</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45132</id>
+      <name>Deftblade Elite</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt; &lt;br&gt;{1}{W}: Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45133</id>
+      <name>Brontotherium</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45134</id>
+      <name>Krosan Vorine</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Cat Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Provoke &lt;I&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/I&gt; &lt;br&gt;Krosan Vorine can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45150</id>
+      <name>Vile Deacon</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45838</id>
+      <name>Aven Warhawk</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45839</id>
+      <name>Cloudreach Cavalry</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cloudreach Cavalry gets +2/+2 and has flying as long as you control a Bird.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45849</id>
+      <name>Canopy Crawler</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Amplify 1 &lt;I&gt;(As this card comes into play, put a +1/+1 counter on it for each Beast card you reveal in your hand.)&lt;/I&gt; &lt;br&gt;{T}: Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46457</id>
+      <name>Skirk Drill Sergeant</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from play, you may pay {2}{R}. If you do, reveal the top card of your library. If it&apos;s a Goblin permanent card, put it into play. Otherwise, put it into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46510</id>
+      <name>Withered Wretch</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Remove target card in a graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>8829</id>
+      <name>Hollow Specter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Legions</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

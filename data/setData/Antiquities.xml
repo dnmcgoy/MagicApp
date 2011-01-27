@@ -1,0 +1,475 @@
+<cards>
+  <name>Antiquities</name>
+  <key>Antiquities</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>1007</id>
+      <name>Golgothian Sylex</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}: Destroy all cards from the Antiquities expansion.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1011</id>
+      <name>Mightstone</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks, it gets +1/+0 as long as it&apos;s attacking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1018</id>
+      <name>Rakalite</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner&apos;s hand at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1021</id>
+      <name>Staff of Zegon</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}, {T}: Target creature gets -2/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1022</id>
+      <name>Su-Chi</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Su-Chi is put into a graveyard from play, add {4} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1023</id>
+      <name>Tablet of Epityr</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever an artifact you control is put into a graveyard from play, you may pay {1}. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1024</id>
+      <name>Tawnos&apos;s Coffin</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Tawnos&apos;s Coffin during your untap step. &lt;br&gt;{3}, {T}: Remove target creature and all Auras attached to it from the game. Note the number and kind of counters that were on that creature. When Tawnos&apos;s Coffin leaves play or becomes untapped, return the removed card to play under its owner&apos;s control tapped with the noted number and kind of counters on it, and if you do, return the removed Aura cards to play under their owner&apos;s control attached to that permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1031</id>
+      <name>Urza&apos;s Chalice</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a player plays an artifact spell, you may pay {1}. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1032</id>
+      <name>Urza&apos;s Miter</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an artifact you control is put into a graveyard from play, if it wasn&apos;t sacrificed, you may pay {3}. If you do, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1034</id>
+      <name>Weakstone</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks, it gets -1/-0 until end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1036</id>
+      <name>Artifact Possession</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;Whenever enchanted artifact becomes tapped or a player plays an activated ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1037</id>
+      <name>Drafna&apos;s Restoration</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return any number of target artifact cards from target player&apos;s graveyard to the top of his or her library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1039</id>
+      <name>Gate to Phyrexia</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a creature: Destroy target artifact. Play this ability only during your upkeep and only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1040</id>
+      <name>Haunting Wind</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an artifact becomes tapped or a player plays an artifact&apos;s activated ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1042</id>
+      <name>Phyrexian Gremlins</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Ouphe</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may choose not to untap Phyrexian Gremlins during your untap step. &lt;br&gt;{T}: Tap target artifact. As long as Phyrexian Gremlins remains tapped, that artifact doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1043</id>
+      <name>Power Artifact</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;Enchanted artifact&apos;s activated abilities cost up to {2} less to play. If this would make an ability cost 0 or less mana to play, it costs {1}, plus any nonmana costs.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1044</id>
+      <name>Priest of Yawgmoth</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice an artifact: Add to your mana pool an amount of black mana equal to the sacrificed artifact&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1047</id>
+      <name>Transmute Artifact</name>
+      <cost>{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Transmute Artifact, sacrifice an artifact. &lt;br&gt; &lt;br&gt;Search your library for an artifact card. If that card&apos;s converted mana cost is less than or equal to the sacrificed artifact&apos;s converted mana cost, put it into play. If it&apos;s greater, you may pay the cost difference. If you do, put it into play. If you don&apos;t, put it into its owner&apos;s graveyard. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1049</id>
+      <name>Yawgmoth Demon</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt; &lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, you may sacrifice an artifact. If you don&apos;t, tap Yawgmoth Demon and it deals 2 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1050</id>
+      <name>Argothian Pixies</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Faerie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Argothian Pixies can&apos;t be blocked by artifact creatures. &lt;br&gt;Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1051</id>
+      <name>Argothian Treefolk</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all damage that would be dealt to Argothian Treefolk by artifacts.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1052</id>
+      <name>Citanul Druid</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays an artifact spell, put a +1/+1 counter on Citanul Druid.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1054</id>
+      <name>Gaea&apos;s Avenger</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>1+*</power>
+      <toughness>1+*</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Gaea&apos;s Avenger&apos;s power and toughness are each equal to 1 plus the number of artifacts your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1055</id>
+      <name>Powerleech</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an artifact an opponent controls becomes tapped or an opponent plays an artifact&apos;s activated ability without {T} in its activation cost, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1057</id>
+      <name>Artifact Blast</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target artifact spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1062</id>
+      <name>Orcish Mechanics</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1064</id>
+      <name>Argivian Archaeologist</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Artificer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{W}{W}, {T}: Return target artifact card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1065</id>
+      <name>Argivian Blacksmith</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Artificer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1066</id>
+      <name>Artifact Ward</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from artifacts. This effect doesn&apos;t remove Artifact Ward.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1068</id>
+      <name>Damping Field</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Players can&apos;t untap more than one artifact during their untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1069</id>
+      <name>Martyrs of Korlis</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>6</toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1072</id>
+      <name>Mishra&apos;s Factory</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Mishra&apos;s Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It&apos;s still a land. &lt;br&gt;{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1075</id>
+      <name>Mishra&apos;s Workshop</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {3} to your mana pool. Spend this mana only to play artifact spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1079</id>
+      <name>Strip Mine</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1084</id>
+      <name>Urza&apos;s Power Plant</name>
+      <cost></cost>
+      <type>Land - Urza&apos;s Power-Plant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza&apos;s Mine and an Urza&apos;s Tower, add {2} to your mana pool instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>999</id>
+      <name>Candelabra of Tawnos</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Antiquities</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Untap X target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

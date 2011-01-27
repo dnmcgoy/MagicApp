@@ -1,0 +1,2113 @@
+<cards>
+  <name>Saviors_of_Kamigawa</name>
+  <key>Saviors_of_Kamigawa</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>50234</id>
+      <name>Burning-Eye Zubera</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Zubera Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Burning-Eye Zubera is put into a graveyard from play, if 4 or more damage was dealt to it this turn, Burning-Eye Zubera deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>50430</id>
+      <name>Rushing-Tide Zubera</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Zubera Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Rushing-Tide Zubera is put into a graveyard from play, if 4 or more damage was dealt to it this turn, draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>73988</id>
+      <name>Dreamcatcher</name>
+      <cost>{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a Spirit or Arcane spell, you may sacrifice Dreamcatcher. If you do, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>73991</id>
+      <name>Matsu-Tribe Birdstalker</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Snake Warrior Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Matsu-Tribe Birdstalker deals combat damage to a creature, tap that creature and it doesn&apos;t untap during its controller&apos;s next untap step. &lt;br&gt;{G}: Matsu-Tribe Birdstalker gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>73996</id>
+      <name>Ghost-Lit Warder</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}{U}, {T}: Counter target spell unless its controller pays {2}. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its controller pays {4}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74002</id>
+      <name>Inner-Chamber Guard</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Samurai</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bushido 2 &lt;i&gt;(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74003</id>
+      <name>Deathknell Kami</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}: Deathknell Kami gets +1/+1 until end of turn. Sacrifice it at end of turn. &lt;br&gt;Soulshift 1 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 1 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74015</id>
+      <name>Godo&apos;s Irregulars</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Godo&apos;s Irregulars deals 1 damage to target creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74016</id>
+      <name>Kagemaro, First to Suffer</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Demon Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kagemaro, First to Suffer&apos;s power and toughness are each equal to the number of cards in your hand. &lt;br&gt;{B}, Sacrifice Kagemaro: All creatures get -X/-X until end of turn, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74017</id>
+      <name>Shinen of Life&apos;s Roar</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures able to block Shinen of Life&apos;s Roar do so. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {2}{G}{G}, Discard Shinen of Life&apos;s Roar: All creatures able to block target creature this turn do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74018</id>
+      <name>Promised Kannushi</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Soulshift 7 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74046</id>
+      <name>Kitsune Bonesetter</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Fox Cleric</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 3 damage that would be dealt to target creature this turn. Play this ability only if you have more cards in hand than each opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74047</id>
+      <name>Jiwari, the Earth Aflame</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74048</id>
+      <name>Oni of Wild Places</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Demon Spirit</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;At the beginning of your upkeep, return a red creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74049</id>
+      <name>Inner Calm, Outer Strength</name>
+      <cost>{2}{G}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74050</id>
+      <name>Araba Mothrider</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Samurai</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74054</id>
+      <name>Kiyomaro, First to Stand</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kiyomaro, First to Stand&apos;s power and toughness are each equal to the number of cards in your hand. &lt;br&gt;As long as you have four or more cards in hand, Kiyomaro has vigilance. &lt;br&gt;Whenever Kiyomaro deals damage, if you have seven or more cards in hand, you gain 7 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74055</id>
+      <name>Kaho, Minamo Historian</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Kaho, Minamo Historian comes into play, search your library for up to three instant cards and remove them from the game. Then shuffle your library. &lt;br&gt;{X}, {T}: You may play a card with converted mana cost X removed from the game with Kaho without paying its mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74056</id>
+      <name>Seek the Horizon</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74062</id>
+      <name>Haru-Onna</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Haru-Onna comes into play, draw a card. &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may return Haru-Onna to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74063</id>
+      <name>Hand of Cruelty</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Human Samurai</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from white &lt;br&gt;Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74065</id>
+      <name>Kuro&apos;s Taken</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Rat Samurai</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;{1}{B}: Regenerate Kuro&apos;s Taken.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74068</id>
+      <name>Ghost-Lit Nourisher</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{G}, {T}: Target creature gets +2/+2 until end of turn. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {3}{G}, Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74082</id>
+      <name>Ghost-Lit Redeemer</name>
+      <cost>{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, {T}: You gain 2 life. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {1}{W}, Discard Ghost-Lit Redeemer: You gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74088</id>
+      <name>Shinen of Flight&apos;s Wings</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {U}, Discard Shinen of Flight&apos;s Wings: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74119</id>
+      <name>Descendant of Masumaro</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Monk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a +1/+1 counter on Descendant of Masumaro for each card in your hand, then remove a +1/+1 counter from Descendant of Masumaro for each card in target opponent&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74130</id>
+      <name>Wine of Blood and Iron</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}: Target creature gets +X/+0 until end of turn, where X is its power. Sacrifice Wine of Blood and Iron at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74132</id>
+      <name>Cowed by Wisdom</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack or block unless its controller pays {1} for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74133</id>
+      <name>Sokenzan Renegade</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Ogre Samurai Mercenary</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, if a player has more cards in hand than any other, the player with the most cards in hand gains control of Sokenzan Renegade.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74144</id>
+      <name>Evermind</name>
+      <cost></cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;(Nonexistent mana costs can&apos;t be paid.)&lt;/i&gt; &lt;br&gt;Draw a card. &lt;br&gt;Evermind is blue. &lt;br&gt;Splice onto Arcane {1}{U} &lt;i&gt;(As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74146</id>
+      <name>O-Naginata</name>
+      <cost>{1}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>O-Naginata can be attached only to a creature with 3 or more power. &lt;br&gt;Equipped creature gets +3/+0 and has trample. &lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74148</id>
+      <name>Akuta, Born of Ash</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;At the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74157</id>
+      <name>Kiku&apos;s Shadow</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature deals damage to itself equal to its power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74158</id>
+      <name>Manriki-Gusari</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Equipped creature gets +1/+2 and has &quot;{T}: Destroy target Equipment.&quot; &lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74163</id>
+      <name>Briarknit Kami</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you play a Spirit or Arcane spell, put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74166</id>
+      <name>Fiddlehead Kami</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a Spirit or Arcane spell, regenerate Fiddlehead Kami.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74168</id>
+      <name>Seed the Land</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a land comes into play, its controller puts a 1/1 green Snake creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74170</id>
+      <name>Soramaro, First to Dream</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Soramaro, First to Dream&apos;s power and toughness are each equal to the number of cards in your hand. &lt;br&gt;{4}, Return a land you control to its owner&apos;s hand: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74173</id>
+      <name>Hand of Honor</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Samurai</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from black &lt;br&gt;Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74174</id>
+      <name>Soratami Cloud Chariot</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Target creature you control gains flying until end of turn. &lt;br&gt;{2}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74179</id>
+      <name>Path of Anger&apos;s Flame</name>
+      <cost>{2}{R}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74184</id>
+      <name>Masumaro, First to Live</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Masumaro, First to Live&apos;s power and toughness are each equal to twice the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74186</id>
+      <name>Charge Across the Araba</name>
+      <cost>{4}{W}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;Sweep&lt;/i&gt; - Return any number of Plains you control to their owner&apos;s hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74187</id>
+      <name>Adamaro, First to Desire</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Adamaro, First to Desire&apos;s power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74189</id>
+      <name>Rending Vines</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact or enchantment if its converted mana cost is less than or equal to the number of cards in your hand. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74190</id>
+      <name>Kataki, War&apos;s Wage</name>
+      <cost>{1}{W}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All artifacts have &quot;At the beginning of your upkeep, sacrifice this artifact unless you pay {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74191</id>
+      <name>Shifting Borders</name>
+      <cost>{3}{U}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Exchange control of two target lands. &lt;br&gt;Splice onto Arcane {3}{U} &lt;i&gt;(As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74195</id>
+      <name>Kashi-Tribe Elite</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Snake Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Legendary Snakes you control have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt; &lt;br&gt;Whenever Kashi-Tribe Elite deals combat damage to a creature, tap that creature and it doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74196</id>
+      <name>Okina Nightwatch</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Human Monk</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74198</id>
+      <name>Moonbow Illusionist</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Moonfolk Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}, Return a land you control to its owner&apos;s hand: Target land becomes the basic land type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74199</id>
+      <name>Ronin Cavekeeper</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Human Samurai</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bushido 2 &lt;i&gt;(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74201</id>
+      <name>Barrel Down Sokenzan</name>
+      <cost>{2}{R}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;Sweep&lt;/i&gt; - Return any number of Mountains you control to their owner&apos;s hand. Barrel Down Sokenzan deals damage to target creature equal to twice the number of Mountains returned this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74202</id>
+      <name>Death of a Thousand Stings</name>
+      <cost>{4}{B}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player loses 1 life and you gain 1 life. &lt;br&gt;At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Death of a Thousand Stings from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74204</id>
+      <name>Elder Pine of Jukai</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you play a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order. &lt;br&gt;Soulshift 2</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74206</id>
+      <name>Oboro, Palace in the Clouds</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {U} to your mana pool. &lt;br&gt;{1}: Return Oboro, Palace in the Clouds to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74208</id>
+      <name>Æther Shockwave</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Tap all Spirits; or tap all non-Spirit creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74210</id>
+      <name>Sakura-Tribe Scout</name>
+      <cost>{G}</cost>
+      <type>Creature - Snake Shaman Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: You may put a land card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74211</id>
+      <name>Oboro Envoy</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Moonfolk Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{2}, Return a land you control to its owner&apos;s hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74213</id>
+      <name>Kitsune Loreweaver</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Fox Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}: Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74216</id>
+      <name>Presence of the Wise</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 2 life for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74217</id>
+      <name>Kami of the Tended Garden</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Kami of the Tended Garden unless you pay {G}. &lt;br&gt;Soulshift 3 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74361</id>
+      <name>Shinen of Stars&apos; Light</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {1}{W}, Discard Shinen of Stars&apos; Light: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74372</id>
+      <name>Spiritual Visit</name>
+      <cost>{W}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put a 1/1 colorless Spirit creature token into play. &lt;br&gt;Splice onto Arcane {W} &lt;i&gt;(As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74373</id>
+      <name>Eiganjo Free-Riders</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, return a white creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74374</id>
+      <name>Thoughts of Ruin</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player sacrifices a land for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74377</id>
+      <name>Infernal Kirin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Kirin Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a Spirit or Arcane spell, target player reveals his or her hand and discards all cards with that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74388</id>
+      <name>Mikokoro, Center of the Sea</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{2}, {T}: Each player draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74393</id>
+      <name>Akki Drillmaster</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74394</id>
+      <name>Locust Miser</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Rat Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each opponent&apos;s maximum hand size is reduced by two.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74396</id>
+      <name>Razorjaw Oni</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Demon Spirit</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Black creatures can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74398</id>
+      <name>Sokenzan Spellblade</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Ogre Samurai Shaman</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;{1}{R}: Sokenzan Spellblade gets +X/+0 until end of turn, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74399</id>
+      <name>Exile into Darkness</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player sacrifices a creature with converted mana cost 3 or less. &lt;br&gt;At the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74400</id>
+      <name>Footsteps of the Goryo</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play. Sacrifice that creature at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74401</id>
+      <name>Ghost-Lit Stalker</name>
+      <cost>{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}{B}, {T}: Target player discards two cards. Play this ability only any time you could play a sorcery. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74407</id>
+      <name>Stampeding Serow</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Antelope Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;At the beginning of your upkeep, return a green creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74411</id>
+      <name>Rally the Horde</name>
+      <cost>{5}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove the top three cards of your library from the game. If the last card removed isn&apos;t a land, repeat this process until the last card removed is a land. Put a 1/1 red Warrior creature token into play for each nonland card removed from the game this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74423</id>
+      <name>Oppressive Will</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {1} for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74471</id>
+      <name>Sekki, Seasons&apos; Guide</name>
+      <cost>{5}{G}{G}{G}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sekki, Seasons&apos; Guide comes into play with eight +1/+1 counters on it. &lt;br&gt;If damage would be dealt to Sekki, prevent that damage, remove that many +1/+1 counters from Sekki, and put that many 1/1 colorless Spirit creature tokens into play. &lt;br&gt;Sacrifice eight Spirits: Return Sekki from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74492</id>
+      <name>Tomb of Urami</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {B} to your mana pool. Tomb of Urami deals 1 damage to you if you don&apos;t control an Ogre. &lt;br&gt;{2}{B}{B}, {T}, Sacrifice all lands you control: Put a legendary 5/5 black Demon Spirit creature token with flying named Urami into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74503</id>
+      <name>Spiraling Embers</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spiraling Embers deals damage to target creature or player equal to the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74509</id>
+      <name>Sakashima the Impostor</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Legendary Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Sakashima the Impostor comes into play, you may choose a creature in play. If you do, Sakashima comes into play as a copy of that creature, except its name is still Sakashima the Impostor, it&apos;s still legendary, and it gains &quot;{2}{U}{U}: Return Sakashima the Impostor to its owner&apos;s hand at end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74560</id>
+      <name>Kagemaro&apos;s Clutch</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -X/-X, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74604</id>
+      <name>Reki, the History of Kamigawa</name>
+      <cost>{2}{G}</cost>
+      <type>Legendary Creature - Human Shaman</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a legendary spell, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>74618</id>
+      <name>Iname as One</name>
+      <cost>{8}{B}{B}{G}{G}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Iname as One comes into play, if you played it from your hand, you may search your library for a Spirit permanent card, put it into play, then shuffle your library. &lt;br&gt;When Iname as One is put into a graveyard from play, you may remove it from the game. If you do, return target Spirit permanent card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>75340</id>
+      <name>Pain&apos;s Reward</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78585</id>
+      <name>Bounteous Kirin</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Legendary Creature - Kirin Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may gain life equal to that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>79164</id>
+      <name>Akki Underling</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>79860</id>
+      <name>Iizuka the Ruthless</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Human Samurai</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Bushido 2 &lt;i&gt;(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)&lt;/i&gt; &lt;br&gt;{2}{R}, Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>80530</id>
+      <name>Kitsune Dawnblade</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Fox Samurai</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bushido 1 &lt;i&gt;(When this blocks or becomes blocked, it gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;When Kitsune Dawnblade comes into play, you may tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84359</id>
+      <name>Michiko Konda, Truth Seeker</name>
+      <cost>{3}{W}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84364</id>
+      <name>Kami of the Crescent Moon</name>
+      <cost>{U}{U}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s draw step, that player draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84370</id>
+      <name>Ayumi, the Last Visitor</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>7</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Legendary landwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84371</id>
+      <name>Reverence</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with power 2 or less can&apos;t attack you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84373</id>
+      <name>Feral Lightning</name>
+      <cost>{3}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put three 3/1 red Elemental creature tokens with haste into play. Remove them from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84376</id>
+      <name>Promise of Bunrei</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control is put into a graveyard from play, sacrifice Promise of Bunrei. If you do, put four 1/1 colorless Spirit creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84380</id>
+      <name>Celestial Kirin</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Legendary Creature - Kirin Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a Spirit or Arcane spell, destroy all permanents with that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84639</id>
+      <name>Nikko-Onna</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Nikko-Onna comes into play, destroy target enchantment. &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may return Nikko-Onna to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84643</id>
+      <name>Moonwing Moth</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{W}: Moonwing Moth gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84648</id>
+      <name>Descendant of Soramaro</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{U}: Look at the top X cards of your library, where X is the number of cards in your hand, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84703</id>
+      <name>Deathmask Nezumi</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Rat Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>As long as you have seven or more cards in hand, Deathmask Nezumi gets +2/+1 and has fear.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84704</id>
+      <name>Kiri-Onna</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Kiri-Onna comes into play, return target creature to its owner&apos;s hand. &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may return Kiri-Onna to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84705</id>
+      <name>Kemuri-Onna</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Kemuri-Onna comes into play, target player discards a card. &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may return Kemuri-Onna to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84709</id>
+      <name>Blood Clock</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player returns a permanent he or she controls to its owner&apos;s hand unless he or she pays 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84711</id>
+      <name>Inner Fire</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Add {R} to your mana pool for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84712</id>
+      <name>Yuki-Onna</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Yuki-Onna comes into play, destroy target artifact. &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may return Yuki-Onna to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84716</id>
+      <name>Homura, Human Ascendant</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Legendary Creature - Human Monk</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Homura, Human Ascendant can&apos;t block. &lt;br&gt;When Homura is put into a graveyard from play, return it to play flipped. &lt;br&gt;----- &lt;br&gt;Homura&apos;s Essence &lt;br&gt;Legendary Enchantment &lt;br&gt;Creatures you control get +2/+2 and have flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>84717</id>
+      <name>Sink into Takenuma</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;Sweep&lt;/i&gt; - Return any number of Swamps you control to their owner&apos;s hand. Target player discards a card for each Swamp returned this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87329</id>
+      <name>Curtain of Light</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target attacking unblocked creature becomes blocked. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87330</id>
+      <name>Murmurs from Beyond</name>
+      <cost>{2}{U}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reveal the top three cards of your library. An opponent chooses one. Put that card into your graveyard and the rest into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87331</id>
+      <name>Molting Skin</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return Molting Skin to its owner&apos;s hand: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87332</id>
+      <name>Dosan&apos;s Oldest Chant</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 6 life. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87333</id>
+      <name>Arashi, the Sky Asunder</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Legendary Creature - Spirit</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}{G}, {T}: Arashi, the Sky Asunder deals X damage to target creature with flying. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {X}{G}{G}, Discard Arashi: Arashi deals X damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87334</id>
+      <name>Ashes of the Fallen</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Ashes of the Fallen comes into play, choose a creature type. &lt;br&gt;Each creature card in your graveyard has the chosen creature type in addition to its other types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87335</id>
+      <name>Kami of Empty Graves</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Soulshift 3 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87336</id>
+      <name>Freed from the Real</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{U}: Tap enchanted creature. &lt;br&gt;{U}: Untap enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87337</id>
+      <name>Death Denied</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return X target creature cards from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87339</id>
+      <name>Shinen of Fury&apos;s Fire</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {R}, Discard Shinen of Fury&apos;s Fire: Target creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87341</id>
+      <name>Ghost-Lit Raider</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87342</id>
+      <name>Torii Watchward</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance &lt;i&gt;(Attacking doesn&apos;t cause this creature to tap.)&lt;/i&gt; &lt;br&gt;Soulshift 4 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87593</id>
+      <name>Eternal Dominion</name>
+      <cost>{7}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target opponent&apos;s library for an artifact, creature, enchantment, or land card. Put that card into play under your control. Then that player shuffles his or her library. &lt;br&gt;Epic &lt;i&gt;(For the rest of the game, you can&apos;t play spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87594</id>
+      <name>Endless Swarm</name>
+      <cost>{5}{G}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a 1/1 green Snake creature token into play for each card in your hand. &lt;br&gt;Epic &lt;i&gt;(For the rest of the game, you can&apos;t play spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87595</id>
+      <name>Sasaya, Orochi Ascendant</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Legendary Creature - Snake Monk</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant. &lt;br&gt;----- &lt;br&gt;Sasaya&apos;s Essence &lt;br&gt;Legendary Enchantment &lt;br&gt;Whenever a land you control is tapped for mana, add one mana of that type to your mana pool for each other land you control with the same name.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87596</id>
+      <name>Kuon, Ogre Ascendant</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Legendary Creature - Ogre Monk</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At end of turn, if three or more creatures were put into graveyards from play this turn, flip Kuon, Ogre Ascendant. &lt;br&gt;----- &lt;br&gt;Kuon&apos;s Essence &lt;br&gt;Legendary Enchantment &lt;br&gt;At the beginning of each player&apos;s upkeep, that player sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87598</id>
+      <name>Enduring Ideal</name>
+      <cost>{5}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for an enchantment card and put it into play. Then shuffle your library. &lt;br&gt;Epic &lt;i&gt;(For the rest of the game, you can&apos;t play spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87599</id>
+      <name>Erayo, Soratami Ascendant</name>
+      <cost>{1}{U}</cost>
+      <type>Legendary Creature - Moonfolk Monk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever the fourth spell of a turn is played, flip Erayo, Soratami Ascendant. &lt;br&gt;----- &lt;br&gt;Erayo&apos;s Essence &lt;br&gt;Legendary Enchantment &lt;br&gt;Whenever an opponent plays a spell for the first time in a turn, counter that spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87600</id>
+      <name>Rune-Tail, Kitsune Ascendant</name>
+      <cost>{2}{W}</cost>
+      <type>Legendary Creature - Fox Monk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant. &lt;br&gt;----- &lt;br&gt;Rune-Tail&apos;s Essence &lt;br&gt;Legendary Enchantment &lt;br&gt;Prevent all damage that would be dealt to creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87601</id>
+      <name>Neverending Torment</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target player&apos;s library for X cards, where X is the number of cards in your hand, and remove them from the game. Then that player shuffles his or her library. &lt;br&gt;Epic &lt;i&gt;(For the rest of the game, you can&apos;t play spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>87602</id>
+      <name>Undying Flames</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove cards from the top of your library from the game until you remove a nonland card. Undying Flames deals damage to target creature or player equal to that card&apos;s converted mana cost. &lt;br&gt;Epic &lt;i&gt;(For the rest of the game, you can&apos;t play spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88784</id>
+      <name>Oboro Breezecaller</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Moonfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}, Return a land you control to its owner&apos;s hand: Untap target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88785</id>
+      <name>Pure Intentions</name>
+      <cost>{W}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a spell or ability an opponent controls causes you to discard cards this turn, return those cards from your graveyard to your hand. &lt;br&gt;Whenever a spell or ability an opponent controls causes you to discard Pure Intentions, return Pure Intentions from your graveyard to your hand at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88786</id>
+      <name>Cut the Earthly Bond</name>
+      <cost>{U}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target enchanted permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88787</id>
+      <name>Raving Oni-Slave</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Raving Oni-Slave comes into play, you lose 3 life if you don&apos;t control a Demon. &lt;br&gt;When Raving Oni-Slave leaves play, you lose 3 life if you don&apos;t control a Demon.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88789</id>
+      <name>Ideas Unbound</name>
+      <cost>{U}{U}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw three cards. Discard three cards at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88791</id>
+      <name>Minamo Scrollkeeper</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Your maximum hand size is increased by one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88793</id>
+      <name>Skyfire Kirin</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Legendary Creature - Kirin Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may gain control of target creature with that spell&apos;s converted mana cost until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88794</id>
+      <name>Gnat Miser</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each opponent&apos;s maximum hand size is reduced by one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88796</id>
+      <name>Ivory Crane Netsuke</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88797</id>
+      <name>Skull Collector</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, return a black creature you control to its owner&apos;s hand. &lt;br&gt;{1}{B}: Regenerate Skull Collector.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88799</id>
+      <name>Ebony Owl Netsuke</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88802</id>
+      <name>Maga, Traitor to Mortals</name>
+      <cost>{X}{B}{B}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Maga, Traitor to Mortals comes into play with X +1/+1 counters on it. &lt;br&gt;When Maga comes into play, target player loses life equal to the number of +1/+1 counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88803</id>
+      <name>Choice of Damnations</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target opponent chooses a number. You may have that player lose that much life. If you don&apos;t, that player sacrifices all but that many permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88804</id>
+      <name>Trusted Advisor</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Your maximum hand size is increased by two. &lt;br&gt;At the beginning of your upkeep, return a blue creature you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88807</id>
+      <name>Miren, the Moaning Well</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88808</id>
+      <name>Sunder from Within</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88810</id>
+      <name>Captive Flame</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Target creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88811</id>
+      <name>Scroll of Origins</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Draw a card if you have seven or more cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88812</id>
+      <name>Shinen of Fear&apos;s Chill</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shinen of Fear&apos;s Chill can&apos;t block. &lt;br&gt;&lt;i&gt;Channel&lt;/i&gt; - {1}{B}, Discard Shinen of Fear&apos;s Chill: Target creature can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88813</id>
+      <name>Into the Fray</name>
+      <cost>{R}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature attacks this turn if able. &lt;br&gt;Splice onto Arcane {R} &lt;i&gt;(As you play an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card&apos;s effects to that spell.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88815</id>
+      <name>Nightsoil Kami</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Soulshift 5 &lt;i&gt;(When this is put into a graveyard from play, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88816</id>
+      <name>Dense Canopy</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures with flying have &quot;This creature can&apos;t block creatures without flying.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88817</id>
+      <name>One with Nothing</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Discard your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88818</id>
+      <name>Hidetsugu&apos;s Second Rite</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If target player has exactly 10 life, Hidetsugu&apos;s Second Rite deals 10 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88821</id>
+      <name>Measure of Wickedness</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the end of your turn, sacrifice Measure of Wickedness and you lose 8 life. &lt;br&gt;Whenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>88823</id>
+      <name>Shape Stealer</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Shapeshifter Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer&apos;s power and toughness to that creature&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89397</id>
+      <name>Plow Through Reito</name>
+      <cost>{1}{W}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;Sweep&lt;/i&gt; - Return any number of Plains you control to their owner&apos;s hand. Target creature gets +1/+1 until end of turn for each Plains returned this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89398</id>
+      <name>Secretkeeper</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As long as you have more cards in hand than each opponent, Secretkeeper gets +2/+2 and has flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89399</id>
+      <name>Cloudhoof Kirin</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Kirin Spirit</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a Spirit or Arcane spell, you may put the top X cards of target player&apos;s library into his or her graveyard, where X is that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89400</id>
+      <name>Descendant of Kiyomaro</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As long as you have more cards in hand than each opponent, Descendant of Kiyomaro gets +1/+2 and has &quot;Whenever this creature deals combat damage, you gain 3 life.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89401</id>
+      <name>Gaze of Adamaro</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Instant - Arcane</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gaze of Adamaro deals damage equal to the number of cards in target player&apos;s hand to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89402</id>
+      <name>Glitterfang</name>
+      <cost>{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;At end of turn, return Glitterfang to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89403</id>
+      <name>Overwhelming Intellect</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target creature spell. Draw cards equal to that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>89406</id>
+      <name>Meishin, the Mind Cage</name>
+      <cost>{4}{U}{U}{U}</cost>
+      <type>Legendary Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Saviors of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures get -X/-0, where X is the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

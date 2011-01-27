@@ -1,0 +1,1658 @@
+<cards>
+  <name>Prophecy</name>
+  <key>Prophecy</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>21382</id>
+      <name>Elephant Resurgence</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player puts a green Elephant creature token into play. Those creatures have &quot;This creature&apos;s power and toughness are each equal to the number of creature cards in its controller&apos;s graveyard.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23318</id>
+      <name>Wintermoon Mesa</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wintermoon Mesa comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}, Sacrifice Wintermoon Mesa: Tap two target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24546</id>
+      <name>Trenching Steed</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Horse Rebel</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a land: Trenching Steed gets +0/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24547</id>
+      <name>Troubled Healer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a land: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24549</id>
+      <name>Glittering Lynx</name>
+      <cost>{W}</cost>
+      <type>Creature - Cat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all damage that would be dealt to Glittering Lynx. &lt;br&gt;{2}: Until end of turn, Glittering Lynx loses &quot;Prevent all damage that would be dealt to Glittering Lynx.&quot; Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24550</id>
+      <name>Mageta&apos;s Boon</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +1/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24551</id>
+      <name>Rhystic Shield</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +0/+1 until end of turn. They get an additional +0/+2 until end of turn unless any player pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24552</id>
+      <name>Flowering Field</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24553</id>
+      <name>Excise</name>
+      <cost>{X}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target attacking creature from the game unless its controller pays {X}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24554</id>
+      <name>Mirror Strike</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target unblocked creature deals combat damage to its controller instead of to you this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24555</id>
+      <name>Mine Bearer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Mine Bearer: Destroy target attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24556</id>
+      <name>Shield Dancer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{W}: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24557</id>
+      <name>Entangler</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can block any number of creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24558</id>
+      <name>Glittering Lion</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all damage that would be dealt to Glittering Lion. &lt;br&gt;{3}: Until end of turn, Glittering Lion loses &quot;Prevent all damage that would be dealt to Glittering Lion.&quot; Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24559</id>
+      <name>Reveille Squad</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever one or more creatures attack you, if Reveille Squad is untapped, you may untap all creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24560</id>
+      <name>Aura Fracture</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a land: Destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24561</id>
+      <name>Abolish</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may discard a Plains card rather than pay Abolish&apos;s mana cost. &lt;br&gt;Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24562</id>
+      <name>Rhystic Circle</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: Any player may pay {1}. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24563</id>
+      <name>Mercenary Informer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel Mercenary</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Mercenary Informer can&apos;t be the target of black spells or abilities from black sources. &lt;br&gt;{2}{W}: Put target Mercenary on the bottom of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24565</id>
+      <name>Mageta the Lion</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Spellshaper</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{W}{W}, {T}, Discard two cards: Destroy all creatures except for Mageta the Lion. Those creatures can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24566</id>
+      <name>Jeweled Spirit</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24567</id>
+      <name>Celestial Convergence</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Celestial Convergence comes into play with seven omen counters on it. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24568</id>
+      <name>Sheltering Prayers</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Basic lands each player controls have shroud as long as that player controls three or fewer lands. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24569</id>
+      <name>Blessed Wind</name>
+      <cost>{7}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player&apos;s life total becomes 20.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24570</id>
+      <name>Samite Sanctuary</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Prevent the next 1 damage that would be dealt to target creature this turn. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24571</id>
+      <name>Ribbon Snake</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}: Ribbon Snake loses flying until end of turn. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24572</id>
+      <name>Hazy Homunculus</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Homunculus Illusion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Hazy Homunculus is unblockable as long as defending player controls an untapped land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24573</id>
+      <name>Gulf Squid</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Squid Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Gulf Squid comes into play, tap all lands target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24575</id>
+      <name>Sunken Field</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{T}: Counter target spell unless its controller pays {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24576</id>
+      <name>Rhystic Deluge</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Tap target creature unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24577</id>
+      <name>Rhystic Scrying</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw three cards. Then, if any player pays {2}, discard three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24578</id>
+      <name>Mana Vapors</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lands target player controls don&apos;t untap during his or her next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24579</id>
+      <name>Alexi&apos;s Cloak</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24580</id>
+      <name>Withdraw</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature to its owner&apos;s hand. Then return another target creature to its owner&apos;s hand unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24582</id>
+      <name>Quicksilver Wall</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>1</power>
+      <toughness>6</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{4}: Return Quicksilver Wall to its owner&apos;s hand. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24583</id>
+      <name>Stormwatch Eagle</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice a land: Return Stormwatch Eagle to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24584</id>
+      <name>Troublesome Spirit</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;At the end of your turn, tap all lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24585</id>
+      <name>Windscouter</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Scout</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Windscouter attacks or blocks, return it to its owner&apos;s hand at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24586</id>
+      <name>Excavation</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice a land: Draw a card. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24587</id>
+      <name>Foil</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may discard an Island card and another card rather than pay Foil&apos;s mana cost. &lt;br&gt;Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24588</id>
+      <name>Rethink</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {X}, where X is its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24589</id>
+      <name>Rhystic Study</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever an opponent plays a spell, you may draw a card unless that player pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24590</id>
+      <name>Avatar of Will</name>
+      <cost>{6}{U}{U}</cost>
+      <type>Creature - Avatar</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If an opponent has no cards in hand, Avatar of Will costs {6} less to play. &lt;br&gt;Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24591</id>
+      <name>Alexi, Zephyr Mage</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Spellshaper</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}{U}, {T}, Discard two cards: Return X target creatures to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24592</id>
+      <name>Spiketail Drake</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice Spiketail Drake: Counter target spell unless its controller pays {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24593</id>
+      <name>Psychic Theft</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player reveals his or her hand. Choose an instant or sorcery card from it, and remove that card from the game. As long as the card remains removed from the game, you may play it. At end of turn, if you haven&apos;t played the card, return it to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24594</id>
+      <name>Heightened Awareness</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Heightened Awareness comes into play, discard your hand. &lt;br&gt; &lt;br&gt;At the beginning of your draw step, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24595</id>
+      <name>Shrouded Serpent</name>
+      <cost>{4}{U}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Shrouded Serpent attacks, defending player may pay {4}. If he or she doesn&apos;t, Shrouded Serpent is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24596</id>
+      <name>Denying Wind</name>
+      <cost>{7}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target player&apos;s library for up to seven cards and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24597</id>
+      <name>Overburden</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player puts a nontoken creature into play, that player returns a land he or she controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24598</id>
+      <name>Nakaya Shade</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Shade</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Nakaya Shade gets +1/+1 until end of turn unless any player pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24599</id>
+      <name>Death Charmer</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Worm Mercenary</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Death Charmer deals combat damage to a creature, that creature&apos;s controller loses 2 life unless he or she pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24600</id>
+      <name>Bog Glider</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Mercenary</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{T}, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24601</id>
+      <name>Agent of Shauku</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Mercenary</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{B}, Sacrifice a land: Target creature gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24602</id>
+      <name>Fen Stalker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fen Stalker has fear as long as you control no untapped lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24603</id>
+      <name>Whipstitched Zombie</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Whipstitched Zombie unless you pay {B}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24604</id>
+      <name>Greel&apos;s Caress</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets -3/-0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24605</id>
+      <name>Soul Strings</name>
+      <cost>{X}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return two target creature cards from your graveyard to your hand unless any player pays {X}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24606</id>
+      <name>Flay</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards a card at random. Then that player discards another card at random unless he or she pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24608</id>
+      <name>Steal Strength</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24609</id>
+      <name>Wall of Vipers</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Snake Wall</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{3}: Destroy Wall of Vipers and target creature it&apos;s blocking. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24610</id>
+      <name>Plague Fiend</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Plague Fiend deals combat damage to a creature, destroy that creature unless its controller pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24611</id>
+      <name>Soul Charmer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature&apos;s controller pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24612</id>
+      <name>Pit Raptor</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Bird Mercenary</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, first strike &lt;br&gt;At the beginning of your upkeep, sacrifice Pit Raptor unless you pay {2}{B}{B}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24613</id>
+      <name>Outbreak</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may discard a Swamp card rather than pay Outbreak&apos;s mana cost. &lt;br&gt;Choose a creature type. All creatures of that type get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24614</id>
+      <name>Rhystic Tutor</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Unless any player pays {2}, search your library for a card, put that card into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24615</id>
+      <name>Despoil</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. Its controller loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24616</id>
+      <name>Endbringer&apos;s Revel</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}: Return target creature card from a graveyard to its owner&apos;s hand. Any player may play this ability but only any time he or she could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24617</id>
+      <name>Rebel Informer</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Mercenary Rebel</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Rebel Informer can&apos;t be the target of white spells or abilities from white sources. &lt;br&gt;{3}: Put target Rebel on the bottom of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24618</id>
+      <name>Coffin Puppets</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice two lands: Return Coffin Puppets from your graveyard to play. Play this ability only during your upkeep and only if you control a Swamp.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24619</id>
+      <name>Greel, Mind Raker</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Horror Spellshaper</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}{B}, {T}, Discard two cards: Target player discards X cards at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24620</id>
+      <name>Bog Elemental</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from white &lt;br&gt;At the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24621</id>
+      <name>Avatar of Woe</name>
+      <cost>{6}{B}{B}</cost>
+      <type>Creature - Avatar</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to play. &lt;br&gt;Fear &lt;br&gt;{T}: Destroy target creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24623</id>
+      <name>Rhystic Syphon</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Unless target player pays {3}, he or she loses 5 life and you gain 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24624</id>
+      <name>Infernal Genesis</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player puts the top card of his or her library into his or her graveyard. He or she then puts X 1/1 black Minion creature tokens into play, where X is that card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24625</id>
+      <name>Spur Grappler</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spur Grappler gets +2/+1 as long as you control no untapped lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24626</id>
+      <name>Fault Riders</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24629</id>
+      <name>Keldon Berserker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Soldier Berserker</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24630</id>
+      <name>Zerapa Minotaur</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Minotaur</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;{2}: Zerapa Minotaur loses first strike until end of turn. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24631</id>
+      <name>Devastate</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. Devastate deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24632</id>
+      <name>Latulla&apos;s Orders</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;Whenever enchanted creature deals combat damage to defending player, you may destroy target artifact that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24633</id>
+      <name>Rhystic Lightning</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Rhystic Lightning deals 4 damage to target creature or player unless that creature&apos;s controller or that player pays {2}. If he or she does, Rhystic Lightning deals 2 damage to the creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24634</id>
+      <name>Barbed Field</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{T}: This land deals 1 damage to target creature or player.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24635</id>
+      <name>Brutal Suppression</name>
+      <cost>{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Activated abilities of Rebels cost an additional &quot;Sacrifice a land&quot; to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24636</id>
+      <name>Scoria Cat</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Scoria Cat gets +3/+3 as long as you control no untapped lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24637</id>
+      <name>Keldon Arsonist</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, Sacrifice two lands: Destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24638</id>
+      <name>Branded Brawlers</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Branded Brawlers can&apos;t attack if defending player controls an untapped land. &lt;br&gt;Branded Brawlers can&apos;t block if you control an untapped land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24641</id>
+      <name>Search for Survivors</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove your graveyard from the game. An opponent chooses a card at random from among those cards. If it&apos;s a creature card, put it into play. Otherwise, it remains removed from the game. Then return the rest of those cards to your graveyard and shuffle them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24642</id>
+      <name>Flameshot</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may discard a Mountain card rather than pay Flameshot&apos;s mana cost. &lt;br&gt;Flameshot deals 3 damage divided as you choose among any number of target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24643</id>
+      <name>Citadel of Pain</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the end of each player&apos;s turn, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24644</id>
+      <name>Avatar of Fury</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Creature - Avatar</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If an opponent controls seven or more lands, Avatar of Fury costs {6} less to play. &lt;br&gt;Flying &lt;br&gt;{R}: Avatar of Fury gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24645</id>
+      <name>Veteran Brawlers</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Veteran Brawlers can&apos;t attack if defending player controls an untapped land. &lt;br&gt;Veteran Brawlers can&apos;t block if you control an untapped land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24646</id>
+      <name>Latulla, Keldon Overseer</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Human Spellshaper</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}{R}, {T}, Discard two cards: Latulla, Keldon Overseer deals X damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24648</id>
+      <name>Keldon Firebombers</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Keldon Firebombers comes into play, each player sacrifices all lands he or she controls except for three.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24649</id>
+      <name>Fickle Efreet</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Efreet</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24651</id>
+      <name>Task Mage Assembly</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When there are no creatures in play, sacrifice Task Mage Assembly. &lt;br&gt; &lt;br&gt;{2}: Task Mage Assembly deals 1 damage to target creature. Any player may play this ability but only any time he or she could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24652</id>
+      <name>Vintara Elephant</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample &lt;br&gt;{3}: Vintara Elephant loses trample until end of turn. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24653</id>
+      <name>Rib Cage Spider</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24654</id>
+      <name>Spore Frog</name>
+      <cost>{G}</cost>
+      <type>Creature - Frog</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24655</id>
+      <name>Silt Crawler</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Silt Crawler comes into play, tap all lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24656</id>
+      <name>Vintara Snapper</name>
+      <cost>{G}{G}</cost>
+      <type>Creature - Turtle</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vintara Snapper has shroud as long as you control no untapped lands. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24657</id>
+      <name>Darba</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Bird Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Darba unless you pay {G}{G}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24658</id>
+      <name>Thresher Beast</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Thresher Beast becomes blocked, defending player sacrifices a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24659</id>
+      <name>Calming Verse</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all enchantments you don&apos;t control. Then, if you control an untapped land, destroy all enchantments you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24660</id>
+      <name>Jolrael&apos;s Favor</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;br&gt;Enchant creature &lt;br&gt;{1}{G}: Regenerate enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24661</id>
+      <name>Wild Might</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 until end of turn. That creature gets an additional +4/+4 until end of turn unless any player pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24662</id>
+      <name>Verdant Field</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{T}: Target creature gets +1/+1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24663</id>
+      <name>Pygmy Razorback</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Boar</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24664</id>
+      <name>Marsh Boa</name>
+      <cost>{G}</cost>
+      <type>Creature - Snake</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24665</id>
+      <name>Root Cage</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Mercenaries don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24668</id>
+      <name>Snag</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may discard a Forest card rather than pay Snag&apos;s mana cost. &lt;br&gt;Prevent all combat damage that would be dealt by unblocked creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24672</id>
+      <name>Squirrel Wrangler</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{G}, Sacrifice a land: Put two 1/1 green Squirrel creature tokens into play. &lt;br&gt;{1}{G}, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24673</id>
+      <name>Jolrael, Empress of Beasts</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Legendary Creature - Human Spellshaper</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{G}, {T}, Discard two cards: Until end of turn, all lands target player controls are 3/3 creatures that are still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24675</id>
+      <name>Mungha Wurm</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You can&apos;t untap more than one land during your untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24676</id>
+      <name>Forgotten Harvest</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may remove a land card in your graveyard from the game. If you do, put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24677</id>
+      <name>Vitalizing Wind</name>
+      <cost>{8}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control get +7/+7 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24678</id>
+      <name>Dual Nature</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a nontoken creature comes into play, its controller puts a token into play as a copy of that creature. &lt;br&gt;Whenever a nontoken creature leaves play, remove all tokens with the same name as that creature from the game. &lt;br&gt;When Dual Nature leaves play, remove all tokens created with it from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24679</id>
+      <name>Hollow Warrior</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Hollow Warrior can&apos;t attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24680</id>
+      <name>Chimeric Idol</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{0}: Tap all lands you control. Chimeric Idol becomes a 3/3 Turtle artifact creature until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24681</id>
+      <name>Well of Life</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the end of your turn, if you control no untapped lands, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24682</id>
+      <name>Copper-Leaf Angel</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24683</id>
+      <name>Keldon Battlewagon</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Juggernaut</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Keldon Battlewagon can&apos;t block. &lt;br&gt;When Keldon Battlewagon attacks, sacrifice it at end of combat. &lt;br&gt;Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the tapped creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24684</id>
+      <name>Well of Discovery</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of your turn, if you control no untapped lands, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24685</id>
+      <name>Rhystic Cave</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Choose a color. Add one mana of that color to your mana pool unless any player pays {1}. You can&apos;t play this ability as another spell or ability is being played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>24686</id>
+      <name>Noxious Field</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{T}: This land deals 1 damage to each creature and each player.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25362</id>
+      <name>Chilling Apparition</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Regenerate Chilling Apparition. &lt;br&gt;Whenever Chilling Apparition deals combat damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25523</id>
+      <name>Wing Storm</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Prophecy</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

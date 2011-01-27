@@ -1,0 +1,332 @@
+<cards>
+  <name>Beatdown_Box_Set</name>
+  <key>Beatdown_Box_Set</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>26611</id>
+      <name>Shambling Strider</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Yeti</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}{G}: Shambling Strider gets +1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26613</id>
+      <name>Diabolic Vision</name>
+      <cost>{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26614</id>
+      <name>Quirion Elves</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>As Quirion Elves comes into play, choose a color. &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;{T}: Add one mana of the chosen color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26615</id>
+      <name>Tar Pit Warrior</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Cyclops Warrior</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26616</id>
+      <name>Impulse</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26625</id>
+      <name>Cloud Djinn</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Cloud Djinn can block only creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26627</id>
+      <name>Giant Crab</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Crab</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Giant Crab gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26628</id>
+      <name>Segmented Wurm</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26629</id>
+      <name>Death Stroke</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target tapped creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26635</id>
+      <name>Smoldering Crater</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Smoldering Crater comes into play tapped. &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26636</id>
+      <name>Remote Isle</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remote Isle comes into play tapped. &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26638</id>
+      <name>Killer Whale</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Whale</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}: Killer Whale gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26639</id>
+      <name>Sonic Burst</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Sonic Burst, discard a card at random. &lt;br&gt;Sonic Burst deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26640</id>
+      <name>Crashing Boars</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Boar</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26650</id>
+      <name>Ebon Stronghold</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Ebon Stronghold comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26653</id>
+      <name>Blizzard Elemental</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{3}{U}: Untap Blizzard Elemental.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26656</id>
+      <name>Skittering Horror</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>When you play a creature spell, sacrifice Skittering Horror.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27234</id>
+      <name>Swamp</name>
+      <cost></cost>
+      <type>Basic Land - Swamp</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Land</rarity>
+      <oracleText>[B]</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27245</id>
+      <name>Bone Harvest</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put any number of target creature cards from your graveyard on top of your library. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27249</id>
+      <name>Crash of Rhinos</name>
+      <cost>{6}{G}{G}</cost>
+      <type>Creature - Rhino</type>
+      <power>8</power>
+      <toughness>4</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27250</id>
+      <name>Deadly Insect</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>6</power>
+      <toughness>1</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27251</id>
+      <name>Diabolic Edict</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27257</id>
+      <name>Lowland Giant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27261</id>
+      <name>Skittering Skirge</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When you play a creature spell, sacrifice Skittering Skirge.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27270</id>
+      <name>Thunderbolt</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Beatdown Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

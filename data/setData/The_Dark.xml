@@ -1,0 +1,943 @@
+<cards>
+  <name>The_Dark</name>
+  <key>The_Dark</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>1709</id>
+      <name>Bone Flute</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: All creatures get -1/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1710</id>
+      <name>Book of Rass</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, Pay 2 life: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1711</id>
+      <name>Coal Golem</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1712</id>
+      <name>Dark Sphere</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, it deals half that damage, rounded up, to you instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1716</id>
+      <name>Living Armor</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1717</id>
+      <name>Necropolis</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Remove a creature card in your graveyard from the game: Put X +0/+1 counters on Necropolis, where X is the removed card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1718</id>
+      <name>Reflecting Mirror</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}, {T}: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1720</id>
+      <name>Scarecrow</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Scarecrow</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{6}, {T}: Prevent all damage that would be dealt to you this turn by creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1722</id>
+      <name>Standing Stones</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}, Pay 1 life: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1723</id>
+      <name>Stone Calendar</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Spells you play cost up to {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1724</id>
+      <name>Tormod&apos;s Crypt</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Tormod&apos;s Crypt: Remove target player&apos;s graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1725</id>
+      <name>Tower of Coireall</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target creature can&apos;t be blocked by Walls this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1726</id>
+      <name>Wand of Ith</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Target player reveals a card at random from his or her hand. If it&apos;s a land card, that player discards it unless he or she pays 1 life. If it isn&apos;t a land card, the player discards it unless he or she pays life equal to its converted mana cost. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1727</id>
+      <name>War Barge</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}: Target creature gains islandwalk until end of turn. When War Barge leaves play this turn, destroy that creature. A creature destroyed this way can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1729</id>
+      <name>Banshee</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}, {T}: Banshee deals X damage divided evenly between you and target creature or player. Round up for you and down for that creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1732</id>
+      <name>Curse Artifact</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;At the beginning of the upkeep of enchanted artifact&apos;s controller, Curse Artifact deals 2 damage to that player unless he or she sacrifices that artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1733</id>
+      <name>Eater of the Dead</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{0}: If Eater of the Dead is tapped, untap it and remove target creature card in a graveyard from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1734</id>
+      <name>Frankenstein&apos;s Monster</name>
+      <cost>{X}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Frankenstein&apos;s Monster comes into play, remove X creature cards in your graveyard from the game. If you can&apos;t, put Frankenstein&apos;s Monster into its owner&apos;s graveyard instead of into play. For each creature card removed this way, Frankenstein&apos;s Monster comes into play with a +2/+0, +1/+1, or +0/+2 counter.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1735</id>
+      <name>Grave Robbers</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}, {T}: Remove target artifact card in a graveyard from the game. You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1736</id>
+      <name>Inquisition</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1739</id>
+      <name>Nameless Race</name>
+      <cost>{3}{B}</cost>
+      <type>Creature</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;As Nameless Race comes into play, pay any amount of life. The amount you pay can&apos;t be more than the total number of white nontoken permanents all opponents control plus the total number of white cards in their graveyards. &lt;br&gt;Nameless Race&apos;s power and toughness are each equal to the life paid as it came into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1741</id>
+      <name>Season of the Witch</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Season of the Witch unless you pay 2 life. &lt;br&gt; &lt;br&gt;At end of turn, destroy all untapped creatures that didn&apos;t attack this turn, except for creatures that couldn&apos;t attack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1745</id>
+      <name>Worms of the Earth</name>
+      <cost>{2}{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players can&apos;t play lands. &lt;br&gt;If a land would come into play, instead it doesn&apos;t. &lt;br&gt;At the beginning of each upkeep, any player may sacrifice two lands or pay 5 life. If a player does either, sacrifice Worms of the Earth.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1746</id>
+      <name>Amnesia</name>
+      <cost>{3}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand and discards all nonland cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1749</id>
+      <name>Deep Water</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1750</id>
+      <name>Drowned</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Regenerate Drowned.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1751</id>
+      <name>Electric Eel</name>
+      <cost>{U}</cost>
+      <type>Creature - Fish</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Electric Eel comes into play, it deals 1 damage to you. &lt;br&gt;{R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1755</id>
+      <name>Giant Shark</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Giant Shark can&apos;t attack unless defending player controls an Island. &lt;br&gt;Whenever Giant Shark blocks or becomes blocked by a creature that has been dealt damage this turn, Giant Shark gets +2/+0 and gains trample until end of turn. &lt;br&gt;When you control no Islands, sacrifice Giant Shark.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1757</id>
+      <name>Mana Vortex</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When you play Mana Vortex, you may sacrifice a land. If you don&apos;t, counter Mana Vortex. &lt;br&gt;At the beginning of each player&apos;s upkeep, that player sacrifices a land. &lt;br&gt;When there are no lands in play, sacrifice Mana Vortex.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1758</id>
+      <name>Merfolk Assassin</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Merfolk Assassin</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Destroy target creature with islandwalk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1760</id>
+      <name>Psychic Allergy</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Psychic Allergy comes into play, choose a color. &lt;br&gt; &lt;br&gt;At the beginning of each opponent&apos;s upkeep, Psychic Allergy deals X damage to that player, where X is the number of cards of the chosen color he or she controls. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Psychic Allergy unless you sacrifice two Islands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1761</id>
+      <name>Riptide</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap all blue creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1763</id>
+      <name>Tangle Kelp</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Tangle Kelp comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step if it attacked during its controller&apos;s last turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1764</id>
+      <name>Water Wurm</name>
+      <cost>{U}</cost>
+      <type>Creature - Wurm</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Water Wurm gets +0/+1 as long as an opponent controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1766</id>
+      <name>Elves of Deep Shadow</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1767</id>
+      <name>Gaea&apos;s Touch</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may play an additional land during your turn if that land is a basic Forest. &lt;br&gt; &lt;br&gt;Sacrifice Gaea&apos;s Touch: Add {G}{G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1768</id>
+      <name>Hidden Path</name>
+      <cost>{2}{G}{G}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Green creatures have forestwalk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1770</id>
+      <name>Lurker</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lurker can&apos;t be the target of spells unless it attacked or blocked this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1772</id>
+      <name>Niall Silvain</name>
+      <cost>{G}{G}{G}</cost>
+      <type>Creature - Ouphe</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}{G}{G}{G}, {T}: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1773</id>
+      <name>People of the Woods</name>
+      <cost>{G}{G}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>*</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>People of the Woods&apos;s toughness is equal to the number of Forests you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1774</id>
+      <name>Savaen Elves</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}{G}, {T}: Destroy target Aura attached to a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1775</id>
+      <name>Scarwood Bandits</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Forestwalk &lt;br&gt;{2}{G}, {T}: Unless target artifact&apos;s controller pays {2}, gain control of that artifact as long as Scarwood Bandits is in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1776</id>
+      <name>Scarwood Hag</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Hag</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn. &lt;br&gt;{T}: Target creature loses forestwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1778</id>
+      <name>Spitting Slug</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Slug</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1779</id>
+      <name>Tracker</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1781</id>
+      <name>Whippoorwill</name>
+      <cost>{G}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}{G}, {T}: Target creature can&apos;t be regenerated this turn. Damage that would be dealt to that creature this turn can&apos;t be prevented or dealt instead to another creature or player. When the creature is put into a graveyard this turn, remove the creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1782</id>
+      <name>Wormwood Treefolk</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you. &lt;br&gt;{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1787</id>
+      <name>Eternal Flame</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1790</id>
+      <name>Goblin Caves</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;If enchanted land is a basic Mountain, Goblin creatures get +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1794</id>
+      <name>Goblin Shrine</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;If enchanted land is a Mountain, Goblin creatures get +1/+0. &lt;br&gt;When Goblin Shrine leaves play, it deals 1 damage to each Goblin creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1795</id>
+      <name>Goblin Wizard</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Goblin Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: You may put a Goblin permanent card from your hand into play. &lt;br&gt;{R}: Target Goblin gains protection from white until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1796</id>
+      <name>Goblins of the Flarg</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk &lt;br&gt;When you control a Dwarf, sacrifice Goblins of the Flarg.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1799</id>
+      <name>Orc General</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1802</id>
+      <name>Blood of the Martyr</name>
+      <cost>{W}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1804</id>
+      <name>Cleansing</name>
+      <cost>{W}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>For each land, destroy that land unless any player pays 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1806</id>
+      <name>Exorcist</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}, {T}: Destroy target black creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1807</id>
+      <name>Fasting</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a hunger counter on Fasting. If Fasting has five or more hunger counters on it, sacrifice it. Otherwise, you may choose to skip your draw step this turn and gain 2 life. &lt;br&gt; &lt;br&gt;When you draw a card, sacrifice Fasting.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1808</id>
+      <name>Festival</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Festival only during an opponent&apos;s upkeep. &lt;br&gt;Creatures can&apos;t attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1809</id>
+      <name>Fire and Brimstone</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1810</id>
+      <name>Holy Light</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Nonwhite creatures get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1811</id>
+      <name>Knights of Thorn</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Banding, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1812</id>
+      <name>Martyr&apos;s Cry</name>
+      <cost>{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove all white creatures from the game. For each white creature removed this way, its controller draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1813</id>
+      <name>Miracle Worker</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Destroy target Aura attached to a creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1816</id>
+      <name>Preacher</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Preacher during your untap step. &lt;br&gt;{T}: Gain control of target creature of an opponent&apos;s choice that he or she controls as long as Preacher remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1817</id>
+      <name>Squire</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1818</id>
+      <name>Tivadar&apos;s Crusade</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all Goblins.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1821</id>
+      <name>Marsh Goblins</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1822</id>
+      <name>Scarwood Goblins</name>
+      <cost>{G}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>The Dark</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1823</id>
+      <name>City of Shadows</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Remove a creature you control from the game: Put a storage counter on City of Shadows. &lt;br&gt; &lt;br&gt;{T}: Add {X} to your mana pool, where X is the number of storage counters on City of Shadows.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1824</id>
+      <name>Maze of Ith</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1825</id>
+      <name>Safe Haven</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Remove target creature you control from the game. &lt;br&gt;At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card removed from the game with Safe Haven to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1826</id>
+      <name>Sorrow&apos;s Path</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>The Dark</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking. Sorrow&apos;s Path deals 2 damage to you and 2 damage to each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

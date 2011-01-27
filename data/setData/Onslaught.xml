@@ -1,0 +1,3777 @@
+<cards>
+  <name>Onslaught</name>
+  <key>Onslaught</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>10699</id>
+      <name>Entrails Feaster</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie Cat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may remove a creature card in a graveyard from the game. If you do, put a +1/+1 counter on Entrails Feaster. If you don&apos;t, tap Entrails Feaster.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10704</id>
+      <name>Riptide Laboratory</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}{U}, {T}: Return target Wizard you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10720</id>
+      <name>Cruel Revival</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target non-Zombie creature. It can&apos;t be regenerated. Return up to one target Zombie card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10722</id>
+      <name>Gravespawn Sovereign</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap five untapped Zombies you control: Put target creature card from a graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12417</id>
+      <name>Skirk Commando</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls. &lt;br&gt;Morph {2}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12425</id>
+      <name>Æther Charge</name>
+      <cost>{4}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a Beast comes into play under your control, you may have it deal 4 damage to target opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12444</id>
+      <name>Ravenous Baloth</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a Beast: You gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12445</id>
+      <name>Chain of Acid</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target noncreature permanent. Then that permanent&apos;s controller may copy this spell and may choose a new target for that copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12446</id>
+      <name>Chain of Silence</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all damage target creature would deal this turn. That creature&apos;s controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12447</id>
+      <name>Chain of Vapor</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target nonland permanent to its owner&apos;s hand. Then that permanent&apos;s controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12448</id>
+      <name>Chain of Smog</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards two cards. That player may copy this spell and may choose a new target for that copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12449</id>
+      <name>Chain of Plasma</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Chain of Plasma deals 3 damage to target creature or player. Then that player or that creature&apos;s controller may discard a card. If the player does, he or she may copy this spell and may choose a new target for that copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12484</id>
+      <name>Erratic Explosion</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card&apos;s converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13012</id>
+      <name>Goblin Burrows</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13210</id>
+      <name>Daru Encampment</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{W}, {T}: Target Soldier creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19122</id>
+      <name>Convalescent Care</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you have 5 life or less, you gain 3 life and draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19680</id>
+      <name>Catapult Master</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap five untapped Soldiers you control: Remove target creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23280</id>
+      <name>Infest</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All creatures get -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25812</id>
+      <name>Riptide Shapeshifter</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card into play and shuffle the rest into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25879</id>
+      <name>Ascending Aven</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Ascending Aven can block only creatures with flying. &lt;br&gt;Morph {2}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26349</id>
+      <name>Strongarm Tactics</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player discards a card. Then each player who didn&apos;t discard a creature card this way loses 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26428</id>
+      <name>Prowling Pangolin</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Anteater Beast</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Prowling Pangolin comes into play, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26436</id>
+      <name>False Cure</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, whenever a player gains life, that player loses 2 life for each 1 life he or she gained.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26592</id>
+      <name>Backslide</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Turn target creature with morph face down. &lt;br&gt;Cycling {U} &lt;I&gt;(&lt;/I&gt;{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26689</id>
+      <name>Wretched Anurid</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Frog Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever another creature comes into play, you lose 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26715</id>
+      <name>Accursed Centaur</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie Centaur</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Accursed Centaur comes into play, sacrifice a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26747</id>
+      <name>Patriarch&apos;s Bidding</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29714</id>
+      <name>Graxiplon</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Graxiplon is unblockable unless defending player controls three or more creatures that share a creature type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>30764</id>
+      <name>Tribal Golem</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tribal Golem has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and &quot;{B}: Regenerate Tribal Golem&quot; as long as you control a Zombie.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>31788</id>
+      <name>Grand Melee</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures attack each turn if able. &lt;br&gt; &lt;br&gt;All creatures block each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>32216</id>
+      <name>Symbiotic Elf</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Symbiotic Elf is put into a graveyard from play, put two 1/1 green Insect creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>33693</id>
+      <name>Oversold Cemetery</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>33695</id>
+      <name>Goblin Sharpshooter</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Goblin Sharpshooter doesn&apos;t untap during your untap step. &lt;br&gt;Whenever a creature is put into a graveyard from play, untap Goblin Sharpshooter. &lt;br&gt;{T}: Goblin Sharpshooter deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34196</id>
+      <name>Barkhide Mauler</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34228</id>
+      <name>Kamahl&apos;s Summons</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token into play for each card he or she revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34394</id>
+      <name>Overwhelming Instinct</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever you attack with three or more creatures, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34397</id>
+      <name>Commando Raid</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, target creature you control gains &quot;When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34410</id>
+      <name>Foothill Guide</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Goblins &lt;br&gt;Morph {W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34684</id>
+      <name>Mythic Proportions</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +8/+8 and has trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34763</id>
+      <name>Elvish Guidance</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34764</id>
+      <name>Wirewood Lodge</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{G}, {T}: Untap target Elf.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>34952</id>
+      <name>Hystrodon</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Hystrodon deals combat damage to a player, you may draw a card. &lt;br&gt;Morph {1}{G}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35164</id>
+      <name>Menacing Ogre</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample, haste &lt;br&gt;When Menacing Ogre comes into play, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35326</id>
+      <name>Aura Extraction</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target enchantment on top of its owner&apos;s library. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35386</id>
+      <name>Searing Flesh</name>
+      <cost>{6}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Searing Flesh deals 7 damage to target opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35457</id>
+      <name>Insurrection</name>
+      <cost>{5}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>35514</id>
+      <name>Enchantress&apos;s Presence</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play an enchantment spell, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39419</id>
+      <name>Aphetto Grifter</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap two untapped Wizards you control: Tap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39420</id>
+      <name>Gustcloak Runner</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39423</id>
+      <name>Glarecaster</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Bird Cleric</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39425</id>
+      <name>Crude Rampart</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Morph {4}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39427</id>
+      <name>Unified Strike</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target attacking creature from the game if its power is less than or equal to the number of Soldiers in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39430</id>
+      <name>Battlefield Medic</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39431</id>
+      <name>Crown of Awe</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from black and from red. &lt;br&gt;Sacrifice Crown of Awe: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39432</id>
+      <name>Gustcloak Harrier</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39433</id>
+      <name>Piety Charm</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target Aura attached to a creature; or target Soldier creature gets +2/+2 until end of turn; or creatures you control gain vigilance until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39436</id>
+      <name>Mistform Dreamer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Mistform Dreamer becomes the creature type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39437</id>
+      <name>Information Dealer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Look at the top X cards of your library, where X is the number of Wizards in play, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39441</id>
+      <name>Mistform Stalker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Mistform Stalker becomes the creature type of your choice until end of turn. &lt;br&gt;{2}{U}{U}: Mistform Stalker gets +2/+2 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39444</id>
+      <name>Spy Network</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at target player&apos;s hand, the top card of that player&apos;s library, and any face-down creatures he or she controls. Look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39445</id>
+      <name>Screaming Seahawk</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Screaming Seahawk comes into play, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39449</id>
+      <name>Mistform Mask</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{1}: Enchanted creature becomes the creature type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39450</id>
+      <name>Trickery Charm</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target creature gains flying until end of turn; or target creature becomes the creature type of your choice until end of turn; or look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39455</id>
+      <name>Screeching Buzzard</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Screeching Buzzard is put into a graveyard from play, each opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39464</id>
+      <name>Shepherd of Rot</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Each player loses 1 life for each Zombie in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39466</id>
+      <name>Misery Charm</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target Cleric; or return target Cleric card from your graveyard to your hand; or target player loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39467</id>
+      <name>Cabal Slaver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a Goblin deals combat damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39469</id>
+      <name>Charging Slateback</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Charging Slateback can&apos;t block. &lt;br&gt;Morph {4}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39476</id>
+      <name>Sparksmith</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39479</id>
+      <name>Lavamancer&apos;s Skill</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: This creature deals 1 damage to target creature.&quot; &lt;br&gt;If enchanted creature is a Wizard, it has &quot;{T}: This creature deals 2 damage to target creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39483</id>
+      <name>Wave of Indifference</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>X target creatures can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39484</id>
+      <name>Fever Charm</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target creature gains haste until end of turn; or target creature gets +2/+0 until end of turn; or Fever Charm deals 3 damage to target Wizard creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39486</id>
+      <name>Battering Craghorn</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Goat Beast</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;Morph {1}{R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39492</id>
+      <name>Snarling Undorak</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{G}: Target Beast creature gets +1/+1 until end of turn. &lt;br&gt;Morph {1}{G}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39494</id>
+      <name>Elvish Pathcutter</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Scout</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{G}: Target Elf creature gains forestwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39495</id>
+      <name>Wall of Mulch</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{G}, Sacrifice a Wall: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39497</id>
+      <name>Wellwisher</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: You gain 1 life for each Elf in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39501</id>
+      <name>Vitality Charm</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Put a 1/1 green Insect creature token into play; or target creature gets +1/+1 and gains trample until end of turn; or regenerate target Beast.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39503</id>
+      <name>Flooded Strand</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39504</id>
+      <name>Polluted Delta</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39505</id>
+      <name>Bloodstained Mire</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39506</id>
+      <name>Wooded Foothills</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39507</id>
+      <name>Windswept Heath</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39509</id>
+      <name>Gustcloak Sentinel</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39516</id>
+      <name>Nameless One</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Wizard Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Nameless One&apos;s power and toughness are each equal to the number of Wizards in play. &lt;br&gt;Morph {2}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39517</id>
+      <name>Ironfist Crusher</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Ironfist Crusher can block any number of creatures. &lt;br&gt;Morph {3}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39520</id>
+      <name>Aven Soulgazer</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Bird Cleric</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{2}{W}: Look at target face-down creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39523</id>
+      <name>Daru Cavalier</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;When Daru Cavalier comes into play, you may search your library for a card named Daru Cavalier, reveal it, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39525</id>
+      <name>Mistform Shrieker</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Mistform Shrieker becomes the creature type of your choice until end of turn. &lt;br&gt;Morph {3}{U}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39526</id>
+      <name>Mistform Wall</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Illusion Wall</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mistform Wall has defender as long as it&apos;s a Wall. &lt;br&gt;{1}: Mistform Wall becomes the creature type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39527</id>
+      <name>Disruptive Pitmage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Counter target spell unless its controller pays {1}. &lt;br&gt;Morph {U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39528</id>
+      <name>Thoughtbound Primoc</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Bird Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, if a player controls more Wizards than any other player, he or she gains control of Thoughtbound Primoc.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39529</id>
+      <name>Mistform Mutant</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Illusion Mutant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39530</id>
+      <name>Aphetto Alchemist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Untap target artifact or creature. &lt;br&gt;Morph {U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39537</id>
+      <name>Trade Secrets</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39539</id>
+      <name>Quicksilver Dragon</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell&apos;s target to another creature. &lt;br&gt;Morph {4}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39545</id>
+      <name>Cabal Archon</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39547</id>
+      <name>Boneknitter</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{B}: Regenerate target Zombie. &lt;br&gt;Morph {2}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39552</id>
+      <name>Walking Desecration</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, {T}: Creatures of the type of your choice attack this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39556</id>
+      <name>Death Match</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, that creature&apos;s controller may have target creature of his or her choice get -3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39559</id>
+      <name>Kaboom!</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom! deals damage equal to that card&apos;s converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39563</id>
+      <name>Skirk Prospector</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Goblin: Add {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39571</id>
+      <name>Mana Echoes</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, you may add {1} to your mana pool for each creature you control that shares a creature type with it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39578</id>
+      <name>Gigapede</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>6</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39579</id>
+      <name>Venomspout Brackus</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}, {T}: Venomspout Brackus deals 5 damage to target attacking or blocking creature with flying. &lt;br&gt;Morph {3}{G}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39589</id>
+      <name>Embermage Goblin</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Embermage Goblin comes into play, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library. &lt;br&gt;{T}: Embermage Goblin deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39592</id>
+      <name>Flamestick Courier</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Flamestick Courier during your untap step. &lt;br&gt;{2}{R}, {T}: As long as Flamestick Courier remains tapped, target Goblin creature gets +2/+2 and has haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39593</id>
+      <name>Everglove Courier</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Everglove Courier during your untap step. &lt;br&gt;{2}{G}, {T}: As long as Everglove Courier remains tapped, target Elf creature gets +2/+2 and has trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39594</id>
+      <name>Frightshroud Courier</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Frightshroud Courier during your untap step. &lt;br&gt;{2}{B}, {T}: As long as Frightshroud Courier remains tapped, target Zombie creature gets +2/+2 and has fear.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39595</id>
+      <name>Ghosthelm Courier</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Ghosthelm Courier during your untap step. &lt;br&gt;{2}{U}, {T}: As long as Ghosthelm Courier remains tapped, target Wizard creature gets +2/+2 and has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39596</id>
+      <name>Pearlspear Courier</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Pearlspear Courier during your untap step. &lt;br&gt;{2}{W}, {T}: As long as Pearlspear Courier remains tapped, target Soldier creature gets +2/+2 and has vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39602</id>
+      <name>Gustcloak Savior</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39605</id>
+      <name>Sigil of the New Dawn</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature is put into your graveyard from play, you may pay {1}{W}. If you do, return that card to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39610</id>
+      <name>Gangrenous Goliath</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39612</id>
+      <name>Endemic Plague</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Endemic Plague, sacrifice a creature. &lt;br&gt; &lt;br&gt;Destroy all creatures that share a creature type with the sacrificed creature. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39614</id>
+      <name>Harsh Mercy</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player chooses a creature type. Destroy all creatures that aren&apos;t of a type chosen this way. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39615</id>
+      <name>Circle of Solace</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Circle of Solace comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;{1}{W}: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39619</id>
+      <name>Mistform Skyreaver</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39620</id>
+      <name>Callous Oppressor</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Cephalid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Callous Oppressor during your untap step. &lt;br&gt;As Callous Oppressor comes into play, an opponent chooses a creature type. &lt;br&gt;{T}: Gain control of target creature that isn&apos;t of the chosen type as long as Callous Oppressor remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39628</id>
+      <name>Future Sight</name>
+      <cost>{2}{U}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play with the top card of your library revealed. &lt;br&gt;You may play the top card of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39629</id>
+      <name>Peer Pressure</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a creature type. If you control more creatures of that type than any other player, you gain control of all creatures of that type. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39640</id>
+      <name>Rotlung Reanimator</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Rotlung Reanimator or another Cleric is put into a graveyard from play, put a 2/2 black Zombie creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39644</id>
+      <name>Ebonblade Reaper</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Ebonblade Reaper attacks, you lose half your life, rounded up. &lt;br&gt;Whenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up. &lt;br&gt;Morph {3}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39647</id>
+      <name>Grand Coliseum</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Grand Coliseum comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}: Add one mana of any color to your mana pool. Grand Coliseum deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39655</id>
+      <name>Spitfire Handler</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Spitfire Handler can&apos;t block creatures with power greater than Spitfire Handler&apos;s power. &lt;br&gt;{R}: Spitfire Handler gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39656</id>
+      <name>Shaleskin Bruiser</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Shaleskin Bruiser attacks, it gets +3/+0 until end of turn for each other attacking Beast.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39658</id>
+      <name>Butcher Orgg</name>
+      <cost>{4}{R}{R}{R}</cost>
+      <type>Creature - Orgg</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may divide Butcher Orgg&apos;s combat damage as you choose among defending player and/or any number of creatures he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39659</id>
+      <name>Tephraderm</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature. &lt;br&gt; &lt;br&gt;Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39663</id>
+      <name>Risky Move</name>
+      <cost>{3}{R}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, that player gains control of Risky Move. &lt;br&gt; &lt;br&gt;When you gain control of Risky Move from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39666</id>
+      <name>Gratuitous Violence</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39669</id>
+      <name>Krosan Colossus</name>
+      <cost>{6}{G}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Morph {6}{G}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39675</id>
+      <name>Leery Fogbeast</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39676</id>
+      <name>Stag Beetle</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Stag Beetle comes into play with X +1/+1 counters on it, where X is the number of other creatures in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39677</id>
+      <name>Tribal Unity</name>
+      <cost>{X}{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures of the type of your choice get +X/+X until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39678</id>
+      <name>Centaur Glade</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{G}{G}: Put a 3/3 green Centaur creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39684</id>
+      <name>Words of Wilding</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time you would draw a card this turn, put a 2/2 green Bear creature token into play instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39701</id>
+      <name>Cryptic Gateway</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap two untapped creatures you control: You may put a creature card from your hand into play that shares a creature type with each creature tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39702</id>
+      <name>Catapult Squad</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap two untapped Soldiers you control: Catapult Squad deals 2 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39703</id>
+      <name>Wirewood Savage</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a Beast comes into play, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39704</id>
+      <name>Aphetto Dredging</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39705</id>
+      <name>Daru Lancer</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;Morph {2}{W}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39706</id>
+      <name>Slipstream Eel</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Creature - Fish Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Slipstream Eel can&apos;t attack unless defending player controls an Island. &lt;br&gt;Cycling {1}{U} &lt;I&gt;(&lt;/I&gt;{1}{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39710</id>
+      <name>Nosy Goblin</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Nosy Goblin: Destroy target face-down creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39711</id>
+      <name>Dawning Purist</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Dawning Purist deals combat damage to a player, you may destroy target enchantment that player controls. &lt;br&gt;Morph {1}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39715</id>
+      <name>Grassland Crusader</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Cleric Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target Elf or Soldier creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39716</id>
+      <name>Gravel Slinger</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Gravel Slinger deals 1 damage to target attacking or blocking creature. &lt;br&gt;Morph {1}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39717</id>
+      <name>Daru Healer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt;Morph {W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39718</id>
+      <name>Exalted Angel</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt; &lt;br&gt;Morph {2}{W}{W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39720</id>
+      <name>Spitting Gourna</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;Morph {4}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39721</id>
+      <name>Treespring Lorian</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {5}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39722</id>
+      <name>Goblin Taskmaster</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{R}: Target Goblin creature gets +1/+0 until end of turn. &lt;br&gt;Morph {R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39725</id>
+      <name>Spined Basher</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Beast</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {2}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39726</id>
+      <name>Headhunter</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Headhunter deals combat damage to a player, that player discards a card. &lt;br&gt;Morph {B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39727</id>
+      <name>Riptide Entrancer</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Riptide Entrancer deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt; &lt;br&gt;Morph {U}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39729</id>
+      <name>Snapping Thragg</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Snapping Thragg deals combat damage to a player, you may have it deal 3 damage to target creature that player controls. &lt;br&gt;Morph {4}{R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39731</id>
+      <name>Serpentine Basilisk</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Serpentine Basilisk deals combat damage to a creature, destroy that creature at end of combat. &lt;br&gt;Morph {1}{G}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39732</id>
+      <name>Nova Cleric</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39734</id>
+      <name>Grinning Demon</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you lose 2 life. &lt;br&gt;Morph {2}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39737</id>
+      <name>Blistering Firecat</name>
+      <cost>{1}{R}{R}{R}</cost>
+      <type>Creature - Elemental Cat</type>
+      <power>7</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample, haste &lt;br&gt;At end of turn, sacrifice Blistering Firecat. &lt;br&gt;Morph {R}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39741</id>
+      <name>Towering Baloth</name>
+      <cost>{6}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {6}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39742</id>
+      <name>Broodhatch Nantuko</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Insect Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Broodhatch Nantuko is dealt damage, you may put that many 1/1 green Insect creature tokens into play. &lt;br&gt;Morph {2}{G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39743</id>
+      <name>Doubtless One</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Cleric Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt; &lt;br&gt;Doubtless One&apos;s power and toughness are each equal to the number of Clerics in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39744</id>
+      <name>Heedless One</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Heedless One&apos;s power and toughness are each equal to the number of Elves in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39745</id>
+      <name>Soulless One</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Soulless One&apos;s power and toughness are each equal to the number of Zombies in play plus the number of Zombie cards in all graveyards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39746</id>
+      <name>Reckless One</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Avatar</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;Reckless One&apos;s power and toughness are each equal to the number of Goblins in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39754</id>
+      <name>Skittish Valesk</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, flip a coin. If you lose the flip, turn Skittish Valesk face down. &lt;br&gt;Morph {5}{R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39755</id>
+      <name>Airdrop Condor</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{R}, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature&apos;s power to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39822</id>
+      <name>Defensive Maneuvers</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures of the type of your choice get +0/+4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39825</id>
+      <name>Syphon Mind</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each other player discards a card. You draw a card for each card discarded this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39826</id>
+      <name>Goblin Sledder</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39828</id>
+      <name>Wirewood Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39835</id>
+      <name>Spurred Wolverine</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Wolverine Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap two untapped Beasts you control: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39836</id>
+      <name>Birchlore Rangers</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap two untapped Elves you control: Add one mana of any color to your mana pool. &lt;br&gt;Morph {G} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39839</id>
+      <name>Gustcloak Skirmisher</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39840</id>
+      <name>Goblin Pyromancer</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Goblin Pyromancer comes into play, Goblin creatures get +3/+0 until end of turn. &lt;br&gt;At end of turn, destroy all Goblins.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39841</id>
+      <name>Wirewood Pride</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +X/+X until end of turn, where X is the number of Elves in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39843</id>
+      <name>Ixidor&apos;s Will</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {2} for each Wizard in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39845</id>
+      <name>Profane Prayers</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Profane Prayers deals X damage to target creature or player and you gain X life, where X is the number of Clerics in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39846</id>
+      <name>Brightstone Ritual</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Add {R} to your mana pool for each Goblin in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39847</id>
+      <name>Thunder of Hooves</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39848</id>
+      <name>Riptide Biologist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Beasts &lt;br&gt;Morph {2}{U} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39849</id>
+      <name>Fallen Cleric</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from Clerics &lt;br&gt;Morph {4}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39851</id>
+      <name>Cabal Executioner</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Cabal Executioner deals combat damage to a player, that player sacrifices a creature. &lt;br&gt;Morph {3}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39852</id>
+      <name>Haunted Cadaver</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Haunted Cadaver deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards. &lt;br&gt;Morph {1}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39853</id>
+      <name>Thrashing Mudspawn</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Thrashing Mudspawn is dealt damage, you lose that much life. &lt;br&gt;Morph {1}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39859</id>
+      <name>Rorix Bladewing</name>
+      <cost>{3}{R}{R}{R}</cost>
+      <type>Legendary Creature - Dragon</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39860</id>
+      <name>Silvos, Rogue Elemental</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Legendary Creature - Elemental</type>
+      <power>8</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;{G}: Regenerate Silvos, Rogue Elemental.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39861</id>
+      <name>Jareth, Leonine Titan</name>
+      <cost>{3}{W}{W}{W}</cost>
+      <type>Legendary Creature - Cat Giant</type>
+      <power>4</power>
+      <toughness>7</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn. &lt;br&gt;{W}: Jareth gains protection from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39862</id>
+      <name>Supreme Inquisitor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap five untapped Wizards you control: Search target player&apos;s library for up to five cards and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39863</id>
+      <name>Visara the Dreadful</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Legendary Creature - Gorgon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Destroy target creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39868</id>
+      <name>Break Open</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Turn target face-down creature an opponent controls face up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39869</id>
+      <name>Dwarven Blastminer</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}, {T}: Destroy target nonbasic land. &lt;br&gt;Morph {R} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39872</id>
+      <name>Dive Bomber</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{T}, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39879</id>
+      <name>Shieldmage Elder</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Cleric Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn. &lt;br&gt;Tap two untapped Wizards you control: Prevent all damage target spell would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39882</id>
+      <name>Ancestor&apos;s Prophet</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap five untapped Clerics you control: You gain 10 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39883</id>
+      <name>Crown of Ascension</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has flying. &lt;br&gt;Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39884</id>
+      <name>Imagecrafter</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39887</id>
+      <name>Riptide Chronologist</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}, Sacrifice Riptide Chronologist: Untap all creatures of the type of your choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39889</id>
+      <name>Airborne Aid</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw a card for each Bird in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39900</id>
+      <name>Aurification</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature deals damage to you, put a gold counter on it. &lt;br&gt;Each creature with a gold counter on it has defender. &lt;i&gt;(Those creatures can&apos;t attack.)&lt;/i&gt; &lt;br&gt;When Aurification leaves play, remove all gold counters from all creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39903</id>
+      <name>Bloodline Shaman</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Wizard Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39906</id>
+      <name>Aphetto Vulture</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Zombie Bird</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Aphetto Vulture is put into a graveyard from play, you may put target Zombie card from your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39907</id>
+      <name>Wirewood Herald</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Wirewood Herald is put into a graveyard from play, you may search your library for an Elf card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39919</id>
+      <name>Custody Battle</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;At the beginning of your upkeep, target opponent gains control of this creature unless you sacrifice a land.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39923</id>
+      <name>Artificial Evolution</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can&apos;t be Wall. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39924</id>
+      <name>Symbiotic Beast</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Insect Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Symbiotic Beast is put into a graveyard from play, put four 1/1 green Insect creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39925</id>
+      <name>Symbiotic Wurm</name>
+      <cost>{5}{G}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Symbiotic Wurm is put into a graveyard from play, put seven 1/1 green Insect creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39926</id>
+      <name>Crown of Vigor</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39929</id>
+      <name>Tempting Wurm</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Tempting Wurm comes into play, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39933</id>
+      <name>Oblation</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>The owner of target nonland permanent shuffles it into his or her library, then draws two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>39942</id>
+      <name>Goblin Machinist</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card&apos;s converted mana cost. Put the revealed cards on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40058</id>
+      <name>Crown of Fury</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+0 and has first strike. &lt;br&gt;Sacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40059</id>
+      <name>Crown of Suspicion</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/-1. &lt;br&gt;Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40127</id>
+      <name>Shared Triumph</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Shared Triumph comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;Creatures of the chosen type get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40128</id>
+      <name>Dispersing Orb</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}{U}, Sacrifice a permanent: Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40129</id>
+      <name>Cover of Darkness</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Cover of Darkness comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;Creatures of the chosen type have fear.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40130</id>
+      <name>Steely Resolve</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Steely Resolve comes into play, choose a creature type. &lt;br&gt;Creatures of the chosen type have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40131</id>
+      <name>Aven Brigadier</name>
+      <cost>{3}{W}{W}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Other Bird creatures get +1/+1. &lt;br&gt;Other Soldier creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40173</id>
+      <name>Psychic Trance</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, Wizards you control gain &quot;{T}: Counter target spell.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40174</id>
+      <name>Voice of the Woods</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40188</id>
+      <name>Words of Wind</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time you would draw a card this turn, each player returns a permanent he or she controls to its owner&apos;s hand instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40189</id>
+      <name>Words of Worship</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time you would draw a card this turn, you gain 5 life instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40190</id>
+      <name>Words of Waste</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time you would draw a card this turn, each opponent discards a card instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40191</id>
+      <name>Words of War</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time you would draw a card this turn, Words of War deals 2 damage to target creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40193</id>
+      <name>Goblin Piledriver</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from blue &lt;br&gt;Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40194</id>
+      <name>Skirk Fire Marshal</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from red &lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40195</id>
+      <name>Aggravated Assault</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40196</id>
+      <name>Dream Chisel</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Face-down creature spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40197</id>
+      <name>Doom Cannon</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Doom Cannon comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;{3}, {T}, Sacrifice a creature of the chosen type: Doom Cannon deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40198</id>
+      <name>Riptide Replicator</name>
+      <cost>{X}{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Riptide Replicator comes into play, choose a color and a creature type. &lt;br&gt; &lt;br&gt;Riptide Replicator comes into play with X charge counters on it. &lt;br&gt; &lt;br&gt;{4}, {T}: Put an X/X creature token of the chosen color and type into play, where X is the number of charge counters on Riptide Replicator.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40205</id>
+      <name>Standardize</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a creature type other than Wall. Each creature becomes that type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40537</id>
+      <name>Pinpoint Avalanche</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Pinpoint Avalanche deals 4 damage to target creature. The damage can&apos;t be prevented.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40538</id>
+      <name>Kamahl, Fist of Krosa</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Legendary Creature - Human Druid</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}: Target land becomes a 1/1 creature until end of turn. It&apos;s still a land. &lt;br&gt;{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40539</id>
+      <name>Seaside Haven</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{W}{U}, {T}, Sacrifice a Bird: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40540</id>
+      <name>Contested Cliffs</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{R}{G}, {T}: Choose target Beast creature you control and target creature an opponent controls. Each creature deals damage equal to its power to the other.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40541</id>
+      <name>Unholy Grotto</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{B}, {T}: Put target Zombie card from your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40542</id>
+      <name>Starlit Sanctum</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{W}, {T}, Sacrifice a Cleric creature: You gain life equal to the sacrificed creature&apos;s toughness. &lt;br&gt;{B}, {T}, Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40578</id>
+      <name>Ixidor, Reality Sculptor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Face-down creatures get +1/+1. &lt;br&gt;{2}{U}: Turn target face-down creature face up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40601</id>
+      <name>Rummaging Wizard</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{U}: Look at the top card of your library. You may put that card into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40653</id>
+      <name>Crowd Favorites</name>
+      <cost>{6}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}{W}: Tap target creature. &lt;br&gt;{3}{W}: Crowd Favorites gets +0/+5 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40655</id>
+      <name>Aven Fateshaper</name>
+      <cost>{6}{U}</cost>
+      <type>Creature - Bird Wizard</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Aven Fateshaper comes into play, look at the top four cards of your library, then put them back in any order. &lt;br&gt;{4}{U}: Look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>40656</id>
+      <name>Righteous Cause</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41023</id>
+      <name>Smother</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature with converted mana cost 3 or less. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41024</id>
+      <name>Whipcorder</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, {T}: Tap target creature. &lt;br&gt;Morph {W} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41056</id>
+      <name>Krosan Groundshaker</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}: Target Beast creature gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41133</id>
+      <name>Disciple of Grace</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from black &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41134</id>
+      <name>Disciple of Malice</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from white &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41135</id>
+      <name>Essence Fracture</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return two target creatures to their owners&apos; hands. &lt;br&gt;Cycling {2}{U} &lt;I&gt;(&lt;/I&gt;{2}{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41137</id>
+      <name>Secluded Steppe</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Secluded Steppe comes into play tapped. &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt;Cycling {W} &lt;I&gt;(&lt;/I&gt;{W}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41138</id>
+      <name>Lonely Sandbar</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Lonely Sandbar comes into play tapped. &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt;Cycling {U} &lt;I&gt;(&lt;/I&gt;{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41139</id>
+      <name>Barren Moor</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Barren Moor comes into play tapped. &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt;Cycling {B} &lt;I&gt;(&lt;/I&gt;{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41140</id>
+      <name>Forgotten Cave</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forgotten Cave comes into play tapped. &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt;Cycling {R} &lt;I&gt;(&lt;/I&gt;{R}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41141</id>
+      <name>Tranquil Thicket</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tranquil Thicket comes into play tapped. &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;Cycling {G} &lt;I&gt;(&lt;/I&gt;{G}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41142</id>
+      <name>Death Pulse</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets -4/-4 until end of turn. &lt;br&gt;Cycling {1}{B}{B} &lt;I&gt;(&lt;/I&gt;{1}{B}{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Death Pulse, you may have target creature get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41143</id>
+      <name>Solar Blast</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Solar Blast deals 3 damage to target creature or player. &lt;br&gt;Cycling {1}{R}{R} &lt;I&gt;(&lt;/I&gt;{1}{R}{R}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Solar Blast, you may have it deal 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41144</id>
+      <name>Sunfire Balm</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent the next 4 damage that would be dealt to target creature or player this turn. &lt;br&gt;Cycling {1}{W} &lt;I&gt;(&lt;/I&gt;{1}{W}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Sunfire Balm, you may prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41145</id>
+      <name>Primal Boost</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +4/+4 until end of turn. &lt;br&gt;Cycling {2}{G} &lt;I&gt;(&lt;/I&gt;{2}{G}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Primal Boost, you may have target creature get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41146</id>
+      <name>Complicate</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell unless its controller pays {3}. &lt;br&gt;Cycling {2}{U} &lt;I&gt;(&lt;/I&gt;{2}{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Complicate, you may counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41147</id>
+      <name>Lightning Rift</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41148</id>
+      <name>Astral Slide</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player cycles a card, you may remove target creature from the game. If you do, return the removed card to play under its owner&apos;s control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41149</id>
+      <name>Fleeting Aven</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Bird Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever a player cycles a card, return Fleeting Aven to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41150</id>
+      <name>Withering Hex</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever a player cycles a card, put a plague counter on Withering Hex. &lt;br&gt;Enchanted creature gets -1/-1 for each plague counter on Withering Hex.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41151</id>
+      <name>Invigorating Boon</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player cycles a card, you may put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41153</id>
+      <name>Renewed Faith</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 6 life. &lt;br&gt;Cycling {1}{W} &lt;I&gt;(&lt;/I&gt;{1}{W}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Renewed Faith, you may gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41155</id>
+      <name>Mage&apos;s Guile</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;Cycling {U} &lt;I&gt;(&lt;/I&gt;{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41156</id>
+      <name>Blatant Thievery</name>
+      <cost>{4}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>For each opponent, gain control of target permanent that player controls. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41157</id>
+      <name>Dirge of Dread</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures gain fear until end of turn. &lt;br&gt;Cycling {1}{B} &lt;I&gt;(&lt;/I&gt;{1}{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41158</id>
+      <name>Lay Waste</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41160</id>
+      <name>Run Wild</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, target creature gains trample and &quot;{G}: Regenerate this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41161</id>
+      <name>Choking Tethers</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap up to four target creatures. &lt;br&gt;Cycling {1}{U} &lt;I&gt;(&lt;/I&gt;{1}{U}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Choking Tethers, you may tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41162</id>
+      <name>Akroma&apos;s Blessing</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control gain protection from the color of your choice until end of turn. &lt;br&gt;Cycling {W} &lt;I&gt;(&lt;/I&gt;{W}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41163</id>
+      <name>Improvised Armor</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+5. &lt;br&gt;Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41165</id>
+      <name>Fade from Memory</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target card in a graveyard from the game. &lt;br&gt;Cycling {B} &lt;I&gt;(&lt;/I&gt;{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41166</id>
+      <name>Undead Gladiator</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie Barbarian</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Play this ability only during your upkeep. &lt;br&gt;Cycling {1}{B} &lt;I&gt;(&lt;/I&gt;{1}{B}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41167</id>
+      <name>Starstorm</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Starstorm deals X damage to each creature. &lt;br&gt;Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41168</id>
+      <name>Akroma&apos;s Vengeance</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all artifacts, creatures, and enchantments. &lt;br&gt;Cycling {3} &lt;I&gt;(&lt;/I&gt;{3}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41169</id>
+      <name>Feeding Frenzy</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets -X/-X until end of turn, where X is the number of Zombies in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41170</id>
+      <name>Sandskin</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41171</id>
+      <name>Slice and Dice</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Slice and Dice deals 4 damage to each creature. &lt;br&gt;Cycling {2}{R} &lt;I&gt;(&lt;/I&gt;{2}{R}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41172</id>
+      <name>Explosive Vegetation</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for up to two basic land cards and put them into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41279</id>
+      <name>Shade&apos;s Breath</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, each creature you control becomes black, its creature type becomes Shade, and it gains &quot;{B}: This creature gets +1/+1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>41280</id>
+      <name>Silent Specter</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Silent Specter deals combat damage to a player, that player discards two cards. &lt;br&gt;Morph {3}{B}{B} &lt;I&gt;(You may play this face down as a 2/2 creature for &lt;/I&gt;{3}&lt;I&gt;. Turn it face up any time for its morph cost.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42184</id>
+      <name>Wheel and Deal</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Any number of target opponents each discards his or her hand and draws seven cards. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>42190</id>
+      <name>Animal Magnetism</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal the top five cards of your library. An opponent chooses a creature card from among them. Put that card into play and the rest into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43331</id>
+      <name>Avarax</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;When Avarax comes into play, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library. &lt;br&gt;{1}{R}: Avarax gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43479</id>
+      <name>Krosan Tusker</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Boar Beast</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cycling {2}{G} &lt;I&gt;(&lt;/I&gt;{2}{G}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt; &lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>43638</id>
+      <name>Anurid Murkdiver</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Zombie Frog Beast</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>5656</id>
+      <name>Elvish Vanguard</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever another Elf comes into play, put a +1/+1 counter on Elvish Vanguard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>8785</id>
+      <name>Daunting Defender</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Onslaught</edition>
+      <rarity>Common</rarity>
+      <oracleText>If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>9839</id>
+      <name>Read the Runes</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Onslaught</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

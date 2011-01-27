@@ -1,0 +1,3153 @@
+<cards>
+  <name>Ice_Age</name>
+  <key>Ice_Age</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>2392</id>
+      <name>Adarkar Sentinel</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Adarkar Sentinel gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2393</id>
+      <name>Aegis of the Meek</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2394</id>
+      <name>Amulet of Quoz</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove Amulet of Quoz from your deck before playing if you&apos;re not playing for ante. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Amulet of Quoz: Target opponent may add the top card of his or her library to the ante. If he or she doesn&apos;t, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2395</id>
+      <name>Arcum&apos;s Sleigh</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Until end of turn, target creature has vigilance as long as defending player controls a snow land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2396</id>
+      <name>Arcum&apos;s Weathervane</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Target snow land is no longer snow. &lt;br&gt;{2}, {T}: Target nonsnow basic land becomes snow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2397</id>
+      <name>Arcum&apos;s Whistle</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay {X}, where X is that creature&apos;s converted mana cost. If he or she doesn&apos;t, the creature attacks this turn if able, and at end of turn, destroy it if it didn&apos;t attack. Play this ability only before attackers are declared.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2399</id>
+      <name>Baton of Morale</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: Target creature gains banding until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2400</id>
+      <name>Celestial Sword</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Target creature you control gets +3/+3 until end of turn. Destroy it at end of turn. A creature destroyed this way can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2402</id>
+      <name>Despotic Scepter</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target permanent you own. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2404</id>
+      <name>Fyndhorn Bow</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2405</id>
+      <name>Goblin Lyre</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice Goblin Lyre: Flip a coin. If you win the flip, Goblin Lyre deals damage to target opponent equal to the number of creatures you control. If you lose the flip, Goblin Lyre deals damage to you equal to the number of creatures that opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2406</id>
+      <name>Hematite Talisman</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a red spell is played, you may pay {3}. If you do, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2407</id>
+      <name>Ice Cauldron</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Put a charge counter on Ice Cauldron and remove a nonland card in your hand from the game. As long as that card remains removed from the game, you may play it. Note the type and amount of mana used to pay this activation cost. Play this ability only if there are no charge counters on Ice Cauldron. &lt;br&gt;{T}, Remove a charge counter from Ice Cauldron: Add to your mana pool mana of the type and amount last used to put a charge counter on Ice Cauldron. Spend this mana only to play the last card removed from the game with Ice Cauldron.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2411</id>
+      <name>Jester&apos;s Mask</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Jester&apos;s Mask comes into play tapped. &lt;br&gt; &lt;br&gt;{1}, {T}, Sacrifice Jester&apos;s Mask: Target opponent puts his or her hand on top of his or her library. Search that library for as many cards as he or she put on top of it this way. That player puts those cards into his or her hand, then shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2412</id>
+      <name>Jeweled Amulet</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Put a charge counter on Jeweled Amulet. Note what type of mana was used to pay this activation cost. Play this ability only if there are no charge counters on Jeweled Amulet. &lt;br&gt; &lt;br&gt;{T}, Remove all charge counters from Jeweled Amulet: Add one mana of the type last used to put a charge counter on Jeweled Amulet to your mana pool. Play this ability only if there are one or more charge counters on Jeweled Amulet.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2413</id>
+      <name>Lapis Lazuli Talisman</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a blue spell is played, you may pay {3}. If you do, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2414</id>
+      <name>Malachite Talisman</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a green spell is played, you may pay {3}. If you do, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2415</id>
+      <name>Nacre Talisman</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a white spell is played, you may pay {3}. If you do, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2416</id>
+      <name>Naked Singularity</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {3} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;If tapped for mana, Plains produce {R}, Islands produce {G}, Swamps produce {W}, Mountains produce {U}, and Forests produce {B} instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2417</id>
+      <name>Onyx Talisman</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a black spell is played, you may pay {3}. If you do, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2420</id>
+      <name>Runed Arch</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Runed Arch comes into play tapped. &lt;br&gt; &lt;br&gt;{X}, {T}, Sacrifice Runed Arch: X target creatures with power 2 or less are unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2423</id>
+      <name>Snow Fortress</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{1}: Snow Fortress gets +1/+0 until end of turn. &lt;br&gt;{1}: Snow Fortress gets +0/+1 until end of turn. &lt;br&gt;{3}: Snow Fortress deals 1 damage to target creature without flying that&apos;s attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2424</id>
+      <name>Soldevi Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Soldevi Golem doesn&apos;t untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may untap target tapped creature an opponent controls. If you do, untap Soldevi Golem.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2425</id>
+      <name>Soldevi Simulacrum</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;{1}: Soldevi Simulacrum gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2426</id>
+      <name>Staff of the Ages</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with landwalk abilities can be blocked as though they didn&apos;t have those abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2427</id>
+      <name>Sunstone</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, Sacrifice a snow land: Prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2431</id>
+      <name>Vibrating Sphere</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as it&apos;s your turn, creatures you control get +2/+0. &lt;br&gt;As long as it&apos;s not your turn, creatures you control get -0/-2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2432</id>
+      <name>Walking Wall</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;br&gt;{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn&apos;t have defender. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2433</id>
+      <name>Wall of Shields</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2434</id>
+      <name>War Chariot</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Target creature gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2435</id>
+      <name>Whalebone Glider</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Target creature with power 3 or less gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2438</id>
+      <name>Ashen Ghoul</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;{B}: Return Ashen Ghoul from your graveyard to play. Play this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2439</id>
+      <name>Brine Shaman</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Cleric Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. &lt;br&gt;{1}{U}{U}, Sacrifice a creature: Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2440</id>
+      <name>Burnt Offering</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Burnt Offering, sacrifice a creature. &lt;br&gt;Add X mana in any combination of {B} and/or {R} to your mana pool, where X is the sacrificed creature&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2442</id>
+      <name>Dance of the Dead</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature card in a graveyard &lt;br&gt;When Dance of the Dead comes into play, if it&apos;s in play, it loses &quot;enchant creature card in a graveyard&quot; and gains &quot;enchant creature put into play with Dance of the Dead.&quot; Return enchanted creature card to play tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves play, that creature&apos;s controller sacrifices it. &lt;br&gt;Enchanted creature gets +1/+1 and doesn&apos;t untap during its controller&apos;s untap step.  &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, that player may pay {1}{B}. If he or she does, untap that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2445</id>
+      <name>Demonic Consultation</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Name a card. Remove the top six cards of your library from the game, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and remove all other cards revealed this way from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2446</id>
+      <name>Dread Wight</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At end of combat, put a paralyzation counter on all creatures blocking or blocked by Dread Wight and tap those creatures. They gain &quot;If this creature has a paralyzation counter on it, it doesn&apos;t untap during its controller&apos;s untap step&quot; and &quot;{4}: Remove a paralyzation counter from this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2447</id>
+      <name>Drift of the Dead</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Wall</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Drift of the Dead&apos;s power and toughness are each equal to the number of snow lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2449</id>
+      <name>Flow of Maggots</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Flow of Maggots can&apos;t be blocked by non-Wall creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2450</id>
+      <name>Foul Familiar</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Foul Familiar can&apos;t block. &lt;br&gt;{B}, Pay 1 life: Return Foul Familiar to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2451</id>
+      <name>Gangrenous Zombies</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2452</id>
+      <name>Gaze of Pain</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, whenever a creature you control attacks and isn&apos;t blocked, you may choose to have it deal damage equal to its power to a target creature. If you do, it deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2453</id>
+      <name>Gravebind</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature can&apos;t be regenerated this turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2455</id>
+      <name>Hoar Shade</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Shade</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Hoar Shade gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2457</id>
+      <name>Hyalopterous Lemure</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{0}: Hyalopterous Lemure gets -1/-0 and gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2458</id>
+      <name>Icequake</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2459</id>
+      <name>Infernal Darkness</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep-Pay {B} and 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;If a land is tapped for mana, it produces {B} instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2460</id>
+      <name>Infernal Denizen</name>
+      <cost>{7}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>7</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice two Swamps. If you can&apos;t, tap Infernal Denizen, and an opponent may gain control of a creature you control of his or her choice. That opponent retains control of that creature as long as Infernal Denizen remains in play. &lt;br&gt;{T}: Gain control of target creature as long as Infernal Denizen remains in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2463</id>
+      <name>Krovikan Elementalist</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{R}: Target creature gets +1/+0 until end of turn. &lt;br&gt;{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2465</id>
+      <name>Krovikan Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, if a creature dealt damage by Krovikan Vampire this turn was put into a graveyard, put that card into play under your control. Sacrifice the creature when you lose control of Krovikan Vampire.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2466</id>
+      <name>Legions of Lim-Dul</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Snow swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2468</id>
+      <name>Leshrac&apos;s Sigil</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a green spell, you may pay {B}{B}. If you do, look at that player&apos;s hand and choose a card from it. The player discards that card. &lt;br&gt; &lt;br&gt;{B}{B}: Return Leshrac&apos;s Sigil to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2469</id>
+      <name>Lim-Dul&apos;s Cohort</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Lim-Dul&apos;s Cohort blocks or becomes blocked by a creature, that creature can&apos;t be regenerated this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2470</id>
+      <name>Lim-Dul&apos;s Hex</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, for each player, Lim-Dul&apos;s Hex deals 1 damage to that player unless he or she pays {B} or {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2473</id>
+      <name>Mind Whip</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, that player may pay {3}. If he or she doesn&apos;t, Mind Whip deals 2 damage to that player and you tap that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2474</id>
+      <name>Minion of Leshrac</name>
+      <cost>{4}{B}{B}{B}</cost>
+      <type>Creature - Demon Minion</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from black &lt;br&gt;At the beginning of your upkeep, sacrifice a creature other than Minion of Leshrac. If you can&apos;t, tap Minion of Leshrac and it deals 5 damage to you. &lt;br&gt;{T}: Destroy target creature or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2475</id>
+      <name>Minion of Tevesh Szat</name>
+      <cost>{4}{B}{B}{B}</cost>
+      <type>Creature - Demon Minion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, Minion of Tevesh Szat deals 2 damage to you unless you pay {B}{B}. &lt;br&gt;{T}: Target creature gets +3/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2477</id>
+      <name>Moor Fiend</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2479</id>
+      <name>Norritt</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Untap target blue creature. &lt;br&gt;{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn&apos;t, destroy it at end of turn. Play this ability only before attackers are declared.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2480</id>
+      <name>Oath of Lim-Dul</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you lose life, sacrifice a permanent other than Oath of Lim-Dul or discard a card for each 1 life you lost. &lt;I&gt;(Damage dealt to you causes you to lose life.)&lt;/I&gt; &lt;br&gt;{B}{B}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2481</id>
+      <name>Pestilence Rats</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>*</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Pestilence Rats&apos;s power is equal to the total number of other Rats in play. &lt;I&gt;(For example, as long as there are two other Rats in play, Pestilence Rats&apos;s power and toughness are 2/3.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2483</id>
+      <name>Seizures</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature&apos;s controller unless that player pays {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2484</id>
+      <name>Songs of the Damned</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Add {B} to your mana pool for each creature card in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2485</id>
+      <name>Soul Burn</name>
+      <cost>{X}{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spend only black and/or red mana on X. &lt;br&gt;Soul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player&apos;s life total before Soul Burn dealt damage, or the creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2486</id>
+      <name>Soul Kiss</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Play this ability no more than three times each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2487</id>
+      <name>Spoils of Evil</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>For each artifact or creature card in an opponent&apos;s graveyard, add {1} to your mana pool and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2488</id>
+      <name>Spoils of War</name>
+      <cost>{X}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>X can&apos;t be more than the number of artifact and/or creature cards in an opponent&apos;s graveyard as you play Spoils of War. &lt;br&gt; &lt;br&gt;Distribute X +1/+1 counters among any number of target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2489</id>
+      <name>Stench of Evil</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all Plains. For each land put into a graveyard this way, Stench of Evil deals 1 damage to that land&apos;s controller unless he or she pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2492</id>
+      <name>Withering Wisps</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of turn, if no creatures are in play, sacrifice Withering Wisps. &lt;br&gt;{B}: Withering Wisps deals 1 damage to each creature and each player. Spend no more {B} this way each turn than the number of snow Swamps you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2493</id>
+      <name>Arnjlot&apos;s Ascent</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cumulative upkeep {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;{1}: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2494</id>
+      <name>Balduvian Conjurer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Until end of turn, target snow land becomes a 2/2 creature that&apos;s still a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2495</id>
+      <name>Balduvian Shaman</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Cleric Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Change the text of target white enchantment you control that doesn&apos;t have cumulative upkeep by replacing all instances of one color word with another. That enchantment gains &quot;Cumulative upkeep {1}.&quot; &lt;I&gt;(For example, you may change &quot;counters black spells&quot; to &quot;counters blue spells.&quot;)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2498</id>
+      <name>Breath of Dreams</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Green creatures have &quot;Cumulative upkeep {1}.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2499</id>
+      <name>Clairvoyance</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at target player&apos;s hand. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2502</id>
+      <name>Dreams of the Dead</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}: Return target white or black creature card from your graveyard to play. That creature gains &quot;Cumulative upkeep {2}.&quot; If the creature would leave play, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2504</id>
+      <name>Errant Minion</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, that player may pay {1} or {2}. Errant Minion deals damage to that player equal to 2 minus the amount of mana paid this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2505</id>
+      <name>Essence Flare</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+0. &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, put a -0/-1 counter on that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2506</id>
+      <name>Force Void</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell unless its controller pays {1}. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2509</id>
+      <name>Iceberg</name>
+      <cost>{X}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Iceberg comes into play with X ice counters on it. &lt;br&gt;{3}: Put an ice counter on Iceberg. &lt;br&gt;Remove an ice counter from Iceberg: Add {1} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2510</id>
+      <name>Icy Prison</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Icy Prison comes into play, remove target creature from the game. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}. &lt;br&gt; &lt;br&gt;When Icy Prison leaves play, return the removed creature to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2511</id>
+      <name>Illusionary Forces</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Cumulative upkeep {U}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2512</id>
+      <name>Illusionary Presence</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2513</id>
+      <name>Illusionary Terrain</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;As Illusionary Terrain comes into play, choose two basic land types. &lt;br&gt;Basic lands of the first chosen type are of the second chosen type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2514</id>
+      <name>Illusionary Wall</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Illusion Wall</type>
+      <power>7</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender, flying, first strike &lt;br&gt;Cumulative upkeep {U}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2515</id>
+      <name>Illusions of Grandeur</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;br&gt;When Illusions of Grandeur comes into play, you gain 20 life. &lt;br&gt;When Illusions of Grandeur leaves play, you lose 20 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2516</id>
+      <name>Infuse</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap target artifact, creature, or land. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2519</id>
+      <name>Mesmeric Trance</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;{U}, Discard a card: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2520</id>
+      <name>Mistfolk</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Counter target spell that targets Mistfolk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2521</id>
+      <name>Musician</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;{T}: Target creature gains &quot;At the beginning of your upkeep, destroy this creature unless you pay {1}.&quot; &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2522</id>
+      <name>Mystic Might</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Cumulative upkeep {1}{U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Enchanted land has &quot;{T}: Target creature gets +2/+2 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2523</id>
+      <name>Mystic Remora</name>
+      <cost>{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;br&gt;Whenever an opponent plays a noncreature spell, you may draw a card unless that player pays {4}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2524</id>
+      <name>Phantasmal Mount</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion Horse</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves play this turn, sacrifice that creature. When the creature leaves play this turn, sacrifice Phantasmal Mount.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2525</id>
+      <name>Polar Kraken</name>
+      <cost>{8}{U}{U}{U}</cost>
+      <type>Creature - Kraken</type>
+      <power>11</power>
+      <toughness>11</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Polar Kraken comes into play tapped. &lt;br&gt;Cumulative upkeep-Sacrifice a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2529</id>
+      <name>Ray of Erasure</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player puts the top card of his or her library into his or her graveyard. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2530</id>
+      <name>Reality Twist</name>
+      <cost>{U}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1}{U}{U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;If tapped for mana, Plains produce {R}, Swamps produce {G}, Mountains produce {W}, and Forests produce {B} instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2532</id>
+      <name>Shyft</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2534</id>
+      <name>Silver Erne</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2536</id>
+      <name>Snow Devil</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has flying. &lt;br&gt;Enchanted creature has first strike as long as it&apos;s blocking and you control a snow land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2537</id>
+      <name>Snowfall</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cumulative upkeep {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Whenever an Island is tapped for mana, its controller may add {U} to his or her mana pool. If that Island is snow, its controller may add {U}{U} to his or her mana pool instead. Spend this mana only to pay for cumulative upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2538</id>
+      <name>Soldevi Machinist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard Artificer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {2} to your mana pool. Spend this mana only to play activated abilities of artifacts.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2540</id>
+      <name>Thunder Wall</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;{U}: Thunder Wall gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2543</id>
+      <name>Winter&apos;s Chill</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Winter&apos;s Chill only during combat before the declare blockers step. &lt;br&gt;X can&apos;t be greater than the number of snow lands you control. &lt;br&gt;Destroy X target attacking creatures at end of combat. For each attacking creature, its controller may pay {1} or {2} to prevent this effect. If that player pays only {1} for that creature, prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2544</id>
+      <name>Word of Undoing</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature and all white Auras you own attached to it to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2547</id>
+      <name>Zuran Enchanter</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{B}, {T}: Target player discards a card. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2548</id>
+      <name>Zuran Spellcaster</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Zuran Spellcaster deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2550</id>
+      <name>Balduvian Bears</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2551</id>
+      <name>Blizzard</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Blizzard only if you control a snow land. &lt;br&gt;Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Creatures with flying don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2552</id>
+      <name>Brown Ouphe</name>
+      <cost>{G}</cost>
+      <type>Creature - Ouphe</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}, {T}: Counter target activated ability from an artifact source. &lt;i&gt;(Mana abilities can&apos;t be targeted.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2554</id>
+      <name>Dire Wolves</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dire Wolves has banding as long as you control a Plains.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2555</id>
+      <name>Earthlore</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Enchanted land has &quot;{T}: Target blocking creature gets +1/+2 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2557</id>
+      <name>Essence Filter</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy all enchantments; or destroy all nonwhite enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2558</id>
+      <name>Fanatical Fever</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +3/+0 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2559</id>
+      <name>Folk of the Pines</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}: Folk of the Pines gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2560</id>
+      <name>Forbidden Lore</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Enchanted land has &quot;{T}: Target creature gets +2/+1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2561</id>
+      <name>Forgotten Lore</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can&apos;t choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2563</id>
+      <name>Freyalise Supplicant</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature&apos;s power, rounded down.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2564</id>
+      <name>Freyalise&apos;s Charm</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a black spell, you may pay {G}{G}. If you do, you draw a card. &lt;br&gt; &lt;br&gt;{G}{G}: Return Freyalise&apos;s Charm to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2565</id>
+      <name>Freyalise&apos;s Winds</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a permanent becomes tapped, put a wind counter on it. That permanent gains &quot;This permanent doesn&apos;t untap during your untap step if it has a wind counter on it&quot; and &quot;At the beginning of your upkeep, remove a wind counter from this permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2568</id>
+      <name>Fyndhorn Elves</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2569</id>
+      <name>Fyndhorn Pollen</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;All creatures get -1/-0. &lt;br&gt;{1}{G}: All creatures get -1/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2571</id>
+      <name>Gorilla Pack</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Gorilla Pack can&apos;t attack unless defending player controls a Forest. &lt;br&gt; &lt;br&gt;When you control no Forests, sacrifice Gorilla Pack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2572</id>
+      <name>Hot Springs</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Enchanted land has &quot;{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2575</id>
+      <name>Juniper Order Druid</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Cleric Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Untap target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2578</id>
+      <name>Maddening Wind</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Cumulative upkeep {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, Maddening Wind deals 2 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2580</id>
+      <name>Pale Bears</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2581</id>
+      <name>Pygmy Allosaurus</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Lizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2582</id>
+      <name>Pyknite</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Ouphe</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Pyknite comes into play, draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2584</id>
+      <name>Rime Dryad</name>
+      <cost>{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Snow forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2585</id>
+      <name>Ritual of Subdual</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;If tapped for mana, lands produce colorless mana instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2588</id>
+      <name>Snowblind</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -X/-Y. If that creature is attacking, X is the number of snow lands defending player controls. Otherwise, X is the number of snow lands its controller controls. Y is equal to X or to enchanted creature&apos;s toughness minus 1, whichever is smaller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2590</id>
+      <name>Stunted Growth</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2592</id>
+      <name>Thermokarst</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land. If that land was a snow land, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2594</id>
+      <name>Tinder Wall</name>
+      <cost>{G}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Sacrifice Tinder Wall: Add {R}{R} to your mana pool. &lt;br&gt;{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it&apos;s blocking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2595</id>
+      <name>Touch of Vitae</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gains haste and &quot;{0}: Untap this creature. Play this ability only once.&quot; until end of turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2596</id>
+      <name>Trailblazer</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2597</id>
+      <name>Venomous Breath</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of combat, destroy all creatures that blocked or were blocked by target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2598</id>
+      <name>Wall of Pine Needles</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{G}: Regenerate Wall of Pine Needles.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2599</id>
+      <name>Whiteout</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All creatures lose flying until end of turn. &lt;br&gt;Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2600</id>
+      <name>Wiitigo</name>
+      <cost>{3}{G}{G}{G}</cost>
+      <type>Creature - Yeti</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wiitigo comes into play with six +1/+1 counters on it. &lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2602</id>
+      <name>Woolly Mammoths</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Woolly Mammoths has trample as long as you control a snow land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2603</id>
+      <name>Woolly Spider</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2604</id>
+      <name>Yavimaya Gnats</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Regenerate Yavimaya Gnats.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2605</id>
+      <name>Aggression</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant non-Wall creature &lt;br&gt;Enchanted creature has first strike and trample. &lt;br&gt;At the end of enchanted creature&apos;s controller&apos;s turn, destroy that creature if it didn&apos;t attack this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2606</id>
+      <name>Anarchy</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all white permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2607</id>
+      <name>Avalanche</name>
+      <cost>{X}{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy X target snow lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2609</id>
+      <name>Balduvian Hydra</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Creature - Hydra</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Balduvian Hydra comes into play with X +1/+0 counters on it. &lt;br&gt;Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn. &lt;br&gt;{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2610</id>
+      <name>Barbarian Guides</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Barbarian</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{R}, {T}: Choose a land type. Target creature you control gains snow landwalk of the chosen type until end of turn. Return that creature to its owner&apos;s hand at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2611</id>
+      <name>Battle Frenzy</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Green creatures you control get +1/+1 until end of turn. &lt;br&gt; &lt;br&gt;Nongreen creatures you control get +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2612</id>
+      <name>Bone Shaman</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Until end of turn, Bone Shaman gains &quot;Creatures dealt damage by Bone Shaman this turn can&apos;t be regenerated this turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2613</id>
+      <name>Brand of Ill Omen</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Cumulative upkeep {R} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Enchanted creature&apos;s controller can&apos;t play creature spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2614</id>
+      <name>Chaos Lord</name>
+      <cost>{4}{R}{R}{R}</cost>
+      <type>Creature - Human</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike, haste &lt;br&gt;At the beginning of each player&apos;s upkeep, if the number of permanents is even, that player gains control of Chaos Lord. &lt;br&gt;When Chaos Lord comes into play, it loses haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2615</id>
+      <name>Chaos Moon</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each upkeep, count the number of permanents. If the number is odd, until end of turn, red creatures get +1/+1 and whenever a player taps a Mountain for mana, that player adds {R} to his or her mana pool. If the number is even, until end of turn, red creatures get -1/-1 and if a player taps a Mountain for mana, that Mountain produces colorless mana instead of any other type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2617</id>
+      <name>Curse of Marit Lage</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Curse of Marit Lage comes into play, tap all Islands. &lt;br&gt; &lt;br&gt;Islands don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2618</id>
+      <name>Dwarven Armory</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Sacrifice a land: Put a +2/+2 counter on target creature. Play this ability only during any upkeep step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2623</id>
+      <name>Glacial Crevasses</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2624</id>
+      <name>Goblin Mutant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Goblin Mutant</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Goblin Mutant can&apos;t attack if defending player controls an untapped creature with power 3 or greater. &lt;br&gt;Goblin Mutant can&apos;t block creatures with power 3 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2625</id>
+      <name>Goblin Sappers</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}{R}, {T}: Target creature you control is unblockable this turn. Destroy it and Goblin Sappers at end of combat. &lt;br&gt;{R}{R}{R}{R}, {T}: Target creature you control is unblockable this turn. Destroy it at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2626</id>
+      <name>Goblin Ski Patrol</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying until end of turn. Destroy it at end of turn. It can&apos;t be regenerated. Play this ability only once and only if you control a snow Mountain.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2627</id>
+      <name>Goblin Snowman</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn. &lt;br&gt;{T}: Goblin Snowman deals 1 damage to target creature it&apos;s blocking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2628</id>
+      <name>Grizzled Wolverine</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Wolverine</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Grizzled Wolverine becomes blocked, you may pay {R}. If you do, Grizzled Wolverine gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2632</id>
+      <name>Karplusan Giant</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2634</id>
+      <name>Lava Burst</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can&apos;t be prevented or dealt instead to another creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2635</id>
+      <name>Marton Stromgald</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Legendary Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Marton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Marton Stromgald. &lt;br&gt;Whenever Marton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Marton Stromgald.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2636</id>
+      <name>Melee</name>
+      <cost>{4}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Melee only during your combat phase before the declare blockers step. &lt;br&gt;Instead of defending player, you choose how each creature blocks this turn. &lt;br&gt;Whenever a creature attacks and isn&apos;t blocked this turn, untap it and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2637</id>
+      <name>Melting</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All lands are no longer snow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2638</id>
+      <name>Meteor Shower</name>
+      <cost>{X}{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Meteor Shower deals X+1 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2640</id>
+      <name>Mudslide</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures without flying don&apos;t untap during their controllers&apos; untap steps. &lt;br&gt;Creatures without flying have &quot;At the beginning of your upkeep, you may pay {2}. If you do, untap this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2641</id>
+      <name>Orcish Cannoneers</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2644</id>
+      <name>Orcish Healer</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Orc Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}{R}, {T}: Target creature can&apos;t be regenerated this turn. &lt;br&gt;{B}{B}{R}, {T}: Regenerate target black or green creature. &lt;br&gt;{R}{G}{G}, {T}: Regenerate target black or green creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2645</id>
+      <name>Orcish Librarian</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}, {T}: Look at the top eight cards of your library. Remove four of them at random from the game, then put the rest on top of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2646</id>
+      <name>Orcish Lumberjack</name>
+      <cost>{R}</cost>
+      <type>Creature - Orc</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2655</id>
+      <name>Stonehands</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2. &lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2656</id>
+      <name>Tor Giant</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2657</id>
+      <name>Total War</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player attacks with one or more creatures, destroy all untapped non-Wall creatures that player controls that didn&apos;t attack, except for creatures the player hasn&apos;t controlled continuously since the beginning of the turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2659</id>
+      <name>Wall of Lava</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{R}: Wall of Lava gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2661</id>
+      <name>Adarkar Unicorn</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Unicorn</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add either {U} or {1}{U} to your mana pool. Spend this mana only for cumulative upkeep abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2662</id>
+      <name>Arctic Foxes</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Fox</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures with power 2 or greater can&apos;t block Arctic Foxes as long as defending player controls a snow land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2665</id>
+      <name>Battle Cry</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Untap all white creatures you control. &lt;br&gt; &lt;br&gt;Whenever a creature blocks this turn, it gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2666</id>
+      <name>Black Scarab</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by black creatures. &lt;br&gt;Enchanted creature gets +2/+2 as long as an opponent controls a black permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2669</id>
+      <name>Blue Scarab</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by blue creatures. &lt;br&gt;Enchanted creature gets +2/+2 as long as an opponent controls a blue permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2670</id>
+      <name>Call to Arms</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Call to Arms comes into play, choose a color and an opponent. &lt;br&gt; &lt;br&gt;White creatures get +1/+1. &lt;br&gt; &lt;br&gt;When the chosen color isn&apos;t the most common color among permanents the chosen opponent controls, sacrifice Call to Arms.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2677</id>
+      <name>Cold Snap</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;At the beginning of each player&apos;s upkeep, Cold Snap deals damage to that player equal to the number of snow lands he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2678</id>
+      <name>Cooperation</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has banding.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2681</id>
+      <name>Drought</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Drought unless you pay {W}{W}. &lt;br&gt; &lt;br&gt;As an additional cost to play spells with {B} in their mana costs and activated abilities with {B} in their activation costs, that spell or ability&apos;s controller sacrifices a Swamp for each {B} in that cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2682</id>
+      <name>Elvish Healer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Elf Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. If that creature is green, prevent the next 2 damage instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2683</id>
+      <name>Enduring Renewal</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play with your hand revealed. &lt;br&gt;If you would draw a card, reveal the top card of your library instead. If it&apos;s a creature card, put it into your graveyard. Otherwise, draw a card. &lt;br&gt;Whenever a creature is put into your graveyard from play, return it to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2684</id>
+      <name>Energy Storm</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Prevent all damage that would be dealt by instant and sorcery spells. &lt;br&gt;Creatures with flying don&apos;t untap during their controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2685</id>
+      <name>Formation</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature gains banding until end of turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2686</id>
+      <name>Fylgja</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Fylgja comes into play with four healing counters on it. &lt;br&gt;Remove a healing counter from Fylgja: Prevent the next 1 damage that would be dealt to enchanted creature this turn. &lt;br&gt;{2}{W}: Put a healing counter on Fylgja.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2687</id>
+      <name>General Jarkeld</name>
+      <cost>{3}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Switch the blocking creatures of two target attacking creatures. Play this ability only during the declare blockers step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2688</id>
+      <name>Green Scarab</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by green creatures. &lt;br&gt;Enchanted creature gets +2/+2 as long as an opponent controls a green permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2689</id>
+      <name>Hallowed Ground</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}{W}: Return target nonsnow land you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2693</id>
+      <name>Kelsinko Ranger</name>
+      <cost>{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}: Target green creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2694</id>
+      <name>Kjeldoran Elite Guard</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. When that creature leaves play this turn, sacrifice Kjeldoran Elite Guard. Play this ability only during combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2695</id>
+      <name>Kjeldoran Guard</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature gets +1/+1 until end of turn. When that creature leaves play this turn, sacrifice Kjeldoran Guard. Play this ability only during combat and only if defending player controls no snow lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2696</id>
+      <name>Kjeldoran Knight</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Banding &lt;br&gt;{1}{W}: Kjeldoran Knight gets +1/+0 until end of turn. &lt;br&gt;{W}{W}: Kjeldoran Knight gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2697</id>
+      <name>Kjeldoran Phalanx</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Banding, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2700</id>
+      <name>Kjeldoran Skyknight</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding, flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2701</id>
+      <name>Kjeldoran Warrior</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2702</id>
+      <name>Lightning Blow</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature gains first strike until end of turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2703</id>
+      <name>Lost Order of Jarkeld</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1+*</power>
+      <toughness>1+*</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Lost Order of Jarkeld comes into play, choose an opponent. &lt;br&gt;Lost Order of Jarkeld&apos;s power and toughness are each equal to 1 plus the number of creatures that opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2704</id>
+      <name>Mercenaries</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Mercenary</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}: Prevent all damage that would be dealt to you this turn by this creature. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2708</id>
+      <name>Rally</name>
+      <cost>{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Blocking creatures get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2709</id>
+      <name>Red Scarab</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by red creatures. &lt;br&gt;Enchanted creature gets +2/+2 as long as an opponent controls a red permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2713</id>
+      <name>Snow Hound</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Hound</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Return Snow Hound and target blue or green creature you control to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2715</id>
+      <name>Warning</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt by target attacking creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2716</id>
+      <name>White Scarab</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked by white creatures. &lt;br&gt;Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2717</id>
+      <name>Altar of Bone</name>
+      <cost>{G}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Altar of Bone, sacrifice a creature. &lt;br&gt; &lt;br&gt;Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2719</id>
+      <name>Chromatic Armor</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As Chromatic Armor comes into play, choose a color. &lt;br&gt;Chromatic Armor comes into play with a sleight counter on it. &lt;br&gt;Prevent all damage that would be dealt to enchanted creature by a source of the last chosen color. &lt;br&gt;{X}: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2721</id>
+      <name>Earthlink</name>
+      <cost>{3}{B}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}. &lt;br&gt; &lt;br&gt;Whenever a creature is put into a graveyard from play, that creature&apos;s controller sacrifices a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2722</id>
+      <name>Elemental Augury</name>
+      <cost>{U}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}: Look at the top three cards of target player&apos;s library and put them back on top of that player&apos;s library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2723</id>
+      <name>Essence Vortex</name>
+      <cost>{1}{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2724</id>
+      <name>Fiery Justice</name>
+      <cost>{R}{G}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2725</id>
+      <name>Fire Covenant</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Fire Covenant, pay X life. &lt;br&gt;Fire Covenant deals X damage divided as you choose among any number of target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2726</id>
+      <name>Flooded Woodlands</name>
+      <cost>{2}{U}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Green creatures have &quot;This creature can&apos;t attack unless you sacrifice a land.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2727</id>
+      <name>Fumarole</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Fumarole, pay 3 life. &lt;br&gt; &lt;br&gt;Destroy target creature and target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2728</id>
+      <name>Ghostly Flame</name>
+      <cost>{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Black and/or red permanents and spells are colorless sources of damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2729</id>
+      <name>Giant Trap Door Spider</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{R}{G}, {T}: Remove from the game Giant Trap Door Spider and target creature without flying that&apos;s attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2730</id>
+      <name>Glaciers</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Glaciers unless you pay {W}{U}. &lt;br&gt; &lt;br&gt;All Mountains are Plains.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2731</id>
+      <name>Hymn of Rebirth</name>
+      <cost>{3}{G}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target creature card in a graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2732</id>
+      <name>Kjeldoran Frostbeast</name>
+      <cost>{3}{G}{W}</cost>
+      <type>Creature - Elemental Beast</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Kjeldoran Frostbeast blocks or becomes blocked by a creature, destroy that creature at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2733</id>
+      <name>Merieke Ri Berit</name>
+      <cost>{W}{U}{B}</cost>
+      <type>Legendary Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Merieke Ri Berit doesn&apos;t untap during your untap step. &lt;br&gt;{T}: Gain control of target creature as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves play or becomes untapped, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2734</id>
+      <name>Monsoon</name>
+      <cost>{2}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each player&apos;s turn, tap all untapped Islands that player controls and Monsoon deals X damage to the player, where X is the number of Islands tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2735</id>
+      <name>Mountain Titan</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{R}{R}: Until end of turn, whenever you play a black spell, put a +1/+1 counter on Mountain Titan.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2736</id>
+      <name>Reclamation</name>
+      <cost>{2}{G}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Black creatures have &quot;This creature can&apos;t attack unless you sacrifice a land.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2737</id>
+      <name>Skeleton Ship</name>
+      <cost>{3}{U}{B}</cost>
+      <type>Legendary Creature - Skeleton</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When you control no Islands, sacrifice Skeleton Ship. &lt;br&gt;{T}: Put a -1/-1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2738</id>
+      <name>Spectral Shield</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2 and can&apos;t be the target of spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2739</id>
+      <name>Storm Spirit</name>
+      <cost>{3}{G}{W}{U}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Storm Spirit deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2740</id>
+      <name>Stormbind</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Discard a card at random: Stormbind deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2741</id>
+      <name>Wings of Aesthir</name>
+      <cost>{W}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+0 and has flying and first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2751</id>
+      <name>Brushland</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2752</id>
+      <name>Glacial Chasm</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cumulative upkeep-Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;If Glacial Chasm would come into play, sacrifice a land instead. If you do, put Glacial Chasm into play. If you don&apos;t, put it into its owner&apos;s graveyard. &lt;br&gt;Skip your combat phase. &lt;br&gt;Prevent all damage that would be dealt to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2753</id>
+      <name>Halls of Mist</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt; &lt;br&gt;Creatures that attacked during their controller&apos;s last turn can&apos;t attack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2755</id>
+      <name>Karplusan Forest</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2756</id>
+      <name>Land Cap</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Land Cap doesn&apos;t untap during your untap step if it has a depletion counter on it. &lt;br&gt;At the beginning of your upkeep, remove a depletion counter from Land Cap. &lt;br&gt;{T}: Add {W} or {U} to your mana pool. Put a depletion counter on Land Cap.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2757</id>
+      <name>Lava Tubes</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lava Tubes doesn&apos;t untap during your untap step if it has a depletion counter on it. &lt;br&gt;At the beginning of your upkeep, remove a depletion counter from Lava Tubes. &lt;br&gt;{T}: Add {B} or {R} to your mana pool. Put a depletion counter on Lava Tubes.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2758</id>
+      <name>River Delta</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>River Delta doesn&apos;t untap during your untap step if it has a depletion counter on it. &lt;br&gt;At the beginning of your upkeep, remove a depletion counter from River Delta. &lt;br&gt;{T}: Add {U} or {B} to your mana pool. Put a depletion counter on River Delta.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2759</id>
+      <name>Sulfurous Springs</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2760</id>
+      <name>Timberline Ridge</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Timberline Ridge doesn&apos;t untap during your untap step if it has a depletion counter on it. &lt;br&gt;At the beginning of your upkeep, remove a depletion counter from Timberline Ridge. &lt;br&gt;{T}: Add {R} or {G} to your mana pool. Put a depletion counter on Timberline Ridge.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2762</id>
+      <name>Veldt</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Veldt doesn&apos;t untap during your untap step if it has a depletion counter on it. &lt;br&gt;At the beginning of your upkeep, remove a depletion counter from Veldt. &lt;br&gt;{T}: Add {G} or {W} to your mana pool. Put a depletion counter on Veldt.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2770</id>
+      <name>Snow-Covered Island</name>
+      <cost></cost>
+      <type>Basic Snow Land - Island</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Land</rarity>
+      <oracleText>[U]</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2774</id>
+      <name>Snow-Covered Plains</name>
+      <cost></cost>
+      <type>Basic Snow Land - Plains</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Land</rarity>
+      <oracleText>[W]</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

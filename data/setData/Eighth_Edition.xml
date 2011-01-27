@@ -1,0 +1,2191 @@
+<cards>
+  <name>Eighth_Edition</name>
+  <key>Eighth_Edition</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>45172</id>
+      <name>Angelic Page</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Angel Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45173</id>
+      <name>Glory Seeker</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45174</id>
+      <name>Standing Troops</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45176</id>
+      <name>Diving Griffin</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45177</id>
+      <name>Aven Cloudchaser</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.) &lt;/i&gt; &lt;br&gt;When Aven Cloudchaser comes into play, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45178</id>
+      <name>Razorfoot Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45184</id>
+      <name>Redeem</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all damage that would be dealt this turn to up to two target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45187</id>
+      <name>Sacred Nectar</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45188</id>
+      <name>Solidarity</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +0/+5 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45190</id>
+      <name>Sword Dancer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}{W}: Target attacking creature gets -1/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45193</id>
+      <name>Seasoned Marshal</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Seasoned Marshal attacks, you may tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45197</id>
+      <name>Sanctimony</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent taps a Mountain for mana, you may gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45198</id>
+      <name>Rain of Blades</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rain of Blades deals 1 damage to each attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45199</id>
+      <name>Elite Javelineer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Elite Javelineer blocks, it deals 1 damage to target attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45201</id>
+      <name>Peach Garden Oath</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 2 life for each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45207</id>
+      <name>Savannah Lions</name>
+      <cost>{W}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45208</id>
+      <name>Intrepid Hero</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target creature with power 4 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45209</id>
+      <name>Sunweb</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;Sunweb can&apos;t block creatures with power 2 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45210</id>
+      <name>Oracle&apos;s Attendants</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: All damage that would be dealt to target creature this turn by a source of your choice is dealt to Oracle&apos;s Attendants instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45211</id>
+      <name>Blinding Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt; &lt;br&gt;Whenever Blinding Angel deals combat damage to a player, that player skips his or her next combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45213</id>
+      <name>Master Healer</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45216</id>
+      <name>Blessed Reversal</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You gain 3 life for each creature attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45217</id>
+      <name>Rolling Stones</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wall creatures can attack as though they didn&apos;t have defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45220</id>
+      <name>Story Circle</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Story Circle comes into play, choose a color. &lt;br&gt;{W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45222</id>
+      <name>Wrath of God</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45223</id>
+      <name>Ivory Mask</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You have shroud. &lt;i&gt;(You can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45224</id>
+      <name>Noble Purpose</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control deals combat damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45225</id>
+      <name>Fugitive Wizard</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45226</id>
+      <name>Sage Owl</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;When Sage Owl comes into play, look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45228</id>
+      <name>Sneaky Homunculus</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Homunculus Illusion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sneaky Homunculus can&apos;t block or be blocked by creatures with power 2 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45229</id>
+      <name>Horned Turtle</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Turtle</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45231</id>
+      <name>Merchant of Secrets</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Merchant of Secrets comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45233</id>
+      <name>Coastal Hornclaw</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a land: Coastal Hornclaw gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45234</id>
+      <name>Sea Monster</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sea Monster can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45237</id>
+      <name>Invisibility</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked except by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45238</id>
+      <name>Flash Counter</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target instant spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45240</id>
+      <name>Curiosity</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45242</id>
+      <name>Mana Leak</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {3}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45244</id>
+      <name>Dehydration</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45245</id>
+      <name>Catalog</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw two cards, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45253</id>
+      <name>Fighting Drake</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45254</id>
+      <name>Wrath of Marit Lage</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Wrath of Marit Lage comes into play, tap all red creatures.&lt;br&gt;Red creatures don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45257</id>
+      <name>Shifting Sky</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Shifting Sky comes into play, choose a color.&lt;br&gt;All nonland permanents are the chosen color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45258</id>
+      <name>Intruder Alarm</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures don&apos;t untap during their controllers&apos; untap steps.&lt;br&gt;Whenever a creature comes into play, untap all creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45260</id>
+      <name>Treasure Trove</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}{U}{U}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45262</id>
+      <name>Concentrate</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45264</id>
+      <name>Rewind</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell, then untap up to four lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45265</id>
+      <name>Fleeting Image</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt; &lt;br&gt;{1}{U}: Return Fleeting Image to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45266</id>
+      <name>Temporal Adept</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{U}{U}{U}, {T}: Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45267</id>
+      <name>Daring Apprentice</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice Daring Apprentice: Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45269</id>
+      <name>Sage of Lat-Nam</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Artificer</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice an artifact: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45271</id>
+      <name>Tidal Kraken</name>
+      <cost>{5}{U}{U}{U}</cost>
+      <type>Creature - Kraken</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tidal Kraken is unblockable.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45272</id>
+      <name>Trade Routes</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: Return target land you control to its owner&apos;s hand. &lt;br&gt;{1}, Discard a land card: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45273</id>
+      <name>Confiscate</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant permanent &lt;i&gt;(Target a permanent as you play this. This card comes into play attached to that permanent.)&lt;/i&gt; &lt;br&gt;You control enchanted permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45274</id>
+      <name>Mind Bend</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. &lt;i&gt;(For example, you may change &quot;nonblack creature&quot; to &quot;nongreen creature&quot; or &quot;forestwalk&quot; to &quot;islandwalk.&quot; This effect doesn&apos;t end at end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45275</id>
+      <name>Merchant Scroll</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45276</id>
+      <name>Balance of Power</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If target opponent has more cards in hand than you, draw cards equal to the difference.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45279</id>
+      <name>Bribery</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target opponent&apos;s library for a creature card and put that card into play under your control. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45283</id>
+      <name>Maggot Carrier</name>
+      <cost>{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Maggot Carrier comes into play, each player loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45285</id>
+      <name>Deepwood Ghoul</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Pay 2 life: Regenerate Deepwood Ghoul.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45286</id>
+      <name>Ravenous Rats</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ravenous Rats comes into play, target opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45288</id>
+      <name>Dusk Imp</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45290</id>
+      <name>Severed Legion</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fear &lt;i&gt;(This creature can&apos;t be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45296</id>
+      <name>Unholy Strength</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature gets +2/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45297</id>
+      <name>Coercion</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. Choose a card from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45298</id>
+      <name>Nausea</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45300</id>
+      <name>Vicious Hunger</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vicious Hunger deals 2 damage to target creature and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45304</id>
+      <name>Mind Slash</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, Sacrifice a creature: Target opponent reveals his or her hand. Choose a card from it. That player discards that card. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45305</id>
+      <name>Swarm of Rats</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>*</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swarm of Rats&apos;s power is equal to the number of Rats you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45306</id>
+      <name>Carrion Wall</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Wall</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{1}{B}: Regenerate Carrion Wall.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45310</id>
+      <name>Nekrataal</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt; &lt;br&gt;When Nekrataal comes into play, destroy target nonartifact, nonblack creature. That creature can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45312</id>
+      <name>Primeval Shambler</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Horror Mercenary</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Primeval Shambler gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45313</id>
+      <name>Ambition&apos;s Cost</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You draw three cards and you lose 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45314</id>
+      <name>Slay</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target green creature. It can&apos;t be regenerated. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45317</id>
+      <name>Sever Soul</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. It can&apos;t be regenerated. You gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45318</id>
+      <name>Zombify</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45320</id>
+      <name>Mind Sludge</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards a card for each Swamp you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45323</id>
+      <name>Royal Assassin</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target tapped creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45325</id>
+      <name>Eastern Paladin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}{B}, {T}: Destroy target green creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45326</id>
+      <name>Western Paladin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}{B}, {T}: Destroy target white creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45327</id>
+      <name>Phyrexian Plaguelord</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Carrier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn.&lt;br&gt;Sacrifice a creature: Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45328</id>
+      <name>Vampiric Spirit</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Vampiric Spirit comes into play, you lose 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45329</id>
+      <name>Death Pits of Rath</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature is dealt damage, destroy it. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45330</id>
+      <name>Fallen Angel</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45332</id>
+      <name>Larceny</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control deals combat damage to a player, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45333</id>
+      <name>Warped Devotion</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a permanent is returned to a player&apos;s hand, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45335</id>
+      <name>Murderous Betrayal</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}{B}, Pay half your life rounded up: Destroy target nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45338</id>
+      <name>Death Pit Offering</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Death Pit Offering comes into play, sacrifice all creatures you control.&lt;br&gt;Creatures you control get +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45339</id>
+      <name>Phyrexian Arena</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you draw a card and you lose 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45341</id>
+      <name>Cinder Wall</name>
+      <cost>{R}</cost>
+      <type>Creature - Wall</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45346</id>
+      <name>Ridgeline Rager</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Ridgeline Rager gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45347</id>
+      <name>Sabretooth Tiger</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45350</id>
+      <name>Shock Troops</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Shock Troops: Shock Troops deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45351</id>
+      <name>Orcish Spy</name>
+      <cost>{R}</cost>
+      <type>Creature - Orc Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Look at the top three cards of target player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45353</id>
+      <name>Canyon Wildcat</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45357</id>
+      <name>Enrage</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +X/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45358</id>
+      <name>Sizzle</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sizzle deals 3 damage to each opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45359</id>
+      <name>Panic Attack</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Up to three target creatures can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45361</id>
+      <name>Lightning Blast</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lightning Blast deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45365</id>
+      <name>Viashino Sandstalker</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Viashino Warrior</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;i&gt;(This creature can attack the turn it comes under your control.)&lt;/i&gt; &lt;br&gt;At end of turn, return Viashino Sandstalker to its owner&apos;s hand. &lt;i&gt;(Return it only if it&apos;s in play.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45366</id>
+      <name>Orcish Artillery</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45368</id>
+      <name>Wall of Stone</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>8</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45369</id>
+      <name>Ogre Taskmaster</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Ogre Taskmaster can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45370</id>
+      <name>Lesser Gargadon</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Lesser Gargadon attacks or blocks, sacrifice a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45371</id>
+      <name>Hulking Cyclops</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Cyclops</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Hulking Cyclops can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45378</id>
+      <name>Pyrotechnics</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45381</id>
+      <name>Mogg Sentry</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a spell, Mogg Sentry gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45383</id>
+      <name>Lava Hounds</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Hound</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;When Lava Hounds comes into play, it deals 4 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45387</id>
+      <name>Bloodshot Cyclops</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Cyclops Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature&apos;s power to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45389</id>
+      <name>Two-Headed Dragon</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn. &lt;br&gt;Two-Headed Dragon can&apos;t be blocked except by two or more creatures. &lt;br&gt;Two-Headed Dragon can block an additional creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45392</id>
+      <name>Seismic Assault</name>
+      <cost>{R}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Discard a land card: Seismic Assault deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45393</id>
+      <name>Relentless Assault</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45395</id>
+      <name>Thieves&apos; Auction</name>
+      <cost>{4}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Set aside all nontoken permanents. Starting with you, each player chooses one of the cards set aside and puts it into play tapped under his or her control. Repeat this process until all those cards have been chosen.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45396</id>
+      <name>Obliterate</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Obliterate can&apos;t be countered.&lt;br&gt;Destroy all artifacts, creatures, and lands. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45397</id>
+      <name>Searing Wind</name>
+      <cost>{8}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Searing Wind deals 10 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45399</id>
+      <name>Vine Trellis</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{T}: Add {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45400</id>
+      <name>Wood Elves</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Wood Elves comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45403</id>
+      <name>Rushwood Dryad</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Forest.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45404</id>
+      <name>Horned Troll</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Troll</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}: Regenerate Horned Troll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45407</id>
+      <name>Nantuko Disciple</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Insect Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45411</id>
+      <name>Moss Monster</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45413</id>
+      <name>Elvish Pioneer</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Elvish Pioneer comes into play, you may put a basic land card from your hand into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45414</id>
+      <name>Giant Growth</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45416</id>
+      <name>Fertile Ground</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45422</id>
+      <name>Elvish Scrapper</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45424</id>
+      <name>Foratog</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Atog</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45425</id>
+      <name>Giant Badger</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Badger</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Giant Badger blocks, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45427</id>
+      <name>Spitting Spider</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45429</id>
+      <name>Llanowar Behemoth</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45430</id>
+      <name>Living Terrain</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land is a 5/6 green Treefolk creature that&apos;s still a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45431</id>
+      <name>Choke</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islands don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45432</id>
+      <name>Spreading Algae</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant Swamp &lt;br&gt;When enchanted land becomes tapped, destroy it. &lt;br&gt;When Spreading Algae is put into a graveyard from play, return Spreading Algae to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45433</id>
+      <name>Revive</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target green card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45437</id>
+      <name>Lure</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;All creatures able to block enchanted creature do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45439</id>
+      <name>Birds of Paradise</name>
+      <cost>{G}</cost>
+      <type>Creature - Bird</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45444</id>
+      <name>Elvish Piper</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}, {T}: You may put a creature card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45449</id>
+      <name>Natural Affinity</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, all lands become 2/2 creatures that are still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45450</id>
+      <name>Plow Under</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put two target lands on top of their owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45451</id>
+      <name>Fecundity</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature is put into a graveyard from play, that creature&apos;s controller may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45453</id>
+      <name>Primeval Force</name>
+      <cost>{2}{G}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Primeval Force comes into play, sacrifice it unless you sacrifice three Forests.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45456</id>
+      <name>Collective Unconscious</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw a card for each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45463</id>
+      <name>Star Compass</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Star Compass comes into play tapped.&lt;br&gt;{T}: Add to your mana pool one mana of any color a basic land you control could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45464</id>
+      <name>Urza&apos;s Mine</name>
+      <cost></cost>
+      <type>Land - Urza&apos;s Mine</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza&apos;s Power-Plant and an Urza&apos;s Tower, add {2} to your mana pool instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45465</id>
+      <name>Patagia Golem</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}: Patagia Golem gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45467</id>
+      <name>Fodder Cannon</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45468</id>
+      <name>Urza&apos;s Tower</name>
+      <cost></cost>
+      <type>Land - Urza&apos;s Tower</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza&apos;s Mine and an Urza&apos;s Power-Plant, add {3} to your mana pool instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45471</id>
+      <name>Phyrexian Hulk</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45472</id>
+      <name>Brass Herald</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Brass Herald comes into play, choose a creature type. &lt;br&gt;When Brass Herald comes into play, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order. &lt;br&gt;Creatures of the chosen type get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45473</id>
+      <name>Distorting Lens</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target permanent becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45477</id>
+      <name>Skull of Orm</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}: Return target enchantment card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45478</id>
+      <name>Ensnaring Bridge</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with power greater than the number of cards in your hand can&apos;t attack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45479</id>
+      <name>Vexing Arcanix</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it&apos;s the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45484</id>
+      <name>Urza&apos;s Armor</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a source would deal damage to you, prevent 1 of that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45486</id>
+      <name>Planar Portal</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{6}, {T}: Search your library for a card and put that card into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>45495</id>
+      <name>Elfhame Palace</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Elfhame Palace comes into play tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46616</id>
+      <name>Wall of Spears</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46617</id>
+      <name>Avatar of Hope</name>
+      <cost>{6}{W}{W}</cost>
+      <type>Creature - Avatar</type>
+      <power>4</power>
+      <toughness>9</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you have 3 life or less, Avatar of Hope costs {6} less to play. &lt;br&gt;Flying &lt;br&gt;Avatar of Hope can block any number of creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46618</id>
+      <name>Coastal Piracy</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control deals combat damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>46622</id>
+      <name>Lhurgoyf</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Lhurgoyf</type>
+      <power>*</power>
+      <toughness>1+*</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lhurgoyf&apos;s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>47282</id>
+      <name>Gluttonous Zombie</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fear &lt;i&gt;(This creature can&apos;t be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>47784</id>
+      <name>Eager Cadet</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>47786</id>
+      <name>Sea Eagle</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>47787</id>
+      <name>Enormous Baloth</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>47788</id>
+      <name>Vengeance</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target tapped creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>49011</id>
+      <name>Karma</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>49038</id>
+      <name>Rhox</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Rhino Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may have Rhox assign its combat damage as though it weren&apos;t blocked. &lt;br&gt;{2}{G}: Regenerate Rhox. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>49039</id>
+      <name>Hammer of Bogardan</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hammer of Bogardan deals 3 damage to target creature or player. &lt;br&gt;{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>49056</id>
+      <name>Silverback Ape</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Eighth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

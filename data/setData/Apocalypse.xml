@@ -1,0 +1,1671 @@
+<cards>
+  <name>Apocalypse</name>
+  <key>Apocalypse</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>19117</id>
+      <name>Flowstone Charger</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19132</id>
+      <name>Yavimaya&apos;s Embrace</name>
+      <cost>{5}{G}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;You control enchanted creature. &lt;br&gt;Enchanted creature gets +2/+2 and has trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19135</id>
+      <name>Vindicate</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>19163</id>
+      <name>Consume Strength</name>
+      <cost>{1}{B}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21253</id>
+      <name>Angelfire Crusader</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier Knight</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Angelfire Crusader gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23056</id>
+      <name>Wild Research</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library. &lt;br&gt;{1}{U}: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23198</id>
+      <name>Powerstone Minefield</name>
+      <cost>{2}{R}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23246</id>
+      <name>Caves of Koilos</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23248</id>
+      <name>Llanowar Wastes</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>23249</id>
+      <name>Yavimaya Coast</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25816</id>
+      <name>Overgrown Estate</name>
+      <cost>{B}{G}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a land: You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25825</id>
+      <name>Martyrs&apos; Tomb</name>
+      <cost>{2}{W}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25828</id>
+      <name>Captain&apos;s Maneuver</name>
+      <cost>{X}{R}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25832</id>
+      <name>Temporal Spring</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put target permanent on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25833</id>
+      <name>Death Mutation</name>
+      <cost>{6}{B}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. It can&apos;t be regenerated. Put X 1/1 green Saproling creature tokens into play, where X is its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25852</id>
+      <name>Dega Disciple</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, {T}: Target creature gets -2/-0 until end of turn. &lt;br&gt;{R}, {T}: Target creature gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25853</id>
+      <name>Ceta Disciple</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, {T}: Target creature gets +2/+0 until end of turn. &lt;br&gt;{G}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25854</id>
+      <name>Necra Disciple</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}: Add one mana of any color to your mana pool. &lt;br&gt;{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25855</id>
+      <name>Raka Disciple</name>
+      <cost>{R}</cost>
+      <type>Creature - Minotaur Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt;{U}, {T}: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25856</id>
+      <name>Ana Disciple</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, {T}: Target creature gains flying until end of turn. &lt;br&gt;{B}, {T}: Target creature gets -2/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25859</id>
+      <name>Planar Despair</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures get -1/-1 until end of turn for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25910</id>
+      <name>Haunted Angel</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Haunted Angel is put into a graveyard from play, remove Haunted Angel from the game and each other player puts a 3/3 black Angel creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25947</id>
+      <name>Degavolver</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Volver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{B} and/or {R} &lt;br&gt;If the {1}{B} kicker cost was paid, Degavolver comes into play with two +1/+1 counters on it and with &quot;Pay 3 life: Regenerate Degavolver.&quot; &lt;br&gt;If the {R} kicker cost was paid, Degavolver comes into play with a +1/+1 counter on it and with first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25948</id>
+      <name>Cetavolver</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Volver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{R} and/or {G} &lt;br&gt;If the {1}{R} kicker cost was paid, Cetavolver comes into play with two +1/+1 counters on it and with first strike. &lt;br&gt;If the {G} kicker cost was paid, Cetavolver comes into play with a +1/+1 counter on it and with trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25949</id>
+      <name>Necravolver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Volver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{G} and/or {W} &lt;br&gt;If the {1}{G} kicker cost was paid, Necravolver comes into play with two +1/+1 counters on it and with trample. &lt;br&gt;If the {W} kicker cost was paid, Necravolver comes into play with a +1/+1 counter on it and with lifelink. &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25950</id>
+      <name>Rakavolver</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Volver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{W} and/or {U} &lt;br&gt;If the {1}{W} kicker cost was paid, Rakavolver comes into play with two +1/+1 counters on it and with lifelink. &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt; &lt;br&gt;If the {U} kicker cost was paid, Rakavolver comes into play with a +1/+1 counter on it and with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25951</id>
+      <name>Anavolver</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Volver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {1}{U} and/or {B} &lt;br&gt;If the {1}{U} kicker cost was paid, Anavolver comes into play with two +1/+1 counters on it and with flying. &lt;br&gt;If the {B} kicker cost was paid, Anavolver comes into play with a +1/+1 counter on it and with &quot;Pay 3 life: Regenerate Anavolver.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25953</id>
+      <name>Pernicious Deed</name>
+      <cost>{1}{B}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25956</id>
+      <name>Penumbra Kavu</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Penumbra Kavu is put into a graveyard from play, put a 3/3 black Kavu creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25971</id>
+      <name>Savage Gorilla</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26259</id>
+      <name>Desolation Angel</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {W}{W} &lt;I&gt;(You may pay an additional &lt;/I&gt;{W}{W}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Flying &lt;br&gt; &lt;br&gt;When Desolation Angel comes into play, destroy all lands you control. If the kicker cost was paid, destroy all lands instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26261</id>
+      <name>Evasive Action</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell unless its controller pays {1} for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26264</id>
+      <name>Emblazoned Golem</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {X} &lt;I&gt;(You may pay an additional &lt;/I&gt;{X}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Spend only colored mana on X. No more than one mana of each color may be spent this way. &lt;br&gt;If the kicker cost was paid, Emblazoned Golem comes into play with X +1/+1 counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26371</id>
+      <name>Coalition Honor Guard</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Flagbearer</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer in play but doesn&apos;t, that opponent changes one of its targets to a Flagbearer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26373</id>
+      <name>Quicksilver Dagger</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: This creature deals 1 damage to target player. You draw a card.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26421</id>
+      <name>Mystic Snake</name>
+      <cost>{1}{G}{U}{U}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Mystic Snake comes into play, counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26447</id>
+      <name>Illuminate</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kicker {2}{R} and/or {3}{U} &lt;I&gt;(You may pay an additional &lt;/I&gt;{2}{R}&lt;I&gt; and/or &lt;/I&gt;{3}{U}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Illuminate deals X damage to target creature. If the {2}{R} kicker cost was paid, Illuminate deals X damage to that creature&apos;s controller. If the {3}{U} kicker cost was paid, you draw X cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26451</id>
+      <name>Ice Cave</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays a spell, any other player may pay that spell&apos;s mana cost. If a player does, counter the spell. &lt;I&gt;(Mana cost includes color.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26663</id>
+      <name>Spectral Lynx</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Cat Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from green &lt;br&gt;{B}: Regenerate Spectral Lynx.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26672</id>
+      <name>Dwarven Patrol</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Dwarven Patrol doesn&apos;t untap during your untap step. &lt;br&gt;Whenever you play a nonred spell, untap Dwarven Patrol.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26673</id>
+      <name>Jaded Response</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell if it shares a color with a creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26717</id>
+      <name>Urborg Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G}, {U}, or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26720</id>
+      <name>Tranquil Path</name>
+      <cost>{4}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy all enchantments. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26733</id>
+      <name>Dodecapod</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>If a spell or ability an opponent controls causes you to discard Dodecapod, put it into play with two +1/+1 counters on it instead of putting it into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26734</id>
+      <name>Dragon Arch</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: You may put a multicolored creature card from your hand into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26743</id>
+      <name>Fungal Shambler</name>
+      <cost>{4}{G}{U}{B}</cost>
+      <type>Creature - Fungus Beast</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26756</id>
+      <name>Razorfin Hunter</name>
+      <cost>{U}{R}</cost>
+      <type>Creature - Merfolk Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Razorfin Hunter deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26757</id>
+      <name>Gaea&apos;s Skyfolk</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Elf Merfolk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26758</id>
+      <name>Putrid Warrior</name>
+      <cost>{W}{B}</cost>
+      <type>Creature - Zombie Soldier Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Putrid Warrior deals damage, choose one - each player loses 1 life; or each player gains 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26759</id>
+      <name>Llanowar Dead</name>
+      <cost>{B}{G}</cost>
+      <type>Creature - Zombie Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26760</id>
+      <name>Goblin Legionnaire</name>
+      <cost>{R}{W}</cost>
+      <type>Creature - Goblin Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player. &lt;br&gt;{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26776</id>
+      <name>Unnatural Selection</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26783</id>
+      <name>Standard Bearer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Flagbearer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer in play but doesn&apos;t, that opponent changes one of its targets to a Flagbearer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26785</id>
+      <name>Squee&apos;s Embrace</name>
+      <cost>{R}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2. &lt;br&gt;When enchanted creature is put into a graveyard, return that card to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26788</id>
+      <name>Manacles of Decay</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack. &lt;br&gt;{B}: Enchanted creature gets -1/-1 until end of turn. &lt;br&gt;{R}: Enchanted creature can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26791</id>
+      <name>Coalition Flag</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature you control &lt;br&gt;Enchanted creature is a Flagbearer. &lt;br&gt;Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer in play but doesn&apos;t, that opponent changes one of its targets to a Flagbearer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26793</id>
+      <name>Gerrard Capashen</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you gain 1 life for each card in target opponent&apos;s hand. &lt;br&gt;{3}{W}: Tap target creature. Play this ability only if Gerrard Capashen is attacking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26795</id>
+      <name>Living Airship</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Metathran</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{2}{G}: Regenerate Living Airship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26797</id>
+      <name>Jilt</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {1}{R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{1}{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Return target creature to its owner&apos;s hand. If the kicker cost was paid, Jilt deals 2 damage to another target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26800</id>
+      <name>Mournful Zombie</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, {T}: Target player gains 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26801</id>
+      <name>Zombie Boa</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Zombie Snake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26802</id>
+      <name>Urborg Uprising</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return up to two target creature cards from your graveyard to your hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26805</id>
+      <name>Tundra Kavu</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes a Plains or an Island until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26806</id>
+      <name>Bloodfire Dwarf</name>
+      <cost>{R}</cost>
+      <type>Creature - Dwarf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26809</id>
+      <name>Kavu Glider</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}: Kavu Glider gets +0/+1 until end of turn. &lt;br&gt;{U}: Kavu Glider gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26810</id>
+      <name>Dwarven Landslide</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker-{2}{R}, Sacrifice a land. &lt;I&gt;(You may pay &lt;/I&gt;{2}{R}&lt;I&gt; and sacrifice a land in addition to any other costs as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Destroy target land. If the kicker cost was paid, destroy another target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26815</id>
+      <name>Penumbra Bobcat</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Penumbra Bobcat is put into a graveyard from play, put a 2/1 black Cat creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26816</id>
+      <name>Lay of the Land</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26822</id>
+      <name>Soul Link</name>
+      <cost>{1}{W}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.  &lt;br&gt;Whenever enchanted creature is dealt damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26830</id>
+      <name>Ana Sanctuary</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you control a blue or black permanent, target creature gets +1/+1 until end of turn. If you control a blue permanent and a black permanent, that creature gets +5/+5 until end of turn instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26831</id>
+      <name>Squee&apos;s Revenge</name>
+      <cost>{1}{U}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26848</id>
+      <name>Dead Ringers</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy two target nonblack creatures unless either one is a color the other isn&apos;t. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26849</id>
+      <name>Minotaur Tactician</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Minotaur</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste &lt;br&gt;Minotaur Tactician gets +1/+1 as long as you control a white creature. &lt;br&gt;Minotaur Tactician gets +1/+1 as long as you control a blue creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26854</id>
+      <name>Helionaut</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26855</id>
+      <name>Vodalian Mystic</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target instant or sorcery spell becomes the color of your choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27136</id>
+      <name>Necra Sanctuary</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you control a green or white permanent, target player loses 1 life. If you control a green permanent and a white permanent, that player loses 3 life instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27137</id>
+      <name>Divine Light</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all damage that would be dealt this turn to creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27153</id>
+      <name>Bog Gnarr</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a player plays a black spell, Bog Gnarr gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27154</id>
+      <name>Glade Gnarr</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a player plays a blue spell, Glade Gnarr gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27156</id>
+      <name>Tahngarth&apos;s Glare</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top three cards of target opponent&apos;s library, then put them back in any order. That player looks at the top three cards of your library, then puts them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27158</id>
+      <name>Reef Shaman</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Shaman</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes the basic land type of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27160</id>
+      <name>Symbiotic Deployment</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skip your draw step. &lt;br&gt; &lt;br&gt;{1}, Tap two untapped creatures you control: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27169</id>
+      <name>Guided Passage</name>
+      <cost>{U}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27171</id>
+      <name>Mind Extraction</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Mind Extraction, sacrifice a creature. &lt;br&gt;Target player reveals his or her hand and discards all cards of each of the sacrificed creature&apos;s colors.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27173</id>
+      <name>Ceta Sanctuary</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you control a red or green permanent, draw a card, then discard a card. If you control a red permanent and a green permanent, instead draw two cards, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27178</id>
+      <name>Dega Sanctuary</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you control a black or red permanent, you gain 2 life. If you control a black permanent and a red permanent, you gain 4 life instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27179</id>
+      <name>Raka Sanctuary</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, if you control a white or blue permanent, Raka Sanctuary deals 1 damage to target creature. If you control a white permanent and a blue permanent, Raka Sanctuary deals 3 damage to that creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27187</id>
+      <name>Prophetic Bolt</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27188</id>
+      <name>Quagmire Druid</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}, Sacrifice a creature: Destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27231</id>
+      <name>Last Stand</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token into play for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27583</id>
+      <name>Suffocating Blast</name>
+      <cost>{1}{U}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell and Suffocating Blast deals 3 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27591</id>
+      <name>Last Caress</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player loses 1 life and you gain 1 life. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27602</id>
+      <name>False Dawn</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27650</id>
+      <name>Lightning Angel</name>
+      <cost>{1}{R}{W}{U}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, vigilance, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27657</id>
+      <name>Enlistment Officer</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;When Enlistment Officer comes into play, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27659</id>
+      <name>Tidal Courier</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Tidal Courier comes into play, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library. &lt;br&gt;{3}{U}: Tidal Courier gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27662</id>
+      <name>Grave Defiler</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Grave Defiler comes into play, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library. &lt;br&gt;{1}{B}: Regenerate Grave Defiler.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27664</id>
+      <name>Goblin Ringleader</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;When Goblin Ringleader comes into play, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27666</id>
+      <name>Sylvan Messenger</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;When Sylvan Messenger comes into play, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27669</id>
+      <name>Penumbra Wurm</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;When Penumbra Wurm is put into a graveyard from play, put a 6/6 black Wurm creature token with trample into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27670</id>
+      <name>Whirlpool Rider</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Whirlpool Rider comes into play, shuffle the cards from your hand into your library, then draw that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27671</id>
+      <name>Whirlpool Drake</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Whirlpool Drake comes into play, shuffle the cards from your hand into your library, then draw that many cards. &lt;br&gt;When Whirlpool Drake is put into a graveyard from play, shuffle the cards from your hand into your library, then draw that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27672</id>
+      <name>Whirlpool Warrior</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Whirlpool Warrior comes into play, shuffle the cards from your hand into your library, then draw that many cards. &lt;br&gt;{R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27674</id>
+      <name>Shield of Duty and Reason</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from green and from blue.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27760</id>
+      <name>Kavu Mauler</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Kavu Mauler attacks, it gets +1/+1 until end of turn for each other attacking Kavu.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28007</id>
+      <name>Strength of Night</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {B} &lt;I&gt;(You may pay an additional &lt;/I&gt;{B}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt;Creatures you control get +1/+1 until end of turn. If the kicker cost was paid, Zombie creatures you control get an additional +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28008</id>
+      <name>Minotaur Illusionist</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Creature - Minotaur Wizard</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}: Minotaur Illusionist gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;{R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28009</id>
+      <name>Spiritmonger</name>
+      <cost>{3}{B}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger. &lt;br&gt;{B}: Regenerate Spiritmonger. &lt;br&gt;{G}: Spiritmonger becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28011</id>
+      <name>Fervent Charge</name>
+      <cost>{1}{W}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control attacks, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28668</id>
+      <name>Gaea&apos;s Balance</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Gaea&apos;s Balance, sacrifice five lands. &lt;br&gt; &lt;br&gt;Search your library for a land card of each basic land type and put them into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28669</id>
+      <name>Æther Mutation</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature to its owner&apos;s hand. Put X 1/1 green Saproling creature tokens into play, where X is its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28670</id>
+      <name>Cromat</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Legendary Creature - Illusion</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{W}{B}: Destroy target creature blocking or blocked by Cromat. &lt;br&gt;{U}{R}: Cromat gains flying until end of turn. &lt;br&gt;{B}{G}: Regenerate Cromat. &lt;br&gt;{R}{W}: Cromat gets +1/+1 until end of turn. &lt;br&gt;{G}{U}: Put Cromat on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28749</id>
+      <name>Suppress</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player removes all cards in his or her hand from the game face down. At the end of that player&apos;s next turn, that player returns those cards to his or her hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28750</id>
+      <name>Kavu Howler</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Kavu Howler comes into play, reveal the top four cards of your library. Put all Kavu cards revealed this way into your hand and the rest on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28751</id>
+      <name>Orim&apos;s Thunder</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kicker {R} &lt;I&gt;(You may pay an additional &lt;/I&gt;{R}&lt;I&gt; as you play this spell.)&lt;/I&gt; &lt;br&gt; &lt;br&gt;Destroy target artifact or enchantment. If the kicker cost was paid, Orim&apos;s Thunder deals damage equal to that artifact or enchantment&apos;s converted mana cost to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28753</id>
+      <name>Shimmering Mirage</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target land becomes the basic land type of your choice until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28754</id>
+      <name>Coastal Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{U}, {T}: Return target Kavu to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28805</id>
+      <name>Foul Presence</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -1/-1 and has &quot;{T}: Target creature gets -1/-1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28806</id>
+      <name>Bloodfire Kavu</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>28810</id>
+      <name>Diversionary Tactics</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap two untapped creatures you control: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29303</id>
+      <name>Bloodfire Infusion</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature you control &lt;br&gt;{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature&apos;s power to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29304</id>
+      <name>Jungle Barrier</name>
+      <cost>{2}{G}{U}</cost>
+      <type>Creature - Plant Wall</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;When Jungle Barrier comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29414</id>
+      <name>Desolation Giant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kicker {W}{W} &lt;i&gt;(You may pay an additional {W}{W} as you play this spell.)&lt;/i&gt; &lt;br&gt;When Desolation Giant comes into play, destroy all other creatures you control. If the kicker cost was paid, destroy all other creatures instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29415</id>
+      <name>Death Grasp</name>
+      <cost>{X}{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Death Grasp deals X damage to target creature or player. You gain X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29416</id>
+      <name>Gerrard&apos;s Verdict</name>
+      <cost>{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards two cards. You gain 3 life for each land card discarded this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29417</id>
+      <name>Goblin Trenches</name>
+      <cost>{1}{R}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29450</id>
+      <name>Ebony Treefolk</name>
+      <cost>{1}{B}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29677</id>
+      <name>Mask of Intolerance</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

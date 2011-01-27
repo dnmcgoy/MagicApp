@@ -1,0 +1,657 @@
+<cards>
+  <name>Revised_Edition</name>
+  <key>Revised_Edition</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>1093</id>
+      <name>Aladdin&apos;s Ring</name>
+      <cost>{8}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{8}, {T}: Aladdin&apos;s Ring deals 4 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1096</id>
+      <name>Basalt Monolith</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Basalt Monolith doesn&apos;t untap during your untap step. &lt;br&gt;{3}: Untap Basalt Monolith. &lt;br&gt;{T}: Add {3} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1099</id>
+      <name>Brass Man</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Brass Man doesn&apos;t untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1100</id>
+      <name>Celestial Prism</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1116</id>
+      <name>Jade Monolith</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1117</id>
+      <name>Jandor&apos;s Ring</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}, Discard the last card you drew this turn: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1118</id>
+      <name>Jandor&apos;s Saddlebags</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1120</id>
+      <name>Juggernaut</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Juggernaut</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Juggernaut attacks each turn if able. &lt;br&gt;Juggernaut can&apos;t be blocked by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1123</id>
+      <name>Living Wall</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{1}: Regenerate Living Wall.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1124</id>
+      <name>Mana Vault</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Mana Vault doesn&apos;t untap during your untap step. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault. &lt;br&gt; &lt;br&gt;At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. &lt;br&gt; &lt;br&gt;{T}: Add {3} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1129</id>
+      <name>Obsianus Golem</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1133</id>
+      <name>Rocket Launcher</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}: Rocket Launcher deals 1 damage to target creature or player. Sacrifice Rocket Launcher at end of turn. Play this ability only if you&apos;ve controlled Rocket Launcher continuously since the most recent beginning of your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1134</id>
+      <name>Rod of Ruin</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1135</id>
+      <name>Sol Ring</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {2} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1139</id>
+      <name>The Rack</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As The Rack comes into play, choose an opponent. &lt;br&gt;At the beginning of the chosen player&apos;s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1151</id>
+      <name>Deathgrip</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}{B}: Counter target green spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1154</id>
+      <name>Demonic Hordes</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target land. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent&apos;s choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1158</id>
+      <name>El-Hajjâj</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1165</id>
+      <name>Hypnotic Specter</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1169</id>
+      <name>Nettling Imp</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn&apos;t, destroy it at end of turn. Play this ability only during an opponent&apos;s turn, before attackers are declared.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1176</id>
+      <name>Sacrifice</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Sacrifice, sacrifice a creature. &lt;br&gt; &lt;br&gt;Add to your mana pool an amount of black mana equal to the sacrificed creature&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1179</id>
+      <name>Sengir Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1181</id>
+      <name>Sorceress Queen</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1187</id>
+      <name>Will-o&apos;-the-Wisp</name>
+      <cost>{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt; &lt;br&gt;{B}: Regenerate Will-o&apos;-the-Wisp. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1192</id>
+      <name>Braingeyser</name>
+      <cost>{X}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player draws X cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1195</id>
+      <name>Copy Artifact</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Copy Artifact comes into play, you may choose an artifact in play. If you do, Copy Artifact comes into play as a copy of that artifact. It&apos;s still an enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1203</id>
+      <name>Island Fish Jasconius</name>
+      <cost>{4}{U}{U}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>6</power>
+      <toughness>8</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Island Fish Jasconius can&apos;t attack unless defending player controls an Island. &lt;br&gt;Jasconius doesn&apos;t untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Jasconius. &lt;br&gt;When you control no Islands, sacrifice Jasconius.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1208</id>
+      <name>Mahamoti Djinn</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1212</id>
+      <name>Phantasmal Terrain</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;As Phantasmal Terrain comes into play, choose a basic land type. &lt;br&gt;Enchanted land is the chosen type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1219</id>
+      <name>Reconstruction</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target artifact card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1221</id>
+      <name>Serendib Efreet</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1231</id>
+      <name>Volcanic Eruption</name>
+      <cost>{X}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1233</id>
+      <name>Wall of Water</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{U}: Wall of Water gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1240</id>
+      <name>Crumble</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact. It can&apos;t be regenerated. That artifact&apos;s controller gains life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1254</id>
+      <name>Kudzu</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land &lt;br&gt;When enchanted land becomes tapped, destroy it. That land&apos;s controller attaches Kudzu to a land of his or her choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1258</id>
+      <name>Living Artifact</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;Whenever you&apos;re dealt damage, put that many vitality counters on Living Artifact. &lt;br&gt;At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1263</id>
+      <name>Regrowth</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1286</id>
+      <name>Dwarven Weaponsmith</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Dwarf Artificer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1287</id>
+      <name>Earth Elemental</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1289</id>
+      <name>Earthquake</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Earthquake deals X damage to each creature without flying and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1297</id>
+      <name>Granite Gargoyle</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Granite Gargoyle gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1302</id>
+      <name>Kird Ape</name>
+      <cost>{R}</cost>
+      <type>Creature - Ape</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kird Ape gets +1/+2 as long as you control a Forest.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1307</id>
+      <name>Mijae Djinn</name>
+      <cost>{R}{R}{R}</cost>
+      <type>Creature - Djinn</type>
+      <power>6</power>
+      <toughness>3</toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1332</id>
+      <name>Blessing</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{W}: Enchanted creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1345</id>
+      <name>Farmstead</name>
+      <cost>{W}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1353</id>
+      <name>Lance</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1360</id>
+      <name>Resurrection</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1362</id>
+      <name>Reverse Polarity</name>
+      <cost>{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1379</id>
+      <name>Savannah</name>
+      <cost></cost>
+      <type>Land - Plains Forest</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>1384</id>
+      <name>Underground Sea</name>
+      <cost></cost>
+      <type>Land - Island Swamp</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Revised Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

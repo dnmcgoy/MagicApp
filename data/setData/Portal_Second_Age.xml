@@ -1,0 +1,1125 @@
+<cards>
+  <name>Portal_Second_Age</name>
+  <key>Portal_Second_Age</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>6491</id>
+      <name>Volunteer Militia</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6492</id>
+      <name>Alaborn Zealot</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6493</id>
+      <name>Alaborn Trooper</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6494</id>
+      <name>Town Sentry</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Town Sentry blocks, it gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6495</id>
+      <name>Temple Acolyte</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Temple Acolyte comes into play, you gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6496</id>
+      <name>Trokin High Guard</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6499</id>
+      <name>Alaborn Musketeer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6502</id>
+      <name>Path of Peace</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature. Its owner gains 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6503</id>
+      <name>Righteous Charge</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6504</id>
+      <name>Festival of Trokin</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 2 life for each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6506</id>
+      <name>Alaborn Cavalier</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Alaborn Cavalier attacks, you may tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6507</id>
+      <name>Temple Elder</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: You gain 1 life. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6508</id>
+      <name>Alaborn Grenadier</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6509</id>
+      <name>Armored Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6510</id>
+      <name>Bargain</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent draws a card. &lt;br&gt;You gain 7 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6511</id>
+      <name>Rally the Troops</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Rally the Troops only during the declare attackers step and only if you are the defending player. &lt;br&gt;Untap all creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6512</id>
+      <name>Warrior&apos;s Stand</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Warrior&apos;s Stand only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Creatures you control get +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6515</id>
+      <name>Angel of Fury</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Angel of Fury is put into your graveyard from play, you may shuffle it into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6516</id>
+      <name>Alaborn Veteran</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6517</id>
+      <name>Steam Catapult</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target tapped creature. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6519</id>
+      <name>Just Fate</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Just Fate only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Destroy target attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6521</id>
+      <name>Talas Scout</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Pirate Scout</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6522</id>
+      <name>Talas Explorer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Pirate Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Talas Explorer comes into play, look at target opponent&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6523</id>
+      <name>Screeching Drake</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Screeching Drake comes into play, draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6524</id>
+      <name>Talas Air Ship</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6525</id>
+      <name>Talas Merchant</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6526</id>
+      <name>Steam Frigate</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Steam Frigate can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6533</id>
+      <name>False Summoning</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6535</id>
+      <name>Apprentice Sorcerer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Apprentice Sorcerer deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6537</id>
+      <name>Armored Galleon</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Pirate</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Armored Galleon can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6538</id>
+      <name>Eye Spy</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Look at the top card of target player&apos;s library. You may put that card into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6539</id>
+      <name>Sea Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Sea Drake comes into play, return two target lands you control to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6541</id>
+      <name>Remove</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Remove only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Return target attacking creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6544</id>
+      <name>Coastal Wizard</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Return Coastal Wizard and another target creature to their owners&apos; hands. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6545</id>
+      <name>Talas Warrior</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Pirate Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Talas Warrior is unblockable.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6547</id>
+      <name>Talas Researcher</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Pirate Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Draw a card. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6548</id>
+      <name>Temporal Manipulation</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6551</id>
+      <name>Muck Rats</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6552</id>
+      <name>Dakmor Scorpion</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Scorpion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6553</id>
+      <name>Dakmor Bat</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6554</id>
+      <name>Moaning Spirit</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6556</id>
+      <name>Prowling Nightstalker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prowling Nightstalker can&apos;t be blocked except by black creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6557</id>
+      <name>Lurking Nightstalker</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6558</id>
+      <name>Raiding Nightstalker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6564</id>
+      <name>Chorus of Woe</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6565</id>
+      <name>Predatory Nightstalker</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Predatory Nightstalker comes into play, you may have target opponent sacrifice a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6566</id>
+      <name>Brutal Nightstalker</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Brutal Nightstalker comes into play, you may have target opponent discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6567</id>
+      <name>Abyssal Nightstalker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Abyssal Nightstalker attacks and isn&apos;t blocked, defending player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6568</id>
+      <name>Foul Spirit</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;When Foul Spirit comes into play, sacrifice a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6569</id>
+      <name>Dark Offering</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6572</id>
+      <name>Kiss of Death</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Kiss of Death deals 4 damage to target opponent. You gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6573</id>
+      <name>Bloodcurdling Scream</name>
+      <cost>{X}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +X/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6577</id>
+      <name>Nightstalker Engine</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>*</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Nightstalker Engine&apos;s power is equal to the number of creature cards in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6578</id>
+      <name>Return of the Nightstalkers</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return all Nightstalker permanent cards from your graveyard to play. Then destroy all Swamps you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6579</id>
+      <name>Ancient Craving</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You draw three cards and you lose 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6580</id>
+      <name>Rain of Daggers</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6586</id>
+      <name>Ogre Berserker</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Ogre Berserker</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6594</id>
+      <name>Goblin War Strike</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Goblin War Strike deals damage equal to the number of Goblins you control to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6595</id>
+      <name>Ogre Arsonist</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Ogre</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Ogre Arsonist comes into play, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6597</id>
+      <name>Ogre Warrior</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6598</id>
+      <name>Goblin Firestarter</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Goblin Firestarter: Goblin Firestarter deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6599</id>
+      <name>Obsidian Giant</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6603</id>
+      <name>Goblin War Cry</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent chooses a creature he or she controls. Other creatures he or she controls can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6604</id>
+      <name>Goblin General</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6605</id>
+      <name>Brimstone Dragon</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6606</id>
+      <name>Cunning Giant</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Cunning Giant is unblocked, you may have it deal its combat damage to any creature the defending player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6611</id>
+      <name>Lynx</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6613</id>
+      <name>Bear Cub</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6615</id>
+      <name>Norwood Riders</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Norwood Riders can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6616</id>
+      <name>Golden Bear</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6617</id>
+      <name>Plated Wurm</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6618</id>
+      <name>Norwood Archers</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Archer</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6620</id>
+      <name>Norwood Warrior</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6622</id>
+      <name>Salvage</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put target card from your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6625</id>
+      <name>Wild Ox</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Ox</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6627</id>
+      <name>Barbtooth Wurm</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6628</id>
+      <name>Ironhoof Ox</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Ox</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Ironhoof Ox can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6629</id>
+      <name>Renewing Touch</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shuffle any number of target creature cards from your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6631</id>
+      <name>Deep Wood</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Deep Wood only during the declare attackers step and only if you are the defending player. &lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6632</id>
+      <name>Harmony of Nature</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6633</id>
+      <name>Bee Sting</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Bee Sting deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6634</id>
+      <name>Norwood Priestess</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: You may put a green creature card from your hand into play. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6635</id>
+      <name>Sylvan Yeti</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Yeti</type>
+      <power>*</power>
+      <toughness>4</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sylvan Yeti&apos;s power is equal to the number of cards in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6637</id>
+      <name>Deathcoil Wurm</name>
+      <cost>{6}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may have Deathcoil Wurm assign its combat damage as though it weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6638</id>
+      <name>Razorclaw Bear</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>6639</id>
+      <name>Alluring Scent</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Second Age</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures able to block target creature this turn do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

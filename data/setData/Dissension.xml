@@ -1,0 +1,2204 @@
+<cards>
+  <name>Dissension</name>
+  <key>Dissension</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>107252</id>
+      <name>Demonfire</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Demonfire deals X damage to target creature or player. If a creature dealt damage this way would be put into a graveyard this turn, remove it from the game instead. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - If you have no cards in hand, Demonfire can&apos;t be countered by spells or abilities and the damage can&apos;t be prevented.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107253</id>
+      <name>Freewind Equenaut</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;As long as Freewind Equenaut is enchanted, it has &quot;{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107254</id>
+      <name>Psychic Possession</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant opponent &lt;br&gt;Skip your draw step. &lt;br&gt;Whenever enchanted opponent draws a card, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107258</id>
+      <name>Cackling Flames</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Cackling Flames deals 3 damage to target creature or player. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Cackling Flames deals 5 damage to that creature or player instead if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107260</id>
+      <name>Mistral Charger</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Pegasus</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107263</id>
+      <name>Sporeback Troll</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Troll Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 2 &lt;i&gt;(This creature comes into play with two +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{1}{G}: Regenerate target creature with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107264</id>
+      <name>Flash Foliage</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Flash Foliage only during combat after blockers are declared. &lt;br&gt;Put a 1/1 green Saproling creature token into play blocking target creature attacking you.  &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107265</id>
+      <name>Court Hussar</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Vedalken Knight</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;When Court Hussar comes into play, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order. &lt;br&gt;When Court Hussar comes into play, sacrifice it unless {W} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107272</id>
+      <name>Haazda Shield Mate</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Haazda Shield Mate unless you pay {W}{W}. &lt;br&gt;{W}: The next time a source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107273</id>
+      <name>Ratcatcher</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Ogre Rogue</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fear &lt;br&gt;At the beginning of your upkeep, you may search your library for a Rat card, reveal it, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107276</id>
+      <name>Utvara Scalper</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Scout</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Utvara Scalper attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107277</id>
+      <name>Biomantic Mastery</name>
+      <cost>{4}{G/U}{G/U}{G/U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({G/U} can be paid with either {G} or {U}.)&lt;/i&gt; &lt;br&gt;Draw a card for each creature target player controls, then draw a card for each creature another target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107279</id>
+      <name>Pillar of the Paruns</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to play a multicolored spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107281</id>
+      <name>Spell Snare</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell with converted mana cost 2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107284</id>
+      <name>Swift Silence</name>
+      <cost>{2}{W}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter all other spells. Draw a card for each spell countered this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107286</id>
+      <name>Plaxmanta</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;br&gt;When Plaxmanta comes into play, creatures you control gain shroud until end of turn. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt; &lt;br&gt;When Plaxmanta comes into play, sacrifice it unless {G} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107293</id>
+      <name>Vigean Hydropon</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Plant Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 5 &lt;i&gt;(This creature comes into play with five +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;Vigean Hydropon can&apos;t attack or block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107300</id>
+      <name>Stormscale Anarch</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Viashino Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{R}, Discard a card at random: Stormscale Anarch deals 2 damage to target creature or player. If the discarded card was multicolored, Stormscale Anarch deals 4 damage to that creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107301</id>
+      <name>Stalking Vengeance</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Avatar</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;Whenever another creature you control is put into a graveyard from play, it deals damage equal to its power to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107303</id>
+      <name>Squealing Devil</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Devil</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fear &lt;br&gt;When Squealing Devil comes into play, you may pay {X}. If you do, target creature gets +X/+0 until end of turn. &lt;br&gt;When Squealing Devil comes into play, sacrifice it unless {B} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107306</id>
+      <name>Bond of Agony</name>
+      <cost>{X}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Bond of Agony, pay X life. &lt;br&gt;Each other player loses X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107307</id>
+      <name>Blessing of the Nephilim</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1 for each of its colors.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107308</id>
+      <name>Infernal Tutor</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107310</id>
+      <name>Carom</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>The next 1 damage that would be dealt to target creature this turn is dealt to another target creature instead. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107312</id>
+      <name>Cytospawn Shambler</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Elemental Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 6 &lt;i&gt;(This creature comes into play with six +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{G}: Target creature with a +1/+1 counter on it gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107313</id>
+      <name>Silkwing Scout</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Faerie Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{G}, Sacrifice Silkwing Scout: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107317</id>
+      <name>Celestial Ancient</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play an enchantment spell, put a +1/+1 counter on each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107320</id>
+      <name>Might of the Nephilim</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn for each of its colors.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107321</id>
+      <name>Vigean Graftmage</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Vedalken Wizard Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Graft 2 &lt;i&gt;(This creature comes into play with two +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{1}{U}: Untap target creature with a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107322</id>
+      <name>Dread Slag</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Creature - Horror</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Dread Slag gets -4/-4 for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107326</id>
+      <name>Skullmead Cauldron</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: You gain 1 life. &lt;br&gt;{T}, Discard a card: You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107327</id>
+      <name>Bronze Bombshell</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When a player other than Bronze Bombshell&apos;s owner controls it, that player sacrifices it. If the player does, Bronze Bombshell deals 7 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107328</id>
+      <name>Ocular Halo</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has &quot;{T}: Draw a card.&quot; &lt;br&gt;{W}: Enchanted creature gains vigilance until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107329</id>
+      <name>Grand Arbiter Augustin IV</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>White spells you play cost {1} less to play. &lt;br&gt;Blue spells you play cost {1} less to play. &lt;br&gt;Spells your opponents play cost {1} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107336</id>
+      <name>Crypt Champion</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Double strike &lt;br&gt;When Crypt Champion comes into play, each player puts a creature card with converted mana cost 3 or less from his or her graveyard into play. &lt;br&gt;When Crypt Champion comes into play, sacrifice it unless {R} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107337</id>
+      <name>Flame-Kin War Scout</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental Scout</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When another creature comes into play, sacrifice Flame-Kin War Scout. If you do, Flame-Kin War Scout deals 4 damage to that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107338</id>
+      <name>Psychotic Fury</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target multicolored creature gains double strike until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107340</id>
+      <name>Brain Pry</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Name a nonland card. Target player reveals his or her hand. That player discards a card with that name. If he or she can&apos;t, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107341</id>
+      <name>Proclamation of Rebirth</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Return up to three target creature cards with converted mana cost 1 or less from your graveyard to play. &lt;br&gt;Forecast - {5}{W}, Reveal Proclamation of Rebirth from your hand: Return target creature card with converted mana cost 1 or less from your graveyard to play. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107342</id>
+      <name>Enemy of the Guildpact</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from multicolored</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107346</id>
+      <name>Cytoshape</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a nonlegendary creature in play. Target creature becomes a copy of that creature until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107347</id>
+      <name>Simic Basilisk</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Basilisk Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Graft 3 &lt;i&gt;(This creature comes into play with three +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{1}{G}: Until end of turn, target creature with a +1/+1 counter on it gains &quot;Whenever this creature deals combat damage to a creature, destroy that creature at end of combat.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107353</id>
+      <name>Cytoplast Manipulator</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Graft 2 &lt;i&gt;(This creature comes into play with two +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{U}, {T}: Gain control of target creature with a +1/+1 counter on it as long as Cytoplast Manipulator remains in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107358</id>
+      <name>Rain of Gore</name>
+      <cost>{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a spell or ability would cause its controller to gain life, that player loses that much life instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107362</id>
+      <name>Transguild Courier</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Transguild Courier is all colors &lt;i&gt;(even if this card isn&apos;t in play)&lt;/i&gt;.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107363</id>
+      <name>Lyzolda, the Blood Witch</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to target creature or player if the sacrificed creature was red. Draw a card if the sacrificed creature was black.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107369</id>
+      <name>Elemental Resonance</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant permanent &lt;br&gt;At the beginning of your precombat main phase, add mana equal to enchanted permanent&apos;s mana cost to your mana pool. &lt;i&gt;(Mana cost includes color. If a mana symbol has multiple colors, choose one.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107371</id>
+      <name>Street Savvy</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2 and can block creatures with landwalk abilities as though they didn&apos;t have those abilities.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107374</id>
+      <name>Nettling Curse</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature attacks or blocks, its controller loses 3 life. &lt;br&gt;{1}{R}: Enchanted creature attacks this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107377</id>
+      <name>Indrik Stomphowler</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Indrik Stomphowler comes into play, destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107379</id>
+      <name>Plumes of Peace</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step. &lt;br&gt;Forecast - {W}{U}, Reveal Plumes of Peace from your hand: Tap target creature. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107385</id>
+      <name>Experiment Kraj</name>
+      <cost>{2}{G}{G}{U}{U}</cost>
+      <type>Legendary Creature - Ooze Mutant</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it. &lt;br&gt;{T}: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107389</id>
+      <name>Ogre Gatecrasher</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Ogre Rogue</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ogre Gatecrasher comes into play, destroy target creature with defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107390</id>
+      <name>Thrive</name>
+      <cost>{X}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put a +1/+1 counter on each of X target creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107395</id>
+      <name>Govern the Guildless</name>
+      <cost>{5}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Gain control of target monocolored creature. &lt;br&gt;Forecast - {1}{U}, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107397</id>
+      <name>Vision Skeins</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each player draws two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107408</id>
+      <name>Tidespout Tyrant</name>
+      <cost>{5}{U}{U}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever you play a spell, return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107413</id>
+      <name>Writ of Passage</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature attacks, if its power is 2 or less, it&apos;s unblockable this turn. &lt;br&gt;Forecast - {1}{U}, Reveal Writ of Passage from your hand: Target creature with power 2 or less is unblockable this turn. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107415</id>
+      <name>Nightcreep</name>
+      <cost>{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, all creatures become black and all lands become Swamps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107427</id>
+      <name>Azorius Ploy</name>
+      <cost>{1}{W}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all combat damage target creature would deal this turn. &lt;br&gt;Prevent all combat damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107428</id>
+      <name>Dovescape</name>
+      <cost>{3}{W/U}{W/U}{W/U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({W/U} can be paid with either {W} or {U}.)&lt;/i&gt; &lt;br&gt;Whenever a player plays a noncreature spell, counter that spell. That player puts X 1/1 white and blue Bird creature tokens with flying into play, where X is the spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107431</id>
+      <name>Valor Made Real</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature can block any number of creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107433</id>
+      <name>Paladin of Prahv</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt; &lt;br&gt;Forecast - {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107435</id>
+      <name>Delirium Skeins</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each player discards three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107437</id>
+      <name>Avatar of Discord</name>
+      <cost>{B/R}{B/R}{B/R}</cost>
+      <type>Creature - Avatar</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;When Avatar of Discord comes into play, sacrifice it unless you discard two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107438</id>
+      <name>Rakdos the Defiler</name>
+      <cost>{2}{B}{B}{R}{R}</cost>
+      <type>Legendary Creature - Demon</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt;Whenever Rakdos the Defiler attacks, sacrifice half the non-Demon permanents you control, rounded up. &lt;br&gt;Whenever Rakdos deals combat damage to a player, that player sacrifices half the non-Demon permanents he or she controls, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107440</id>
+      <name>Soulsworn Jury</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107441</id>
+      <name>Simic Initiate</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 1 &lt;i&gt;(This creature comes into play with a +1/+1 counter on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107446</id>
+      <name>Kindle the Carnage</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Discard a card at random. If you do, Kindle the Carnage deals damage equal to that card&apos;s converted mana cost to each creature. You may repeat this process any number of times.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107448</id>
+      <name>Isperia the Inscrutable</name>
+      <cost>{1}{W}{W}{U}{U}</cost>
+      <type>Legendary Creature - Sphinx</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107449</id>
+      <name>Skyscribing</name>
+      <cost>{X}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player draws X cards. &lt;br&gt;Forecast - {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107451</id>
+      <name>Unliving Psychopath</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Assassin</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{B}: Unliving Psychopath gets +1/-1 until end of turn. &lt;br&gt;{B}, {T}: Destroy target creature with power less than Unliving Psychopath&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107466</id>
+      <name>Proper Burial</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control is put into a graveyard from play, you gain life equal to that creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107467</id>
+      <name>Haazda Exonerator</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Haazda Exonerator: Destroy target Aura.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107472</id>
+      <name>Aquastrand Spider</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Spider Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 2 &lt;i&gt;(This creature comes into play with two +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{G}: Target creature with a +1/+1 counter on it gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107477</id>
+      <name>Vesper Ghoul</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Pay 1 life: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107492</id>
+      <name>War&apos;s Toll</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent taps a land for mana, tap all lands that player controls. &lt;br&gt;If a creature an opponent controls attacks, all creatures that opponent controls attack if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107493</id>
+      <name>Kill-Suit Cultist</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Berserker</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kill-Suit Cultist attacks each turn if able. &lt;br&gt;{B}, Sacrifice Kill-Suit Cultist: The next time damage would be dealt to target creature this turn, destroy that creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107504</id>
+      <name>Ghost Quarter</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it into play, then shuffle his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107505</id>
+      <name>Stomp and Howl</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact and target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107506</id>
+      <name>Momir Vig, Simic Visionary</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Legendary Creature - Elf Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it. &lt;br&gt;Whenever you play a blue creature spell, reveal the top card of your library. If it&apos;s a creature card, put that card into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107507</id>
+      <name>Cytoplast Root-Kin</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Graft 4 &lt;i&gt;(This creature comes into play with four +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;When Cytoplast Root-Kin comes into play, put a +1/+1 counter on each other creature you control that has a +1/+1 counter on it. &lt;br&gt;{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107517</id>
+      <name>Nihilistic Glee</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{B}, Discard a card: Target opponent loses 1 life and you gain 1 life. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - {1}, Pay 2 life: Draw a card. Play this ability only if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107526</id>
+      <name>Gnat Alley Creeper</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gnat Alley Creeper can&apos;t be blocked by creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107527</id>
+      <name>Stoic Ephemera</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;When Stoic Ephemera blocks, sacrifice it at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107531</id>
+      <name>Seal of Fire</name>
+      <cost>{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107534</id>
+      <name>Seal of Doom</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Seal of Doom: Destroy target nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107535</id>
+      <name>Helium Squirter</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Beast Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Graft 3 &lt;i&gt;(This creature comes into play with three +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{1}: Target creature with a +1/+1 counter on it gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107537</id>
+      <name>Brace for Impact</name>
+      <cost>{4}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent all damage that would be dealt to target multicolored creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107542</id>
+      <name>Gobhobbler Rats</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;Hellbent&lt;/i&gt; - Gobhobbler Rats gets +1/+0 and has &quot;{B}: Regenerate Gobhobbler Rats&quot; as long as you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107543</id>
+      <name>Rakdos Augermage</name>
+      <cost>{B}{B}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike &lt;br&gt;{T}: Reveal your hand and discard a card of target opponent&apos;s choice. Then that player reveals his or her hand and discards a card of your choice. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107549</id>
+      <name>Patagia Viper</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Patagia Viper comes into play, put two 1/1 green and blue Snake creature tokens into play. &lt;br&gt;When Patagia Viper comes into play, sacrifice it unless {U} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107551</id>
+      <name>Weight of Spires</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Weight of Spires deals damage to target creature equal to the number of nonbasic lands that creature&apos;s controller controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107553</id>
+      <name>Muse Vessel</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Target player removes a card in his or her hand from the game. Play this ability only any time you could play a sorcery. &lt;br&gt;{1}: Choose a card removed from the game with Muse Vessel. You may play that card this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107557</id>
+      <name>Leafdrake Roost</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land has &quot;{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying into play.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107562</id>
+      <name>Wit&apos;s End</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player discards his or her hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107565</id>
+      <name>Simic Ragworm</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Worm</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Untap Simic Ragworm.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107568</id>
+      <name>Loaming Shaman</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Centaur Shaman</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Loaming Shaman comes into play, target player shuffles any number of target cards from his or her graveyard into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107569</id>
+      <name>Utopia Sprawl</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant Forest &lt;br&gt;As Utopia Sprawl comes into play, choose a color. &lt;br&gt;Whenever enchanted Forest is tapped for mana, its controller adds one mana of the chosen color to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107570</id>
+      <name>Ragamuffyn</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Cleric</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;Hellbent&lt;/i&gt; - {T}, Sacrifice a creature or land: Draw a card. Play this ability only if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107577</id>
+      <name>Azorius Herald</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Azorius Herald is unblockable. &lt;br&gt;When Azorius Herald comes into play, you gain 4 life. &lt;br&gt;When Azorius Herald comes into play, sacrifice it unless {U} was spent to play it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107583</id>
+      <name>Guardian of the Guildpact</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from monocolored</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107597</id>
+      <name>Taste for Mayhem</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+0. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107598</id>
+      <name>Protean Hulk</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Protean Hulk is put into a graveyard from play, search your library for any number of creature cards with total converted mana cost 6 or less and put them into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107599</id>
+      <name>Demon&apos;s Jester</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Demon&apos;s Jester gets +2/+1 as long as you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110637</id>
+      <name>Sandstorm Eidolon</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, Sacrifice Sandstorm Eidolon: Target creature can&apos;t block this turn. &lt;br&gt;Whenever you play a multicolored spell, you may return Sandstorm Eidolon from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110638</id>
+      <name>Verdant Eidolon</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, Sacrifice Verdant Eidolon: Add three mana of any one color to your mana pool. &lt;br&gt;Whenever you play a multicolored spell, you may return Verdant Eidolon from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110639</id>
+      <name>Aurora Eidolon</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{W}, Sacrifice Aurora Eidolon: Prevent the next 3 damage that would be dealt to target creature or player this turn. &lt;br&gt;Whenever you play a multicolored spell, you may return Aurora Eidolon from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110640</id>
+      <name>Enigma Eidolon</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}, Sacrifice Enigma Eidolon: Target player puts the top three cards of his or her library into his or her graveyard. &lt;br&gt;Whenever you play a multicolored spell, you may return Enigma Eidolon from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110641</id>
+      <name>Entropic Eidolon</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Sacrifice Entropic Eidolon: Target player loses 1 life and you gain 1 life. &lt;br&gt;Whenever you play a multicolored spell, you may return Entropic Eidolon from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111188</id>
+      <name>Rakdos Pit Dragon</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}{R}: Rakdos Pit Dragon gains flying until end of turn. &lt;br&gt;{R}: Rakdos Pit Dragon gets +1/+0 until end of turn. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Rakdos Pit Dragon has double strike as long as you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111192</id>
+      <name>Æthermage&apos;s Touch</name>
+      <cost>{2}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Reveal the top four cards of your library. You may put a creature card from among them into play. It has &quot;At the end of your turn, return this creature to its owner&apos;s hand.&quot; Then put the rest of the cards revealed this way on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111202</id>
+      <name>Wrecking Ball</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111203</id>
+      <name>Fertile Imagination</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a card type. Target opponent reveals his or her hand. Put two 1/1 green Saproling creature tokens into play for each card of the chosen type revealed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111204</id>
+      <name>Simic Sky Swallower</name>
+      <cost>{5}{G}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample, shroud &lt;i&gt;(This permanent can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111220</id>
+      <name>Sprouting Phytohydra</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Plant Hydra</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Whenever Sprouting Phytohydra is dealt damage, you may put a token into play that&apos;s a copy of Sprouting Phytohydra.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111225</id>
+      <name>Beacon Hawk</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Beacon Hawk deals combat damage to a player, you may untap target creature. &lt;br&gt;{W}: Beacon Hawk gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111226</id>
+      <name>Wakestone Gargoyle</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;{1}{W}: Creatures you control with defender can attack this turn as though they didn&apos;t have defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111247</id>
+      <name>Flaring Flame-Kin</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has &quot;{R}: Flaring Flame-Kin gets +1/+0 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111256</id>
+      <name>Azorius Æthermage</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a permanent is returned to your hand, you may pay {1}. If you do, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111258</id>
+      <name>Drekavac</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Drekavac comes into play, sacrifice it unless you discard a noncreature card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111259</id>
+      <name>Magewright&apos;s Stone</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111281</id>
+      <name>Ignorant Bliss</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove all cards in your hand from the game face down. At end of turn, return those cards to your hand, then draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111283</id>
+      <name>Slithering Shade</name>
+      <cost>{B}</cost>
+      <type>Creature - Shade</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{B}: Slithering Shade gets +1/+1 until end of turn. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Slithering Shade can attack as though it didn&apos;t have defender as long as you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83737</id>
+      <name>Omnibian</name>
+      <cost>{1}{G}{G}{U}</cost>
+      <type>Creature - Frog</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature becomes a 3/3 Frog until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97071</id>
+      <name>Hallowed Fountain</name>
+      <cost></cost>
+      <type>Land - Plains Island</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {U} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Hallowed Fountain comes into play, you may pay 2 life. If you don&apos;t, Hallowed Fountain comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97072</id>
+      <name>Rix Maadi, Dungeon Palace</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}{B}{R}, {T}: Each player discards a card. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97073</id>
+      <name>Slaughterhouse Bouncer</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;Hellbent&lt;/i&gt; - When Slaughterhouse Bouncer is put into a graveyard from play, if you have no cards in hand, target creature gets -3/-3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97074</id>
+      <name>Rakdos Ickspitter</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Thrull</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Rakdos Ickspitter deals 1 damage to target creature and that creature&apos;s controller loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97075</id>
+      <name>Whiptail Moloch</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Lizard</type>
+      <power>6</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Whiptail Moloch comes into play, it deals 3 damage to target creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97076</id>
+      <name>Riot Spikes</name>
+      <cost>{B/R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +2/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97077</id>
+      <name>Azorius Guildmage</name>
+      <cost>{W/U}{W/U}</cost>
+      <type>Creature - Vedalken Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({W/U} can be paid with either {W} or {U}.)&lt;/i&gt; &lt;br&gt;{2}{W}: Tap target creature. &lt;br&gt;{2}{U}: Counter target activated ability. &lt;i&gt;(Mana abilities can&apos;t be targeted.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97078</id>
+      <name>Simic Guildmage</name>
+      <cost>{G/U}{G/U}</cost>
+      <type>Creature - Elf Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({G/U} can be paid with either {G} or {U}.)&lt;/i&gt; &lt;br&gt;{1}{G}: Move a +1/+1 counter from target creature onto another target creature with the same controller. &lt;br&gt;{1}{U}: Attach target Aura enchanting a permanent to another permanent with the same controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97079</id>
+      <name>Simic Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {G}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97082</id>
+      <name>Rakdos Carnarium</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Rakdos Carnarium comes into play tapped. &lt;br&gt;When Rakdos Carnarium comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {B}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97083</id>
+      <name>Minister of Impediments</name>
+      <cost>{2}{W/U}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({W/U} can be paid with either {W} or {U}.)&lt;/i&gt; &lt;br&gt;{T}: Tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97084</id>
+      <name>Shielding Plax</name>
+      <cost>{2}{G/U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>&lt;i&gt;({G/U} can be paid with either {G} or {U}.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;When Shielding Plax comes into play, draw a card. &lt;br&gt;Enchanted creature can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97085</id>
+      <name>Azorius Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {W}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97086</id>
+      <name>Jagged Poppet</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Jagged Poppet is dealt damage, discard that many cards. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Whenever Jagged Poppet deals combat damage to a player, if you have no cards in hand, that player discards cards equal to the damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97087</id>
+      <name>Azorius Chancery</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Azorius Chancery comes into play tapped. &lt;br&gt;When Azorius Chancery comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {W}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97088</id>
+      <name>Breeding Pool</name>
+      <cost></cost>
+      <type>Land - Forest Island</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {G} or {U} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Breeding Pool comes into play, you may pay 2 life. If you don&apos;t, Breeding Pool comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97089</id>
+      <name>Simic Growth Chamber</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Simic Growth Chamber comes into play tapped. &lt;br&gt;When Simic Growth Chamber comes into play, return a land you control to its owner&apos;s hand. &lt;br&gt;{T}: Add {G}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97091</id>
+      <name>Novijen Sages</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Human Advisor Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Graft 4 &lt;i&gt;(This creature comes into play with four +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{1}, Remove two +1/+1 counters from among creatures you control: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97092</id>
+      <name>Walking Archive</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Walking Archive comes into play with a +1/+1 counter on it. &lt;br&gt;At the beginning of each player&apos;s upkeep, that player draws a card for each +1/+1 counter on Walking Archive. &lt;br&gt;{2}{W}{U}: Put a +1/+1 counter on Walking Archive.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97093</id>
+      <name>Evolution Vat</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Tap target creature and put a +1/+1 counter on it. Until end of turn, that creature gains &quot;{2}{G}{U}: Double the number of +1/+1 counters on this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97094</id>
+      <name>Windreaver</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{W}: Windreaver gains vigilance until end of turn. &lt;br&gt;{W}: Windreaver gets +0/+1 until end of turn. &lt;br&gt;{U}: Switch Windreaver&apos;s power and toughness until end of turn. &lt;br&gt;{U}: Return Windreaver to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97096</id>
+      <name>Voidslime</name>
+      <cost>{G}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Counter target spell, activated ability, or triggered ability. &lt;i&gt;(Mana abilities can&apos;t be targeted.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97097</id>
+      <name>Pride of the Clouds</name>
+      <cost>{W}{U}</cost>
+      <type>Creature - Elemental Cat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Pride of the Clouds gets +1/+1 for each other creature in play with flying. &lt;br&gt;Forecast - {2}{W}{U}, Reveal Pride of the Clouds from your hand: Put a 1/1 white and blue Bird creature token with flying into play. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97098</id>
+      <name>Rakdos Signet</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Add {B}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97099</id>
+      <name>Novijen, Heart of Progress</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{G}{U}, {T}: Put a +1/+1 counter on each creature that came into play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97100</id>
+      <name>Hellhole Rats</name>
+      <cost>{2}{B}{R}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste &lt;br&gt;When Hellhole Rats comes into play, target player discards a card. Hellhole Rats deals damage to that player equal to that card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97101</id>
+      <name>Azorius First-Wing</name>
+      <cost>{W}{U}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, protection from enchantments</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97102</id>
+      <name>Blood Crypt</name>
+      <cost></cost>
+      <type>Land - Swamp Mountain</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>&lt;i&gt;({T}: Add {B} or {R} to your mana pool.)&lt;/i&gt; &lt;br&gt;As Blood Crypt comes into play, you may pay 2 life. If you don&apos;t, Blood Crypt comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97104</id>
+      <name>Plaxcaster Frogling</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Frog Mutant</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Graft 3 &lt;i&gt;(This creature comes into play with three +1/+1 counters on it. Whenever another creature comes into play, you may move a +1/+1 counter from this creature onto it.)&lt;/i&gt; &lt;br&gt;{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97105</id>
+      <name>Pain Magnification</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent is dealt 3 or more damage by a single source, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97106</id>
+      <name>Coiling Oracle</name>
+      <cost>{G}{U}</cost>
+      <type>Creature - Snake Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Coiling Oracle comes into play, reveal the top card of your library. If it&apos;s a land card, put it into play. Otherwise, put that card into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97107</id>
+      <name>Assault Zeppelid</name>
+      <cost>{2}{G}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97108</id>
+      <name>Rakdos Guildmage</name>
+      <cost>{B/R}{B/R}</cost>
+      <type>Creature - Zombie Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt; &lt;br&gt;{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn. &lt;br&gt;{3}{R}: Put a 2/1 red Goblin creature token with haste into play. Remove it from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97109</id>
+      <name>Sky Hussar</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Creature - Human Knight</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Sky Hussar comes into play, untap all creatures you control. &lt;br&gt;Forecast - Tap two untapped white and/or blue creatures you control, Reveal Sky Hussar from your hand: Draw a card. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97110</id>
+      <name>Anthem of Rakdos</name>
+      <cost>{2}{B}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature you control attacks, it gets +2/+0 until end of turn and Anthem of Rakdos deals 1 damage to you. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97111</id>
+      <name>Overrule</name>
+      <cost>{X}{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {X}. You gain X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97112</id>
+      <name>Trygon Predator</name>
+      <cost>{1}{G}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97114</id>
+      <name>Twinstrike</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Twinstrike deals 2 damage to each of two target creatures. &lt;br&gt;&lt;i&gt;Hellbent&lt;/i&gt; - Destroy those creatures instead if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97115</id>
+      <name>Steeling Stance</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+1 until end of turn. &lt;br&gt;Forecast - {W}, Reveal Steeling Stance from your hand: Target creature gets +1/+1 until end of turn. &lt;i&gt;(Play this ability only during your upkeep and only once each turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97116</id>
+      <name>Macabre Waltz</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return up to two target creature cards from your graveyard to your hand, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97117</id>
+      <name>Prahv, Spires of Order</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{4}{W}{U}, {T}: Prevent all damage a source of your choice would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97118</id>
+      <name>Palliation Accord</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature an opponent controls becomes tapped, put a shield counter on Palliation Accord. &lt;br&gt;Remove a shield counter from Palliation Accord: Prevent the next 1 damage that would be dealt to you this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97119</id>
+      <name>Rakdos Riteknife</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Equipped creature gets +1/+0 for each blood counter on Rakdos Riteknife and has &quot;{T}, Sacrifice a creature: Put a blood counter on Rakdos Riteknife.&quot; &lt;br&gt;{B}{R}, Sacrifice Rakdos Riteknife: Target player sacrifices a permanent for each blood counter on Rakdos Riteknife. &lt;br&gt;Equip {2}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>97120</id>
+      <name>Vigean Intuition</name>
+      <cost>{3}{G}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose a card type, then reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

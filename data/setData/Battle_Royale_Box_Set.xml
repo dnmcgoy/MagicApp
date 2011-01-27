@@ -1,0 +1,670 @@
+<cards>
+  <name>Battle_Royale_Box_Set</name>
+  <key>Battle_Royale_Box_Set</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>21097</id>
+      <name>Maniacal Rage</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 and can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21098</id>
+      <name>Village Elder</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21099</id>
+      <name>Broken Fall</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return Broken Fall to its owner&apos;s hand: Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21101</id>
+      <name>Symbiosis</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Two target creatures each get +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21102</id>
+      <name>Arc Lightning</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Arc Lightning deals 3 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21104</id>
+      <name>Shower of Sparks</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21106</id>
+      <name>Skyshroud Elite</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21113</id>
+      <name>Spike Feeder</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Spike Feeder comes into play with two +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature. &lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21114</id>
+      <name>Trumpeting Armodon</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21115</id>
+      <name>Wildfire Emissary</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Efreet</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from white &lt;br&gt;{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21116</id>
+      <name>Plated Rootwalla</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Lizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21117</id>
+      <name>Mogg Hollows</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21123</id>
+      <name>Disruptive Student</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21125</id>
+      <name>Manta Riders</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Manta Riders gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21134</id>
+      <name>Songstitcher</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21135</id>
+      <name>Windfall</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player discards his or her hand, then draws cards equal to the greatest number a player discarded this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21137</id>
+      <name>Curfew</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each player returns a creature he or she controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21138</id>
+      <name>Man-o&apos;-War</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Jellyfish</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Man-o&apos;-War comes into play, return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21143</id>
+      <name>Catastrophe</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all lands or all creatures. Creatures destroyed this way can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21146</id>
+      <name>Thalakos Lowlands</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21147</id>
+      <name>Wall of Heat</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>2</power>
+      <toughness>6</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21148</id>
+      <name>Subversion</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21150</id>
+      <name>Sadistic Glee</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever a creature is put into a graveyard from play, put a +1/+1 counter on enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21153</id>
+      <name>Exhume</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each player puts a creature card from his or her graveyard into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21155</id>
+      <name>Living Death</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player removes all creature cards in his or her graveyard from the game, then sacrifices all creatures he or she controls, then puts into play all cards he or she removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21156</id>
+      <name>Unnerve</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Each opponent discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21158</id>
+      <name>Rolling Thunder</name>
+      <cost>{X}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21159</id>
+      <name>Heat Ray</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Heat Ray deals X damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21160</id>
+      <name>Reanimate</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target creature card from a graveyard into play under your control. You lose life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21161</id>
+      <name>Sewer Rats</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Play this ability no more than three times each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21163</id>
+      <name>Fire Ants</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Fire Ants deals 1 damage to each other creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21164</id>
+      <name>Phyrexian Ghoul</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21165</id>
+      <name>Crazed Skirge</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21168</id>
+      <name>Cackling Fiend</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Cackling Fiend comes into play, each opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21170</id>
+      <name>Cinder Marsh</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21178</id>
+      <name>Vec Townships</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21181</id>
+      <name>Spike Colony</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spike Colony comes into play with four +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21182</id>
+      <name>Argothian Elder</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Untap two target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21184</id>
+      <name>Sanctum Custodian</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21185</id>
+      <name>Sanctum Guardian</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21186</id>
+      <name>Advance Scout</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;{W}: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21187</id>
+      <name>Soltari Foot Soldier</name>
+      <cost>{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21190</id>
+      <name>Sun Clasp</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+3. &lt;br&gt;{W}: Return enchanted creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21196</id>
+      <name>Dirtcowl Wurm</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21198</id>
+      <name>Spike Worker</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spike Worker comes into play with two +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21199</id>
+      <name>Slippery Karst</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Slippery Karst comes into play tapped. &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21202</id>
+      <name>Polluted Mire</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Polluted Mire comes into play tapped. &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21203</id>
+      <name>Drifting Meadow</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText>Drifting Meadow comes into play tapped. &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt;Cycling {2} &lt;I&gt;(&lt;/I&gt;{2}&lt;I&gt;, Discard this card: Draw a card.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21204</id>
+      <name>Steam Blast</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Steam Blast deals 2 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21205</id>
+      <name>Gorilla Warrior</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Ape Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>22344</id>
+      <name>Mountain</name>
+      <cost></cost>
+      <type>Basic Land - Mountain</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Battle Royale Box Set</edition>
+      <rarity>Land</rarity>
+      <oracleText>[R]</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

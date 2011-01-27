@@ -1,0 +1,1892 @@
+<cards>
+  <name>Seventh_Edition</name>
+  <key>Seventh_Edition</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>10844</id>
+      <name>Hurricane</name>
+      <cost>{X}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hurricane deals X damage to each creature with flying and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11179</id>
+      <name>Bog Imp</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11256</id>
+      <name>Elder Druid</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Cleric Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{G}, {T}: You may tap or untap target artifact, creature, or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11280</id>
+      <name>Flight</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature has flying. &lt;i&gt;(It can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11285</id>
+      <name>Force Spike</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell unless its controller pays {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11307</id>
+      <name>Goblin Digging Team</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11326</id>
+      <name>Howl from Beyond</name>
+      <cost>{X}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +X/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11356</id>
+      <name>Jalum Tome</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11398</id>
+      <name>Meekstone</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with power 3 or greater don&apos;t untap during their controllers&apos; untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11478</id>
+      <name>Samite Healer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11482</id>
+      <name>Elvish Lyrist</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11494</id>
+      <name>Shanodin Dryads</name>
+      <cost>{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>11544</id>
+      <name>Twiddle</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may tap or untap target artifact, creature, or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12963</id>
+      <name>Femeref Archers</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Femeref Archers deals 4 damage to target attacking creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12970</id>
+      <name>Final Fortune</name>
+      <cost>{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Take an extra turn after this one. At the end of that turn, you lose the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12975</id>
+      <name>Trained Orgg</name>
+      <cost>{6}{R}</cost>
+      <type>Creature - Orgg</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12980</id>
+      <name>Ostracize</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. Choose a creature card from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12988</id>
+      <name>Tremor</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tremor deals 1 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12998</id>
+      <name>Nature&apos;s Resurgence</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player draws a card for each creature card in his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>12999</id>
+      <name>Redwood Treefolk</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13018</id>
+      <name>Southern Paladin</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{W}{W}, {T}: Destroy target red permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13021</id>
+      <name>Dregs of Sorrow</name>
+      <cost>{X}{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy X target nonblack creatures. Draw X cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13030</id>
+      <name>Benthic Behemoth</name>
+      <cost>{5}{U}{U}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13035</id>
+      <name>Mawcor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{T}: Mawcor deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13038</id>
+      <name>Wind Dancer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{T}: Target creature gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13039</id>
+      <name>Wind Drake</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13046</id>
+      <name>Seeker of Skybreak</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13047</id>
+      <name>Gorilla Chieftain</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}: Regenerate Gorilla Chieftain.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13048</id>
+      <name>Trained Armodon</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13065</id>
+      <name>Starlight</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 3 life for each black creature target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13068</id>
+      <name>Staunch Defenders</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Staunch Defenders comes into play, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13088</id>
+      <name>Revenant</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Revenant&apos;s power and toughness are each equal to the number of creature cards in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13097</id>
+      <name>Engineered Plague</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Engineered Plague comes into play, choose a creature type. &lt;br&gt; &lt;br&gt;All creatures of the chosen type get -1/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13099</id>
+      <name>Knight Errant</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13100</id>
+      <name>Goblin Spelunkers</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13101</id>
+      <name>Reprocess</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13103</id>
+      <name>Bull Hippo</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Hippo</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13106</id>
+      <name>Anaconda</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13111</id>
+      <name>Abyssal Horror</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Abyssal Horror comes into play, target player discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13112</id>
+      <name>Breath of Life</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13116</id>
+      <name>Hibernation</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return all green permanents to their owners&apos; hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13119</id>
+      <name>Vernal Bloom</name>
+      <cost>{3}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a Forest is tapped for mana, its controller adds {G} to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13129</id>
+      <name>Elite Archers</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Elite Archers deals 3 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13136</id>
+      <name>Disorder</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Disorder deals 2 damage to each white creature and each player who controls a white creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13140</id>
+      <name>Merfolk Looter</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13152</id>
+      <name>Delusions of Mediocrity</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Delusions of Mediocrity comes into play, you gain 10 life. &lt;br&gt; &lt;br&gt;When Delusions of Mediocrity leaves play, you lose 10 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13155</id>
+      <name>Levitation</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control have flying. &lt;i&gt;(They can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13157</id>
+      <name>Archivist</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13161</id>
+      <name>Lone Wolf</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may have Lone Wolf assign its combat damage as though it weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13162</id>
+      <name>Serra Advocate</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Target attacking or blocking creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13168</id>
+      <name>Gerrard&apos;s Wisdom</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 2 life for each card in your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13171</id>
+      <name>Knighthood</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control have first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13172</id>
+      <name>Storm Crow</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13175</id>
+      <name>Strands of Night</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}{B}, Pay 2 life, Sacrifice a Swamp: Return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13182</id>
+      <name>Pillage</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact or land. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13195</id>
+      <name>Wing Snare</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14557</id>
+      <name>Duress</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. Choose a noncreature, nonland card from it. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>14754</id>
+      <name>Dark Banishing</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15778</id>
+      <name>Cloudchaser Eagle</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Cloudchaser Eagle comes into play, destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15781</id>
+      <name>Skyshroud Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15793</id>
+      <name>Telepathy</name>
+      <cost>{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Your opponents play with their hands revealed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15796</id>
+      <name>Opposition</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap an untapped creature you control: Tap target artifact, creature, or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15797</id>
+      <name>Wall of Wonder</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn&apos;t have defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15809</id>
+      <name>Ghitu Fire-Eater</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Nomad</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15810</id>
+      <name>Goblin Matron</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15825</id>
+      <name>Darkest Hour</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures are black.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15833</id>
+      <name>Reflexes</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature has first strike. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15834</id>
+      <name>Storm Shaman</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Cleric Shaman</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Storm Shaman gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15846</id>
+      <name>Sisay&apos;s Ring</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {2} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15851</id>
+      <name>Sky Diamond</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sky Diamond comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15860</id>
+      <name>Phyrexian Colossus</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Phyrexian Colossus doesn&apos;t untap during your untap step. &lt;br&gt;Pay 8 life: Untap Phyrexian Colossus. &lt;br&gt;Phyrexian Colossus can&apos;t be blocked except by three or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15862</id>
+      <name>Static Orb</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Static Orb is untapped, players can&apos;t untap more than two permanents during their untap steps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15863</id>
+      <name>Coat of Arms</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each creature gets +1/+1 for each other creature in play that shares a creature type with it. &lt;i&gt;(For example, if a Goblin Warrior, a Goblin Scout, and a Zombie Goblin are in play, each gets +2/+2.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15879</id>
+      <name>Pygmy Pyrosaur</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Lizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Pygmy Pyrosaur can&apos;t block. &lt;br&gt; &lt;br&gt;{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15881</id>
+      <name>Compost</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a black card is put into an opponent&apos;s graveyard, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>15883</id>
+      <name>Spineless Thug</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Mercenary</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spineless Thug can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25547</id>
+      <name>Spirit Link</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25550</id>
+      <name>Sustainer of the Realm</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25551</id>
+      <name>Sacred Ground</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from play, return that card to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25553</id>
+      <name>Worship</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25554</id>
+      <name>Purify</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all artifacts and enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25555</id>
+      <name>Serra Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, vigilance &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach, and attacking doesn&apos;t cause this creature to tap.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25557</id>
+      <name>Sleight of Hand</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25558</id>
+      <name>Tolarian Winds</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Discard all the cards in your hand, then draw that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25561</id>
+      <name>Telepathic Spies</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Telepathic Spies comes into play, look at target opponent&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25562</id>
+      <name>Arcane Laboratory</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player can&apos;t play more than one spell each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25563</id>
+      <name>Mana Breach</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player plays a spell, that player returns a land he or she controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25564</id>
+      <name>Opportunity</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player draws four cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25565</id>
+      <name>Thieving Magpie</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt;  &lt;br&gt;Whenever Thieving Magpie deals damage to an opponent, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25567</id>
+      <name>Mana Short</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap all lands target player controls and empty his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25568</id>
+      <name>Equilibrium</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a creature spell, you may pay {1}. If you do, return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25586</id>
+      <name>Squall</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Squall deals 2 damage to each creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25587</id>
+      <name>Thoughtleech</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an Island an opponent controls becomes tapped, you may gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25589</id>
+      <name>Treefolk Seedlings</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>2</power>
+      <toughness>*</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Treefolk Seedlings&apos;s toughness is equal to the number of Forests you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25590</id>
+      <name>Scavenger Folk</name>
+      <cost>{G}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25592</id>
+      <name>Nature&apos;s Revolt</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All lands are 2/2 creatures that are still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25596</id>
+      <name>Thorn Elemental</name>
+      <cost>{5}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may have Thorn Elemental assign its combat damage as though it weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25624</id>
+      <name>Corrupt</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25627</id>
+      <name>Serpent Warrior</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Snake Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Serpent Warrior comes into play, you lose 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25628</id>
+      <name>Giant Cockroach</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25629</id>
+      <name>Bereavement</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a green creature is put into a graveyard from play, its controller discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25630</id>
+      <name>Yawgmoth&apos;s Edict</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a white spell, that player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25632</id>
+      <name>Befoul</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land or nonblack creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25633</id>
+      <name>Nocturnal Raid</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Black creatures get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25634</id>
+      <name>Fugue</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25635</id>
+      <name>Necrologia</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Necrologia only during your end of turn step. &lt;br&gt; &lt;br&gt;As an additional cost to play Necrologia, pay any amount of life. &lt;br&gt; &lt;br&gt;Draw cards equal to the life paid this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25637</id>
+      <name>Crypt Rats</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25638</id>
+      <name>Foul Imp</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt; &lt;br&gt;When Foul Imp comes into play, you lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25639</id>
+      <name>Wall of Bone</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Skeleton Wall</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{B}: Regenerate Wall of Bone.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25640</id>
+      <name>Dakmor Lancer</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Dakmor Lancer comes into play, destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25641</id>
+      <name>Oppression</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player plays a spell, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25643</id>
+      <name>Tainted Æther</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, its controller sacrifices a creature or land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25644</id>
+      <name>Persecute</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose a color. Target player reveals his or her hand and discards all cards of that color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25645</id>
+      <name>Stronghold Assassin</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Zombie Assassin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice a creature: Destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25647</id>
+      <name>Bellowing Fiend</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;Whenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 damage to that creature&apos;s controller and 3 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25650</id>
+      <name>Ivory Cup</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player plays a white spell, you may pay {1}. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25655</id>
+      <name>Caltrops</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature attacks, Caltrops deals 1 damage to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25657</id>
+      <name>Pit Trap</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25658</id>
+      <name>Serra&apos;s Embrace</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;Enchanted creature gets +2/+2 and has flying and vigilance. &lt;i&gt;(It can&apos;t be blocked except by creatures with flying or reach, and attacking doesn&apos;t cause it to tap.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25661</id>
+      <name>Grafted Skullcap</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your draw step, draw a card. &lt;br&gt; &lt;br&gt;At the end of your turn, discard your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25663</id>
+      <name>Storm Cauldron</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may play an additional land during each of his or her turns. &lt;br&gt; &lt;br&gt;Whenever a land is tapped for mana, return it to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25664</id>
+      <name>Feroz&apos;s Ban</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creature spells cost {2} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25667</id>
+      <name>Pride of Lions</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may have Pride of Lions assign its combat damage as though it weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25668</id>
+      <name>Gang of Elk</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Elk Beast</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25671</id>
+      <name>Granite Grip</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+0 for each Mountain you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25674</id>
+      <name>Goblin Gardener</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Goblin Gardener is put into a graveyard from play, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25675</id>
+      <name>Boil</name>
+      <cost>{3}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all Islands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25676</id>
+      <name>Goblin War Drums</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each creature you control can&apos;t be blocked except by two or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25679</id>
+      <name>Goblin Glider</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Goblin Glider can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25680</id>
+      <name>Hill Giant</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25681</id>
+      <name>Impatience</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the end of each player&apos;s turn, if that player didn&apos;t play a spell that turn, Impatience deals 2 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25685</id>
+      <name>Wildfire</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25686</id>
+      <name>Okk</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Okk can&apos;t attack unless a creature with greater power also attacks.&lt;br&gt;Okk can&apos;t block unless a creature with greater power also blocks.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25687</id>
+      <name>Reckless Embermage</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{R}: Reckless Embermage deals 1 damage to target creature or player and 1 damage to itself.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25688</id>
+      <name>Shivan Dragon</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;{R}: Shivan Dragon gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>25689</id>
+      <name>Bedlam</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26841</id>
+      <name>Crossbow Infantry</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Crossbow Infantry deals 1 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26844</id>
+      <name>Coral Merfolk</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26845</id>
+      <name>Vigilant Drake</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;{2}{U}: Untap Vigilant Drake.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27080</id>
+      <name>Memory Lapse</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell. If that spell is countered this way, put it on top of its owner&apos;s library instead of into that player&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27115</id>
+      <name>Ancestral Memories</name>
+      <cost>{2}{U}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>29322</id>
+      <name>Vizzerdrix</name>
+      <cost>{6}{U}</cost>
+      <type>Creature - Rabbit Beast</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>30169</id>
+      <name>Monstrous Growth</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>30170</id>
+      <name>Giant Octopus</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Octopus</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>30171</id>
+      <name>Volcanic Hammer</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Seventh Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Volcanic Hammer deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

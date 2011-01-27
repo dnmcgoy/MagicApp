@@ -1,0 +1,540 @@
+<cards>
+  <name>Chronicles</name>
+  <key>Chronicles</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>2780</id>
+      <name>Bronze Horse</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Horse</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;If you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2784</id>
+      <name>Horn of Deafening</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2790</id>
+      <name>Runesword</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves play this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can&apos;t be regenerated this turn. If a creature dealt damage by the targeted creature would be put into a graveyard this turn, remove that creature from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2791</id>
+      <name>Sentinel</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Shapeshifter</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{0}: Sentinel&apos;s toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2795</id>
+      <name>Voodoo Doll</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a pin counter on Voodoo Doll. &lt;br&gt;At the end of your turn, if Voodoo Doll is untapped, sacrifice it and it deals damage equal to the number of pin counters on it to you. &lt;br&gt;{X}{X}, {T}: Voodoo Doll deals X damage to target creature or player. X is the number of pin counters on Voodoo Doll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2803</id>
+      <name>Enchantment Alteration</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Attach target Aura attached to a creature or land to another permanent of that type.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2806</id>
+      <name>Flash Flood</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target red permanent; or return target Mountain to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2807</id>
+      <name>Giant Slug</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Slug</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2811</id>
+      <name>Puppet Master</name>
+      <cost>{U}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, return that card to its owner&apos;s hand and you may pay {U}{U}{U}. If you do, return a card named Puppet Master from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2814</id>
+      <name>Shimian Night Stalker</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Nightstalker</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2815</id>
+      <name>Takklemaggot</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, put a -0/-1 counter on that creature. &lt;br&gt;When enchanted creature is put into a graveyard, that creature&apos;s controller returns a card named Takklemaggot from its owner&apos;s graveyard to play. If Takklemaggot can&apos;t be attached to a creature, it comes into play as an enchantment under that player&apos;s control with &quot;At the beginning of your upkeep, Takklemaggot deals 1 damage to you&quot; instead and it&apos;s no longer an Aura.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2816</id>
+      <name>Teleport</name>
+      <cost>{U}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Teleport only during combat before the declare blockers step. &lt;br&gt;Target creature is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2817</id>
+      <name>The Fallen</name>
+      <cost>{1}{B}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2819</id>
+      <name>Transmutation</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Switch target creature&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2820</id>
+      <name>Wall of Shadows</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Prevent all damage that would be dealt to Wall of Shadows by creatures it&apos;s blocking. &lt;br&gt;Wall of Shadows can&apos;t be the target of spells that can target only Walls or of abilities that can target only Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2821</id>
+      <name>Wall of Vapor</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Prevent all damage that would be dealt to Wall of Vapor by creatures it&apos;s blocking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2826</id>
+      <name>Cocoon</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature you control &lt;br&gt;Enchanted creature doesn&apos;t untap during your untap step if Cocoon has a pupa counter on it. &lt;br&gt;When Cocoon comes into play, tap enchanted creature and put three pupa counters on Cocoon. &lt;br&gt;At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can&apos;t, sacrifice it and enchanted creature gets +1/+1 and gains flying. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2827</id>
+      <name>Concordant Crossroads</name>
+      <cost>{G}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures have haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2830</id>
+      <name>Emerald Dragonfly</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{G}{G}: Emerald Dragonfly gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2835</id>
+      <name>Revelation</name>
+      <cost>{G}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All players play with their hands revealed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2837</id>
+      <name>Storm Seeker</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Storm Seeker deals damage equal to the number of cards in target player&apos;s hand to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2839</id>
+      <name>Active Volcano</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Destroy target blue permanent; or return target Island to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2841</id>
+      <name>Beasts of Bogardan</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from red &lt;br&gt;Beasts of Bogardan gets +1/+1 as long as any opponent controls a white permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2844</id>
+      <name>Goblin Artisans</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Artificer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Flip a coin. If you win the flip, draw a card. Otherwise, counter target artifact spell you control that isn&apos;t the target of an ability from another creature named Goblin Artisans.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2848</id>
+      <name>Land&apos;s Edge</name>
+      <cost>{1}{R}{R}</cost>
+      <type>World Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Discard a card: If the discarded card is a land card, Land&apos;s Edge deals 2 damage to target player. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2849</id>
+      <name>Mountain Yeti</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Yeti</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk, protection from white</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2852</id>
+      <name>Wall of Opposition</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>6</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{1}: Wall of Opposition gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2854</id>
+      <name>Angelic Voices</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2858</id>
+      <name>Indestructible Aura</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, prevent all damage that would be dealt to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2860</id>
+      <name>Keepers of the Faith</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2861</id>
+      <name>Petra Sphinx</name>
+      <cost>{2}{W}{W}{W}</cost>
+      <type>Creature - Sphinx</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn&apos;t, the player puts it into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2864</id>
+      <name>War Elephant</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Elephant</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding, trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2865</id>
+      <name>Witch Hunter</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Witch Hunter deals 1 damage to target player. &lt;br&gt;{1}{W}{W}, {T}: Return target creature an opponent controls to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2867</id>
+      <name>Axelrod Gunnarson</name>
+      <cost>{4}{B}{B}{R}{R}</cost>
+      <type>Legendary Creature - Giant</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever a creature dealt damage by Axelrod Gunnarson this turn is put into a graveyard, you gain 1 life and Axelrod deals 1 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2870</id>
+      <name>Dakkon Blackblade</name>
+      <cost>{2}{W}{U}{U}{B}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Dakkon Blackblade&apos;s power and toughness are each equal to the number of lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2871</id>
+      <name>Gabriel Angelfire</name>
+      <cost>{3}{G}{G}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2874</id>
+      <name>Marhault Elsdragon</name>
+      <cost>{3}{R}{R}{G}</cost>
+      <type>Legendary Creature - Elf Warrior</type>
+      <power>4</power>
+      <toughness>6</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rampage 1 &lt;I&gt;(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2875</id>
+      <name>Nebuchadnezzar</name>
+      <cost>{3}{U}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. That player then discards all cards with that name revealed this way. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2877</id>
+      <name>Palladia-Mors</name>
+      <cost>{2}{R}{R}{G}{G}{W}{W}</cost>
+      <type>Legendary Creature - Elder Dragon</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt;At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2882</id>
+      <name>Tobias Andrion</name>
+      <cost>{3}{W}{U}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Chronicles</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2886</id>
+      <name>City of Brass</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Chronicles</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

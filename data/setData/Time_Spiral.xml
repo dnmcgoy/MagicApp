@@ -1,0 +1,3608 @@
+<cards>
+  <name>Time_Spiral</name>
+  <key>Time_Spiral</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>106630</id>
+      <name>Chronatog Totem</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {U} to your mana pool. &lt;br&gt;{1}{U}: Chronatog Totem becomes a 1/2 blue Atog artifact creature until end of turn. &lt;br&gt;{0}: Chronatog Totem gets +3/+3 until end of turn. You skip your next turn. Play this ability only once each turn and only if Chronatog Totem is a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106632</id>
+      <name>Tendrils of Corruption</name>
+      <cost>{3}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106643</id>
+      <name>Savage Thallid</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>5</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Savage Thallid. &lt;br&gt;Remove three spore counters from Savage Thallid: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Regenerate target Fungus.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106648</id>
+      <name>Watcher Sliver</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures get +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106652</id>
+      <name>Foriysian Interceptor</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Defender &lt;br&gt;Foriysian Interceptor can block an additional creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106653</id>
+      <name>Flowstone Channeler</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{R}, {T}, Discard a card: Target creature gets +1/-1 and gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106654</id>
+      <name>Temporal Isolation</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature has shadow. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Prevent all damage that would be dealt by enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106657</id>
+      <name>Pull from Eternity</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target face-up card that&apos;s removed from the game into its owner&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106658</id>
+      <name>Mana Skimmer</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Leech</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Mana Skimmer deals damage to a player, tap target land that player controls. That land doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>106668</id>
+      <name>Crookclaw Transmuter</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Bird Wizard</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;When Crookclaw Transmuter comes into play, switch target creature&apos;s power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108788</id>
+      <name>Eternity Snare</name>
+      <cost>{5}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Eternity Snare comes into play, draw a card. &lt;br&gt;Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108792</id>
+      <name>Basal Sliver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;Sacrifice this permanent: Add {B}{B} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108795</id>
+      <name>Ophidian Eye</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108796</id>
+      <name>Fungal Reaches</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Put a storage counter on Fungal Reaches. &lt;br&gt;{1}, Remove X storage counters from Fungal Reaches: Add X mana in any combination of {R} and/or {G} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108797</id>
+      <name>Shadow Sliver</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have shadow. &lt;i&gt;(They can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108798</id>
+      <name>Urborg Syphon-Mage</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108799</id>
+      <name>Blazing Blade Askari</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;{2}: Blazing Blade Askari becomes colorless until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108802</id>
+      <name>Search for Tomorrow</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a basic land card and put it into play. Then shuffle your library. &lt;br&gt;Suspend 2-{G} &lt;i&gt;(Rather than play this card from your hand, you may pay {G} and remove it from the game with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108804</id>
+      <name>Sudden Death</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Target creature gets -4/-4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108807</id>
+      <name>Durkwood Baloth</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Suspend 5-{G} &lt;i&gt;(Rather than play this card from your hand, you may pay {G} and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108808</id>
+      <name>Havenwood Wurm</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108809</id>
+      <name>Weatherseed Totem</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {G} to your mana pool. &lt;br&gt;{2}{G}{G}{G}: Weatherseed Totem becomes a 5/3 green Treefolk artifact creature with trample until end of turn. &lt;br&gt;When Weatherseed Totem is put into a graveyard from play, if it was a creature, return this card to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108814</id>
+      <name>Divine Congregation</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 2 life for each creature target player controls. &lt;br&gt;Suspend 5-{1}{W} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{W} and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108817</id>
+      <name>Dreadship Reef</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Put a storage counter on Dreadship Reef. &lt;br&gt;{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108819</id>
+      <name>Gaze of Justice</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Gaze of Justice, tap three untapped white creatures you control. &lt;br&gt;Remove target creature from the game. &lt;br&gt;Flashback {5}{W} &lt;i&gt;(You may play this card from your graveyard for its flashback cost and any additional costs. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108822</id>
+      <name>Phyrexian Totem</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {B} to your mana pool. &lt;br&gt;{2}{B}: Phyrexian Totem becomes a 5/5 black Horror artifact creature with trample until end of turn. &lt;br&gt;Whenever Phyrexian Totem is dealt damage, if it&apos;s a creature, sacrifice that many permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108823</id>
+      <name>Think Twice</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw a card. &lt;br&gt;Flashback {2}{U} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108830</id>
+      <name>Greenseeker</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}, {T}, Discard a card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108832</id>
+      <name>Call to the Netherworld</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target black creature card from your graveyard to your hand. &lt;br&gt;Madness {0} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108838</id>
+      <name>Ghitu Firebreathing</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn. &lt;br&gt;{R}: Return Ghitu Firebreathing to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108839</id>
+      <name>Saltcrusted Steppe</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Put a storage counter on Saltcrusted Steppe. &lt;br&gt;{1}, Remove X storage counters from Saltcrusted Steppe: Add X mana in any combination of {G} and/or {W} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108841</id>
+      <name>Trespasser il-Vec</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Discard a card: Trespasser &lt;i&gt;il&lt;/i&gt;-Vec gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108846</id>
+      <name>Flickering Spirit</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{3}{W}: Remove Flickering Spirit from the game, then return it to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108850</id>
+      <name>Drudge Reavers</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;{B}: Regenerate Drudge Reavers.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108851</id>
+      <name>Two-Headed Sliver</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have &quot;This creature can&apos;t be blocked except by two or more creatures.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108852</id>
+      <name>Æther Web</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets +1/+1, has reach, and can block creatures with shadow as though they didn&apos;t have shadow. &lt;i&gt;(Creatures with reach can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108857</id>
+      <name>Traitor&apos;s Clutch</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+0, becomes black, and gains shadow until end of turn. &lt;i&gt;(It can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Flashback {1}{B} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108858</id>
+      <name>Dream Stalker</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Dream Stalker comes into play, return a permanent you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108860</id>
+      <name>Molten Slagheap</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Put a storage counter on Molten Slagheap. &lt;br&gt;{1}, Remove X storage counters from Molten Slagheap: Add X mana in any combination of {B} and/or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108870</id>
+      <name>Flamecore Elemental</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Echo {2}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108874</id>
+      <name>Pentarch Ward</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As Pentarch Ward comes into play, choose a color. &lt;br&gt;When Pentarch Ward comes into play, draw a card. &lt;br&gt;Enchanted creature has protection from the chosen color. This effect doesn&apos;t remove Pentarch Ward.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108884</id>
+      <name>Premature Burial</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature that came into play since your last turn ended.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108887</id>
+      <name>Duskrider Peregrine</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from black &lt;br&gt;Suspend 3-{1}{W} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{W} and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108889</id>
+      <name>Gustcloak Cavalier</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;Whenever Gustcloak Cavalier attacks, you may tap target creature. &lt;br&gt;Whenever Gustcloak Cavalier becomes blocked, you may untap Gustcloak Cavalier and remove it from combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108891</id>
+      <name>Keldon Halberdier</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike &lt;br&gt;Suspend 4-{R} &lt;i&gt;(Rather than play this card from your hand, you may pay {R} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108892</id>
+      <name>Feebleness</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Enchant creature &lt;br&gt;Enchanted creature gets -2/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108894</id>
+      <name>Mindstab</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards three cards. &lt;br&gt;Suspend 4-{B} &lt;i&gt;(Rather than play this card from your hand, you may pay {B} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108897</id>
+      <name>Snapback</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may remove a blue card in your hand from the game rather than pay Snapback&apos;s mana cost. &lt;br&gt;Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108898</id>
+      <name>Zealot il-Vec</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Whenever Zealot &lt;i&gt;il&lt;/i&gt;-Vec attacks and isn&apos;t blocked, you may have it deal 1 damage to target creature. If you do, prevent all combat damage Zealot &lt;i&gt;il&lt;/i&gt;-Vec would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108900</id>
+      <name>Icatian Crier</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{W}, {T}, Discard a card: Put two 1/1 white Citizen creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108901</id>
+      <name>Bogardan Rager</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Bogardan Rager comes into play, target creature gets +4/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108903</id>
+      <name>Cavalry Master</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;Other creatures you control with flanking have flanking. &lt;i&gt;(Each instance of flanking triggers separately.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108904</id>
+      <name>Foriysian Totem</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {R} to your mana pool. &lt;br&gt;{4}{R}: Foriysian Totem becomes a 4/4 red Giant artifact creature with trample until end of turn. &lt;br&gt;As long as Foriysian Totem is a creature, it can block an additional creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108905</id>
+      <name>Ground Rift</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature without flying can&apos;t block this turn. &lt;br&gt;Storm &lt;i&gt;(When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108907</id>
+      <name>Tolarian Sentinel</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Spellshaper</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{U}, {T}, Discard a card: Return target permanent you control to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108909</id>
+      <name>Errant Ephemeron</name>
+      <cost>{6}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Suspend 4-{1}{U} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{U} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108910</id>
+      <name>Corpulent Corpse</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fear &lt;br&gt;Suspend 5-{B} &lt;i&gt;(Rather than play this card from your hand, you may pay {B} and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108915</id>
+      <name>Rift Bolt</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Rift Bolt deals 3 damage to target creature or player. &lt;br&gt;Suspend 1-{R} &lt;i&gt;(Rather than play this card from your hand, you may pay {R} and remove it from the game with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108918</id>
+      <name>Drifter il-Dal</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Drifter &lt;i&gt;il&lt;/i&gt;-Dal unless you pay {U}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108926</id>
+      <name>Plunder</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact or land. &lt;br&gt;Suspend 4-{1}{R} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{R} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108930</id>
+      <name>Calciform Pools</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Put a storage counter on Calciform Pools. &lt;br&gt;{1}, Remove X storage counters from Calciform Pools: Add X mana in any combination of {W} and/or {U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>108931</id>
+      <name>Thunder Totem</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {W} to your mana pool. &lt;br&gt;{1}{W}{W}: Thunder Totem becomes a 2/2 white Spirit artifact creature with flying and first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109668</id>
+      <name>Dementia Sliver</name>
+      <cost>{3}{U}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{T}: Name a card. Target opponent reveals a card at random from his or her hand. If it&apos;s the named card, that player discards it. Play this ability only during your turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109671</id>
+      <name>Stronghold Overseer</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;{B}{B}: Creatures with shadow get +1/+0 until end of turn and creatures without shadow get -1/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109673</id>
+      <name>Clockspinning</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Choose a counter on target permanent or suspended card. Remove that counter from that permanent or card or put another of those counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109675</id>
+      <name>Thrill of the Hunt</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+2 until end of turn. &lt;br&gt;Flashback {W} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109680</id>
+      <name>Spirit Loop</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature you control &lt;br&gt;Enchanted creature has lifelink. &lt;i&gt;(Whenever it deals damage, its controller gains that much life.)&lt;/i&gt; &lt;br&gt;When Spirit Loop is put into a graveyard from play, return Spirit Loop to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109685</id>
+      <name>Sulfurous Blast</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sulfurous Blast deals 2 damage to each creature and each player. If you played this spell during your main phase, Sulfurous Blast deals 3 damage to each creature and each player instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109686</id>
+      <name>Pardic Dragon</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Pardic Dragon gets +1/+0 until end of turn. &lt;br&gt;Suspend 2-{R}{R} &lt;br&gt;Whenever an opponent plays a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109689</id>
+      <name>Spike Tiller</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Spike</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Spike Tiller comes into play with three +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Tiller: Put a +1/+1 counter on target creature.  &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Tiller: Target land becomes a 2/2 creature that&apos;s still a land. Put a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109691</id>
+      <name>Careful Consideration</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player draws four cards, then discards three cards. If you played this spell during your main phase, instead that player draws four cards, then discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109697</id>
+      <name>Bonesplitter Sliver</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures get +2/+0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109702</id>
+      <name>Squall Line</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Squall Line deals X damage to each creature with flying and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109703</id>
+      <name>Thick-Skinned Goblin</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may pay {0} rather than pay the echo cost for permanents you control. &lt;br&gt;{R}: Thick-Skinned Goblin gains protection from red until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109706</id>
+      <name>Harmonic Sliver</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;When this permanent comes into play, destroy target artifact or enchantment.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109707</id>
+      <name>Spell Burst</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Counter target spell with converted mana cost X.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109709</id>
+      <name>Return to Dust</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove target artifact or enchantment from the game. If you played this spell during your main phase, you may remove up to one other target artifact or enchantment from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109710</id>
+      <name>Strangling Soot</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature with toughness 3 or less. &lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109711</id>
+      <name>Opaline Sliver</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;Whenever this permanent becomes the target of a spell an opponent controls, you may draw a card.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109715</id>
+      <name>Riftwing Cloudskate</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Riftwing Cloudskate comes into play, return target permanent to its owner&apos;s hand. &lt;br&gt;Suspend 3-{1}{U} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{U} and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109717</id>
+      <name>Ghostflame Sliver</name>
+      <cost>{B}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers are colorless.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109719</id>
+      <name>Faceless Devourer</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Nightmare Horror</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;When Faceless Devourer comes into play, remove another target creature with shadow from the game. &lt;br&gt;When Faceless Devourer leaves play, return the removed card to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109721</id>
+      <name>Paradox Haze</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant player &lt;br&gt;At the beginning of enchanted player&apos;s first upkeep each turn, that player gets an additional upkeep step after this step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109722</id>
+      <name>Fury Sliver</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have double strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109726</id>
+      <name>Nantuko Shaman</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Insect Shaman</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Nantuko Shaman comes into play, if you control no tapped lands, draw a card. &lt;br&gt;Suspend 1-{2}{G}{G} &lt;i&gt;(Rather than play this card from your hand, you may pay {2}{G}{G} and remove it from the game with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109727</id>
+      <name>Firewake Sliver</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have haste. &lt;br&gt;All Slivers have &quot;{1}, Sacrifice this permanent: Target Sliver creature gets +2/+2 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109729</id>
+      <name>Reiterate</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Copy target instant or sorcery spell. You may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109731</id>
+      <name>Haunting Hymn</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards two cards. If you played this spell during your main phase, that player discards four cards instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109733</id>
+      <name>Momentary Blink</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Remove target creature you control from the game, then return it to play under its owner&apos;s control. &lt;br&gt;Flashback {3}{U} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109735</id>
+      <name>Empty the Warrens</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put two 1/1 red Goblin creature tokens into play. &lt;br&gt;Storm &lt;i&gt;(When you play this spell, copy it for each spell played before it this turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109741</id>
+      <name>Ivory Giant</name>
+      <cost>{5}{W}{W}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ivory Giant comes into play, tap all nonwhite creatures. &lt;br&gt;Suspend 5-{W} &lt;i&gt;(Rather than play this card from your hand, you may pay {W} and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109751</id>
+      <name>Ancient Grudge</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact. &lt;br&gt;Flashback {G} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109752</id>
+      <name>Jaya Ballard, Task Mage</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Legendary Creature - Human Spellshaper</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{R}, {T}, Discard a card: Destroy target blue permanent. &lt;br&gt;{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to target creature or player. A creature dealt damage this way can&apos;t be regenerated this turn. &lt;br&gt;{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109756</id>
+      <name>Ignite Memories</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals a card at random from his or her hand. Ignite Memories deals damage to that player equal to that card&apos;s converted mana cost. &lt;br&gt;Storm &lt;i&gt;(When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109758</id>
+      <name>Phthisis</name>
+      <cost>{3}{B}{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature. Its controller loses life equal to its power plus its toughness. &lt;br&gt;Suspend 5-{1}{B} &lt;i&gt;(Rather than play this card from your hand, you may pay {1}{B} and remove it from the game with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109762</id>
+      <name>Barbed Shocker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample, haste &lt;br&gt;Whenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109763</id>
+      <name>Might of Old Krosa</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn. If you played this spell during your main phase, that creature gets +4/+4 until end of turn instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109765</id>
+      <name>Vesuvan Shapeshifter</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Vesuvan Shapeshifter comes into play or is turned face up, you may choose another creature in play. If you do, until Vesuvan Shapeshifter is turned face down, it becomes a copy of that creature and gains &quot;At the beginning of your upkeep, you may turn this creature face down.&quot; &lt;br&gt;Morph {1}{U}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109766</id>
+      <name>Verdant Embrace</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3 and has &quot;At the beginning of each upkeep, put a 1/1 green Saproling creature token into play under your control.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110499</id>
+      <name>Trickbind</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Counter target activated or triggered ability. If a permanent&apos;s ability is countered this way, activated abilities of that permanent can&apos;t be played this turn. &lt;i&gt;(Mana abilities can&apos;t be targeted.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110502</id>
+      <name>Chronosavant</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Giant</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}: Return Chronosavant from your graveyard to play tapped. You skip your next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110504</id>
+      <name>Angel&apos;s Grace</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;You can&apos;t lose the game this turn and your opponents can&apos;t win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110507</id>
+      <name>Evangelize</name>
+      <cost>{4}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback {2}{W}{W} &lt;i&gt;(You may pay an additional {2}{W}{W} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Gain control of target creature of an opponent&apos;s choice that he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110508</id>
+      <name>Primal Forcemage</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever another creature comes into play under your control, that creature gets +3/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110510</id>
+      <name>Plated Pegasus</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Pegasus</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;If a spell would deal damage to a creature or player, prevent 1 damage that spell would deal to that creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110511</id>
+      <name>Coral Trickster</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph {U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Coral Trickster is turned face up, you may tap or untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110514</id>
+      <name>Griffin Guide</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 and has flying. &lt;br&gt;When enchanted creature is put into a graveyard, put a 2/2 white Griffin creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110517</id>
+      <name>Walk the Aeons</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback-Sacrifice three Islands. &lt;i&gt;(You may sacrifice three Islands in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Target player takes an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110524</id>
+      <name>Scarwood Treefolk</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Scarwood Treefolk comes into play tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110525</id>
+      <name>Children of Korlis</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Rebel Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Children of Korlis: You gain life equal to the life you&apos;ve lost this turn. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110532</id>
+      <name>Fledgling Mawcor</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{T}: Fledgling Mawcor deals 1 damage to target creature or player. &lt;br&gt;Morph {U}{U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>110533</id>
+      <name>Pentarch Paladin</name>
+      <cost>{2}{W}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;As Pentarch Paladin comes into play, choose a color. &lt;br&gt;{W}{W}, {T}: Destroy target permanent of the chosen color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111041</id>
+      <name>Bogardan Hellkite</name>
+      <cost>{6}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;br&gt;Flying &lt;br&gt;When Bogardan Hellkite comes into play, it deals 5 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111042</id>
+      <name>Might Sliver</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures get +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111048</id>
+      <name>Greater Gargadon</name>
+      <cost>{9}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>9</power>
+      <toughness>7</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Suspend 10-{R} &lt;br&gt;Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Play this ability only if Greater Gargadon is suspended.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111049</id>
+      <name>Curse of the Cabal</name>
+      <cost>{9}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player sacrifices half the permanents he or she controls, rounded down. &lt;br&gt;Suspend 2-{2}{B}{B} &lt;br&gt;At the beginning of each player&apos;s upkeep, if Curse of the Cabal is suspended, that player may sacrifice a permanent. If he or she does, put two time counters on Curse of the Cabal.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111051</id>
+      <name>Quilled Sliver</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{T}: This permanent deals 1 damage to target attacking or blocking creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111057</id>
+      <name>Draining Whelk</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;When Draining Whelk comes into play, counter target spell. Put X +1/+1 counters on Draining Whelk, where X is that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111058</id>
+      <name>Mystical Teachings</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for an instant card or a card with flash, reveal it, and put it into your hand. Then shuffle your library. &lt;br&gt;Flashback {5}{B} &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111064</id>
+      <name>Firemaw Kavu</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Kavu</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Echo {5}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Firemaw Kavu comes into play, it deals 2 damage to target creature. &lt;br&gt;When Firemaw Kavu leaves play, it deals 4 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111068</id>
+      <name>Sporesower Thallid</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on each Fungus you control. &lt;br&gt;Remove three spore counters from Sporesower Thallid: Put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111069</id>
+      <name>Viashino Bladescout</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Viashino Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Viashino Bladescout comes into play, target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111073</id>
+      <name>Spinneret Sliver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have reach. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111076</id>
+      <name>Voidmage Husher</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;When Voidmage Husher comes into play, counter target activated ability. &lt;i&gt;(Mana abilities can&apos;t be targeted.)&lt;/i&gt; &lt;br&gt;Whenever you play a spell, you may return Voidmage Husher to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111079</id>
+      <name>Nightshade Assassin</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Assassin</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;When Nightshade Assassin comes into play, you may reveal X black cards in your hand. If you do, target creature gets -X/-X until end of turn. &lt;br&gt;Madness {1}{B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111082</id>
+      <name>Viscid Lemures</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{0}: Viscid Lemures gets -1/-0 and gains swampwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111083</id>
+      <name>Pendelhaven Elder</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Each 1/1 creature you control gets +1/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>111085</id>
+      <name>Telekinetic Sliver</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{T}: Tap target permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113505</id>
+      <name>Ancestral Vision</name>
+      <cost></cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Ancestral Vision is blue. &lt;br&gt;Suspend 4-{U} &lt;i&gt;(Rather than play this card from your hand, pay {U} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt; &lt;br&gt;Target player draws three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113506</id>
+      <name>Deep-Sea Kraken</name>
+      <cost>{7}{U}{U}{U}</cost>
+      <type>Creature - Kraken</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Deep-Sea Kraken is unblockable. &lt;br&gt;Suspend 9-{2}{U} &lt;br&gt;Whenever an opponent plays a spell, if Deep-Sea Kraken is suspended, remove a time counter from it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113507</id>
+      <name>Cloudchaser Kestrel</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;When Cloudchaser Kestrel comes into play, destroy target enchantment. &lt;br&gt;{W}: Target permanent becomes white until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113509</id>
+      <name>Amrou Seekers</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kithkin Rebel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Amrou Seekers can&apos;t be blocked except by artifact creatures and/or white creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113512</id>
+      <name>Norin the Wary</name>
+      <cost>{R}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When a player plays a spell or a creature attacks, remove Norin the Wary from the game. Return it to play under its owner&apos;s control at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113513</id>
+      <name>Locket of Yesterdays</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Spells you play cost {1} less to play for each card with the same name as that spell in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113518</id>
+      <name>D&apos;Avenant Healer</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric Archer</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: D&apos;Avenant Healer deals 1 damage to target attacking or blocking creature. &lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113519</id>
+      <name>Serra Avenger</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You can&apos;t play Serra Avenger during your first, second, or third turns of the game. &lt;br&gt;Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113520</id>
+      <name>Restore Balance</name>
+      <cost></cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Restore Balance is white. &lt;br&gt;Suspend 6-{W} &lt;br&gt;Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113521</id>
+      <name>Living End</name>
+      <cost></cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Living End is black. &lt;br&gt;Suspend 3-{2}{B}{B} &lt;br&gt;Each player removes all creature cards in his or her graveyard from the game, then sacrifices all creatures he or she controls, then puts into play all cards he or she removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113522</id>
+      <name>Lim-Dul the Necromancer</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature an opponent controls is put into a graveyard from play, you may pay {1}{B}. If you do, return that card to play under your control. If it&apos;s a creature, it&apos;s a Zombie in addition to its other creature types. &lt;br&gt;{1}{B}: Regenerate target Zombie.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113525</id>
+      <name>Sudden Spoiling</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Creatures target player controls become 0/2 and lose all abilities until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113527</id>
+      <name>Endrek Sahr, Master Breeder</name>
+      <cost>{4}{B}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play a creature spell, put X 1/1 black Thrull creature tokens into play, where X is that spell&apos;s converted mana cost. &lt;br&gt;When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113528</id>
+      <name>Wheel of Fate</name>
+      <cost></cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Wheel of Fate is red. &lt;br&gt;Suspend 4-{1}{R} &lt;i&gt;(Rather than play this card from your hand, pay {1}{R} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt; &lt;br&gt;Each player discards his or her hand, then draws seven cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113529</id>
+      <name>Candles of Leng</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: Reveal the top card of your library. If it has the same name as a card in your graveyard, put it into your graveyard. Otherwise, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113530</id>
+      <name>Clockwork Hydra</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Hydra</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Clockwork Hydra comes into play with four +1/+1 counters on it. &lt;br&gt;Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. If you do, Clockwork Hydra deals 1 damage to target creature or player. &lt;br&gt;{T}: Put a +1/+1 counter on Clockwork Hydra.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113531</id>
+      <name>Smallpox</name>
+      <cost>{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113533</id>
+      <name>Hypergenesis</name>
+      <cost></cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Hypergenesis is green. &lt;br&gt;Suspend 3-{1}{G}{G} &lt;br&gt;Starting with you, each player may put an artifact, creature, enchantment, or land card from his or her hand into play. Repeat this process until no one puts a card into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113536</id>
+      <name>Kaervek the Merciless</name>
+      <cost>{5}{B}{R}</cost>
+      <type>Legendary Creature - Human Shaman</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever an opponent plays a spell, Kaervek the Merciless deals damage to target creature or player equal to that spell&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113537</id>
+      <name>Glass Asp</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Glass Asp deals combat damage to a player, that player loses 2 life at the beginning of his or her next draw step unless he or she pays {2} before that step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113539</id>
+      <name>Mishra, Artificer Prodigy</name>
+      <cost>{1}{U}{B}{R}</cost>
+      <type>Legendary Creature - Human Artificer</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you play an artifact spell, you may search your graveyard, hand, and/or library for a card with the same name as that spell and put it into play. If you search your library this way, shuffle it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113540</id>
+      <name>Saffi Eriksdotter</name>
+      <cost>{G}{W}</cost>
+      <type>Legendary Creature - Human Scout</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice Saffi Eriksdotter: When target creature is put into your graveyard from play this turn, return that card to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113541</id>
+      <name>Dralnu, Lich Lord</name>
+      <cost>{3}{U}{B}</cost>
+      <type>Legendary Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If damage would be dealt to Dralnu, sacrifice that many permanents instead. &lt;br&gt;{T}: Target instant or sorcery card in your graveyard has flashback until end of turn. Its flashback cost becomes equal to its mana cost as you play it. &lt;i&gt;(You may play that card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113543</id>
+      <name>Vesuva</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Vesuva comes into play, you may choose a land in play. If you do, Vesuva comes into play tapped as a copy of the chosen land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113553</id>
+      <name>Kher Keep</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}{R}, {T}: Put a 0/1 red Kobold creature token named Kobolds of Kher Keep into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113558</id>
+      <name>Ætherflame Wall</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;br&gt;Ætherflame Wall can block creatures with shadow as though they didn&apos;t have shadow. &lt;br&gt;{R}: Ætherflame Wall gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113559</id>
+      <name>Psionic Sliver</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Sliver creatures have &quot;{T}: This creature deals 2 damage to target creature or player and 3 damage to itself.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113563</id>
+      <name>Mangara of Corondor</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Remove Mangara of Corondor and target permanent from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113567</id>
+      <name>Lightning Axe</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to play Lightning Axe, discard a card or pay {5}. &lt;br&gt;Lightning Axe deals 5 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113571</id>
+      <name>Jedit&apos;s Dragoons</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Cat Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Vigilance &lt;br&gt;When Jedit&apos;s Dragoons comes into play, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113575</id>
+      <name>Pulmonic Sliver</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Sliver creatures have flying. &lt;br&gt;All Slivers have &quot;If this permanent would be put into a graveyard, you may put it on top of its owner&apos;s library instead.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113579</id>
+      <name>Unyaro Bees</name>
+      <cost>{G}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Unyaro Bees gets +1/+1 until end of turn. &lt;br&gt;{3}{G}, Sacrifice Unyaro Bees: Unyaro Bees deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113583</id>
+      <name>Wormwood Dryad</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{G}: Wormwood Dryad gains forestwalk until end of turn and deals 1 damage to you. &lt;br&gt;{B}: Wormwood Dryad gains swampwalk until end of turn and deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113611</id>
+      <name>Subterranean Shambler</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Echo {3}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Subterranean Shambler comes into play or leaves play, it deals 1 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113614</id>
+      <name>Castle Raptors</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Bird Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;As long as Castle Raptors is untapped, it gets +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113615</id>
+      <name>Viscerid Deepwalker</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Homarid Warrior</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Viscerid Deepwalker gets +1/+0 until end of turn. &lt;br&gt;Suspend 4-{U} &lt;i&gt;(Rather than play this card from your hand, you may pay {U} and remove it from the game with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113616</id>
+      <name>Tectonic Fiend</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Echo {4}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;Tectonic Fiend attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113618</id>
+      <name>Coal Stoker</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Coal Stoker comes into play, if you played it from your hand, add {R}{R}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>113619</id>
+      <name>Amrou Scout</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kithkin Rebel Scout</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114902</id>
+      <name>Orcish Cannonade</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114903</id>
+      <name>Ith, High Arcanist</name>
+      <cost>{5}{W}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Vigilance &lt;br&gt;{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn. &lt;br&gt;Suspend 4-{W}{U}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114904</id>
+      <name>Lotus Bloom</name>
+      <cost></cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Suspend 3-{0} &lt;i&gt;(Rather than play this card from your hand, pay {0} and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)&lt;/i&gt; &lt;br&gt;{T}, Sacrifice Lotus Bloom: Add three mana of any one color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114905</id>
+      <name>Ashcoat Bear</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114908</id>
+      <name>Fallen Ideal</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has flying and &quot;Sacrifice a creature: This creature gets +2/+1 until end of turn.&quot; &lt;br&gt;When Fallen Ideal is put into a graveyard from play, return Fallen Ideal to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114909</id>
+      <name>Conflagrate</name>
+      <cost>{X}{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Conflagrate deals X damage divided as you choose among any number of target creatures and/or players. &lt;br&gt;Flashback-{R}{R}, Discard X cards. &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114911</id>
+      <name>Sudden Shock</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Sudden Shock deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114912</id>
+      <name>Ib Halfheart, Goblin Tactician</name>
+      <cost>{3}{R}</cost>
+      <type>Legendary Creature - Goblin Advisor</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it. &lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114913</id>
+      <name>Swarmyard</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Regenerate target Insect, Rat, Spider, or Squirrel.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114914</id>
+      <name>Molder</name>
+      <cost>{X}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact or enchantment with converted mana cost X. It can&apos;t be regenerated. You gain X life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114915</id>
+      <name>Cyclopean Giant</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie Giant</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Cyclopean Giant is put into a graveyard from play, target land becomes a Swamp. Remove Cyclopean Giant from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114916</id>
+      <name>Assembly-Worker</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Assembly-Worker</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114917</id>
+      <name>Wurmcalling</name>
+      <cost>{X}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Put an X/X green Wurm creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114919</id>
+      <name>Triskelavus</name>
+      <cost>{7}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Triskelavus comes into play with three +1/+1 counters on it.  &lt;br&gt;{1}, Remove a +1/+1 counter from Triskelavus: Put a 1/1 Triskelavite artifact creature token with flying into play. It has &quot;Sacrifice this creature: This creature deals 1 damage to target creature or player.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>114921</id>
+      <name>Sarpadian Empires, Vol. VII</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As &lt;i&gt;Sarpadian Empires, Vol. VII&lt;/i&gt; comes into play, choose white Citizen, blue Camarid, black Thrull, red Goblin, or green Saproling. &lt;br&gt;{3}, {T}: Put a 1/1 creature token of the chosen color and type into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116379</id>
+      <name>Errant Doomsayers</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Rebel</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Tap target creature with toughness 2 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116381</id>
+      <name>Thallid Germinator</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid Germinator. &lt;br&gt;Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116383</id>
+      <name>Sengir Nosferatu</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{B}, Remove Sengir Nosferatu from the game: Put a 1/2 black Bat creature token with flying into play. It has &quot;{1}{B}, Sacrifice this creature: Return to play under its owner&apos;s control a card named Sengir Nosferatu that&apos;s removed from the game.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116384</id>
+      <name>Urza&apos;s Factory</name>
+      <cost></cost>
+      <type>Land - Urza&apos;s</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{7}, {T}: Put a 2/2 Assembly-Worker artifact creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116385</id>
+      <name>Slipstream Serpent</name>
+      <cost>{7}{U}</cost>
+      <type>Creature - Serpent</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Slipstream Serpent can&apos;t attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Slipstream Serpent. &lt;br&gt;Morph {5}{U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116386</id>
+      <name>Sprite Noble</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Faerie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Other creatures you control with flying get +0/+1. &lt;br&gt;{T}: Other creatures you control with flying get +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116387</id>
+      <name>Hivestone</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control are Slivers in addition to their other creature types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116391</id>
+      <name>Moonlace</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target spell or permanent becomes colorless.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116396</id>
+      <name>Pit Keeper</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Pit Keeper comes into play, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116721</id>
+      <name>Dread Return</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to play. &lt;br&gt;Flashback-Sacrifice three creatures. &lt;i&gt;(You may play this card from your graveyard for its flashback cost. Then remove it from the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116723</id>
+      <name>Ironclaw Buzzardiers</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Orc Scout</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Ironclaw Buzzardiers can&apos;t block creatures with power 2 or greater. &lt;br&gt;{R}: Ironclaw Buzzardiers gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116724</id>
+      <name>Stuffy Doll</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Stuffy Doll comes into play, choose a player. &lt;br&gt;Stuffy Doll is indestructible. &lt;br&gt;Whenever damage is dealt to Stuffy Doll, it deals that much damage to the chosen player. &lt;br&gt;{T}: Stuffy Doll deals 1 damage to itself.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116725</id>
+      <name>Academy Ruins</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}{U}, {T}: Put target artifact card in your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116726</id>
+      <name>Tromp the Domains</name>
+      <cost>{5}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Until end of turn, creatures you control gain trample and get +1/+1 for each basic land type among lands you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116727</id>
+      <name>Psychotic Episode</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player reveals his or her hand and the top card of his or her library. You choose a card revealed this way. That player puts the chosen card on the bottom of his or her library. &lt;br&gt;Madness {1}{B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116728</id>
+      <name>Detainment Spell</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature&apos;s activated abilities can&apos;t be played. &lt;br&gt;{1}{W}: Attach Detainment Spell to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116730</id>
+      <name>Strength in Numbers</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116731</id>
+      <name>Thallid Shell-Dweller</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Fungus</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;br&gt;At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller. &lt;br&gt;Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116732</id>
+      <name>Fortify</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116733</id>
+      <name>Flagstones of Trokair</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {W} to your mana pool. &lt;br&gt;When Flagstones of Trokair is put into a graveyard from play, you may search your library for a Plains card and put it into play tapped. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116736</id>
+      <name>Tivadar of Thorn</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike, protection from red &lt;br&gt;When Tivadar of Thorn comes into play, destroy target Goblin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116737</id>
+      <name>Thelon of Havenwood</name>
+      <cost>{G}{G}</cost>
+      <type>Legendary Creature - Elf Druid</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each Fungus creature gets +1/+1 for each spore counter on it. &lt;br&gt;{B}{G}, Remove a Fungus card in a graveyard from the game: Put a spore counter on each Fungus in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116739</id>
+      <name>Mogg War Marshal</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Echo {1}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;When Mogg War Marshal comes into play or is put into a graveyard from play, put a 1/1 red Goblin creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116740</id>
+      <name>Aspect of Mongoose</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has shroud. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt; &lt;br&gt;When Aspect of Mongoose is put into a graveyard from play, return Aspect of Mongoose to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116741</id>
+      <name>Sangrophage</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, tap Sangrophage unless you pay 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116742</id>
+      <name>Nether Traitor</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste &lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Whenever another creature is put into your graveyard from play, you may pay {B}. If you do, return Nether Traitor from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116743</id>
+      <name>Deathspore Thallid</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Fungus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Deathspore Thallid. &lt;br&gt;Remove three spore counters from Deathspore Thallid: Put a 1/1 green Saproling creature token into play. &lt;br&gt;Sacrifice a Saproling: Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116745</id>
+      <name>Scion of the Ur-Dragon</name>
+      <cost>{W}{U}{B}{R}{G}</cost>
+      <type>Legendary Creature - Dragon Avatar</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{2}: Search your library for a Dragon permanent card and put it into your graveyard. If you do, Scion of the Ur-Dragon becomes a copy of that card until end of turn. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116747</id>
+      <name>Opal Guardian</name>
+      <cost>{W}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When an opponent plays a creature spell, if Opal Guardian is an enchantment, Opal Guardian becomes a 3/4 Gargoyle creature with flying and protection from red.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>116748</id>
+      <name>Plague Sliver</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Slivers have &quot;At the beginning of your upkeep, this permanent deals 1 damage to you.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118867</id>
+      <name>Mindlash Sliver</name>
+      <cost>{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{1}, Sacrifice this permanent: Each player discards a card.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118868</id>
+      <name>Phantom Wurm</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Wurm Spirit</type>
+      <power>2</power>
+      <toughness>0</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Phantom Wurm comes into play with four +1/+1 counters on it. &lt;br&gt;If damage would be dealt to Phantom Wurm, prevent that damage. Remove a +1/+1 counter from Phantom Wurm.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118870</id>
+      <name>Word of Seizing</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Untap target permanent and gain control of it until end of turn. It gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118871</id>
+      <name>Spectral Force</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Spectral Force attacks, if defending player controls no black permanents, it doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118872</id>
+      <name>Demonic Collusion</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback-Discard two cards. &lt;i&gt;(You may discard two cards in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Search your library for a card and put that card into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118873</id>
+      <name>Herd Gnarr</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever another creature comes into play under your control, Herd Gnarr gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118876</id>
+      <name>Brass Gnat</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Brass Gnat doesn&apos;t untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Gnat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118878</id>
+      <name>Skittering Monstrosity</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When you play a creature spell, sacrifice Skittering Monstrosity.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118879</id>
+      <name>Jhoira&apos;s Timebug</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Insect</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Choose target permanent you control or suspended card you own. If that permanent or card has a time counter on it, you may remove a time counter from it or put another time counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118880</id>
+      <name>Prismatic Lens</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118881</id>
+      <name>Fungus Sliver</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Fungus Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Sliver creatures have &quot;Whenever this creature is dealt damage, put a +1/+1 counter on it.&quot; &lt;i&gt;(The damage is dealt before the counter is put on.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118882</id>
+      <name>Grapeshot</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Grapeshot deals 1 damage to target creature or player. &lt;br&gt;Storm &lt;i&gt;(When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118883</id>
+      <name>Basalt Gargoyle</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Echo {2}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt; &lt;br&gt;{R}: Basalt Gargoyle gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118884</id>
+      <name>Yavimaya Dryad</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forestwalk &lt;br&gt;When Yavimaya Dryad comes into play, you may search your library for a Forest card and put it into play tapped under target player&apos;s control. If you do, shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118887</id>
+      <name>Temporal Eddy</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put target creature or land on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118888</id>
+      <name>Mwonvuli Acid-Moss</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target land. Search your library for a Forest card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118890</id>
+      <name>Stonewood Invocation</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Target creature gets +5/+5 and gains shroud until end of turn. &lt;i&gt;(It can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118892</id>
+      <name>Dark Withering</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature. &lt;br&gt;Madness {B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118893</id>
+      <name>Durkwood Tracker</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{G}, {T}: If Durkwood Tracker is in play, it deals damage equal to its power to target attacking creature. That creature deals damage equal to its power to Durkwood Tracker.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118894</id>
+      <name>Stormcloud Djinn</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Djinn</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Stormcloud Djinn can block only creatures with flying. &lt;br&gt;{R}{R}: Stormcloud Djinn gets +2/+0 until end of turn and deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118895</id>
+      <name>Brine Elemental</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Morph {5}{U}{U} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Brine Elemental is turned face up, each opponent skips his or her next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118898</id>
+      <name>Skulking Knight</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;When Skulking Knight becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118899</id>
+      <name>Penumbra Spider</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;When Penumbra Spider is put into a graveyard from play, put a 2/4 black Spider creature token with reach into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118900</id>
+      <name>Vampiric Sliver</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have &quot;Whenever a creature dealt damage by this creature this turn is put into a graveyard, put a +1/+1 counter on this creature.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118901</id>
+      <name>Bewilder</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets -3/-0 until end of turn. &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118902</id>
+      <name>Outrider en-Kor</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Rebel Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;{0}: The next 1 damage that would be dealt to Outrider &lt;i&gt;en&lt;/i&gt;-Kor this turn is dealt to target creature you control instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118907</id>
+      <name>Knight of the Holy Nimbus</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Rebel Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt; &lt;br&gt;If Knight of the Holy Nimbus would be destroyed, regenerate it. &lt;br&gt;{2}: Knight of the Holy Nimbus can&apos;t be regenerated this turn. Only any opponent may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118908</id>
+      <name>Sidewinder Sliver</name>
+      <cost>{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have flanking. &lt;i&gt;(Whenever a creature without flanking blocks a Sliver, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118910</id>
+      <name>Truth or Tale</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put a card from the chosen pile into your hand, then put all other cards revealed this way on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118911</id>
+      <name>Wipe Away</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118912</id>
+      <name>Fathom Seer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Morph-Return two Islands you control to their owner&apos;s hand. &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Fathom Seer is turned face up, draw two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118913</id>
+      <name>Spiketail Drakeling</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;Sacrifice Spiketail Drakeling: Counter target spell unless its controller pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118914</id>
+      <name>Sage of Epityr</name>
+      <cost>{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Sage of Epityr comes into play, look at the top four cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118915</id>
+      <name>Stonebrow, Krosan Hero</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Legendary Creature - Centaur Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever a creature you control with trample attacks, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118917</id>
+      <name>Sedge Sliver</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All Sliver creatures have &quot;This creature gets +1/+1 as long as you control a Swamp.&quot; &lt;br&gt;All Slivers have &quot;{B}: Regenerate this permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118918</id>
+      <name>Looter il-Kor</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Kor Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Whenever Looter &lt;i&gt;il&lt;/i&gt;-Kor deals damage to an opponent, draw a card, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118922</id>
+      <name>Gemhide Sliver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{T}: Add one mana of any color to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118923</id>
+      <name>Gorgon Recluse</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Gorgon</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Gorgon Recluse blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat. &lt;br&gt;Madness {B}{B} &lt;i&gt;(If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118924</id>
+      <name>Scryb Ranger</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Flying, protection from blue &lt;br&gt;Return a Forest you control to its owner&apos;s hand: Untap target creature. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>118925</id>
+      <name>Chameleon Blur</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all damage that creatures would deal to players this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>121206</id>
+      <name>Volcanic Awakening</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land. &lt;br&gt;Storm &lt;i&gt;(When you play this spell, copy it for each spell played before it this turn. You may choose new targets for the copies.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>121271</id>
+      <name>Teferi, Mage of Zhalfir</name>
+      <cost>{2}{U}{U}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Creature cards you own that aren&apos;t in play have flash. &lt;br&gt;Each opponent can play spells only any time he or she could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122079</id>
+      <name>Sprout</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put a 1/1 green Saproling creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122082</id>
+      <name>Benalish Cavalry</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122091</id>
+      <name>Paradise Plume</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Paradise Plume comes into play, choose a color. &lt;br&gt;Whenever a player plays a spell of the chosen color, you may gain 1 life. &lt;br&gt;{T}: Add one mana of the chosen color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122094</id>
+      <name>Gemstone Caverns</name>
+      <cost></cost>
+      <type>Legendary Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If Gemstone Caverns is in your opening hand and you&apos;re not playing first, you may begin the game with Gemstone Caverns in play with a luck counter on it. If you do, remove a card in your hand from the game. &lt;br&gt;{T}: Add {1} to your mana pool. If Gemstone Caverns has a luck counter on it, instead add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>122387</id>
+      <name>Screeching Sliver</name>
+      <cost>{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{T}: Target player puts the top card of his or her library into his or her graveyard.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124220</id>
+      <name>Gauntlet of Power</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Gauntlet of Power comes into play, choose a color. &lt;br&gt;Creatures of the chosen color get +1/+1. &lt;br&gt;Whenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124313</id>
+      <name>Ixidron</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Ixidron comes into play, turn all other nontoken creatures in play face down. They&apos;re 2/2 creatures. &lt;br&gt;Ixidron&apos;s power and toughness are each equal to the number of face-down creatures in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>124758</id>
+      <name>Goblin Skycutter</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Warrior</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Goblin Skycutter: Goblin Skycutter deals 2 damage to target creature with flying. That creature loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>125866</id>
+      <name>Venser&apos;s Sliver</name>
+      <cost>{5}</cost>
+      <type>Artifact Creature - Sliver</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126273</id>
+      <name>Magus of the Candelabra</name>
+      <cost>{G}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{X}, {T}: Untap X target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126274</id>
+      <name>Krosan Grip</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126275</id>
+      <name>Thelonite Hermit</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Saproling creatures get +1/+1. &lt;br&gt;Morph {3}{G}{G} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126278</id>
+      <name>Magus of the Mirror</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126279</id>
+      <name>Magus of the Scroll</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Name a card. Reveal a card at random from your hand. If it&apos;s the named card, Magus of the Scroll deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126280</id>
+      <name>Undying Rage</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 and can&apos;t block. &lt;br&gt;When Undying Rage is put into a graveyard from play, return Undying Rage to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126281</id>
+      <name>Celestial Crusader</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash &lt;i&gt;(You may play this spell any time you could play an instant.)&lt;/i&gt; &lt;br&gt;Split second &lt;i&gt;(As long as this spell is on the stack, players can&apos;t play spells or activated abilities that aren&apos;t mana abilities.)&lt;/i&gt; &lt;br&gt;Flying &lt;br&gt;Other white creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126283</id>
+      <name>Weathered Bodyguards</name>
+      <cost>{5}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as Weathered Bodyguards is untapped, all combat damage that would be dealt to you by unblocked creatures is dealt to Weathered Bodyguards instead. &lt;br&gt;Morph {3}{W} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126285</id>
+      <name>Liege of the Pit</name>
+      <cost>{5}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying, trample &lt;br&gt;At the beginning of your upkeep, sacrifice a creature other than Liege of the Pit. If you can&apos;t, Liege of the Pit deals 7 damage to you. &lt;br&gt;Morph {B}{B}{B}{B} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126287</id>
+      <name>Magus of the Jar</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice Magus of the Jar: Each player removes his or her hand from the game face down and draws seven cards. At end of turn, each player discards his or her hand and returns to his or her hand each card he or she removed from the game this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126289</id>
+      <name>Fortune Thief</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Damage that would reduce your life total to less than 1 reduces it to 1 instead. &lt;br&gt;Morph {R}{R} &lt;i&gt;(You may play this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126294</id>
+      <name>Fool&apos;s Demise</name>
+      <cost>{4}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, return that card to play under your control. &lt;br&gt;When Fool&apos;s Demise is put into a graveyard from play, return Fool&apos;s Demise to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126298</id>
+      <name>Magus of the Disk</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Magus of the Disk comes into play tapped. &lt;br&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>83811</id>
+      <name>Evil Eye of Urborg</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Eye</type>
+      <power>6</power>
+      <toughness>3</toughness>
+      <edition>Time Spiral</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Non-Eye creatures you control can&apos;t attack. &lt;br&gt;Whenever Evil Eye of Urborg becomes blocked by a creature, destroy that creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

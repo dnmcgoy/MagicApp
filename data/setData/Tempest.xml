@@ -1,0 +1,2906 @@
+<cards>
+  <name>Tempest</name>
+  <key>Tempest</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>4596</id>
+      <name>Altar of Dementia</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature&apos;s power from the top of his or her library into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4599</id>
+      <name>Coiled Tinviper</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Snake</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4600</id>
+      <name>Cold Storage</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}: Remove target creature you control from the game. &lt;br&gt;Sacrifice Cold Storage: Return each creature card removed from the game with Cold Storage to play under its owner&apos;s control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4601</id>
+      <name>Cursed Scroll</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Name a card. Reveal a card at random from your hand. If it&apos;s the named card, Cursed Scroll deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4602</id>
+      <name>Echo Chamber</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: An opponent chooses target creature he or she controls. Put a token into play as a copy of that creature. The token gains haste until end of turn. Remove the token from the game at end of turn. Play this ability only any time you could play a sorcery.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4603</id>
+      <name>Emerald Medallion</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Green spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4604</id>
+      <name>Emmessi Tome</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}: Draw two cards, then discard a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4605</id>
+      <name>Energizer</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Juggernaut</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Put a +1/+1 counter on Energizer.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4606</id>
+      <name>Essence Bottle</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{3}, {T}: Put an elixir counter on Essence Bottle. &lt;br&gt;{T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4607</id>
+      <name>Excavator</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice a basic land: Target creature gains landwalk of each of the land types of the sacrificed land until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4608</id>
+      <name>Flowstone Sculpture</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Discard a card: Put a +1/+1 counter on Flowstone Sculpture or Flowstone Sculpture gains flying, first strike, or trample. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4609</id>
+      <name>Fool&apos;s Tome</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}: Draw a card. Play this ability only if you have no cards in hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4610</id>
+      <name>Grindstone</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Put the top two cards of target player&apos;s library into that player&apos;s graveyard. If both cards share a color, repeat this process.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4611</id>
+      <name>Helm of Possession</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Helm of Possession during your untap step. &lt;br&gt;{2}, {T}, Sacrifice a creature: Gain control of target creature as long as you control Helm of Possession and Helm of Possession remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4612</id>
+      <name>Jet Medallion</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Black spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4613</id>
+      <name>Jinxed Idol</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you. &lt;br&gt; &lt;br&gt;Sacrifice a creature: Target opponent gains control of Jinxed Idol. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4614</id>
+      <name>Lotus Petal</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4615</id>
+      <name>Magnetic Web</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If a creature with a magnet counter on it attacks, all creatures with magnet counters on them attack this turn if able. &lt;br&gt; &lt;br&gt;Whenever a creature with a magnet counter on it attacks, all creatures with magnet counters on them block that creature this turn if able. &lt;br&gt; &lt;br&gt;{1}, {T}: Put a magnet counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4616</id>
+      <name>Manakin</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {1} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4617</id>
+      <name>Metallic Sliver</name>
+      <cost>{1}</cost>
+      <type>Artifact Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4618</id>
+      <name>Mogg Cannon</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target creature you control gets +1/+0 and gains flying until end of turn. Destroy that creature at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4620</id>
+      <name>Pearl Medallion</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>White spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4621</id>
+      <name>Phyrexian Grimoire</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: Target opponent chooses one of the top two cards in your graveyard. Remove that card from the game and put the other one into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4623</id>
+      <name>Phyrexian Splicer</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: Choose one - flying; first strike; shadow; or trample. Target creature with that ability loses it until end of turn and another target creature gains it until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4624</id>
+      <name>Puppet Strings</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}, {T}: You may tap or untap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4625</id>
+      <name>Ruby Medallion</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Red spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4626</id>
+      <name>Sapphire Medallion</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Blue spells you play cost {1} less to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4627</id>
+      <name>Scalding Tongs</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you have three or fewer cards in hand, Scalding Tongs deals 1 damage to target opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4628</id>
+      <name>Scroll Rack</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, {T}: Remove any number of cards in your hand from the game face down. Put that many cards from the top of your library into your hand. Then look at the removed cards and put them on top of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4629</id>
+      <name>Squee&apos;s Toy</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4631</id>
+      <name>Telethopter</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Thopter</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap an untapped creature you control: Telethopter gains flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4632</id>
+      <name>Thumbscrews</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you have five or more cards in hand, Thumbscrews deals 1 damage to target opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4633</id>
+      <name>Torture Chamber</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a pain counter on Torture Chamber. &lt;br&gt;At the end of your turn, Torture Chamber deals damage to you equal to the number of pain counters on it. &lt;br&gt;{1}, {T}, Remove all pain counters from Torture Chamber: Torture Chamber deals damage to target creature equal to the number of pain counters removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4634</id>
+      <name>Watchdog</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Hound</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Watchdog blocks each turn if able. &lt;br&gt;As long as Watchdog is untapped, all creatures attacking you get -1/-0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4635</id>
+      <name>Abandon Hope</name>
+      <cost>{X}{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Abandon Hope, discard X cards. &lt;br&gt;Look at target opponent&apos;s hand and choose X cards from it. That player discards those cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4636</id>
+      <name>Ancient Tomb</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {2} to your mana pool. Ancient Tomb deals 2 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4638</id>
+      <name>Bounty Hunter</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Archer Minion</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Put a bounty counter on target nonblack creature. &lt;br&gt;{T}: Destroy target creature with a bounty counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4639</id>
+      <name>Carrionette</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{B}{B}: Remove Carrionette and target creature from the game unless that creature&apos;s controller pays {2}. Play this ability only if Carrionette is in your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4640</id>
+      <name>Clot Sliver</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Slivers have &quot;{2}: Regenerate this permanent.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4642</id>
+      <name>Coffin Queen</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may choose not to untap Coffin Queen during your untap step. &lt;br&gt;{2}{B}, {T}: Put target creature card from a graveyard into play under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, remove that creature from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4643</id>
+      <name>Commander Greven il-Vec</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Legendary Creature - Human Warrior</type>
+      <power>7</power>
+      <toughness>5</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fear &lt;br&gt;When Commander Greven &lt;I&gt;il-&lt;/I&gt;Vec comes into play, sacrifice a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4644</id>
+      <name>Corpse Dance</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback {2} &lt;i&gt;(You may pay an additional {2} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Return the top creature card from your graveyard to play. That creature gains haste until end of turn. Remove the creature from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4647</id>
+      <name>Darkling Stalker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Shade Spirit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Regenerate Darkling Stalker. &lt;br&gt;{B}: Darkling Stalker gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4648</id>
+      <name>Dauthi Embrace</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}{B}: Target creature gains shadow until end of turn. &lt;I&gt;(It can block or be blocked by only creatures with shadow.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4649</id>
+      <name>Dauthi Ghoul</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Dauthi Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Whenever a creature with shadow is put into a graveyard from play, put a +1/+1 counter on Dauthi Ghoul.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4650</id>
+      <name>Dauthi Horror</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Dauthi Horror</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Dauthi Horror can&apos;t be blocked by white creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4651</id>
+      <name>Dauthi Marauder</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Dauthi Minion</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4652</id>
+      <name>Dauthi Mercenary</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Dauthi Knight Mercenary</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;{1}{B}: Dauthi Mercenary gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4653</id>
+      <name>Dauthi Mindripper</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Dauthi Minion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Whenever Dauthi Mindripper attacks and isn&apos;t blocked, you may sacrifice it. If you do, defending player discards three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4654</id>
+      <name>Dauthi Slayer</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Dauthi Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt; &lt;br&gt;Dauthi Slayer attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4657</id>
+      <name>Disturbed Burial</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4660</id>
+      <name>Endless Scream</name>
+      <cost>{X}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Endless Scream comes into play with X scream counters on it. &lt;br&gt;Enchanted creature gets +1/+0 for each scream counter on Endless Scream.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4662</id>
+      <name>Evincar&apos;s Justice</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Evincar&apos;s Justice deals 2 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4663</id>
+      <name>Extinction</name>
+      <cost>{4}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures of the creature type of your choice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4664</id>
+      <name>Fevered Convulsions</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{B}{B}: Put a -1/-1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4666</id>
+      <name>Imps&apos; Taunt</name>
+      <cost>{1}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Target creature attacks this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4667</id>
+      <name>Kezzerdrix</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Rabbit Beast</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>First strike &lt;br&gt;At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4670</id>
+      <name>Leeching Licid</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Licid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}, {T}: Leeching Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect. &lt;br&gt;At the beginning of the upkeep of enchanted creature&apos;s controller, Leeching Licid deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4672</id>
+      <name>Maddening Imp</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying  &lt;br&gt;{T}: Each non-Wall creature the active player controls attacks this turn if able. At end of turn, destroy each of those creatures that didn&apos;t attack this turn. Play this ability only during an opponent&apos;s turn, before attackers are declared.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4673</id>
+      <name>Marsh Lurker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Swamp: Marsh Lurker gains fear until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4674</id>
+      <name>Mindwhip Sliver</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{2}, Sacrifice this permanent: Target player discards a card at random. Play this ability only any time you could play a sorcery.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4675</id>
+      <name>Minion of the Wastes</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Minion</type>
+      <power>*</power>
+      <toughness>*</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;As Minion of the Wastes comes into play, pay any amount of life. &lt;br&gt;Minion of the Wastes&apos;s power and toughness are each equal to the life paid as it came into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4677</id>
+      <name>Pit Imp</name>
+      <cost>{B}</cost>
+      <type>Creature - Imp</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;br&gt;{B}: Pit Imp gets +1/+0 until end of turn. Play this ability no more than twice each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4679</id>
+      <name>Rats of Rath</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Rat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{B}: Destroy target artifact, creature, or land you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4683</id>
+      <name>Sarcomancy</name>
+      <cost>{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Sarcomancy comes into play, put a 2/2 black Zombie creature token into play. &lt;br&gt;At the beginning of your upkeep, if there are no Zombies in play, Sarcomancy deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4684</id>
+      <name>Screeching Harpy</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Harpy Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{1}{B}: Regenerate Screeching Harpy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4685</id>
+      <name>Servant of Volrath</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Minion</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Servant of Volrath leaves play, sacrifice a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4686</id>
+      <name>Skyshroud Vampire</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4687</id>
+      <name>Souldrinker</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Pay 3 life: Put a +1/+1 counter on Souldrinker.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4688</id>
+      <name>Spinal Graft</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3. &lt;br&gt;When enchanted creature becomes the target of a spell or ability, destroy that creature. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4689</id>
+      <name>Armor Sliver</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have &quot;{2}: This creature gets +0/+1 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4691</id>
+      <name>Capsize</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4695</id>
+      <name>Dismiss</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4697</id>
+      <name>Duplicity</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Duplicity comes into play, remove the top five cards of your library from the game face down. &lt;br&gt;At the beginning of your upkeep, you may remove your hand from the game face down. If you do, put into your hand all other cards you own removed from the game with Duplicity. &lt;br&gt;At the end of your turn, discard a card. &lt;br&gt;When you lose control of Duplicity, put all cards removed from the game with Duplicity into their owners&apos; graveyards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4698</id>
+      <name>Ertai&apos;s Meddling</name>
+      <cost>{X}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>X can&apos;t be 0.  &lt;br&gt;Target spell&apos;s controller removes it from the game with X delay counters on it. &lt;br&gt;At the beginning of each of that player&apos;s upkeeps, if that card is removed from the game, remove a delay counter from it. If the card has no delay counters on it, he or she puts it onto the stack as a copy of the original spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4699</id>
+      <name>Escaped Shapeshifter</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4701</id>
+      <name>Fylamarid</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Squid Beast</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Fylamarid can&apos;t be blocked by blue creatures. &lt;br&gt;{U}: Target creature becomes blue until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4706</id>
+      <name>Interdict</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target activated ability from an artifact, creature, enchantment, or land. That permanent&apos;s activated abilities can&apos;t be played this turn. &lt;I&gt;(Mana abilities can&apos;t be targeted.)&lt;/I&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4707</id>
+      <name>Intuition</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for any three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4708</id>
+      <name>Legacy&apos;s Allure</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, you may put a treasure counter on Legacy&apos;s Allure. &lt;br&gt;Sacrifice Legacy&apos;s Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy&apos;s Allure. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4709</id>
+      <name>Legerdemain</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Exchange control of target artifact or creature and another target permanent that shares one of those types with it. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4710</id>
+      <name>Mana Severance</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for any number of land cards and remove them from the game. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4713</id>
+      <name>Meditate</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw four cards. You skip your next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4714</id>
+      <name>Mnemonic Sliver</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Slivers have &quot;{2}, Sacrifice this permanent: Draw a card.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4717</id>
+      <name>Precognition</name>
+      <cost>{4}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may look at the top card of target opponent&apos;s library, then you may put that card on the bottom of that player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4718</id>
+      <name>Propaganda</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures can&apos;t attack you unless their controller pays {2} for each creature he or she controls that&apos;s attacking you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4720</id>
+      <name>Rootwater Diver</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Rootwater Diver: Return target artifact card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4721</id>
+      <name>Rootwater Hunter</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Rootwater Hunter deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4723</id>
+      <name>Rootwater Shaman</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Merfolk Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may play Aura cards with enchant creature as though they had flash.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4725</id>
+      <name>Shadow Rift</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains shadow until end of turn. &lt;I&gt;(It can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4727</id>
+      <name>Skyshroud Condor</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;You can&apos;t play Skyshroud Condor unless you&apos;ve played another spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4729</id>
+      <name>Steal Enchantment</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant enchantment &lt;br&gt;You control enchanted enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4730</id>
+      <name>Stinging Licid</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Licid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{U}, {T}: Stinging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect. &lt;br&gt;Whenever enchanted creature becomes tapped, Stinging Licid deals 2 damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4732</id>
+      <name>Thalakos Dreamsower</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Thalakos Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;You may choose not to untap Thalakos Dreamsower during your untap step. &lt;br&gt;Whenever Thalakos Dreamsower deals damage to an opponent, tap target creature. That creature doesn&apos;t untap during its controller&apos;s untap step as long as Thalakos Dreamsower remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4733</id>
+      <name>Thalakos Mistfolk</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Thalakos Illusion</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;{U}: Put Thalakos Mistfolk on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4734</id>
+      <name>Thalakos Seer</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Thalakos Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;When Thalakos Seer leaves play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4735</id>
+      <name>Thalakos Sentry</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Thalakos Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4737</id>
+      <name>Time Warp</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player takes an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4738</id>
+      <name>Tradewind Rider</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{T}, Tap two untapped creatures you control: Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4740</id>
+      <name>Unstable Shapeshifter</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature comes into play, Unstable Shapeshifter becomes a copy of that creature and gains this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4741</id>
+      <name>Volrath&apos;s Curse</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t attack or block and its activated abilities can&apos;t be played. That creature&apos;s controller may sacrifice a permanent to ignore this ability until end of turn. &lt;br&gt;{1}{U}: Return Volrath&apos;s Curse to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4742</id>
+      <name>Whim of Volrath</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Buyback {2} &lt;i&gt;(You may pay an additional {2} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Change the text of target permanent by replacing all instances of one color word or basic land type with another until end of turn. &lt;I&gt;(For example, you may change &quot;nonred creature&quot; to &quot;nongreen creature&quot; or &quot;plainswalk&quot; to &quot;swampwalk.&quot;)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4743</id>
+      <name>Whispers of the Muse</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {5} &lt;i&gt;(You may pay an additional {5} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4746</id>
+      <name>Winged Sliver</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4747</id>
+      <name>Aluren</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4748</id>
+      <name>Apes of Rath</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Ape</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Apes of Rath attacks, it doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4749</id>
+      <name>Bayou Dragonfly</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4752</id>
+      <name>Charging Rhino</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Rhino</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Charging Rhino can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4754</id>
+      <name>Crazed Armodon</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{G}: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4756</id>
+      <name>Earthcraft</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap an untapped creature you control: Untap target basic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4757</id>
+      <name>Eladamri, Lord of Leaves</name>
+      <cost>{G}{G}</cost>
+      <type>Legendary Creature - Elf Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Elf creatures have forestwalk. &lt;br&gt;Other Elves have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4758</id>
+      <name>Eladamri&apos;s Vineyard</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s precombat main phase, add {G}{G} to that player&apos;s mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4759</id>
+      <name>Elven Warhounds</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Elven Warhounds becomes blocked by a creature, put that creature on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4760</id>
+      <name>Elvish Fury</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4761</id>
+      <name>Flailing Drake</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;When Flailing Drake blocks or becomes blocked by a creature, that creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4762</id>
+      <name>Frog Tongue</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Frog Tongue comes into play, draw a card. &lt;br&gt;Enchanted creature has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4763</id>
+      <name>Fugitive Druid</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Fugitive Druid becomes the target of an Aura spell, you draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4765</id>
+      <name>Heartwood Dryad</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Dryad</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Heartwood Dryad can block creatures with shadow as though they didn&apos;t have shadow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4766</id>
+      <name>Heartwood Giant</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Giant</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4767</id>
+      <name>Heartwood Treefolk</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4768</id>
+      <name>Horned Sliver</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have trample.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4769</id>
+      <name>Krakilin</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Krakilin comes into play with X +1/+1 counters on it. &lt;br&gt; &lt;br&gt;{1}{G}: Regenerate Krakilin.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4770</id>
+      <name>Mirri&apos;s Guile</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4771</id>
+      <name>Mongrel Pack</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Hound</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Mongrel Pack is put into a graveyard from play during combat, put four 1/1 green Hound creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4772</id>
+      <name>Muscle Sliver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4776</id>
+      <name>Nurturing Licid</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Licid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, {T}: Nurturing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect. &lt;br&gt;{G}: Regenerate enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4780</id>
+      <name>Reality Anchor</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature loses shadow until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4781</id>
+      <name>Reap</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return up to X target cards from your graveyard to your hand, where X is the number of black permanents target opponent controls as you play Reap.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4782</id>
+      <name>Recycle</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skip your draw step. &lt;br&gt; &lt;br&gt;Whenever you play a card, draw a card. &lt;br&gt; &lt;br&gt;Your maximum hand size is two.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4783</id>
+      <name>Respite</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4787</id>
+      <name>Scragnoth</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Scragnoth can&apos;t be countered. &lt;br&gt;Protection from blue</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4789</id>
+      <name>Skyshroud Elf</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Add {G} to your mana pool. &lt;br&gt;{1}: Add {W} or {R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4791</id>
+      <name>Skyshroud Troll</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Troll Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{G}: Regenerate Skyshroud Troll.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4792</id>
+      <name>Spike Drone</name>
+      <cost>{G}</cost>
+      <type>Creature - Spike Drone</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spike Drone comes into play with a +1/+1 counter on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Drone: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4793</id>
+      <name>Storm Front</name>
+      <cost>{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}{G}: Tap target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4798</id>
+      <name>Verdigris</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4800</id>
+      <name>Aftershock</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact, creature, or land. Aftershock deals 3 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4801</id>
+      <name>Ancient Runes</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, Ancient Runes deals damage to that player equal to the number of artifacts he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4802</id>
+      <name>Apocalypse</name>
+      <cost>{2}{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Remove all permanents from the game. You discard your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4803</id>
+      <name>Barbed Sliver</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All Sliver creatures have &quot;{2}: This creature gets +1/+0 until end of turn.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4804</id>
+      <name>Blood Frenzy</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Blood Frenzy only before the combat damage step. &lt;br&gt;Target attacking or blocking creature gets +4/+0 until end of turn. Destroy that creature at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4806</id>
+      <name>Canyon Drake</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{1}, Discard a card at random: Canyon Drake gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4808</id>
+      <name>Chaotic Goo</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Ooze</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Chaotic Goo comes into play with three +1/+1 counters on it. &lt;br&gt;At the beginning of your upkeep, you may flip a coin. If you win the flip, add a +1/+1 counter to Chaotic Goo. If you lose the flip, remove a +1/+1 counter from Chaotic Goo.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4810</id>
+      <name>Deadshot</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap target creature. It deals damage equal to its power to another target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4811</id>
+      <name>Enraging Licid</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Licid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}, {T}: Enraging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect. &lt;br&gt;Enchanted creature has haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4813</id>
+      <name>Firefly</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Firefly gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4814</id>
+      <name>Fireslinger</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4816</id>
+      <name>Flowstone Giant</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Giant</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}: Flowstone Giant gets +2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4817</id>
+      <name>Flowstone Salamander</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Salamander</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{R}: Flowstone Salamander deals 1 damage to target creature blocking it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4818</id>
+      <name>Flowstone Wyvern</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Flowstone Wyvern gets +2/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4821</id>
+      <name>Goblin Bombardment</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4822</id>
+      <name>Hand to Hand</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Instants and activated abilities that aren&apos;t mana abilities can&apos;t be played during the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4823</id>
+      <name>Havoc</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever an opponent plays a white spell, he or she loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4824</id>
+      <name>Heart Sliver</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4825</id>
+      <name>Jackal Pup</name>
+      <cost>{R}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4826</id>
+      <name>Kindle</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Kindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4830</id>
+      <name>Magmasaur</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental Lizard</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Magmasaur comes into play with five +1/+1 counters on it. &lt;br&gt;At the beginning of your upkeep, sacrifice Magmasaur unless you remove a +1/+1 counter from it. If you sacrifice Magmasaur this way, it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4831</id>
+      <name>Mogg Conscripts</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mogg Conscripts can&apos;t attack unless you&apos;ve played a creature spell this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4833</id>
+      <name>Mogg Raider</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4834</id>
+      <name>Mogg Squad</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Mogg Squad gets -1/-1 for each other creature in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4835</id>
+      <name>No Quarter</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a creature becomes blocked by a creature with lesser power, destroy the blocking creature. &lt;br&gt; &lt;br&gt;Whenever a creature blocks a creature with lesser power, destroy the attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4836</id>
+      <name>Opportunist</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Opportunist deals 1 damage to target creature that was dealt damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4837</id>
+      <name>Pallimud</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Beast</type>
+      <power>*</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As Pallimud comes into play, choose an opponent. &lt;br&gt;Pallimud&apos;s power is equal to the number of tapped lands the chosen player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4839</id>
+      <name>Renegade Warlord</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4842</id>
+      <name>Scorched Earth</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to play Scorched Earth, discard X land cards. &lt;br&gt;Destroy X target lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4843</id>
+      <name>Searing Touch</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {4} &lt;i&gt;(You may pay an additional {4} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Searing Touch deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4846</id>
+      <name>Shadowstorm</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadowstorm deals 2 damage to each creature with shadow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4848</id>
+      <name>Shocker</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4849</id>
+      <name>Starke of Rath</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Legendary Creature - Human Rogue</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target artifact or creature. That permanent&apos;s controller gains control of Starke of Rath. &lt;I&gt;(This effect doesn&apos;t end at end of turn.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4853</id>
+      <name>Tahngarth&apos;s Rage</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+0 as long as it&apos;s attacking. Otherwise, it gets -2/-1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4854</id>
+      <name>Tooth and Claw</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice two creatures: Put a 3/1 red Beast creature token named Carnivore into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4855</id>
+      <name>Wall of Diffusion</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>5</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;Wall of Diffusion can block creatures with shadow as though they didn&apos;t have shadow.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4856</id>
+      <name>Wild Wurm</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Wurm</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Wild Wurm comes into play, flip a coin. If you lose the flip, return Wild Wurm to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4858</id>
+      <name>Angelic Protector</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4859</id>
+      <name>Anoint</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;Prevent the next 3 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4862</id>
+      <name>Auratog</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Atog</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice an enchantment: Auratog gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4863</id>
+      <name>Avenging Angel</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Avenging Angel is put into a graveyard from play, you may put Avenging Angel on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4868</id>
+      <name>Circle of Protection: Shadow</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a creature of your choice with shadow would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4870</id>
+      <name>Clergy en-Vec</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4874</id>
+      <name>Field of Souls</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a nontoken creature is put into your graveyard from play, put a 1/1 white Spirit creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4875</id>
+      <name>Flickering Ward</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As Flickering Ward comes into play, choose a color. &lt;br&gt;Enchanted creature has protection from the chosen color. This effect doesn&apos;t remove Flickering Ward. &lt;br&gt;{W}: Return Flickering Ward to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4877</id>
+      <name>Gerrard&apos;s Battle Cry</name>
+      <cost>{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{W}: Creatures you control get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4878</id>
+      <name>Hanna&apos;s Custody</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Artifacts have shroud. &lt;i&gt;(They can&apos;t be the targets of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4881</id>
+      <name>Humility</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures lose all abilities and are 1/1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4882</id>
+      <name>Invulnerability</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {3} &lt;i&gt;(You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;The next time a source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4883</id>
+      <name>Knight of Dawn</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;{W}{W}: Knight of Dawn gains protection from the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4888</id>
+      <name>Mounted Archers</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt; &lt;br&gt;{W}: Mounted Archers can block an additional creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4889</id>
+      <name>Oracle en-Vec</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target opponent chooses any number of creatures he or she controls. During that player&apos;s next turn, the chosen creatures attack if able, and other creatures can&apos;t attack. At the end of that turn, destroy each of the chosen creatures that didn&apos;t attack. Play this ability only during your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4890</id>
+      <name>Orim, Samite Healer</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4891</id>
+      <name>Orim&apos;s Prayer</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever one or more creatures attack you, you gain 1 life for each attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4893</id>
+      <name>Pegasus Refuge</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, Discard a card: Put a 1/1 white Pegasus creature token with flying into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4894</id>
+      <name>Quickening Licid</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Licid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{W}, {T}: Quickening Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect. &lt;br&gt;Enchanted creature has first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4895</id>
+      <name>Repentance</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature deals damage to itself equal to its power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4896</id>
+      <name>Sacred Guide</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{W}, Sacrifice Sacred Guide: Reveal cards from the top of your library until you reveal a white card. Put that card into your hand and remove all other cards revealed this way from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4897</id>
+      <name>Safeguard</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{W}: Prevent all combat damage that would be dealt by target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4898</id>
+      <name>Serene Offering</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target enchantment. You gain life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4899</id>
+      <name>Soltari Crusader</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Soltari Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;{1}{W}: Soltari Crusader gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4900</id>
+      <name>Soltari Emissary</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{W}: Soltari Emissary gains shadow until end of turn. &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4902</id>
+      <name>Soltari Lancer</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Soltari Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Soltari Lancer has first strike as long as it&apos;s attacking.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4903</id>
+      <name>Soltari Monk</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Soltari Monk Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from black &lt;br&gt;Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4904</id>
+      <name>Soltari Priest</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Soltari Cleric</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from red &lt;br&gt;Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4905</id>
+      <name>Soltari Trooper</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4906</id>
+      <name>Spirit Mirror</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if there are no Reflection tokens in play, put a 2/2 white Reflection creature token into play. &lt;br&gt;{0}: Destroy target Reflection.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4908</id>
+      <name>Talon Sliver</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Sliver</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Common</rarity>
+      <oracleText>All Sliver creatures have first strike.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4910</id>
+      <name>Winds of Rath</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures that aren&apos;t enchanted. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4911</id>
+      <name>Worthy Cause</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Buyback {2} &lt;i&gt;(You may pay an additional {2} as you play this spell. If you do, put this card into your hand as it resolves.)&lt;/i&gt; &lt;br&gt;As an additional cost to play Worthy Cause, sacrifice a creature. &lt;br&gt;You gain life equal to the sacrificed creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4912</id>
+      <name>Dracoplasm</name>
+      <cost>{U}{R}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>0</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;As Dracoplasm comes into play, sacrifice any number of creatures. Dracoplasm&apos;s power becomes the total power of those creatures and its toughness becomes their total toughness. &lt;br&gt; &lt;br&gt;{R}: Dracoplasm gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4914</id>
+      <name>Ranger en-Vec</name>
+      <cost>{1}{W}{G}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike &lt;br&gt;{G}: Regenerate Ranger &lt;I&gt;en-&lt;/I&gt;Vec.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4916</id>
+      <name>Selenia, Dark Angel</name>
+      <cost>{3}{W}{B}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Pay 2 life: Return Selenia, Dark Angel to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4917</id>
+      <name>Sky Spirit</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4918</id>
+      <name>Soltari Guerrillas</name>
+      <cost>{2}{W}{R}</cost>
+      <type>Creature - Soltari Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Shadow &lt;I&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/I&gt; &lt;br&gt;{0}: The next time Soltari Guerrillas would deal combat damage to defending player this turn, it deals that damage to target creature instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4919</id>
+      <name>Spontaneous Combustion</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As an additional cost to play Spontaneous Combustion, sacrifice a creature. &lt;br&gt; &lt;br&gt;Spontaneous Combustion deals 3 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4921</id>
+      <name>Wood Sage</name>
+      <cost>{U}{G}</cost>
+      <type>Creature - Human Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4930</id>
+      <name>Caldera Lake</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Caldera Lake comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4932</id>
+      <name>Ghost Town</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{0}: Return Ghost Town to its owner&apos;s hand. Play this ability only if it&apos;s not your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4933</id>
+      <name>Maze of Shadows</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4935</id>
+      <name>Pine Barrens</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Pine Barrens comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4936</id>
+      <name>Reflecting Pool</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add to your mana pool one mana of any type that a land you control could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4937</id>
+      <name>Rootwater Depths</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {U} or {B} to your mana pool. Rootwater Depths doesn&apos;t untap during your next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4938</id>
+      <name>Salt Flats</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Salt Flats comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4939</id>
+      <name>Scabland</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Scabland comes into play tapped. &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4940</id>
+      <name>Skyshroud Forest</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skyshroud Forest comes into play tapped. &lt;br&gt;{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {U} or {G} to your mana pool. Skyshroud Forest deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4944</id>
+      <name>Wasteland</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Tempest</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Wasteland: Destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,2633 @@
+<cards>
+  <name>Fifth_Edition</name>
+  <key>Fifth_Edition</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>3759</id>
+      <name>Amulet of Kroog</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3760</id>
+      <name>Ankh of Mishra</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a land comes into play, Ankh of Mishra deals 2 damage to that land&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3762</id>
+      <name>Ashnod&apos;s Transmogrant</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Ashnod&apos;s Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3763</id>
+      <name>Barbed Sextant</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3764</id>
+      <name>Barl&apos;s Cage</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}: Target creature doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3769</id>
+      <name>Clockwork Steed</name>
+      <cost>{4}</cost>
+      <type>Artifact Creature - Horse</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Clockwork Steed comes into play with four +1/+0 counters on it. &lt;br&gt;Clockwork Steed can&apos;t be blocked by artifact creatures. &lt;br&gt;At end of combat, if Clockwork Steed attacked or blocked this turn, remove a +1/+0 counter from it. &lt;br&gt;{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can&apos;t cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Play this ability only during your upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3772</id>
+      <name>Crown of the Ages</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: Attach target Aura attached to a creature to another creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3776</id>
+      <name>Dingus Egg</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a land is put into a graveyard from play, Dingus Egg deals 2 damage to that land&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3779</id>
+      <name>Elkin Bottle</name>
+      <cost>{3}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}, {T}: Remove the top card of your library from the game. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven&apos;t played the card, put it into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3780</id>
+      <name>Feldon&apos;s Cane</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Remove Feldon&apos;s Cane from the game: Shuffle your graveyard into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3781</id>
+      <name>Fellwar Stone</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3785</id>
+      <name>Gauntlets of Chaos</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land an opponent controls and a permanent you control if they share one of those types. Destroy all Auras attached to those permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3790</id>
+      <name>Infinite Hourglass</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a time counter on Infinite Hourglass. &lt;br&gt; &lt;br&gt;All creatures get +1/+0 for each time counter on Infinite Hourglass. &lt;br&gt; &lt;br&gt;{3}: Remove a time counter from Infinite Hourglass. Any player may play this ability but only during any upkeep step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3797</id>
+      <name>Jester&apos;s Cap</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}, {T}, Sacrifice Jester&apos;s Cap: Search target player&apos;s library for three cards and remove them from the game. Then that player shuffles his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3798</id>
+      <name>Joven&apos;s Tools</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}, {T}: Target creature can&apos;t be blocked this turn except by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3804</id>
+      <name>Obelisk of Undoing</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{6}, {T}: Return target permanent you own and control to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3809</id>
+      <name>Serpent Generator</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{4}, {T}: Put a 1/1 Snake artifact creature token into play. This creature has &quot;Whenever this creature deals damage to a player, that player gets a poison counter.&quot; &lt;i&gt;(A player with ten or more poison counters loses the game.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3810</id>
+      <name>Shapeshifter</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Shapeshifter</type>
+      <power>*</power>
+      <toughness>7-*</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Shapeshifter comes into play, choose a number between 0 and 7. &lt;br&gt;At the beginning of your upkeep, you may choose a number between 0 and 7. &lt;br&gt;Shapeshifter&apos;s power is equal to the last chosen number and its toughness is equal to 7 minus that number.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3811</id>
+      <name>Skull Catapult</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3816</id>
+      <name>Time Bomb</name>
+      <cost>{4}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, put a time counter on Time Bomb. &lt;br&gt; &lt;br&gt;{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage to each creature and each player equal to the number of time counters on Time Bomb.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3817</id>
+      <name>Urza&apos;s Avenger</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Shapeshifter</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{0}: Urza&apos;s Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3818</id>
+      <name>Urza&apos;s Bauble</name>
+      <cost>{0}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}, Sacrifice Urza&apos;s Bauble: Look at a card at random in target player&apos;s hand. You draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3821</id>
+      <name>Wooden Sphere</name>
+      <cost>{1}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a player plays a green spell, you may pay {1}. If you do, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3829</id>
+      <name>Bog Rats</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Bog Rats can&apos;t be blocked by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3831</id>
+      <name>Breeding Pit</name>
+      <cost>{3}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.  &lt;br&gt;At the end of your turn, put a 0/1 black Thrull creature token into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3832</id>
+      <name>Broken Visage</name>
+      <cost>{4}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy target attacking nonartifact creature. It can&apos;t be regenerated. Put a black Spirit creature token into play with power and toughness equal to the power and toughness of that creature. Sacrifice the Spirit token at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3833</id>
+      <name>Carrion Ants</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Carrion Ants gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3834</id>
+      <name>Cloak of Confusion</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature attacks and isn&apos;t blocked, you may have it deal no combat damage this turn. If you do, defending player discards a card at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3838</id>
+      <name>Derelor</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Black spells you play cost {B} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3842</id>
+      <name>Evil Eye of Orms-by-Gore</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Eye</type>
+      <power>3</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Non-Eye creatures you control can&apos;t attack. &lt;br&gt;Evil Eye of Orms-by-Gore can&apos;t be blocked except by Walls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3843</id>
+      <name>Evil Presence</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;Enchanted land is a Swamp.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3847</id>
+      <name>Funeral March</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When enchanted creature leaves play, its controller sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3848</id>
+      <name>Gloom</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>White spells and activated abilities of white enchantments cost {3} more to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3849</id>
+      <name>Greater Werewolf</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Wolf</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At end of combat, put a -0/-2 counter on all creatures blocking or blocked by Greater Werewolf.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3850</id>
+      <name>Hecatomb</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Hecatomb comes into play, sacrifice Hecatomb unless you sacrifice four creatures. &lt;br&gt;Tap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3852</id>
+      <name>Initiates of the Ebon Hand</name>
+      <cost>{B}</cost>
+      <type>Creature - Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: Add {B} to your mana pool. At end of turn, if this ability has been played four or more times this turn, sacrifice Initiates of the Ebon Hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3853</id>
+      <name>Kjeldoran Dead</name>
+      <cost>{B}</cost>
+      <type>Creature - Skeleton</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Kjeldoran Dead comes into play, sacrifice a creature. &lt;br&gt;{B}: Regenerate Kjeldoran Dead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3854</id>
+      <name>Knight of Stromgald</name>
+      <cost>{B}{B}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from white &lt;br&gt;{B}: Knight of Stromgald gains first strike until end of turn. &lt;br&gt;{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3855</id>
+      <name>Krovikan Fetish</name>
+      <cost>{2}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;When Krovikan Fetish comes into play, draw a card at the beginning of the next turn&apos;s upkeep. &lt;br&gt;Enchanted creature gets +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3859</id>
+      <name>Mind Ravel</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player discards a card. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3860</id>
+      <name>Mind Warp</name>
+      <cost>{X}{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Look at target player&apos;s hand and choose X cards from it. That player discards them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3861</id>
+      <name>Mindstab Thrull</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Mindstab Thrull attacks and isn&apos;t blocked, you may sacrifice it. If you do, defending player discards three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3862</id>
+      <name>Mole Worms</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Worm</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Mole Worms during your untap step. &lt;br&gt;{T}: Tap target land. It doesn&apos;t untap during its controller&apos;s untap step as long as Mole Worms remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3863</id>
+      <name>Murk Dwellers</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Murk Dwellers attacks and isn&apos;t blocked, it gets +2/+0 until end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3864</id>
+      <name>Necrite</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Thrull</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Necrite attacks and isn&apos;t blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3865</id>
+      <name>Necropotence</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Skip your draw step. &lt;br&gt;If you would discard a card, discard it, but remove it from the game instead of putting it into your graveyard. &lt;br&gt;Pay 1 life: Remove the top card of your library from the game face down. Put that card into your hand at the end of your turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3870</id>
+      <name>Pit Scorpion</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Scorpion</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. &lt;I&gt;(A player with ten or more poison counters loses the game.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3872</id>
+      <name>Pox</name>
+      <cost>{B}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player loses a third of his or her life, then discards a third of the cards in his or her hand, then sacrifices a third of the creatures he or she controls, then sacrifices a third of the lands he or she controls. Round up each time.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3876</id>
+      <name>Sengir Autocrat</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Sengir Autocrat comes into play, put three 0/1 black Serf creature tokens into play. &lt;br&gt;When Sengir Autocrat leaves play, remove all Serf tokens from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3880</id>
+      <name>The Wretched</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At end of combat, gain control of all creatures blocking The Wretched as long as you control The Wretched.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3881</id>
+      <name>Thrull Retainer</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;Sacrifice Thrull Retainer: Regenerate enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3882</id>
+      <name>Torture</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;{1}{B}: Put a -1/-1 counter on enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3883</id>
+      <name>Touch of Death</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Touch of Death deals 1 damage to target player. You gain 1 life. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3885</id>
+      <name>Vampire Bats</name>
+      <cost>{B}</cost>
+      <type>Creature - Bat</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt; &lt;br&gt;{B}: Vampire Bats gets +1/+0 until end of turn. Play this ability no more than twice each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3887</id>
+      <name>Warp Artifact</name>
+      <cost>{B}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;At the beginning of the upkeep of enchanted artifact&apos;s controller, Warp Artifact deals 1 damage to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3891</id>
+      <name>Æther Storm</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creature cards can&apos;t be played. &lt;br&gt; &lt;br&gt;Pay 4 life: Destroy Æther Storm. It can&apos;t be regenerated. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3892</id>
+      <name>Air Elemental</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying or reach.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3893</id>
+      <name>Anti-Magic Aura</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be the target of spells and can&apos;t be enchanted. This effect doesn&apos;t remove Anti-Magic Aura.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3894</id>
+      <name>Azure Drake</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;i&gt;(This creature can&apos;t be blocked except by creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3895</id>
+      <name>Binding Grasp</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}. &lt;br&gt;You control enchanted creature. &lt;br&gt;Enchanted creature gets +0/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3897</id>
+      <name>Brainstorm</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw three cards, then put two cards from your hand on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3899</id>
+      <name>Dance of Many</name>
+      <cost>{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Dance of Many comes into play, put a token into play as a copy of target nontoken creature. &lt;br&gt; &lt;br&gt;When Dance of Many leaves play, remove the creature token from the game. &lt;br&gt; &lt;br&gt;When the creature token leaves play, sacrifice Dance of Many. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3900</id>
+      <name>Dandân</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dandân can&apos;t attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Dandân.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3901</id>
+      <name>Dark Maze</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt; &lt;br&gt;{0}: Dark Maze can attack this turn as though it didn&apos;t have defender.  Remove it from the game at end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3902</id>
+      <name>Deflection</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Change the target of target spell with a single target.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3905</id>
+      <name>Enervate</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap target artifact, creature, or land. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3910</id>
+      <name>Forget</name>
+      <cost>{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player discards two cards, then draws as many cards as he or she discarded this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3911</id>
+      <name>Gaseous Form</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Prevent all combat damage that would be dealt to and dealt by enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3912</id>
+      <name>Glacial Wall</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>7</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender &lt;i&gt;(This creature can&apos;t attack.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3913</id>
+      <name>Homarid Warrior</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Homarid Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{U}: Homarid Warrior gains shroud until end of turn and doesn&apos;t untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can&apos;t be the target of spells or abilities.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3915</id>
+      <name>Hydroblast</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Counter target spell if it&apos;s red; or destroy target permanent if it&apos;s red.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3916</id>
+      <name>Juxtapose</name>
+      <cost>{3}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3917</id>
+      <name>Krovikan Sorcerer</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Discard a card: Draw a card. &lt;br&gt;{T}, Discard a black card: Draw two cards, then discard one of them.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3918</id>
+      <name>Labyrinth Minotaur</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Minotaur</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn&apos;t untap during its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3919</id>
+      <name>Leviathan</name>
+      <cost>{5}{U}{U}{U}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Leviathan comes into play tapped and doesn&apos;t untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan. &lt;br&gt;Leviathan can&apos;t attack unless you sacrifice two Islands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3923</id>
+      <name>Magus of the Unseen</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. If it&apos;s an artifact creature, it gains haste until end of turn. When you lose control of the artifact, tap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3931</id>
+      <name>Portent</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top three cards of target player&apos;s library, then put them back in any order. You may have that player shuffle his or her library. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3935</id>
+      <name>Ray of Command</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. &lt;br&gt; &lt;br&gt;When you lose control of the creature, tap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3936</id>
+      <name>Recall</name>
+      <cost>{X}{X}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Remove Recall from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3937</id>
+      <name>Reef Pirates</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Zombie Pirate</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3940</id>
+      <name>Sea Spirit</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{U}: Sea Spirit gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3941</id>
+      <name>Sea Sprite</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Faerie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3942</id>
+      <name>Seasinger</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Merfolk</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When you control no Islands, sacrifice Seasinger. &lt;br&gt;You may choose not to untap Seasinger during your untap step. &lt;br&gt;{T}: Gain control of target creature whose controller controls an Island as long as you control Seasinger and as long as Seasinger remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3943</id>
+      <name>Segovian Leviathan</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Leviathan</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3944</id>
+      <name>Sibilant Spirit</name>
+      <cost>{5}{U}</cost>
+      <type>Creature - Spirit</type>
+      <power>5</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Sibilant Spirit attacks, defending player may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3946</id>
+      <name>Soul Barrier</name>
+      <cost>{2}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever an opponent plays a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3949</id>
+      <name>Steal Artifact</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant artifact &lt;br&gt;You control enchanted artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3953</id>
+      <name>Unsummon</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3954</id>
+      <name>Updraft</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains flying until end of turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3958</id>
+      <name>Zephyr Falcon</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3959</id>
+      <name>Zur&apos;s Weirding</name>
+      <cost>{3}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Players play with their hands revealed. &lt;br&gt;If a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner&apos;s graveyard. Otherwise, that player draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3960</id>
+      <name>An-Havva Constable</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Human</type>
+      <power>2</power>
+      <toughness>1+*</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>An-Havva Constable&apos;s toughness is equal to 1 plus the number of green creatures in play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3961</id>
+      <name>Aspect of Wolf</name>
+      <cost>{1}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +X/+Y, where X is equal to half the number of Forests you control, rounded down, and Y is equal to half the number of Forests you control, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3962</id>
+      <name>Aurochs</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Aurochs</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample &lt;br&gt;Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3964</id>
+      <name>Carapace</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2. &lt;br&gt;Sacrifice Carapace: Regenerate enchanted creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3965</id>
+      <name>Cat Warriors</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Cat Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3966</id>
+      <name>Chub Toad</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Frog</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3968</id>
+      <name>Craw Giant</name>
+      <cost>{3}{G}{G}{G}{G}</cost>
+      <type>Creature - Giant</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample &lt;br&gt;Rampage 2 &lt;i&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3969</id>
+      <name>Craw Wurm</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3971</id>
+      <name>Desert Twister</name>
+      <cost>{4}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3978</id>
+      <name>Foxfire</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3979</id>
+      <name>Fungusaur</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Fungus Lizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3981</id>
+      <name>Ghazban Ogre</name>
+      <cost>{G}</cost>
+      <type>Creature - Ogre</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazban Ogre.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3985</id>
+      <name>Hungry Mist</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>6</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3988</id>
+      <name>Ironroot Treefolk</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Treefolk</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3989</id>
+      <name>Johtull Wurm</name>
+      <cost>{5}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3990</id>
+      <name>Killer Bees</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Insect</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Killer Bees gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3993</id>
+      <name>Lifeforce</name>
+      <cost>{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}{G}: Counter target black spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>3999</id>
+      <name>Nature&apos;s Lore</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4001</id>
+      <name>Primal Order</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each player&apos;s upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4002</id>
+      <name>Rabid Wombat</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Wombat</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance &lt;br&gt;Rabid Wombat gets +2/+2 for each Aura attached to it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4003</id>
+      <name>Radjan Spirit</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Spirit</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target creature loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4005</id>
+      <name>Scaled Wurm</name>
+      <cost>{7}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4009</id>
+      <name>Shrink</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets -5/-0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4010</id>
+      <name>Stampede</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Attacking creatures get +1/+0 and gain trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4013</id>
+      <name>Tarpan</name>
+      <cost>{G}</cost>
+      <type>Creature - Horse</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Tarpan is put into a graveyard from play, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4025</id>
+      <name>Wild Growth</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land &lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4027</id>
+      <name>Wolverine Pack</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Wolverine</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rampage 2 &lt;I&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/I&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4029</id>
+      <name>Ambush Party</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>First strike, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4030</id>
+      <name>Atog</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Atog</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice an artifact: Atog gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4032</id>
+      <name>Bird Maiden</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Bird</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4034</id>
+      <name>Brassclaw Orcs</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Brassclaw Orcs can&apos;t block creatures with power 2 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4035</id>
+      <name>Brothers of Fire</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4037</id>
+      <name>Conquer</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant land &lt;br&gt;You control enchanted land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4038</id>
+      <name>Crimson Manticore</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Creature - Manticore</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4040</id>
+      <name>Disintegrate</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Disintegrate deals X damage to target creature or player. That creature can&apos;t be regenerated this turn. If the creature would be put into a graveyard this turn, remove it from the game instead.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4041</id>
+      <name>Dwarven Catapult</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4042</id>
+      <name>Dwarven Soldier</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Dwarf Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4043</id>
+      <name>Dwarven Warriors</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Dwarf Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature with power 2 or less is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4045</id>
+      <name>Errantry</name>
+      <cost>{1}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+0 and can only attack alone.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4046</id>
+      <name>Eternal Warrior</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature has vigilance.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4047</id>
+      <name>Fire Drake</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;{R}: Fire Drake gets +1/+0 until end of turn. Play this ability only once each turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4049</id>
+      <name>Firebreathing</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you play this. This card comes into play attached to that creature.)&lt;/i&gt; &lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4051</id>
+      <name>Flare</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flare deals 1 damage to target creature or player. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4052</id>
+      <name>Flashfires</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all Plains.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4053</id>
+      <name>Game of Chaos</name>
+      <cost>{R}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4057</id>
+      <name>Goblin King</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other Goblin creatures get +1/+1 and have mountainwalk. &lt;i&gt;(They&apos;re unblockable as long as defending player controls a Mountain.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4059</id>
+      <name>Goblin Warrens</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4061</id>
+      <name>Hurloon Minotaur</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Minotaur</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4062</id>
+      <name>Imposing Visage</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature can&apos;t be blocked except by two or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4063</id>
+      <name>Incinerate</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can&apos;t be regenerated this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4064</id>
+      <name>Inferno</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Inferno deals 6 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4065</id>
+      <name>Ironclaw Curse</name>
+      <cost>{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -0/-1. &lt;br&gt;Enchanted creature can&apos;t block creatures with power equal to or greater than the enchanted creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4066</id>
+      <name>Ironclaw Orcs</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Ironclaw Orcs can&apos;t block creatures with power 2 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4067</id>
+      <name>Jokulhaups</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all artifacts, creatures, and lands. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4070</id>
+      <name>Mana Flare</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player taps a land for mana, that player adds one mana of that type to his or her mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4073</id>
+      <name>Mountain Goat</name>
+      <cost>{R}</cost>
+      <type>Creature - Goat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4075</id>
+      <name>Orcish Captain</name>
+      <cost>{R}</cost>
+      <type>Creature - Orc Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4076</id>
+      <name>Orcish Conscripts</name>
+      <cost>{R}</cost>
+      <type>Creature - Orc</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Orcish Conscripts can&apos;t attack unless at least two other creatures attack. &lt;br&gt; &lt;br&gt;Orcish Conscripts can&apos;t block unless at least two other creatures block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4077</id>
+      <name>Orcish Farmer</name>
+      <cost>{1}{R}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target land becomes a Swamp until its controller&apos;s next untap step.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4078</id>
+      <name>Orcish Oriflamme</name>
+      <cost>{3}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Attacking creatures you control get +1/+0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4079</id>
+      <name>Orcish Squatters</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Orc</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Orcish Squatters attacks and isn&apos;t blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters deals no combat damage this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4080</id>
+      <name>Orgg</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Orgg</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample &lt;br&gt;Orgg can&apos;t attack if defending player controls an untapped creature with power 3 or greater. &lt;br&gt;Orgg can&apos;t block creatures with power 3 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4081</id>
+      <name>Panic</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Play Panic only during combat before the declare blockers step. &lt;br&gt; &lt;br&gt;Target creature can&apos;t block this turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4082</id>
+      <name>Primordial Ooze</name>
+      <cost>{R}</cost>
+      <type>Creature - Ooze</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Primordial Ooze attacks each turn if able. &lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then pay {X}, where X is equal to the number of +1/+1 counters on Primordial Ooze, or tap Primordial Ooze and it deals X damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4083</id>
+      <name>Pyroblast</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one - Counter target spell if it&apos;s blue; or destroy target permanent if it&apos;s blue.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4087</id>
+      <name>Shatterstorm</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all artifacts. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4092</id>
+      <name>Stone Spirit</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Elemental Spirit</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Stone Spirit can&apos;t be blocked by creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4097</id>
+      <name>Word of Blasting</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target Wall. It can&apos;t be regenerated. Word of Blasting deals damage equal to that Wall&apos;s converted mana cost to the Wall&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4098</id>
+      <name>Abbey Gargoyles</name>
+      <cost>{2}{W}{W}{W}</cost>
+      <type>Creature - Gargoyle</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4099</id>
+      <name>Akron Legionnaire</name>
+      <cost>{6}{W}{W}</cost>
+      <type>Creature - Giant Soldier</type>
+      <power>8</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can&apos;t attack.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4100</id>
+      <name>Alabaster Potion</name>
+      <cost>{X}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target player gains X life; or prevent the next X damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4102</id>
+      <name>Animate Wall</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant Wall &lt;br&gt;Enchanted Wall can attack as though it didn&apos;t have defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4103</id>
+      <name>Arenson&apos;s Aura</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{W}, Sacrifice an enchantment: Destroy target enchantment. &lt;br&gt; &lt;br&gt;{3}{U}{U}: Counter target enchantment spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4104</id>
+      <name>Armageddon</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4105</id>
+      <name>Armor of Faith</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+1. &lt;br&gt;{W}: Enchanted creature gets +0/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4106</id>
+      <name>Aysen Bureaucrats</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Tap target creature with power 2 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4108</id>
+      <name>Blessed Wine</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 1 life. &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4111</id>
+      <name>Caribou Range</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant land you control &lt;br&gt;Enchanted land has &quot;{W}{W}, {T}: Put a 0/1 white Caribou creature token into play.&quot; &lt;br&gt;Sacrifice a Caribou token: You gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4112</id>
+      <name>Castle</name>
+      <cost>{3}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Untapped creatures you control get +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4121</id>
+      <name>Death Speakers</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from black</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4122</id>
+      <name>Death Ward</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Regenerate target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4124</id>
+      <name>Divine Offering</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact. You gain life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4125</id>
+      <name>Divine Transformation</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4126</id>
+      <name>Dust to Dust</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Remove two target artifacts from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4128</id>
+      <name>Greater Realm of Preservation</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4129</id>
+      <name>Heal</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn&apos;s upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4130</id>
+      <name>Healing Salve</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4131</id>
+      <name>Hipparion</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Horse</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Hipparion can&apos;t block creatures with power 3 or greater unless you pay {1}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4133</id>
+      <name>Icatian Phalanx</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4134</id>
+      <name>Icatian Scout</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4135</id>
+      <name>Icatian Town</name>
+      <cost>{5}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put four 1/1 white Citizen creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4136</id>
+      <name>Island Sanctuary</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can&apos;t be attacked except by creatures with flying and/or islandwalk.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4137</id>
+      <name>Ivory Guardians</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Giant Cleric</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from red &lt;br&gt;Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a red permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4138</id>
+      <name>Justice</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}. &lt;br&gt; &lt;br&gt;Whenever a red creature or spell deals damage, Justice deals that much damage to that creature&apos;s or spell&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4142</id>
+      <name>Kjeldoran Skycaptain</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Banding, flying, first strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4144</id>
+      <name>Mesa Pegasus</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Pegasus</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying, banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4146</id>
+      <name>Order of the White Shield</name>
+      <cost>{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Protection from black &lt;br&gt;{W}: Order of the White Shield gains first strike until end of turn. &lt;br&gt;{W}{W}: Order of the White Shield gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4148</id>
+      <name>Personal Incarnation</name>
+      <cost>{3}{W}{W}{W}</cost>
+      <type>Creature - Avatar Incarnation</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may play this ability, but only if he or she owns Personal Incarnation. &lt;br&gt;When Personal Incarnation is put into a graveyard from play, its owner loses half his or her life, rounded up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4150</id>
+      <name>Prismatic Ward</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature &lt;br&gt;As Prismatic Ward comes into play, choose a color. &lt;br&gt;Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4151</id>
+      <name>Repentant Blacksmith</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Protection from red</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4154</id>
+      <name>Sacred Boon</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature this turn. At end of turn, put a +0/+1 counter on that creature for each 1 damage prevented this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4156</id>
+      <name>Seraph</name>
+      <cost>{6}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever a creature dealt damage by Seraph this turn is put into a graveyard, put that card into play under your control at end of turn. Sacrifice the creature when you lose control of Seraph.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4157</id>
+      <name>Serra Bestiary</name>
+      <cost>{W}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, sacrifice Serra Bestiary unless you pay {W}{W}. &lt;br&gt;Enchanted creature can&apos;t attack or block and its activated abilities with {T} in their costs can&apos;t be played.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4158</id>
+      <name>Serra Paladin</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt;{1}{W}{W}, {T}: Target creature gains vigilance until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4159</id>
+      <name>Shield Bearer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Banding</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4160</id>
+      <name>Shield Wall</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4162</id>
+      <name>Truce</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4180</id>
+      <name>Dwarven Ruins</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Dwarven Ruins comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {R} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4185</id>
+      <name>Ice Floe</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You may choose not to untap Ice Floe during your untap step. &lt;br&gt;{T}: Tap target creature without flying that&apos;s attacking you. It doesn&apos;t untap during its controller&apos;s untap step as long as Ice Floe remains tapped.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4188</id>
+      <name>Sand Silos</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sand Silos comes into play tapped. &lt;br&gt;You may choose not to untap Sand Silos during your untap step. &lt;br&gt;At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it. &lt;br&gt;{T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4190</id>
+      <name>Svyelunite Temple</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Svyelunite Temple comes into play tapped. &lt;br&gt; &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

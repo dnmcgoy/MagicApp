@@ -1,0 +1,501 @@
+<cards>
+  <name>Starter_1999</name>
+  <key>Starter_1999</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>20180</id>
+      <name>Thunder Dragon</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt;When Thunder Dragon comes into play, it deals 3 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20183</id>
+      <name>Dakmor Sorceress</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>*</power>
+      <toughness>4</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Dakmor Sorceress&apos;s power is equal to the number of Swamps you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20184</id>
+      <name>Champion Lancer</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Prevent all damage that would be dealt to Champion Lancer by creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20191</id>
+      <name>Devastation</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures and lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20192</id>
+      <name>Fire Tempest</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Fire Tempest deals 6 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20194</id>
+      <name>Last Chance</name>
+      <cost>{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Take an extra turn after this one. At the end of that turn, you lose the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20196</id>
+      <name>Goblin Commando</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Goblin Commando comes into play, it deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20201</id>
+      <name>Cinder Storm</name>
+      <cost>{6}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Cinder Storm deals 7 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20203</id>
+      <name>Jagged Lightning</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Jagged Lightning deals 3 damage to target creature and 3 damage to another target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20209</id>
+      <name>Scorching Spear</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Scorching Spear deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20212</id>
+      <name>Hulking Goblin</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Hulking Goblin can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20214</id>
+      <name>Goblin Cavaliers</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20216</id>
+      <name>Goblin Settler</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Goblin Settler comes into play, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20219</id>
+      <name>Whirlwind</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20222</id>
+      <name>Nature&apos;s Cloak</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Green creatures you control gain forestwalk until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20230</id>
+      <name>Whiptail Wurm</name>
+      <cost>{6}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>8</power>
+      <toughness>5</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20359</id>
+      <name>Grim Tutor</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a card and put that card into your hand, then shuffle your library. You lose 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20361</id>
+      <name>Wicked Pact</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy two target nonblack creatures. You lose 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20362</id>
+      <name>Dread Reaper</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>6</power>
+      <toughness>5</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying &lt;br&gt; &lt;br&gt;When Dread Reaper comes into play, you lose 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20363</id>
+      <name>Shrieking Specter</name>
+      <cost>{5}{B}</cost>
+      <type>Creature - Specter</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;Whenever Shrieking Specter attacks, defending player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20364</id>
+      <name>Stream of Acid</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land or nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20367</id>
+      <name>Dakmor Plague</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Dakmor Plague deals 3 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20369</id>
+      <name>Howling Fury</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +4/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20379</id>
+      <name>Hand of Death</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20380</id>
+      <name>Dakmor Ghoul</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Dakmor Ghoul comes into play, target opponent loses 2 life and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20384</id>
+      <name>Bog Raiders</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20391</id>
+      <name>Angel of Light</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20394</id>
+      <name>Royal Trooper</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20395</id>
+      <name>Devout Monk</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Monk Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Devout Monk comes into play, you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20396</id>
+      <name>Border Guard</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>4</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20399</id>
+      <name>Steadfastness</name>
+      <cost>{1}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +0/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21049</id>
+      <name>Piracy</name>
+      <cost>{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Until end of turn, you may play mana abilities of lands you don&apos;t control, putting the mana they generate into your mana pool. Use mana produced this way only to play spells.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21051</id>
+      <name>Willow Elf</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21056</id>
+      <name>Royal Falcon</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Bird</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21057</id>
+      <name>Devoted Hero</name>
+      <cost>{W}</cost>
+      <type>Creature - Elf Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21063</id>
+      <name>False Peace</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player skips all combat phases of his or her next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21064</id>
+      <name>Righteous Fury</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>21076</id>
+      <name>Wind Sail</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Starter 1999</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>One or two target creatures gain flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

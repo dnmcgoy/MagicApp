@@ -1,0 +1,3036 @@
+<cards>
+  <name>Rise_of_the_Eldrazi</name>
+  <key>Rise_of_the_Eldrazi</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>198305</id>
+      <name>Affa Guard Hound</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flash&lt;br&gt;When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193506</id>
+      <name>Akoum Boulderfoot</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Giant Warrior</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193658</id>
+      <name>All Is Dust</name>
+      <cost>{7}</cost>
+      <type>Tribal Sorcery - Eldrazi</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Each player sacrifices all colored permanents he or she controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193437</id>
+      <name>Ancient Stirrings</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. &lt;i&gt;(Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193436</id>
+      <name>Angelheart Vial</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you&apos;re dealt damage, you may put that many charge counters on Angelheart Vial.&lt;br&gt;{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193511</id>
+      <name>Arrogant Bloodlord</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Vampire Knight</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193429</id>
+      <name>Artisan of Kozilek</name>
+      <cost>{9}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>10</power>
+      <toughness>9</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193599</id>
+      <name>Aura Finesse</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Attach target Aura you control to target creature.&lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193478</id>
+      <name>Aura Gnarlid</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures with power less than Aura Gnarlid&apos;s power can&apos;t block it.&lt;br&gt;Aura Gnarlid gets +1/+1 for each Aura on the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193507</id>
+      <name>Awakening Zone</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194944</id>
+      <name>Bala Ged Scorpion</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Scorpion</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198302</id>
+      <name>Baneful Omen</name>
+      <cost>{4}{B}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193554</id>
+      <name>Battle Rampart</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Wall</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;{T}: Target creature gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193523</id>
+      <name>Battle-Rattle Shaman</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198304</id>
+      <name>Bear Umbra</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has &quot;Whenever this creature attacks, untap all lands you control.&quot;&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193638</id>
+      <name>Beastbreaker of Bala Ged</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {2}{G} &lt;i&gt;({2}{G}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;4/4&lt;br&gt;&lt;br&gt;LEVEL 4+&lt;br&gt;6/6&lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193538</id>
+      <name>Bloodrite Invoker</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{8}: Target player loses 3 life and you gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198308</id>
+      <name>Bloodthrone Vampire</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Vampire</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193509</id>
+      <name>Boar Umbra</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193465</id>
+      <name>Bramblesnap</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample&lt;br&gt;Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193442</id>
+      <name>Brimstone Mage</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {3}{R} &lt;i&gt;({3}{R}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;2/3&lt;br&gt;{T}: Brimstone Mage deals 1 damage to target creature or player.&lt;br&gt;LEVEL 3+&lt;br&gt;2/4&lt;br&gt;{T}: Brimstone Mage deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193633</id>
+      <name>Brood Birthing</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot; Otherwise, put one of those tokens onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193634</id>
+      <name>Broodwarden</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Eldrazi Spawn creatures you control get +2/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193515</id>
+      <name>Cadaver Imp</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Imp</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying&lt;br&gt;When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194918</id>
+      <name>Caravan Escort</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;2/2&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;5/5&lt;br&gt;First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198301</id>
+      <name>Cast Through Time</name>
+      <cost>{4}{U}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Instant and sorcery spells you control have rebound. &lt;i&gt;(Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193440</id>
+      <name>Champion&apos;s Drake</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Drake</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying&lt;br&gt;Champion&apos;s Drake gets +3/+3 as long as you control a creature with three or more level counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193468</id>
+      <name>Conquering Manticore</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Creature - Manticore</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193475</id>
+      <name>Consume the Meek</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy each creature with converted mana cost 3 or less. They can&apos;t be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205936</id>
+      <name>Consuming Vapors</name>
+      <cost>{3}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player sacrifices a creature. You gain life equal to that creature&apos;s toughness.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193608</id>
+      <name>Contaminated Ground</name>
+      <cost>{1}{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land is a Swamp.&lt;br&gt;Whenever enchanted land becomes tapped, its controller loses 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193651</id>
+      <name>Coralhelm Commander</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {1} &lt;i&gt;({1}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-3&lt;br&gt;3/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying&lt;br&gt;Other Merfolk creatures you control get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193625</id>
+      <name>Corpsehatch</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193500</id>
+      <name>Crab Umbra</name>
+      <cost>{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;{2}{U}: Untap enchanted creature.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193447</id>
+      <name>Curse of Wizardry</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>As Curse of Wizardry enters the battlefield, choose a color.&lt;br&gt;Whenever a player casts a spell of the chosen color, that player loses 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194926</id>
+      <name>Daggerback Basilisk</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Basilisk</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Deathtouch</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193558</id>
+      <name>Dawnglare Invoker</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Kor Wizard</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying&lt;br&gt;{8}: Tap all creatures target player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194948</id>
+      <name>Death Cultist</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193629</id>
+      <name>Deathless Angel</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Creature - Angel</type>
+      <power>5</power>
+      <toughness>7</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;{W}{W}: Target creature is indestructible this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193444</id>
+      <name>Demonic Appetite</name>
+      <cost>{B}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature you control&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;At the beginning of your upkeep, sacrifice a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198313</id>
+      <name>Demystify</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193519</id>
+      <name>Deprive</name>
+      <cost>{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to cast Deprive, return a land you control to its owner&apos;s hand.&lt;br&gt;Counter target spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194927</id>
+      <name>Devastating Summons</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to cast Devastating Summons, sacrifice X lands.&lt;br&gt;Put two X/X red Elemental creature tokens onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193579</id>
+      <name>Disaster Radius</name>
+      <cost>{5}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to cast Disaster Radius, reveal a creature card from your hand.&lt;br&gt;Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198168</id>
+      <name>Distortion Strike</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+0 until end of turn and is unblockable this turn.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193600</id>
+      <name>Domestication</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;At the beginning of your end step, if enchanted creature&apos;s power is 4 or greater, sacrifice Domestication.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193584</id>
+      <name>Dormant Gomazoa</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Jellyfish</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;Dormant Gomazoa enters the battlefield tapped.&lt;br&gt;Dormant Gomazoa doesn&apos;t untap during your untap step.&lt;br&gt;Whenever you become the target of a spell, you may untap Dormant Gomazoa.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193635</id>
+      <name>Drake Umbra</name>
+      <cost>{4}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has flying.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193593</id>
+      <name>Drana, Kalastria Bloodchief</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Vampire Shaman</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193542</id>
+      <name>Dread Drone</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193501</id>
+      <name>Dreamstone Hedron</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Add {3} to your mana pool.&lt;br&gt;{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198163</id>
+      <name>Echo Mage</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {1}{U} &lt;i&gt;({1}{U}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-3&lt;br&gt;2/4&lt;br&gt;{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.&lt;br&gt;LEVEL 4+&lt;br&gt;2/5&lt;br&gt;{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193495</id>
+      <name>Eel Umbra</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194941</id>
+      <name>Eland Umbra</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +0/+4.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193492</id>
+      <name>Eldrazi Conscription</name>
+      <cost>{8}</cost>
+      <type>Tribal Enchantment - Eldrazi Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +10/+10 and has trample and annihilator 2. &lt;i&gt;(Whenever it attacks, defending player sacrifices two permanents.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198312</id>
+      <name>Eldrazi Temple</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194949</id>
+      <name>Emerge Unscathed</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature you control gains protection from the color of your choice until end of turn.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193452</id>
+      <name>Emrakul, the Aeons Torn</name>
+      <cost>{15}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>15</power>
+      <toughness>15</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Emrakul, the Aeons Torn can&apos;t be countered.&lt;br&gt;When you cast Emrakul, take an extra turn after this one.&lt;br&gt;Flying, protection from colored spells, annihilator 6&lt;br&gt;When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193485</id>
+      <name>Emrakul&apos;s Hatcher</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Emrakul&apos;s Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193626</id>
+      <name>Enatu Golem</name>
+      <cost>{6}</cost>
+      <type>Artifact Creature - Golem</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Enatu Golem is put into a graveyard from the battlefield, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194903</id>
+      <name>Enclave Cryptologist</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {1}{U} &lt;i&gt;({1}{U}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;0/1&lt;br&gt;{T}: Draw a card, then discard a card.&lt;br&gt;LEVEL 3+&lt;br&gt;0/1&lt;br&gt;{T}: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193643</id>
+      <name>Escaped Null</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Zombie Berserker</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Lifelink&lt;br&gt;Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194939</id>
+      <name>Essence Feed</name>
+      <cost>{5}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193483</id>
+      <name>Evolving Wilds</name>
+      <cost></cost>
+      <type>Land</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193479</id>
+      <name>Explosive Revelation</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card&apos;s converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198170</id>
+      <name>Fissure Vent</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Choose one or both- Destroy target artifact; and/or destroy target nonbasic land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193648</id>
+      <name>Flame Slash</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flame Slash deals 4 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198311</id>
+      <name>Fleeting Distraction</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets -1/-0 until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205933</id>
+      <name>Forest</name>
+      <cost></cost>
+      <type>Basic Land - Forest</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Land</rarity>
+      <oracleText>G</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193512</id>
+      <name>Forked Bolt</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193476</id>
+      <name>Frostwind Invoker</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying&lt;br&gt;{8}: Creatures you control gain flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193503</id>
+      <name>Gelatinous Genesis</name>
+      <cost>{X}{X}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put X X/X green Ooze creature tokens onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>192218</id>
+      <name>Gideon Jura</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Planeswalker - Gideon</type>
+      <power></power>
+      <toughness>6</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>+2: During target opponent&apos;s next turn, creatures that player controls attack Gideon Jura if able.&lt;br&gt;-2: Destroy target tapped creature.&lt;br&gt;0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that&apos;s still a planeswalker. Prevent all damage that would be dealt to him this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198172</id>
+      <name>Gigantomancer</name>
+      <cost>{7}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: Target creature you control becomes 7/7 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193513</id>
+      <name>Gloomhunter</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Bat</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193557</id>
+      <name>Glory Seeker</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194902</id>
+      <name>Goblin Arsonist</name>
+      <cost>{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Goblin Arsonist is put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193432</id>
+      <name>Goblin Tunneler</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Target creature with power 2 or less is unblockable this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193458</id>
+      <name>Gravitational Shift</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures with flying get +2/+0.&lt;br&gt;Creatures without flying get -2/-0.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194919</id>
+      <name>Gravity Well</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever a creature with flying attacks, it loses flying until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193496</id>
+      <name>Grotag Siege-Runner</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Goblin Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193526</id>
+      <name>Growth Spasm</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193445</id>
+      <name>Guard Duty</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has defender.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193602</id>
+      <name>Guard Gomazoa</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Jellyfish</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender, flying&lt;br&gt;Prevent all combat damage that would be dealt to Guard Gomazoa.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193612</id>
+      <name>Guul Draz Assassin</name>
+      <cost>{B}</cost>
+      <type>Creature - Vampire Assassin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {1}{B} &lt;i&gt;({1}{B}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-3&lt;br&gt;2/2&lt;br&gt;{B}, {T}: Target creature gets -2/-2 until end of turn.&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;{B}, {T}: Target creature gets -4/-4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194928</id>
+      <name>Hada Spy Patrol</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {2}{U} &lt;i&gt;({2}{U}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;2/2&lt;br&gt;Hada Spy Patrol is unblockable.&lt;br&gt;LEVEL 3+&lt;br&gt;3/3&lt;br&gt;Shroud&lt;br&gt;Hada Spy Patrol is unblockable.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194947</id>
+      <name>Halimar Wavewatch</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Soldier</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;0/6&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;6/6&lt;br&gt;Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193616</id>
+      <name>Hand of Emrakul</name>
+      <cost>{9}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul&apos;s mana cost.&lt;br&gt;Annihilator 1 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices a permanent.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198165</id>
+      <name>Harmless Assault</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Prevent all combat damage that would be dealt this turn by attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193569</id>
+      <name>Haze Frog</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Frog</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193649</id>
+      <name>Heat Ray</name>
+      <cost>{X}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Heat Ray deals X damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193536</id>
+      <name>Hedron Matrix</name>
+      <cost>{4}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Equipped creature gets +X/+X, where X is its converted mana cost.&lt;br&gt;Equip {4}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193421</id>
+      <name>Hedron-Field Purists</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;1/4&lt;br&gt;If a source would deal damage to you or a creature you control, prevent 1 of that damage.&lt;br&gt;LEVEL 5+&lt;br&gt;2/5&lt;br&gt;If a source would deal damage to you or a creature you control, prevent 2 of that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193656</id>
+      <name>Hellcarver Demon</name>
+      <cost>{3}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Flying&lt;br&gt;Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198306</id>
+      <name>Hellion Eruption</name>
+      <cost>{5}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198294</id>
+      <name>Hyena Umbra</name>
+      <cost>{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has first strike.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198176</id>
+      <name>Ikiral Outrider</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {4} &lt;i&gt;({4}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/6&lt;br&gt;Vigilance&lt;br&gt;LEVEL 4+&lt;br&gt;3/10&lt;br&gt;Vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193520</id>
+      <name>Induce Despair</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to cast Induce Despair, reveal a creature card from your hand.&lt;br&gt;Target creature gets -X/-X until end of turn, where X is the revealed card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193428</id>
+      <name>Inquisition of Kozilek</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193527</id>
+      <name>Irresistible Prey</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature must be blocked this turn if able.&lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205939</id>
+      <name>Island</name>
+      <cost></cost>
+      <type>Basic Land - Island</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Land</rarity>
+      <oracleText>U</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198171</id>
+      <name>It That Betrays</name>
+      <cost>{12}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>11</power>
+      <toughness>11</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193464</id>
+      <name>Jaddi Lifestrider</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>8</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193462</id>
+      <name>Joraga Treespeaker</name>
+      <cost>{G}</cost>
+      <type>Creature - Elf Druid</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {1}{G} &lt;i&gt;({1}{G}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;1/2&lt;br&gt;{T}: Add {G}{G} to your mana pool.&lt;br&gt;LEVEL 5+&lt;br&gt;1/4&lt;br&gt;Elves you control have &quot;{T}: Add {G}{G} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193470</id>
+      <name>Jwari Scuttler</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Crab</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193433</id>
+      <name>Kabira Vindicator</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-4&lt;br&gt;3/6&lt;br&gt;Other creatures you control get +1/+1.&lt;br&gt;LEVEL 5+&lt;br&gt;4/8&lt;br&gt;Other creatures you control get +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193482</id>
+      <name>Kargan Dragonlord</name>
+      <cost>{R}{R}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Level up {R} &lt;i&gt;({R}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 4-7&lt;br&gt;4/4&lt;br&gt;Flying&lt;br&gt;LEVEL 8+&lt;br&gt;8/8&lt;br&gt;Flying, trample&lt;br&gt;{R}: Kargan Dragonlord gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193611</id>
+      <name>Kazandu Tuskcaller</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Human Shaman</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {1}{G} &lt;i&gt;({1}{G}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-5&lt;br&gt;1/1&lt;br&gt;{T}: Put a 3/3 green Elephant creature token onto the battlefield.&lt;br&gt;LEVEL 6+&lt;br&gt;1/1&lt;br&gt;{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193441</id>
+      <name>Keening Stone</name>
+      <cost>{6}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player&apos;s graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193551</id>
+      <name>Khalni Hydra</name>
+      <cost>{G}{G}{G}{G}{G}{G}{G}{G}</cost>
+      <type>Creature - Hydra</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Khalni Hydra costs {G} less to cast for each green creature you control.&lt;br&gt;Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194912</id>
+      <name>Kiln Fiend</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Elemental Beast</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194951</id>
+      <name>Knight of Cliffhaven</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Knight</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193550</id>
+      <name>Kor Line-Slinger</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Scout</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: Tap target creature with power 3 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193544</id>
+      <name>Kor Spiritdancer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Wizard</type>
+      <power>0</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Kor Spiritdancer gets +2/+2 for each Aura attached to it.&lt;br&gt;Whenever you cast an Aura spell, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193632</id>
+      <name>Kozilek, Butcher of Truth</name>
+      <cost>{10}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>12</power>
+      <toughness>12</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>When you cast Kozilek, Butcher of Truth, draw four cards.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198303</id>
+      <name>Kozilek&apos;s Predator</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Kozilek&apos;s Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198162</id>
+      <name>Lagac Lizard</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Lizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193546</id>
+      <name>Last Kiss</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Last Kiss deals 2 damage to target creature and you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193624</id>
+      <name>Lavafume Invoker</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{8}: Creatures you control get +3/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193469</id>
+      <name>Lay Bare</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target spell. Look at its controller&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205929</id>
+      <name>Leaf Arrow</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Leaf Arrow deals 3 damage to target creature with flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193590</id>
+      <name>Lighthouse Chronologist</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Level up {U} &lt;i&gt;({U}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 4-6&lt;br&gt;2/4&lt;br&gt;&lt;br&gt;LEVEL 7+&lt;br&gt;3/5&lt;br&gt;At the beginning of each end step, if it&apos;s not your turn, take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193463</id>
+      <name>Lightmine Field</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193660</id>
+      <name>Linvala, Keeper of Silence</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Legendary Creature - Angel</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Flying&lt;br&gt;Activated abilities of creatures your opponents control can&apos;t be activated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193489</id>
+      <name>Living Destiny</name>
+      <cost>{3}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to cast Living Destiny, reveal a creature card from your hand.&lt;br&gt;You gain life equal to the revealed card&apos;s converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193426</id>
+      <name>Lone Missionary</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Kor Monk</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Lone Missionary enters the battlefield, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198164</id>
+      <name>Lord of Shatterskull Pass</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Minotaur Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {1}{R} &lt;i&gt;({1}{R}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-5&lt;br&gt;6/6&lt;br&gt;&lt;br&gt;LEVEL 6+&lt;br&gt;6/6&lt;br&gt;Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193549</id>
+      <name>Luminous Wake</name>
+      <cost>{2}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks or blocks, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193518</id>
+      <name>Lust for War</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature&apos;s controller.&lt;br&gt;Enchanted creature attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193453</id>
+      <name>Magmaw</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193514</id>
+      <name>Makindi Griffin</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Griffin</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193541</id>
+      <name>Mammoth Umbra</name>
+      <cost>{4}{W}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has vigilance.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198173</id>
+      <name>Merfolk Observer</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Merfolk Rogue</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Merfolk Observer enters the battlefield, look at the top card of target player&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193505</id>
+      <name>Merfolk Skyscout</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Creature - Merfolk Scout</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying&lt;br&gt;Whenever Merfolk Skyscout attacks or blocks, untap target permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193547</id>
+      <name>Might of the Masses</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +1/+1 until end of turn for each creature you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193491</id>
+      <name>Mnemonic Wall</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193497</id>
+      <name>Momentous Fall</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>As an additional cost to cast Momentous Fall, sacrifice a creature.&lt;br&gt;You draw cards equal to the sacrificed creature&apos;s power, then you gain life equal to its toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>209108</id>
+      <name>Mortician Beetle</name>
+      <cost>{B}</cost>
+      <type>Creature - Insect</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205926</id>
+      <name>Mountain</name>
+      <cost></cost>
+      <type>Basic Land - Mountain</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Land</rarity>
+      <oracleText>R</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198167</id>
+      <name>Mul Daya Channelers</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Creature - Elf Druid Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play with the top card of your library revealed.&lt;br&gt;As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.&lt;br&gt;As long as the top card of your library is a land card, Mul Daya Channelers has &quot;{T}: Add two mana of any one color to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193594</id>
+      <name>Narcolepsy</name>
+      <cost>{1}{U}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;At the beginning of each upkeep, if enchanted creature is untapped, tap it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193439</id>
+      <name>Naturalize</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target artifact or enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193467</id>
+      <name>Near-Death Experience</name>
+      <cost>{2}{W}{W}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of your upkeep, if you have exactly 1 life, you win the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193628</id>
+      <name>Nema Siltlurker</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Lizard</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193420</id>
+      <name>Nest Invader</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193487</id>
+      <name>Nighthaze</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gains swampwalk until end of turn.&lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194933</id>
+      <name>Nirkana Cutthroat</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Vampire Warrior</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Level up {2}{B} &lt;i&gt;({2}{B}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;4/3&lt;br&gt;Deathtouch&lt;br&gt;LEVEL 3+&lt;br&gt;5/4&lt;br&gt;First strike, deathtouch</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193472</id>
+      <name>Nirkana Revenant</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Creature - Vampire Shade</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Whenever you tap a Swamp for mana, add {B} to your mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.&lt;br&gt;{B}: Nirkana Revenant gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198180</id>
+      <name>Nomads&apos; Assembly</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198296</id>
+      <name>Not of This World</name>
+      <cost>{7}</cost>
+      <type>Tribal Instant - Eldrazi</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell or ability that targets a permanent you control.&lt;br&gt;Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193647</id>
+      <name>Null Champion</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Zombie Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;4/2&lt;br&gt;&lt;br&gt;LEVEL 4+&lt;br&gt;7/3&lt;br&gt;{B}: Regenerate Null Champion.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193583</id>
+      <name>Ogre Sentry</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Ogre Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193517</id>
+      <name>Ogre&apos;s Cleaver</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Equipped creature gets +5/+0.&lt;br&gt;Equip {5}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194929</id>
+      <name>Ondu Giant</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Giant Druid</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194923</id>
+      <name>Oust</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target creature into its owner&apos;s library second from the top. Its controller gains 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193610</id>
+      <name>Overgrown Battlement</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;{T}: Add {G} to your mana pool for each creature with defender you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193607</id>
+      <name>Pathrazer of Ulamog</name>
+      <cost>{11}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>9</power>
+      <toughness>9</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Annihilator 3 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices three permanents.)&lt;/i&gt;&lt;br&gt;Pathrazer of Ulamog can&apos;t be blocked except by three or more creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194907</id>
+      <name>Pawn of Ulamog</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Vampire Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Pawn of Ulamog or another nontoken creature you control is put into a graveyard from the battlefield, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193621</id>
+      <name>Pelakka Wurm</name>
+      <cost>{4}{G}{G}{G}</cost>
+      <type>Creature - Wurm</type>
+      <power>7</power>
+      <toughness>7</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample&lt;br&gt;When Pelakka Wurm enters the battlefield, you gain 7 life.&lt;br&gt;When Pelakka Wurm is put into a graveyard from the battlefield, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193528</id>
+      <name>Pennon Blade</name>
+      <cost>{3}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Equipped creature gets +1/+1 for each creature you control.&lt;br&gt;Equip {4}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194915</id>
+      <name>Perish the Thought</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193431</id>
+      <name>Pestilence Demon</name>
+      <cost>{5}{B}{B}{B}</cost>
+      <type>Creature - Demon</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;{B}: Pestilence Demon deals 1 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198174</id>
+      <name>Phantasmal Abomination</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Illusion</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender&lt;br&gt;When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205938</id>
+      <name>Plains</name>
+      <cost></cost>
+      <type>Basic Land - Plains</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Land</rarity>
+      <oracleText>W</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193565</id>
+      <name>Prey&apos;s Vengeance</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198295</id>
+      <name>Prophetic Prism</name>
+      <cost>{2}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Prophetic Prism enters the battlefield, draw a card.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193566</id>
+      <name>Puncturing Light</name>
+      <cost>{1}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target attacking or blocking creature with power 3 or less.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193454</id>
+      <name>Rage Nimbus</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Defender, flying&lt;br&gt;{1}{R}: Target creature attacks this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193573</id>
+      <name>Raid Bombardment</name>
+      <cost>{2}{R}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198181</id>
+      <name>Rapacious One</name>
+      <cost>{5}{R}</cost>
+      <type>Creature - Eldrazi Drone</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Trample&lt;br&gt;Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193652</id>
+      <name>Reality Spasm</name>
+      <cost>{X}{U}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Choose one- Tap X target permanents; or untap X target permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193605</id>
+      <name>Realms Uncharted</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194936</id>
+      <name>Recurring Insight</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Draw cards equal to the number of cards in target opponent&apos;s hand.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193603</id>
+      <name>Regress</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target permanent to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193654</id>
+      <name>Reinforced Bulwark</name>
+      <cost>{3}</cost>
+      <type>Artifact Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to you this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193582</id>
+      <name>Renegade Doppelganger</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Shapeshifter</type>
+      <power>0</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. &lt;i&gt;(If it does, it loses this ability for the rest of the turn.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193657</id>
+      <name>Repay in Kind</name>
+      <cost>{5}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player&apos;s life total becomes the lowest life total among all players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194930</id>
+      <name>Repel the Darkness</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap up to two target creatures.&lt;br&gt;Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194946</id>
+      <name>Runed Servitor</name>
+      <cost>{2}</cost>
+      <type>Artifact Creature - Construct</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Runed Servitor is put into a graveyard from the battlefield, each player draws a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193659</id>
+      <name>Sarkhan the Mad</name>
+      <cost>{3}{B}{R}</cost>
+      <type>Planeswalker - Sarkhan</type>
+      <power></power>
+      <toughness>7</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card&apos;s converted mana cost.&lt;br&gt;-2: Target creature&apos;s controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield.&lt;br&gt;-4: Each Dragon creature you control deals damage equal to its power to target player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194938</id>
+      <name>Sea Gate Oracle</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193577</id>
+      <name>See Beyond</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Draw two cards, then shuffle a card from your hand into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194950</id>
+      <name>Shared Discovery</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>As an additional cost to cast Shared Discovery, tap four untapped creatures you control.&lt;br&gt;Draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193534</id>
+      <name>Shrivel</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>All creatures get -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193415</id>
+      <name>Skeletal Wurm</name>
+      <cost>{7}{B}</cost>
+      <type>Creature - Skeleton Wurm</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{B}: Regenerate Skeletal Wurm.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193614</id>
+      <name>Skittering Invasion</name>
+      <cost>{7}</cost>
+      <type>Tribal Sorcery - Eldrazi</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193591</id>
+      <name>Skywatcher Adept</name>
+      <cost>{U}</cost>
+      <type>Creature - Merfolk Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;2/2&lt;br&gt;Flying&lt;br&gt;LEVEL 3+&lt;br&gt;4/2&lt;br&gt;Flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193595</id>
+      <name>Smite</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target blocked creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193585</id>
+      <name>Snake Umbra</name>
+      <cost>{2}{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals damage to an opponent, you may draw a card.&quot;&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193615</id>
+      <name>Soulbound Guardians</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Kor Spirit</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender, flying</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193499</id>
+      <name>Soul&apos;s Attendant</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Cleric</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever another creature enters the battlefield, you may gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193575</id>
+      <name>Soulsurge Elemental</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>First strike&lt;br&gt;Soulsurge Elemental&apos;s power is equal to the number of creatures you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193435</id>
+      <name>Spawning Breath</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193535</id>
+      <name>Spawnsire of Ulamog</name>
+      <cost>{10}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>7</power>
+      <toughness>11</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Annihilator 1 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices a permanent.)&lt;/i&gt;&lt;br&gt;{4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have &quot;Sacrifice this creature: Add {1} to your mana pool.&quot;&lt;br&gt;{2}0: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198169</id>
+      <name>Sphinx of Magosi</name>
+      <cost>{3}{U}{U}{U}</cost>
+      <type>Creature - Sphinx</type>
+      <power>6</power>
+      <toughness>6</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flying&lt;br&gt;{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193596</id>
+      <name>Sphinx-Bone Wand</name>
+      <cost>{7}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194925</id>
+      <name>Spider Umbra</name>
+      <cost>{G}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193474</id>
+      <name>Splinter Twin</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Enchantment - Aura</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has &quot;{T}: Put a token that&apos;s a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step.&quot;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193537</id>
+      <name>Sporecap Spider</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Spider</type>
+      <power>1</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193571</id>
+      <name>Staggershock</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Staggershock deals 2 damage to target creature or player.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193525</id>
+      <name>Stalwart Shield-Bearers</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>0</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;Other creatures you control with defender get +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193567</id>
+      <name>Stomper Cub</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Creature - Beast</type>
+      <power>5</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Trample</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193598</id>
+      <name>Student of Warfare</name>
+      <cost>{W}</cost>
+      <type>Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Level up {W} &lt;i&gt;({W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-6&lt;br&gt;3/3&lt;br&gt;First strike&lt;br&gt;LEVEL 7+&lt;br&gt;4/4&lt;br&gt;Double strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193619</id>
+      <name>Suffer the Past</name>
+      <cost>{X}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Exile X target cards from target player&apos;s graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198310</id>
+      <name>Surrakar Spellblade</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Creature - Surrakar</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.&lt;br&gt;Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198179</id>
+      <name>Surreal Memoir</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return an instant card at random from your graveyard to your hand.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193531</id>
+      <name>Survival Cache</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>You gain 2 life. Then if you have more life than an opponent, draw a card.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205941</id>
+      <name>Swamp</name>
+      <cost></cost>
+      <type>Basic Land - Swamp</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Land</rarity>
+      <oracleText>B</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193451</id>
+      <name>Tajuru Preserver</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Spells and abilities your opponents control can&apos;t cause you to sacrifice permanents.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193455</id>
+      <name>Thought Gorger</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Horror</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Trample&lt;br&gt;When Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.&lt;br&gt;When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193448</id>
+      <name>Time of Heroes</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Each creature you control with a level counter on it gets +2/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198175</id>
+      <name>Totem-Guide Hartebeest</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Antelope</type>
+      <power>2</power>
+      <toughness>5</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193490</id>
+      <name>Training Grounds</name>
+      <cost>{U}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Activated abilities of creatures you control cost up to {2} less to activate. This effect can&apos;t reduce the amount of mana an ability costs to activate to less than one mana.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198177</id>
+      <name>Traitorous Instinct</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194917</id>
+      <name>Transcendent Master</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Creature - Human Cleric Avatar</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Level up {1} &lt;i&gt;({1}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 6-11&lt;br&gt;6/6&lt;br&gt;Lifelink&lt;br&gt;LEVEL 12+&lt;br&gt;9/9&lt;br&gt;Lifelink&lt;br&gt;Transcendent Master is indestructible.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194940</id>
+      <name>Tuktuk the Explorer</name>
+      <cost>{2}{R}</cost>
+      <type>Legendary Creature - Goblin</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Haste&lt;br&gt;When Tuktuk the Explorer is put into a graveyard from the battlefield, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194911</id>
+      <name>Ulamog, the Infinite Gyre</name>
+      <cost>{11}</cost>
+      <type>Legendary Creature - Eldrazi</type>
+      <power>10</power>
+      <toughness>10</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>When you cast Ulamog, the Infinite Gyre, destroy target permanent.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;Ulamog is indestructible.&lt;br&gt;When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194908</id>
+      <name>Ulamog&apos;s Crusher</name>
+      <cost>{8}</cost>
+      <type>Creature - Eldrazi</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;&lt;br&gt;Ulamog&apos;s Crusher attacks each turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193416</id>
+      <name>Umbra Mystic</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Auras attached to permanents you control have totem armor. &lt;i&gt;(If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193456</id>
+      <name>Unified Will</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target spell if you control more creatures than that spell&apos;s controller.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193552</id>
+      <name>Valakut Fireboar</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Elemental Boar</type>
+      <power>1</power>
+      <toughness>7</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194922</id>
+      <name>Vendetta</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature. It can&apos;t be regenerated. You lose life equal to that creature&apos;s toughness.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193443</id>
+      <name>Venerated Teacher</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193556</id>
+      <name>Vengevine</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elemental</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Mythic Rare</rarity>
+      <oracleText>Haste&lt;br&gt;Whenever you cast a spell, if it&apos;s the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193480</id>
+      <name>Vent Sentinel</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Elemental</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Defender&lt;br&gt;{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198298</id>
+      <name>Virulent Swipe</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +2/+0 and gains deathtouch until end of turn.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193545</id>
+      <name>Wall of Omens</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Wall</type>
+      <power>0</power>
+      <toughness>4</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Defender&lt;br&gt;When Wall of Omens enters the battlefield, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>194916</id>
+      <name>Warmonger&apos;s Chariot</name>
+      <cost>{2}</cost>
+      <type>Artifact - Equipment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;As long as equipped creature has defender, it can attack as though it didn&apos;t have defender.&lt;br&gt;Equip {3}</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193414</id>
+      <name>Wildheart Invoker</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Elf Shaman</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{8}: Target creature gets +5/+5 and gains trample until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193484</id>
+      <name>World at War</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Rare</rarity>
+      <oracleText>After the first postcombat main phase this turn, there&apos;s an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.&lt;br&gt;Rebound &lt;i&gt;(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193563</id>
+      <name>Wrap in Flames</name>
+      <cost>{3}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>193543</id>
+      <name>Zof Shade</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Shade</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>{2}{B}: Zof Shade gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>198166</id>
+      <name>Zulaport Enforcer</name>
+      <cost>{B}</cost>
+      <type>Creature - Human Warrior</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Rise of the Eldrazi</edition>
+      <rarity>Common</rarity>
+      <oracleText>Level up {4} &lt;i&gt;({4}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-2&lt;br&gt;3/3&lt;br&gt;&lt;br&gt;LEVEL 3+&lt;br&gt;5/5&lt;br&gt;Zulaport Enforcer can&apos;t be blocked except by black creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>

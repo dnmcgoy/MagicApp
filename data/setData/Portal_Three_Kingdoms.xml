@@ -1,0 +1,1944 @@
+<cards>
+  <name>Portal_Three_Kingdoms</name>
+  <key>Portal_Three_Kingdoms</key>
+  <properties/>
+  <list>
+    <mc>
+      <id>10484</id>
+      <name>Wei Night Raiders</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Whenever Wei Night Raiders deals damage to an opponent, that player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10485</id>
+      <name>Wu Admiral</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Wu Admiral gets +1/+1 as long as an opponent controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10486</id>
+      <name>Flanking Troops</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Flanking Troops attacks, you may tap target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10487</id>
+      <name>Alert Shu Infantry</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10488</id>
+      <name>Shu Soldier-Farmers</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Shu Soldier-Farmers comes into play, you gain 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10489</id>
+      <name>Shu Foot Soldiers</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10490</id>
+      <name>Kongming, Sleeping Dragon</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other creatures you control get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10491</id>
+      <name>Loyal Retainers</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to play. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10492</id>
+      <name>Taunting Challenge</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>All creatures able to block target creature this turn do so.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10494</id>
+      <name>Guan Yu, Sainted Warrior</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>3</power>
+      <toughness>5</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;When Guan Yu, Sainted Warrior is put into your graveyard from play, you may shuffle Guan Yu into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10495</id>
+      <name>Kongming&apos;s Contraptions</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Kongming&apos;s Contraptions deals 2 damage to target attacking creature. Play this ability only during the declare attackers step, and only on an opponent&apos;s turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10496</id>
+      <name>Riding Red Hare</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +3/+3 and gains horsemanship until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10497</id>
+      <name>Shu Elite Companions</name>
+      <cost>{4}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10498</id>
+      <name>Wu Longbowman</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Wu Longbowman deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10499</id>
+      <name>Liu Bei, Lord of Shu</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10500</id>
+      <name>Ravages of War</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10501</id>
+      <name>Red Cliffs Armada</name>
+      <cost>{4}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>5</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Red Cliffs Armada can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10502</id>
+      <name>Shu General</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Horsemanship, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10503</id>
+      <name>Meng Huo&apos;s Horde</name>
+      <cost>{4}{G}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10504</id>
+      <name>Empty City Ruse</name>
+      <cost>{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent skips all combat phases of his or her next turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10505</id>
+      <name>Forest Bear</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Bear</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10506</id>
+      <name>Zodiac Rooster</name>
+      <cost>{1}{G}</cost>
+      <type>Creature - Bird</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Plainswalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10508</id>
+      <name>Stone Catapult</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target tapped nonblack creature. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10509</id>
+      <name>False Defeat</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature card from your graveyard to play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10510</id>
+      <name>Zodiac Dragon</name>
+      <cost>{7}{R}{R}</cost>
+      <type>Creature - Dragon</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Zodiac Dragon is put into your graveyard from play, you may return it to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10511</id>
+      <name>Wei Elite Companions</name>
+      <cost>{4}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10512</id>
+      <name>Desperate Charge</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control get +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10513</id>
+      <name>Sun Quan, Lord of Wu</name>
+      <cost>{4}{U}{U}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Creatures you control have horsemanship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10515</id>
+      <name>Imperial Edict</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10516</id>
+      <name>Yuan Shao, the Indecisive</name>
+      <cost>{4}{R}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Each creature you control can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10517</id>
+      <name>Wei Scout</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10518</id>
+      <name>Famine</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Famine deals 3 damage to each creature and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10519</id>
+      <name>Wei Infantry</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10520</id>
+      <name>Zhang He, Wei General</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10521</id>
+      <name>Overwhelming Forces</name>
+      <cost>{6}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10522</id>
+      <name>Wolf Pack</name>
+      <cost>{6}{G}{G}</cost>
+      <type>Creature - Wolf</type>
+      <power>7</power>
+      <toughness>6</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>You may have Wolf Pack assign its combat damage as though it weren&apos;t blocked.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10523</id>
+      <name>Heavy Fog</name>
+      <cost>{1}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Heavy Fog only during the declare attackers step and only if you are the defending player. &lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10524</id>
+      <name>Sage&apos;s Knowledge</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target sorcery card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10525</id>
+      <name>Zhou Yu, Chief Commander</name>
+      <cost>{5}{U}{U}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>8</power>
+      <toughness>8</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Zhou Yu, Chief Commander can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10526</id>
+      <name>Rolling Earthquake</name>
+      <cost>{X}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Rolling Earthquake deals X damage to each creature without horsemanship and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10528</id>
+      <name>Extinguish</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target sorcery spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10529</id>
+      <name>Wu Spy</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Soldier Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Wu Spy comes into play, look at the top two cards of target player&apos;s library. Put one of them into his or her graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10530</id>
+      <name>Preemptive Strike</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Counter target creature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10533</id>
+      <name>Cunning Advisor</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Target opponent discards a card. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10534</id>
+      <name>Zodiac Dog</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Hound</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10535</id>
+      <name>Fire Bowman</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Soldier Archer</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Sacrifice Fire Bowman: Fire Bowman deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10536</id>
+      <name>Lu Bu, Master-at-Arms</name>
+      <cost>{5}{R}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship, haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10537</id>
+      <name>Yellow Scarves Cavalry</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Yellow Scarves Cavalry can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10538</id>
+      <name>Control of the Court</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw four cards, then discard three cards at random.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10539</id>
+      <name>Imperial Recruiter</name>
+      <cost>{2}{R}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Imperial Recruiter comes into play, search your library for a creature card with power 2 or less, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10540</id>
+      <name>Zodiac Goat</name>
+      <cost>{R}</cost>
+      <type>Creature - Goat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Mountainwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10541</id>
+      <name>Independent Troops</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10542</id>
+      <name>Yellow Scarves Troops</name>
+      <cost>{1}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Yellow Scarves Troops can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10543</id>
+      <name>Eunuchs&apos; Intrigues</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target opponent chooses a creature he or she controls. Other creatures he or she controls can&apos;t block this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10544</id>
+      <name>Diaochan, Artful Beauty</name>
+      <cost>{3}{R}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Destroy target creature of your choice, then destroy target creature of an opponent&apos;s choice. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10545</id>
+      <name>Southern Elephant</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Elephant</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10546</id>
+      <name>Ghostly Visit</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target nonblack creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10547</id>
+      <name>Marshaling the Troops</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10548</id>
+      <name>Cao Cao, Lord of Wei</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target opponent discards two cards. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10549</id>
+      <name>Borrowing the East Wind</name>
+      <cost>{X}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Borrowing the East Wind deals X damage to each creature with horsemanship and each player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10552</id>
+      <name>Warrior&apos;s Oath</name>
+      <cost>{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Take an extra turn after this one. At the end of that turn, you lose the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10553</id>
+      <name>Eightfold Maze</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Play Eightfold Maze only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Destroy target attacking creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10554</id>
+      <name>Stolen Grain</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Stolen Grain deals 5 damage to target opponent. You gain 5 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10555</id>
+      <name>Burning Fields</name>
+      <cost>{4}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Burning Fields deals 5 damage to target opponent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10557</id>
+      <name>Wei Ambush Force</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10559</id>
+      <name>Yuan Shao&apos;s Infantry</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Yuan Shao&apos;s Infantry attacks alone, Yuan Shao&apos;s Infantry is unblockable this combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10560</id>
+      <name>Deception</name>
+      <cost>{2}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target opponent discards two cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10561</id>
+      <name>Wei Strike Force</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10562</id>
+      <name>Wielding the Green Dragon</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10564</id>
+      <name>Zodiac Rat</name>
+      <cost>{B}</cost>
+      <type>Creature - Rat</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10566</id>
+      <name>Spring of Eternal Peace</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>You gain 8 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10567</id>
+      <name>Three Visits</name>
+      <cost>{1}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10569</id>
+      <name>Taoist Hermit</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Mystic</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Taoist Hermit can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10570</id>
+      <name>Hua Tuo, Honored Physician</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Legendary Creature - Human</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Put target creature card from your graveyard on top of your library. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10571</id>
+      <name>Trained Jackal</name>
+      <cost>{G}</cost>
+      <type>Creature - Hound</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10572</id>
+      <name>Hunting Cheetah</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10573</id>
+      <name>Trained Cheetah</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10574</id>
+      <name>Barbarian General</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Barbarian Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10576</id>
+      <name>Renegade Troops</name>
+      <cost>{4}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10577</id>
+      <name>Yellow Scarves General</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Yellow Scarves General can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10578</id>
+      <name>Barbarian Horde</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Barbarian Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10579</id>
+      <name>Misfortune&apos;s Gain</name>
+      <cost>{3}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Destroy target creature. Its owner gains 4 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10582</id>
+      <name>Zodiac Rabbit</name>
+      <cost>{G}</cost>
+      <type>Creature - Rabbit</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10583</id>
+      <name>Wei Assassins</name>
+      <cost>{3}{B}{B}</cost>
+      <type>Creature - Human Soldier Assassin</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Wei Assassins comes into play, target opponent sacrifices a creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10584</id>
+      <name>Young Wei Recruits</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Young Wei Recruits can&apos;t block.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10585</id>
+      <name>Mountain Bandit</name>
+      <cost>{R}</cost>
+      <type>Creature - Human Soldier Rogue</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10586</id>
+      <name>Zodiac Pig</name>
+      <cost>{3}{B}</cost>
+      <type>Creature - Boar</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10587</id>
+      <name>Poison Arrow</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. You gain 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10588</id>
+      <name>Return to Battle</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature card from your graveyard to your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10590</id>
+      <name>Xiahou Dun, the One-Eyed</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10591</id>
+      <name>Slashing Tiger</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10593</id>
+      <name>Champion&apos;s Victory</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Play Champion&apos;s Victory only during the declare attackers step and only if you are the defending player. &lt;br&gt;Return target attacking creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10594</id>
+      <name>Zodiac Tiger</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Cat</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Forestwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10595</id>
+      <name>Corrupt Court Official</name>
+      <cost>{1}{B}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Corrupt Court Official comes into play, target opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10596</id>
+      <name>Virtuous Charge</name>
+      <cost>{2}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Creatures you control get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10597</id>
+      <name>Guan Yu&apos;s 1,000-Li March</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all tapped creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10598</id>
+      <name>Zodiac Horse</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Horse</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Islandwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10599</id>
+      <name>False Mourning</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put target card from your graveyard on top of your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10600</id>
+      <name>Wu Infantry</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10601</id>
+      <name>Council of Advisors</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Council of Advisors comes into play, draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10602</id>
+      <name>Strategic Planning</name>
+      <cost>{1}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10603</id>
+      <name>Rockslide Ambush</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Rockslide Ambush deals damage equal to the number of Mountains you control to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10604</id>
+      <name>Zhang Fei, Fierce Warrior</name>
+      <cost>{4}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship, vigilance</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10605</id>
+      <name>Wu Warship</name>
+      <cost>{2}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Wu Warship can&apos;t attack unless defending player controls an Island.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10608</id>
+      <name>Zodiac Snake</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Snake</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10609</id>
+      <name>Lady Zhurong, Warrior Queen</name>
+      <cost>{4}{G}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>4</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10610</id>
+      <name>Zuo Ci, the Mocking Sage</name>
+      <cost>{1}{G}{G}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Zuo Ci, the Mocking Sage can&apos;t be blocked by creatures with horsemanship. &lt;br&gt;Zuo Ci can&apos;t be the target of spells or abilities your opponents control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10611</id>
+      <name>Wu Elite Cavalry</name>
+      <cost>{3}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10612</id>
+      <name>Wu Scout</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Soldier Scout</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship &lt;br&gt;When Wu Scout comes into play, look at target opponent&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10613</id>
+      <name>Straw Soldiers</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Scarecrow Soldier</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10614</id>
+      <name>Lu Su, Wu Advisor</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Draw a card. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10615</id>
+      <name>Wu Light Cavalry</name>
+      <cost>{1}{U}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10616</id>
+      <name>Lu Xun, Scholar General</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>1</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10617</id>
+      <name>Shu Grain Caravan</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>When Shu Grain Caravan comes into play, you gain 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10618</id>
+      <name>Shu Farmer</name>
+      <cost>{1}{W}</cost>
+      <type>Creature - Human</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>{T}: You gain 1 life. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10619</id>
+      <name>Capture of Jingzhou</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Take an extra turn after this one.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10620</id>
+      <name>Borrowing 100,000 Arrows</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw a card for each tapped creature target opponent controls.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10621</id>
+      <name>Broken Dam</name>
+      <cost>{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Tap one or two target creatures without horsemanship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10622</id>
+      <name>Forced Retreat</name>
+      <cost>{2}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Put target creature on top of its owner&apos;s library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10623</id>
+      <name>Brilliant Plan</name>
+      <cost>{4}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Draw three cards.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10624</id>
+      <name>Shu Defender</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Whenever Shu Defender blocks, it gets +0/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10625</id>
+      <name>Trip Wire</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target creature with horsemanship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10626</id>
+      <name>Desert Sandstorm</name>
+      <cost>{2}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Desert Sandstorm deals 1 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10627</id>
+      <name>Shu Elite Infantry</name>
+      <cost>{3}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText></oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10628</id>
+      <name>Counterintelligence</name>
+      <cost>{2}{U}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return one or two target creatures to their owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10629</id>
+      <name>Spoils of Victory</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a basic land card and put that card into play. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10630</id>
+      <name>Sima Yi, Wei Field Marshal</name>
+      <cost>{5}{B}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>*</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sima Yi, Wei Field Marshal&apos;s power is equal to the number of Swamps you control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10632</id>
+      <name>Fire Ambush</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Fire Ambush deals 3 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10635</id>
+      <name>Shu Cavalry</name>
+      <cost>{2}{W}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Common</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10636</id>
+      <name>Zodiac Ox</name>
+      <cost>{3}{G}</cost>
+      <type>Creature - Ox</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Swampwalk</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10637</id>
+      <name>Burning of Xinye</name>
+      <cost>{4}{R}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Each player sacrifices four lands. Burning of Xinye deals 4 damage to each creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10686</id>
+      <name>Zhao Zilong, Tiger General</name>
+      <cost>{3}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until the end of the turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10709</id>
+      <name>Sun Ce, Young Conquerer</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;When Sun Ce, Young Conquerer comes into play, you may return target creature to its owner&apos;s hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10710</id>
+      <name>Lu Meng, Wu General</name>
+      <cost>{3}{U}{U}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10711</id>
+      <name>Zhuge Jin, Wu Strategist</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature is unblockable this turn. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10712</id>
+      <name>Cao Ren, Wei Commander</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;When Cao Ren, Wei Commander comes into play, you lose 3 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10713</id>
+      <name>Pang Tong, Young Phoenix</name>
+      <cost>{1}{W}{W}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature gets +0/+2 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10714</id>
+      <name>Huang Zhong, Shu General</name>
+      <cost>{2}{W}{W}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Huang Zhong, Shu General can&apos;t be blocked by more than one creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10721</id>
+      <name>Lady Sun</name>
+      <cost>{1}{U}{U}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Return Lady Sun and another target creature to their owners&apos; hands. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10727</id>
+      <name>Zhang Liao, Hero of Hefei</name>
+      <cost>{4}{B}{B}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10728</id>
+      <name>Imperial Seal</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10729</id>
+      <name>Ma Chao, Western Warrior</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Legendary Creature - Human Soldier Warrior</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Horsemanship &lt;br&gt;Whenever Ma Chao, Western Warrior attacks alone, it is unblockable this combat.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10730</id>
+      <name>Dong Zhou, the Tyrant</name>
+      <cost>{4}{R}</cost>
+      <type>Legendary Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>When Dong Zhou, the Tyrant comes into play, target creature an opponent controls deals damage equal to its power to that player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10731</id>
+      <name>Riding the Dilu Horse</name>
+      <cost>{2}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target creature gets +2/+2 and gains horsemanship. &lt;i&gt;(This effect does not end at end of turn)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10732</id>
+      <name>Meng Huo, Barbarian King</name>
+      <cost>{3}{G}{G}</cost>
+      <type>Legendary Creature - Human Barbarian Soldier</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other green creatures you control get +1/+1.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10733</id>
+      <name>Taoist Mystic</name>
+      <cost>{2}{G}</cost>
+      <type>Creature - Human Mystic</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Taoist Mystic can&apos;t be blocked by creatures with horsemanship.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>10734</id>
+      <name>Corrupt Eunuchs</name>
+      <cost>{3}{R}</cost>
+      <type>Creature - Human Advisor</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Corrupt Eunuchs comes into play, it deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13805</id>
+      <name>Ravaging Horde</name>
+      <cost>{3}{R}{R}</cost>
+      <type>Creature - Human Soldier</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>When Ravaging Horde comes into play, destroy target land.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>13831</id>
+      <name>Xun Yu, Wei Advisor</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Legendary Creature - Human Advisor</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Portal Three Kingdoms</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{T}: Target creature you control gets +2/+0 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+  </list>
+</cards>
