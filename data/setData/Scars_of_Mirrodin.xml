@@ -606,8 +606,8 @@
       <name>Darksteel Juggernaut</name>
       <cost>{5}</cost>
       <type>Artifact Creature - Juggernaut</type>
-      <power></power>
-      <toughness></toughness>
+      <power>*</power>
+      <toughness>*</toughness>
       <edition>Scars of Mirrodin</edition>
       <rarity>Rare</rarity>
       <oracleText>Darksteel Juggernaut&apos;s power and toughness are each equal to the number of artifacts you control.&lt;br&gt;Darksteel Juggernaut is indestructible and attacks each turn if able.</oracleText>

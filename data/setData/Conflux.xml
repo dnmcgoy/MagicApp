@@ -99,8 +99,8 @@
       <name>Aven Trailblazer</name>
       <cost>{2}{W}</cost>
       <type>Creature - Bird Soldier</type>
-      <power></power>
-      <toughness></toughness>
+      <power>2</power>
+      <toughness>*</toughness>
       <edition>Conflux</edition>
       <rarity>Common</rarity>
       <oracleText>Flying&lt;br&gt;Domain- Aven Trailblazer&apos;s toughness is equal to the number of basic land types among lands you control.</oracleText>
@@ -996,8 +996,8 @@
       <name>Matca Rioters</name>
       <cost>{2}{G}</cost>
       <type>Creature - Human Warrior</type>
-      <power></power>
-      <toughness></toughness>
+      <power>*</power>
+      <toughness>*</toughness>
       <edition>Conflux</edition>
       <rarity>Common</rarity>
       <oracleText>Domain- Matca Rioters&apos;s power and toughness are each equal to the number of basic land types among lands you control.</oracleText>

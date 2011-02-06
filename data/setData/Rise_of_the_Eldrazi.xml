@@ -2491,8 +2491,8 @@
       <name>Soulsurge Elemental</name>
       <cost>{3}{R}</cost>
       <type>Creature - Elemental</type>
-      <power></power>
-      <toughness></toughness>
+      <power>*</power>
+      <toughness>1</toughness>
       <edition>Rise of the Eldrazi</edition>
       <rarity>Uncommon</rarity>
       <oracleText>First strike&lt;br&gt;Soulsurge Elemental&apos;s power is equal to the number of creatures you control.</oracleText>
