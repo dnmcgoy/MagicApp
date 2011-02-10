@@ -39,6 +39,7 @@ function populateSearchTable(e){
   var rows = db.execute('SELECT mtg_id, name FROM cards where name like "%' + e.value + '%"');
 
 
+  var cardArray = [];
   var i = 0;
   while (rows.isValidRow() && i < 500)
     {
@@ -59,6 +60,7 @@ function populateSearchTable(e){
       row.add(label);
 
       var cardImage = Ti.UI.createImageView({
+	        defaultImage:"CardBack.jpg",
 		image: "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
 		        rows.fieldByName('mtg_id') +
 			"&type=card",
@@ -100,9 +102,12 @@ function populateSearchTable(e){
 
       row.add(plusXButton);
 
-      mySearchTable.appendRow(row);
+      cardArray.push(row);
       rows.next();
     }
+
+    mySearchTable.setData(cardArray);
+    searchBar.blur();
 
     rows.close();
 }
