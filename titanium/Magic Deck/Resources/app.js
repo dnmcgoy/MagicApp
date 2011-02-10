@@ -19,28 +19,46 @@ var searchTab = Titanium.UI.createTab({
     window:searchWindow
 });
 
-var db = Ti.Database.install('magicdeck.sqlite', 'magicdeck');
-var rows = db.execute('SELECT mtg_id, name FROM cards where name like "B%"');
 
-var cardArray = [];
-while (rows.isValidRow())
-  {
-    var row = Ti.UI.createTableViewRow({height:150});
-    row.className = "cardRow"
+var searchBar = Titanium.UI.createSearchBar({
+    barColor:'#000',
+    showCancel:true,
+    height:43,
+    top:0
+});
 
-    var label = Ti.UI.createLabel({
-		text: '' + rows.fieldByName('name') + '',
-		color: '#111',
-		textAlign:'left',
-		left:130,
-		top:20,
-		font:{fontWeight:'bold',fontSize:18},
-		width:'auto',
-		height:'auto'
-	});
-	row.add(label);
+var mySearchTable = Titanium.UI.createTableView({
+      rowHeight:100.0
+    });
 
-    var cardImage = Ti.UI.createImageView({
+
+function populateSearchTable(e){
+  if(e.value.length < 3) {return;}
+  mySearchTable.setData([]);
+  var db = Ti.Database.install('magicdeck.sqlite', 'magicdeck');
+  var rows = db.execute('SELECT mtg_id, name FROM cards where name like "%' + e.value + '%"');
+
+
+  var i = 0;
+  while (rows.isValidRow() && i < 500)
+    {
+      i = 0;
+      var row = Ti.UI.createTableViewRow({height:150});
+      row.className = "cardRow";
+
+      var label = Ti.UI.createLabel({
+	text: '' + rows.fieldByName('name') + '',
+	color: '#111',
+	textAlign:'left',
+	left:130,
+	top:20,
+	font:{fontWeight:'bold',fontSize:18},
+	width:'auto',
+	height:'auto'
+      });
+      row.add(label);
+
+      var cardImage = Ti.UI.createImageView({
 		image: "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
 		        rows.fieldByName('mtg_id') +
 			"&type=card",
@@ -48,51 +66,52 @@ while (rows.isValidRow())
 		left: 0,
 		width:107,
                 height:150
+       });
+      row.add(cardImage);
+
+
+      var plusOneButton = Ti.UI.createButton({
+	title: "+1",
+	height:"50",
+	width:"50",
+	bottom:"5",
+	left:"135"
+      });
+
+      row.add(plusOneButton);
+
+      var plusFourButton = Ti.UI.createButton({
+	title: "+4",
+	  height:"50",
+	  width:"50",
+	  left:"195",
+	  bottom:"5"
 	});
-    row.add(cardImage);
+
+      row.add(plusFourButton);
+
+      var plusXButton = Ti.UI.createButton({
+	title: "+X",
+	height:"50",
+	width:"50",
+	left:"255",
+	bottom:"5"
+      });
+
+      row.add(plusXButton);
+
+      mySearchTable.appendRow(row);
+      rows.next();
+    }
+
+    rows.close();
+}
+
+searchBar.addEventListener('return', populateSearchTable);
 
 
-    var plusOneButton = Ti.UI.createButton({
-      title: "+1",
-      height:"50",
-      width:"50",
-      bottom:"5",
-      left:"135"
-    });
-
-    row.add(plusOneButton);
-
-    var plusFourButton = Ti.UI.createButton({
-      title: "+4",
-      height:"50",
-      width:"50",
-      left:"195",
-      bottom:"5"
-    });
-
-    row.add(plusFourButton);
-
-    var plusXButton = Ti.UI.createButton({
-      title: "+X",
-      height:"50",
-      width:"50",
-      left:"255",
-      bottom:"5"
-    });
-
-    row.add(plusXButton)
-
-    cardArray.push(row);
-    rows.next();
-  }
-
-var searchResultsTable = Titanium.UI.createTableView({
-  data:cardArray,
-  rowHeight:100.0
-});
-
-searchWindow.add(searchResultsTable);
-
+searchWindow.add(mySearchTable);
+searchWindow.add(searchBar);
 
 //
 // My Decks Tab Creation

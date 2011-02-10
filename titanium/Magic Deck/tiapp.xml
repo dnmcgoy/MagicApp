@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.logicbydesign.magicdeck</id>
-    <name>Magic Deck</name>
-    <version>1.0</version>
-    <publisher>not specified</publisher>
-    <url>not specified</url>
-    <description>not specified</description>
-    <copyright>not specified</copyright>
-    <icon>appicon.png</icon>
+<id>com.logicbydesign.magicdec</id>
+<name>Magic Deck</name>
+<version>1.0</version>
+<publisher>logic by design</publisher>
+<url>http://www.logic-by-design.com</url>
+<description>No description provided</description>
+<copyright>2011 by logic by design, llc</copyright>
+<icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
     <statusbar-style>default</statusbar-style>
@@ -15,7 +15,7 @@
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-<guid>d0cf1588-2c96-4b5c-a830-d75f65a8a870</guid>
+<guid>9a1289c3-4635-4dcf-9365-8daf7da8da50</guid>
 	<iphone>
 		<orientations device="iphone">
 			<orientation>Ti.UI.PORTRAIT</orientation>
