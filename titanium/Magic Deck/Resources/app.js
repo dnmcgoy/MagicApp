@@ -9,14 +9,13 @@ var tabGroup = Titanium.UI.createTabGroup();
 // Search Tab Creation
 //
 var searchWindow = Titanium.UI.createWindow({
-    title:'Search',
     backgroundColor:'#fff',
-    barColor:'#000'
+    barColor:'#000',
+    navBarHidden:'true'
 });
 var searchTab = Titanium.UI.createTab({
-    icon:'KS_nav_views.png',
-    title:'Search',
-    window:searchWindow
+    window:searchWindow,
+    icon:Titanium.UI.iPhone.SystemIcon.SEARCH
 });
 
 
@@ -28,8 +27,9 @@ var searchBar = Titanium.UI.createSearchBar({
 });
 
 var mySearchTable = Titanium.UI.createTableView({
-      rowHeight:100.0
-    });
+    rowHeight:100.0,
+    top:43
+});
 
 
 function populateSearchTable(e){
@@ -142,9 +142,9 @@ var topRatedWindow = Titanium.UI.createWindow({
     barColor:'#000'
 });
 var topRatedTab = Titanium.UI.createTab({
-    icon:'KS_nav_ui.png',
     title:'Top Rated',
-    window:topRatedWindow
+    window:topRatedWindow,
+    icon:Titanium.UI.iPhone.SystemIcon.TOP_RATED
 });
 
 //
