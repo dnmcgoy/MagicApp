@@ -13,9 +13,10 @@ var searchWindow = Titanium.UI.createWindow({
     barColor:'#000',
     navBarHidden:'true'
 });
+
 var searchTab = Titanium.UI.createTab({
     window:searchWindow,
-    icon:Titanium.UI.iPhone.SystemIcon.SEARCH
+    title:"Search"
 });
 
 
@@ -143,9 +144,14 @@ var topRatedWindow = Titanium.UI.createWindow({
 });
 var topRatedTab = Titanium.UI.createTab({
     title:'Top Rated',
-    window:topRatedWindow,
-    icon:Titanium.UI.iPhone.SystemIcon.TOP_RATED
+    window:topRatedWindow
 });
+
+
+if(Ti.Platform.osname == "iphone"){
+  searchTab.icon = Ti.UI.iPhone.SystemIcon.SEARCH;
+  topRatedTab.icon = Ti.UI.iPhone.SystemIcon.TOP_RATED;
+}
 
 //
 //   Setting Tab Creation
