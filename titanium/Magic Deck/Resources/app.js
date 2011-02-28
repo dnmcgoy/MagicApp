@@ -19,7 +19,6 @@ var searchTab = Titanium.UI.createTab({
     title:"Search"
 });
 
-
 var searchBar = Titanium.UI.createSearchBar({
     barColor:'#000',
     showCancel:true,
@@ -37,7 +36,7 @@ function populateSearchTable(e){
   if(e.value.length < 3) {return;}
   mySearchTable.setData([]);
   var db = Ti.Database.install('magicdeck.sqlite', 'magicdeck');
-  var rows = db.execute('SELECT mtg_id, name FROM cards where name like "%' + e.value + '%"');
+  var rows = db.execute('SELECT mtg_id, name, rules FROM cards where name like "%' + e.value + '%"');
 
 
   var cardArray = [];
@@ -59,6 +58,10 @@ function populateSearchTable(e){
 	height:'auto'
       });
       row.add(label);
+
+      row.mtg_id = rows.fieldByName('mtg_id');
+      row.name = rows.fieldByName('name');
+      row.rules = rows.fieldByName('rules');
 
       var cardImage = Ti.UI.createImageView({
 	        defaultImage:"CardBack.jpg",
@@ -114,6 +117,34 @@ function populateSearchTable(e){
 }
 
 searchBar.addEventListener('return', populateSearchTable);
+
+mySearchTable.addEventListener('click', function(e){
+  var cardInfoWindow = Titanium.UI.createWindow({
+    title:'Card Info',
+    backgroundColor:'#fff',
+    navBarHidden:false,
+    barColor:'#000'
+  });
+  var cardLabel = Ti.UI.createLabel({
+    text:e.rowData.rules,
+    top:300
+  });
+
+  var cardImage = Ti.UI.createImageView({
+    defaultImage:"CardBack.jpg",
+    image: "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
+           e.rowData.mtg_id +
+	   "&type=card",
+    top: 0,
+    left: 0,
+    width:200,
+    height:300
+  });
+  cardInfoWindow.add(cardImage);
+
+  cardInfoWindow.add(cardLabel);
+  searchTab.open(cardInfoWindow,{animated:true});
+});
 
 
 searchWindow.add(mySearchTable);
