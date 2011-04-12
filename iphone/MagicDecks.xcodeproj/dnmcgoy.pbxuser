@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MagicDecksAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 546}}";
+			sepNavSelRange = "{932, 0}";
+			sepNavVisRange = "{397, 876}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MagicDecksAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 3081}}";
+			sepNavSelRange = "{9035, 0}";
+			sepNavVisRange = "{4699, 1210}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MagicDecks */ = {
+		activeExec = 0;
+		executables = (
+			E94656D112D7D3F900C09553 /* MagicDecks */,
+		);
+	};
+	28860B760F44E54D00985440 /* MagicDecks.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						32.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {377, 220}}",
+							"{{382, 0}, {197, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {579, 220}}",
+							"{{0, 225}, {579, 112}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {123, 220}}",
+							"{{128, 0}, {249, 220}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{0, 193}, {564, 97}}";
+			};
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 343}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 684}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 5603}}";
+			sepNavSelRange = "{948, 0}";
+			sepNavVisRange = "{0, 599}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E94656D112D7D3F900C09553 /* MagicDecks */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MagicDecks */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MagicDecks */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = E94656E712D7D41900C09553 /* Code sense */;
+		executables = (
+			E94656D112D7D3F900C09553 /* MagicDecks */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					664,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					640,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317531046;
+			PBXWorkspaceStateSaveDate = 317531046;
+		};
+		perUserProjectItems = {
+			E9432B8E12DA42C1000A6173 /* PBXBookmark */ = E9432B8E12DA42C1000A6173 /* PBXBookmark */;
+			E946572812D8119E00C09553 /* XDModelBookmark */ = E946572812D8119E00C09553 /* XDModelBookmark */;
+			E946577912D8195E00C09553 /* PBXTextBookmark */ = E946577912D8195E00C09553 /* PBXTextBookmark */;
+			E97AFDA712ECFF2200141224 /* PBXTextBookmark */ = E97AFDA712ECFF2200141224 /* PBXTextBookmark */;
+			E97AFE0412ED228900141224 /* PBXTextBookmark */ = E97AFE0412ED228900141224 /* PBXTextBookmark */;
+			E97AFE0612ED228900141224 /* PBXTextBookmark */ = E97AFE0612ED228900141224 /* PBXTextBookmark */;
+			E97AFE0712ED228900141224 /* PBXTextBookmark */ = E97AFE0712ED228900141224 /* PBXTextBookmark */;
+			E9D4195C12ED248400EAC39A /* PBXTextBookmark */ = E9D4195C12ED248400EAC39A /* PBXTextBookmark */;
+			E9D4196B12ED260C00EAC39A /* PBXTextBookmark */ = E9D4196B12ED260C00EAC39A /* PBXTextBookmark */;
+			E9D4198412EDC98300EAC39A /* PBXTextBookmark */ = E9D4198412EDC98300EAC39A /* PBXTextBookmark */;
+			E9D4198512EDC98300EAC39A /* PBXTextBookmark */ = E9D4198512EDC98300EAC39A /* PBXTextBookmark */;
+			E9D4198612EDC98300EAC39A /* PBXTextBookmark */ = E9D4198612EDC98300EAC39A /* PBXTextBookmark */;
+			E9E47B1312DBF968001A87E9 /* PBXBookmark */ = E9E47B1312DBF968001A87E9 /* PBXBookmark */;
+			E9E47B2812DCA2CE001A87E9 /* PlistBookmark */ = E9E47B2812DCA2CE001A87E9 /* PlistBookmark */;
+			E9E47B2912DCA2CE001A87E9 /* PBXBookmark */ = E9E47B2912DCA2CE001A87E9 /* PBXBookmark */;
+			E9E47B2A12DCA2CE001A87E9 /* PBXBookmark */ = E9E47B2A12DCA2CE001A87E9 /* PBXBookmark */;
+			E9E47B4012DCA97B001A87E9 /* PBXBookmark */ = E9E47B4012DCA97B001A87E9 /* PBXBookmark */;
+			E9EBCE9412DA36E3007B8A15 /* PBXBookmark */ = E9EBCE9412DA36E3007B8A15 /* PBXBookmark */;
+		};
+		sourceControlManager = E94656E612D7D41900C09553 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 312}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	8D1107310486CEB800E47090 /* MagicDecks-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1455, 165}, {1388, 1030}}";
+		};
+	};
+	E9432B8E12DA42C1000A6173 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9EBCE8D12DA2B9A007B8A15 /* DeckTabBarIcon30@2x.png */;
+	};
+	E94656D112D7D3F900C09553 /* MagicDecks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MagicDecks;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	E94656E612D7D41900C09553 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E94656E712D7D41900C09553 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E94656E912D7D42500C09553 /* DefaultCardTableViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 604}";
+		};
+	};
+	E94656EB12D7D42500C09553 /* AsyncImageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 1040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 905}";
+		};
+	};
+	E946572812D8119E00C09553 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 28860B760F44E54D00985440 /* MagicDecks.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	E946576512D818E900C09553 /* CardDetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {842, 343}}";
+			sepNavSelRange = "{300, 0}";
+			sepNavVisRange = "{0, 511}";
+		};
+	};
+	E946576612D818E900C09553 /* CardDetailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 832}}";
+			sepNavSelRange = "{1351, 0}";
+			sepNavVisRange = "{858, 686}";
+		};
+	};
+	E946577912D8195E00C09553 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94656EB12D7D42500C09553 /* AsyncImageView.m */;
+		name = "AsyncImageView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 0;
+	};
+	E97AFDA712ECFF2200141224 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E946576512D818E900C09553 /* CardDetailViewController.h */;
+		name = "CardDetailViewController.h: 14";
+		rLen = 0;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	E97AFE0412ED228900141224 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 684;
+		vrLoc = 0;
+	};
+	E97AFE0612ED228900141224 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E94656E912D7D42500C09553 /* DefaultCardTableViewCell.m */;
+		name = "DefaultCardTableViewCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 0;
+	};
+	E97AFE0712ED228900141224 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E946576612D818E900C09553 /* CardDetailViewController.m */;
+		name = "CardDetailViewController.m: 49";
+		rLen = 0;
+		rLoc = 1351;
+		rType = 0;
+		vrLen = 686;
+		vrLoc = 858;
+	};
+	E9D4195C12ED248400EAC39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	E9D4196B12ED260C00EAC39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MagicDecksAppDelegate.h */;
+		name = "MagicDecksAppDelegate.h: 31";
+		rLen = 0;
+		rLoc = 932;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 397;
+	};
+	E9D4198412EDC98300EAC39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 37";
+		rLen = 0;
+		rLoc = 948;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
+	};
+	E9D4198512EDC98300EAC39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MagicDecksAppDelegate.m */;
+		name = "MagicDecksAppDelegate.m: 220";
+		rLen = 0;
+		rLoc = 9035;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 8390;
+	};
+	E9D4198612EDC98300EAC39A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MagicDecksAppDelegate.m */;
+		name = "MagicDecksAppDelegate.m: 220";
+		rLen = 0;
+		rLoc = 9035;
+		rType = 0;
+		vrLen = 1210;
+		vrLoc = 4699;
+	};
+	E9E47B1312DBF968001A87E9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9432B8312DA4126000A6173 /* settingsicon.png */;
+	};
+	E9E47B2812DCA2CE001A87E9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MagicDecks-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dnmcgoy/code/MagicDecks/MagicDecks-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E9E47B2912DCA2CE001A87E9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9432B8512DA412D000A6173 /* settingsicon@2x.png */;
+	};
+	E9E47B2A12DCA2CE001A87E9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9E47B1912DBF9C0001A87E9 /* MagicDeckIcon.png */;
+	};
+	E9E47B4012DCA97B001A87E9 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9E47B1A12DBF9C0001A87E9 /* MagicDeckIcon@2x.png */;
+	};
+	E9EBCE9412DA36E3007B8A15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E9EBCE8712DA2A19007B8A15 /* DeckTabBarIcon30.png */;
+	};
+}
