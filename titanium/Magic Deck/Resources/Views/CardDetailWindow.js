@@ -17,7 +17,7 @@ var cardImage = Ti.UI.createImageView({
   		});
 
 CardDetailWindow.createDetailWindow = function(cardData) {
-	var detailWindow = Ti.UI.createWindow( { 
+	var detailWindow = Ti.UI.createWindow({ 
 		title:'Card Info',
     	backgroundColor:'#fff',
     	navBarHidden:false,
