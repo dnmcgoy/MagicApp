@@ -1,4 +1,4 @@
-Ti.include('Views/CardListingView.js');
+Ti.include('/Views/CardListingView.js');
 
 var SearchWindow = {};
 

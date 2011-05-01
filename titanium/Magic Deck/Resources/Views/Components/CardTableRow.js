@@ -4,7 +4,8 @@ var CardTableRow = {};
 
 	CardTableRow.createCardRow = function(cardData) {
 	  var row = Ti.UI.createTableViewRow({height:150,
-					      hasDetail:true
+					      hasDetail:true,
+					      backgroundColor:"#FFFFFF"
                                              });
       	row.className = "cardRow";
 

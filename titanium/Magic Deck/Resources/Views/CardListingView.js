@@ -1,5 +1,5 @@
-Ti.include("Views/CardDetailWindow.js");
-Ti.include("Views/Components/CardTableRow.js");
+Ti.include("/Views/CardDetailWindow.js");
+Ti.include("/Views/Components/CardTableRow.js");
 
 var CardListingView = {};
 
