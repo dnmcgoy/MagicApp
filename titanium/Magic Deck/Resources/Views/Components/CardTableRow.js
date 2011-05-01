@@ -3,9 +3,11 @@ var CardTableRow = {};
 (function(){
 
 	CardTableRow.createCardRow = function(cardData) {
-		var row = Ti.UI.createTableViewRow({height:150});
+	  var row = Ti.UI.createTableViewRow({height:150,
+					      hasDetail:true
+                                             });
       	row.className = "cardRow";
-      	
+
       	row.mtg_id = cardData.mtg_id;
       	row.rules = cardData.rules;
       	row.name = cardData.name;
@@ -20,7 +22,7 @@ var CardTableRow = {};
 			width:'auto',
 			height:'auto'
       	});
-      
+
       	row.add(label);
 
       	var cardImage = Ti.UI.createImageView({
@@ -34,38 +36,38 @@ var CardTableRow = {};
             height:150
        	});
       	row.add(cardImage);
-      	
+
       	var plusOneButton = Ti.UI.createButton({
 			title: "+1",
-			height:"50",
-			width:"50",
-			bottom:"5",
-			left:"135"
+			height:"40",
+			width:"60",
+			bottom:"45",
+			left:"115"
      	});
 
       	row.add(plusOneButton);
 
       	var plusFourButton = Ti.UI.createButton({
 			title: "+4",
-	  		height:"50",
-	  		width:"50",
-	  		left:"195",
-	  		bottom:"5"
+	  		height:"40",
+	  		width:"60",
+	  		left:"175",
+	  		bottom:"45"
 	  	});
 
       	row.add(plusFourButton);
 
       	var plusXButton = Ti.UI.createButton({
 			title: "+X",
-			height:"50",
-			width:"50",
-			left:"255",
+			height:"40",
+			width:"120",
+			left:"115",
 			bottom:"5"
       	});
 
      	row.add(plusXButton);
-     	
+
      	return row;
     };
-      
+
 })();
