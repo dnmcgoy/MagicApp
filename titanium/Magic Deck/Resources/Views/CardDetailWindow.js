@@ -21,7 +21,7 @@ CardDetailWindow.createDetailWindow = function(cardData) {
 		title:'Card Info',
     	backgroundColor:'#fff',
     	navBarHidden:false,
-    	barColor:'#000',
+    	barColor:'#000'
 	});
 
 	cardImage.image = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
