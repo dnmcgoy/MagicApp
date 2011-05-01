@@ -1,7 +1,7 @@
 var CardDetailWindow = {};
 
 (function() {
-	
+
 var cardLabel = Ti.UI.createLabel({
     		top:300,
     		text:""
@@ -17,21 +17,21 @@ var cardImage = Ti.UI.createImageView({
   		});
 
 CardDetailWindow.createDetailWindow = function(cardData) {
-	var detailWindow = Ti.UI.createWindow({ 
+	var detailWindow = Ti.UI.createWindow({
 		title:'Card Info',
     	backgroundColor:'#fff',
     	navBarHidden:false,
     	barColor:'#000',
 	});
-	
+
 	cardImage.image = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
            			   cardData.mtg_id +
 	   		 		   "&type=card";
 	cardLabel.text = cardData.rules;
-	
+
 	detailWindow.add(cardImage);
     detailWindow.add(cardLabel);
-    
+
     return detailWindow;
 };
 
