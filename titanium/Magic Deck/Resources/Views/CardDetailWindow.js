@@ -13,10 +13,10 @@ var cardImage = Ti.UI.createImageView({
 
 CardDetailWindow.createDetailWindow = function(cardData) {
 	var detailWindow = Ti.UI.createWindow({
-		title:'Card Info',
-    	backgroundColor:'#fff',
-    	navBarHidden:false,
-    	barColor:'#000'
+		title:cardData.name,
+    	        backgroundColor:'#fff',
+                navBarHidden:false,
+                barColor:'#000'
 	});
 
 	cardImage.image = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
