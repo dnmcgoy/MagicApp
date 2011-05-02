@@ -11,8 +11,8 @@ var searchBar = Titanium.UI.createSearchBar({
    			 		top:0
 		        });
 
-var deckInfoView = Ti.UI.createTextArea({
-	value:"Currently Editing",
+var deckInfoView = Ti.UI.createLabel({
+	text:"Currently Editing",
     bottom:0,
     height:25,
     color:"#FFFFFF",
