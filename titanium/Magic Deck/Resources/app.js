@@ -22,7 +22,7 @@ var searchTab = Titanium.UI.createTab({
 
 var decksWindow = DecksWindow.createDecksWindow();
 var decksTab = Titanium.UI.createTab({
-    icon:'KS_nav_ui.png',
+    icon:'DeckTabBarIcon30.png',
     title:'My Decks',
     window:decksWindow
 });
@@ -36,7 +36,7 @@ var topRatedTab = Titanium.UI.createTab({
 
 var settingsWindow = SettingsWindow.createSettingsWindow();
 var settingsTab = Titanium.UI.createTab({
-    icon:'KS_nav_ui.png',
+    icon:'settingsicon.png',
     title:'Setting',
     window:settingsWindow
 });
