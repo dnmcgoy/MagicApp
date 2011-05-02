@@ -24,15 +24,13 @@ var CardListingView = {};
      };
 
      cardListingTable.addEventListener('click', function(e){
-       if(e.detail) {
-	 var cardData = {
-                         mtg_id: e.rowData.mtg_id,
-  	                 rules: e.rowData.rules,
-                         name: e.rowData.name
-                        };
-	 var cardDetailWindow = CardDetailWindow.createDetailWindow(cardData);
-	 tabGroup.activeTab.open(cardDetailWindow);
-       }
+       var cardData = {
+                        mtg_id: e.rowData.mtg_id,
+  	                  rules: e.rowData.rules,
+                          name: e.rowData.name
+                      };
+       var cardDetailWindow = CardDetailWindow.createDetailWindow(cardData);
+       tabGroup.activeTab.open(cardDetailWindow);
      });
 
      return cardListingTable;
