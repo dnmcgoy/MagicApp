@@ -56,6 +56,32 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>107259</id>
+      <name>Trial</name>
+      <cost>{W}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return all creatures blocking or blocked by target creature to their owner's hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107259</id>
+      <name>Error</name>
+      <cost>{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target multicolored spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>107260</id>
       <name>Mistral Charger</name>
       <cost>{1}{W}</cost>
@@ -199,6 +225,32 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>107285</id>
+      <name>Crime</name>
+      <cost>{3}{W}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put target creature or enchantment card in an opponent's graveyard into play under your control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107285</id>
+      <name>Punishment</name>
+      <cost>{X}{B}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy each artifact, creature, and enchantment with converted mana cost X.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>107286</id>
       <name>Plaxmanta</name>
       <cost>{1}{U}</cost>
@@ -338,6 +390,32 @@
       <edition>Dissension</edition>
       <rarity>Common</rarity>
       <oracleText>Flying &lt;br&gt;{G}, Sacrifice Silkwing Scout: Search your library for a basic land card and put that card into play tapped. Then shuffle your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107315</id>
+      <name>Hide</name>
+      <cost>{R}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put target artifact or enchantment on the bottom of its owner's library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107315</id>
+      <name>Seek</name>
+      <cost>{W}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles his or her library.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -628,6 +706,33 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>107373</id>
+      <name>Bound</name>
+      <cost>{3}{B}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Then remove this card from the game.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107373</id>
+      <name>Determined</name>
+      <cost>{G}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Other spells you control can't be countered by spells or abilities this turn.
+Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>107374</id>
       <name>Nettling Curse</name>
       <cost>{2}{B}</cost>
@@ -637,6 +742,32 @@
       <edition>Dissension</edition>
       <rarity>Common</rarity>
       <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature attacks or blocks, its controller loses 3 life. &lt;br&gt;{1}{R}: Enchanted creature attacks this turn if able.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107375</id>
+      <name>Research</name>
+      <cost>{G}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Choose up to four cards you own from outside the game and shuffle them into your library.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107375</id>
+      <name>Development</name>
+      <cost>{3}{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Put a 3/1 red Elemental creature token onto the battlefield unless any opponent has you draw a card. Repeat this process two more times.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -676,6 +807,32 @@
       <edition>Dissension</edition>
       <rarity>Rare</rarity>
       <oracleText>Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it. &lt;br&gt;{T}: Put a +1/+1 counter on target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107387</id>
+      <name>Hit</name>
+      <cost>{1}{B}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player sacrifices an artifact or creature.  Hit deals damage to that player equal to that permanent's converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107387</id>
+      <name>Run</name>
+      <cost>{3}{R}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -767,6 +924,32 @@
       <edition>Dissension</edition>
       <rarity>Uncommon</rarity>
       <oracleText>Until end of turn, all creatures become black and all lands become Swamps.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107423</id>
+      <name>Rise</name>
+      <cost>{U}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card in a graveyard and target creature in play to their owners' hands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107423</id>
+      <name>Fall</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -888,6 +1071,32 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>107445</id>
+      <name>Odds</name>
+      <cost>{U}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107445</id>
+      <name>Ends</name>
+      <cost>{3}{R}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Target player sacrifices two attacking creatures.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>107446</id>
       <name>Kindle the Carnage</name>
       <cost>{1}{R}{R}</cost>
@@ -936,6 +1145,32 @@
       <edition>Dissension</edition>
       <rarity>Rare</rarity>
       <oracleText>{B}: Unliving Psychopath gets +1/-1 until end of turn. &lt;br&gt;{B}, {T}: Destroy target creature with power less than Unliving Psychopath&apos;s power.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107464</id>
+      <name>Supply</name>
+      <cost>{X}{G}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Put X 1/1 green Saproling creature tokens into play.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107464</id>
+      <name>Demand</name>
+      <cost>{1}{W}{U}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1118,6 +1353,32 @@
       <edition>Dissension</edition>
       <rarity>Common</rarity>
       <oracleText>Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107532</id>
+      <name>Pure</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target multicolored permanent.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>107532</id>
+      <name>Simple</name>
+      <cost>{1}{G}{W}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Dissension</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy all Auras and Equipment.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

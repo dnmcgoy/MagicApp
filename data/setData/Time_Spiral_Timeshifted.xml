@@ -1279,14 +1279,27 @@
     </mc>
     <mc>
       <id>109704</id>
-      <name>Assault // Battery</name>
-      <cost>{R} // {3}{G}</cost>
-      <type>Sorcery // Sorcery</type>
+      <name>Assault</name>
+      <cost>{R}</cost>
+      <type>Sorcery</type>
       <power></power>
       <toughness></toughness>
       <edition>Time Spiral &quot;Timeshifted&quot;</edition>
       <rarity>Special</rarity>
-      <oracleText>Assault deals 2 damage to target creature or player. &lt;br&gt;// &lt;br&gt;Put a 3/3 green Elephant creature token into play.</oracleText>
+      <oracleText>Assault deals 2 damage to target creature or player.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>109704</id>
+      <name>Battery</name>
+      <cost>{3}{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Time Spiral &quot;Timeshifted&quot;</edition>
+      <rarity>Special</rarity>
+      <oracleText>Put a 3/3 green Elephant creature token into play.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

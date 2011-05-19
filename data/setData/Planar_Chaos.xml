@@ -1487,14 +1487,27 @@
     </mc>
     <mc>
       <id>126218</id>
-      <name>Boom // Bust</name>
-      <cost>{1}{R} // {5}{R}</cost>
-      <type>Sorcery // Sorcery</type>
+      <name>Boom</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
       <power></power>
       <toughness></toughness>
       <edition>Planar Chaos</edition>
       <rarity>Rare</rarity>
-      <oracleText>Destroy target land you control and target land you don&apos;t control. &lt;br&gt;// &lt;br&gt;Destroy all lands.</oracleText>
+      <oracleText>Destroy target land you control and target land you don&apos;t control.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126218</id>
+      <name>Bust</name>
+      <cost>{5}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Destroy all lands.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1539,27 +1552,53 @@
     </mc>
     <mc>
       <id>126419</id>
-      <name>Dead // Gone</name>
-      <cost>{R} // {2}{R}</cost>
-      <type>Instant // Instant</type>
+      <name>Dead</name>
+      <cost>{R}</cost>
+      <type>Instant</type>
       <power></power>
       <toughness></toughness>
       <edition>Planar Chaos</edition>
       <rarity>Common</rarity>
-      <oracleText>Dead deals 2 damage to target creature. &lt;br&gt;//  &lt;br&gt;Return target creature you don&apos;t control to its owner&apos;s hand.</oracleText>
+      <oracleText>Dead deals 2 damage to target creature.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126419</id>
+      <name>Gone</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Common</rarity>
+      <oracleText>Return target creature you don&apos;t control to its owner&apos;s hand.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
     <mc>
       <id>126420</id>
-      <name>Rough // Tumble</name>
-      <cost>{1}{R} // {5}{R}</cost>
-      <type>Sorcery // Sorcery</type>
+      <name>Rough</name>
+      <cost>{1}{R}</cost>
+      <type>Sorcery</type>
       <power></power>
       <toughness></toughness>
       <edition>Planar Chaos</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>Rough deals 2 damage to each creature without flying. &lt;br&gt;// &lt;br&gt;Tumble deals 6 damage to each creature with flying.</oracleText>
+      <oracleText>Rough deals 2 damage to each creature without flying.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>126420</id>
+      <name>Tumble</name>
+      <cost>{5}{R}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Planar Chaos</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tumble deals 6 damage to each creature with flying.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

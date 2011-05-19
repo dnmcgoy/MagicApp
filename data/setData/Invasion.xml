@@ -2227,6 +2227,19 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>23148</id>
+      <name>Raging Kavu</name>
+      <cost>{1}{R}{G}</cost>
+      <type>Creature - Kavu</type>
+      <power>3</power>
+      <toughness>1</toughness>
+      <edition>Invasion</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Flash Haste</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>23149</id>
       <name>Slinking Serpent</name>
       <cost>{2}{U}{B}</cost>
@@ -3822,6 +3835,110 @@
       <edition>Invasion</edition>
       <rarity>Uncommon</rarity>
       <oracleText>Play with the top card of your library revealed.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>220502</id>
+      <name>Wax</name>
+      <cost>{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets +2/+2 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>220502</id>
+      <name>Wane</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target enchantment.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20574</id>
+      <name>Stand</name>
+      <cost>{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Prevent the next 2 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20574</id>
+      <name>Deliver</name>
+      <cost>{2}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target permanent to its owner's hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20576</id>
+      <name>Spite</name>
+      <cost>{3}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Counter target noncreature spell.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>220576</id>
+      <name>Malice</name>
+      <cost>{2}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target nonblack creature. It can't be regenerated.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>20577</id>
+      <name>Pain</name>
+      <cost>{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target player discards a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>220577</id>
+      <name>Suffering</name>
+      <cost>{3}{R}</cost>
+      <type>Socery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Invasion</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target land.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
