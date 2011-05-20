@@ -537,6 +537,32 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>26691</id>
+      <name>Night</name>
+      <cost>{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>26691</id>
+      <name>Day</name>
+      <cost>{2}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures target player controls get +1/+1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>26717</id>
       <name>Urborg Elf</name>
       <cost>{1}{G}</cost>
@@ -1066,6 +1092,84 @@
       <edition>Apocalypse</edition>
       <rarity>Rare</rarity>
       <oracleText>Skip your draw step. &lt;br&gt; &lt;br&gt;{1}, Tap two untapped creatures you control: Draw a card.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27162</id>
+      <name>Life</name>
+      <cost>{G}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>All lands you control become 1/1 creatures until end of turn. They're still lands.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27162</id>
+      <name>Death</name>
+      <cost>{1}{B}</cost>
+      <type>Sorcery</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27164</id>
+      <name>Illusion</name>
+      <cost>{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target spell or permanent becomes the color of your choice until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27164</id>
+      <name>Reality</name>
+      <cost>{2}{G}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Destroy target artifact.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27166</id>
+      <name>Fire</name>
+      <cost>{1}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>27166</id>
+      <name>Ice</name>
+      <cost>{1}{U}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Tap target permanent. Draw a card.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1664,6 +1768,32 @@
       <edition>Apocalypse</edition>
       <rarity>Rare</rarity>
       <oracleText>At the beginning of each player&apos;s upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205384</id>
+      <name>Order</name>
+      <cost>{3}{W}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Target creature gets -1/-1 until end of turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>205384</id>
+      <name>Chaos</name>
+      <cost>{2}{R}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Apocalypse</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures can't block this turn.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
