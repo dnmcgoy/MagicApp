@@ -667,6 +667,19 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>2101</id>
+      <name>El-Hajjâj</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>2102</id>
       <name>Erg Raiders</name>
       <cost>{1}{B}</cost>
@@ -694,7 +707,7 @@
     </mc>
     <mc>
       <id>2110</id>
-      <name>Junun Efreet</name>
+      <name>Junún Efreet</name>
       <cost>{1}{B}{B}</cost>
       <type>Creature - Efreet</type>
       <power>3</power>
@@ -1625,6 +1638,71 @@
       <edition>Fourth Edition</edition>
       <rarity>Uncommon</rarity>
       <oracleText>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2329</id>
+      <name>Circle of Protection: Black</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2330</id>
+      <name>Circle of Protection: Blue</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2331</id>
+      <name>Circle of Protection: Green</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2332</id>
+      <name>Circle of Protection: Red</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2333</id>
+      <name>Circle of Protection: White</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fourth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

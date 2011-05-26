@@ -2111,14 +2111,14 @@
     </mc>
     <mc>
       <id>2635</id>
-      <name>Marton Stromgald</name>
+      <name>Márton Stromgald</name>
       <cost>{2}{R}{R}</cost>
       <type>Legendary Creature - Human Knight</type>
       <power>1</power>
       <toughness>1</toughness>
       <edition>Ice Age</edition>
       <rarity>Rare</rarity>
-      <oracleText>Whenever Marton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Marton Stromgald. &lt;br&gt;Whenever Marton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Marton Stromgald.</oracleText>
+      <oracleText>Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald. &lt;br&gt;Whenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -2353,6 +2353,71 @@
       <edition>Ice Age</edition>
       <rarity>Rare</rarity>
       <oracleText>As Call to Arms comes into play, choose a color and an opponent. &lt;br&gt; &lt;br&gt;White creatures get +1/+1. &lt;br&gt; &lt;br&gt;When the chosen color isn&apos;t the most common color among permanents the chosen opponent controls, sacrifice Call to Arms.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2672</id>
+      <name>Circle of Protection: Black</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2673</id>
+      <name>Circle of Protection: Blue</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2674</id>
+      <name>Circle of Protection: Green</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2675</id>
+      <name>Circle of Protection: Red</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>2676</id>
+      <name>Circle of Protection: White</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Ice Age</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

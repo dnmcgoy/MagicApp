@@ -1331,14 +1331,14 @@
     </mc>
     <mc>
       <id>3981</id>
-      <name>Ghazban Ogre</name>
+      <name>Ghazbán Ogre</name>
       <cost>{G}</cost>
       <type>Creature - Ogre</type>
       <power>2</power>
       <toughness>2</toughness>
       <edition>Fifth Edition</edition>
       <rarity>Common</rarity>
-      <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazban Ogre.</oracleText>
+      <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazbán Ogre.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -2210,6 +2210,84 @@
       <edition>Fifth Edition</edition>
       <rarity>Uncommon</rarity>
       <oracleText>Untapped creatures you control get +0/+2.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4113</id>
+      <name>Circle of Protection: Artifacts</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4114</id>
+      <name>Circle of Protection: Black</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4115</id>
+      <name>Circle of Protection: Blue</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4116</id>
+      <name>Circle of Protection: Green</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4117</id>
+      <name>Circle of Protection: Red</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>4118</id>
+      <name>Circle of Protection: White</name>
+      <cost>{1}{W}</cost>
+      <type>Enchantment</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Fifth Edition</edition>
+      <rarity>Common</rarity>
+      <oracleText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

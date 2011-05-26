@@ -1624,7 +1624,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>When a creature dealt damage by Bushi Tenderfoot this turn is put into a graveyard, flip Bushi Tenderfoot. &lt;br&gt;----- &lt;br&gt;Kenzo the Hardhearted &lt;br&gt;Legendary Creature - Human Samurai &lt;br&gt;3/4 &lt;br&gt;Double strike; bushido 2 &lt;i&gt;(When this blocks or becomes blocked, it gets +2/+2 until end of turn.)&lt;/i&gt;</oracleText>
+      <oracleText>When a creature dealt damage by Bushi Tenderfoot this turn is put into a graveyard, flip Bushi Tenderfoot.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78600</id>
+      <name>Kenzo the Hardhearted</name>
+      <cost>{W}</cost>
+      <type>Legendary Creature - Human Samurai</type>
+      <power>3</power>
+      <toughness>4</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Double strike; bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1676,7 +1689,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>{1}{B}: Remove target card in an opponent&apos;s graveyard from the game. If no cards are in that graveyard, flip Nezumi Graverobber. &lt;br&gt;----- &lt;br&gt;Nighteyes the Desecrator &lt;br&gt;Legendary Creature - Rat Wizard &lt;br&gt;4/2 &lt;br&gt;{4}{B}: Put target creature card in a graveyard into play under your control.</oracleText>
+      <oracleText>{1}{B}: Remove target card in an opponent&apos;s graveyard from the game. If no cards are in that graveyard, flip Nezumi Graverobber.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78678</id>
+      <name>Nighteyes the Desecrator</name>
+      <cost>{1}{B}</cost>
+      <type>Legendary Creature - Rat Wizard</type>
+      <power>4</power>
+      <toughness>2</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{4}{B}: Put target creature card in a graveyard into play under your control.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1689,7 +1715,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Rare</rarity>
-      <oracleText>{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang. &lt;br&gt;----- &lt;br&gt;Stabwhisker the Odious &lt;br&gt;Legendary Creature - Rat Shaman &lt;br&gt;3/3 &lt;br&gt;At the beginning of each opponent&apos;s upkeep, that player loses 1 life for each card fewer than three in his or her hand.</oracleText>
+      <oracleText>{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78679</id>
+      <name>Stabwhisker the Odious</name>
+      <cost>{1}{B}</cost>
+      <type>Legendary Creature - Rat Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>At the beginning of each opponent&apos;s upkeep, that player loses 1 life for each card fewer than three in his or her hand.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1741,7 +1780,20 @@
       <toughness>2</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Rare</rarity>
-      <oracleText>{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice. &lt;br&gt;----- &lt;br&gt;Tomoya the Revealer &lt;br&gt;Legendary Creature - Human Wizard &lt;br&gt;2/3 &lt;br&gt;{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.</oracleText>
+      <oracleText>{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78686</id>
+      <name>Tomoya the Revealer</name>
+      <cost>{1}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>2</power>
+      <toughness>3</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1754,7 +1806,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Rare</rarity>
-      <oracleText>{T}: You may put a land card from your hand into play. If you control ten or more lands, flip Budoka Gardener. &lt;br&gt;----- &lt;br&gt;Dokai, Weaver of Life &lt;br&gt;Legendary Creature - Human Monk &lt;br&gt;3/3 &lt;br&gt;{4}{G}{G}, {T}: Put an X/X green Elemental creature token into play, where X is the number of lands you control.</oracleText>
+      <oracleText>{T}: You may put a land card from your hand into play. If you control ten or more lands, flip Budoka Gardener.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78687</id>
+      <name>Dokai, Weaver of Life</name>
+      <cost>{1}{G}</cost>
+      <type>Legendary Creature - Human Monk</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText> {4}{G}{G}, {T}: Put an X/X green Elemental creature token into play, where X is the number of lands you control.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1767,7 +1832,20 @@
       <toughness>2</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature is put into a graveyard this turn, flip Initiate of Blood. &lt;br&gt;----- &lt;br&gt;Goka the Unjust &lt;br&gt;Legendary Creature - Ogre Shaman &lt;br&gt;4/4 &lt;br&gt;{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.</oracleText>
+      <oracleText>{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature is put into a graveyard this turn, flip Initiate of Blood.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78688</id>
+      <name>Goka the Unjust</name>
+      <cost>{3}{R}</cost>
+      <type>Legendary Creature - Ogre Shaman</type>
+      <power>4</power>
+      <toughness>4</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1793,7 +1871,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>When Student of Elements has flying, flip it. &lt;br&gt;----- &lt;br&gt;Tobita, Master of Winds &lt;br&gt;Legendary Creature - Human Wizard &lt;br&gt;3/3 &lt;br&gt;Creatures you control have flying.</oracleText>
+      <oracleText>When Student of Elements has flying, flip it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78691</id>
+      <name>Tobita, Master of Winds</name>
+      <cost>{1}{U}</cost>
+      <type>Legendary Creature - Human Wizard</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Creatures you control have flying.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1819,7 +1910,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Rare</rarity>
-      <oracleText>Haste &lt;br&gt;Whenever Akki Lavarunner deals damage to an opponent, flip it. &lt;br&gt;----- &lt;br&gt;Tok-Tok, Volcano Born &lt;br&gt;Legendary Creature - Goblin Shaman &lt;br&gt;2/2 &lt;br&gt;Protection from red &lt;br&gt;If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.</oracleText>
+      <oracleText>Haste Whenever Akki Lavarunner deals damage to an opponent, flip it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78694</id>
+      <name>Tok-Tok, Volcano Born</name>
+      <cost>{3}{R}</cost>
+      <type>Legendary Creature - Goblin Shaman</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Protection from red If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1832,7 +1936,20 @@
       <toughness>3</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Rare</rarity>
-      <oracleText>At end of turn, if Kitsune Mystic is enchanted by two or more Auras, flip it. &lt;br&gt;----- &lt;br&gt;Autumn-Tail, Kitsune Sage &lt;br&gt;Legendary Creature - Fox Wizard &lt;br&gt;4/5 &lt;br&gt;{1}: Attach target Aura attached to a creature to another creature.</oracleText>
+      <oracleText>At end of turn, if Kitsune Mystic is enchanted by two or more Auras, flip it.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78695</id>
+      <name>Autumn-Tail, Kitsune Sage</name>
+      <cost>{3}{W}</cost>
+      <type>Legendary Creature - Fox Wizard</type>
+      <power>4</power>
+      <toughness>5</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{1}: Attach target Aura attached to a creature to another creature.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -1988,7 +2105,20 @@
       <toughness>1</toughness>
       <edition>Champions of Kamigawa</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>{2}{G}, {T}: Put a 1/1 green Snake creature token into play. If you control ten or more creatures, flip Orochi Eggwatcher. &lt;br&gt;----- &lt;br&gt;Shidako, Broodmistress &lt;br&gt;Legendary Creature - Snake Shaman &lt;br&gt;3/3 &lt;br&gt;{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.</oracleText>
+      <oracleText>{2}{G}, {T}: Put a 1/1 green Snake creature token into play. If you control ten or more creatures, flip Orochi Eggwatcher.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>78975</id>
+      <name>Shidako, Broodmistress</name>
+      <cost>{2}{G}</cost>
+      <type>Legendary Creature - Snake Shaman</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Champions of Kamigawa</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

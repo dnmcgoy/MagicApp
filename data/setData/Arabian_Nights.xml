@@ -69,6 +69,19 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>915</id>
+      <name>El-Hajjâj</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Human Wizard</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>Lifelink &lt;i&gt;(Whenever this creature deals damage, you gain that much life.)&lt;/i&gt;</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>918</id>
       <name>Guardian Beast</name>
       <cost>{3}{B}</cost>
@@ -95,28 +108,41 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>921</id>
+      <name>Junún Efreet</name>
+      <cost>{1}{B}{B}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Uncommon</rarity>
+      <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, sacrifice Junun Efreet unless you pay {B}{B}.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>922</id>
-      <name>Juzam Djinn</name>
+      <name>Juzám Djinn</name>
       <cost>{2}{B}{B}</cost>
       <type>Creature - Djinn</type>
       <power>5</power>
       <toughness>5</toughness>
       <edition>Arabian Nights</edition>
       <rarity>Rare</rarity>
-      <oracleText>At the beginning of your upkeep, Juzam Djinn deals 1 damage to you.</oracleText>
+      <oracleText>At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
     <mc>
       <id>923</id>
-      <name>Khabal Ghoul</name>
+      <name>Khabál Ghoul</name>
       <cost>{2}{B}</cost>
       <type>Creature - Zombie</type>
       <power>1</power>
       <toughness>1</toughness>
       <edition>Arabian Nights</edition>
       <rarity>Uncommon</rarity>
-      <oracleText>At end of turn, put a +1/+1 counter on Khabal Ghoul for each creature put into a graveyard from play this turn.</oracleText>
+      <oracleText>At end of turn, put a +1/+1 counter on Khabál Ghoul for each creature put into a graveyard from play this turn.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -143,6 +169,19 @@
       <edition>Arabian Nights</edition>
       <rarity>Common</rarity>
       <oracleText>First strike</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>929</id>
+      <name>Dandân</name>
+      <cost>{U}{U}</cost>
+      <type>Creature - Fish</type>
+      <power>4</power>
+      <toughness>1</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>Dandân can&apos;t attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Dandân.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -234,6 +273,19 @@
       <edition>Arabian Nights</edition>
       <rarity>Rare</rarity>
       <oracleText>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>946</id>
+      <name>Ghazbán Ogre</name>
+      <cost>{G}</cost>
+      <type>Creature - Ogre</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Common</rarity>
+      <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazbán Ogre.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -507,6 +559,19 @@
       <edition>Arabian Nights</edition>
       <rarity>Uncommon</rarity>
       <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159136</id>
+      <name>Ring of Ma&apos;rûf</name>
+      <cost>{5}</cost>
+      <type>Artifact</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Arabian Nights</edition>
+      <rarity>Rare</rarity>
+      <oracleText>{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>

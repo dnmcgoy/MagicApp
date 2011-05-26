@@ -30,8 +30,47 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>159127</id>
+      <name>Ghazbán Ogre</name>
+      <cost>{G}</cost>
+      <type>Creature - Ogre</type>
+      <power>2</power>
+      <toughness>2</toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazbán Ogre.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159130</id>
+      <name>Ifh-Biff Efreet</name>
+      <cost>{2}{G}{G}</cost>
+      <type>Creature - Efreet</type>
+      <power>3</power>
+      <toughness>3</toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>Flying &lt;br&gt;{G}: Ifh-Biff Efreet deals 1 damage to each creature with flying and each player. Any player may play this ability.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159132</id>
+      <name>Juzám Djinn</name>
+      <cost>{2}{B}{B}</cost>
+      <type>Creature - Djinn</type>
+      <power>5</power>
+      <toughness>5</toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>159136</id>
-      <name>Ring of Ma&apos;ruf</name>
+      <name>Ring of Ma&apos;rûf</name>
       <cost>{5}</cost>
       <type>Artifact</type>
       <power></power>
@@ -39,6 +78,19 @@
       <edition>Masters Edition</edition>
       <rarity>Magic Online only</rarity>
       <oracleText>{5}, {T}, Remove Ring of Ma&apos;ruf from the game: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159237</id>
+      <name>Márton Stromgald</name>
+      <cost>{2}{R}{R}</cost>
+      <type>Legendary Creature - Human Knight</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald. &lt;br&gt;Whenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
@@ -108,6 +160,19 @@
       <rating>0.0</rating>
     </mc>
     <mc>
+      <id>159764</id>
+      <name>Khabál Ghoul</name>
+      <cost>{2}{B}</cost>
+      <type>Creature - Zombie</type>
+      <power>1</power>
+      <toughness>1</toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>At end of turn, put a +1/+1 counter on Khabál Ghoul for each creature put into a graveyard from play this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
       <id>159823</id>
       <name>Chains of Mephistopheles</name>
       <cost>{1}{B}</cost>
@@ -130,6 +195,19 @@
       <edition>Masters Edition</edition>
       <rarity>Magic Online only</rarity>
       <oracleText>Untap any number of target creatures. Prevent all combat damage that would be dealt to and dealt by those creatures this turn.</oracleText>
+      <dbprice>0.0</dbprice>
+      <rating>0.0</rating>
+    </mc>
+    <mc>
+      <id>159832</id>
+      <name>Lim-Dûl&apos;s Vault</name>
+      <cost>{U}{B}</cost>
+      <type>Instant</type>
+      <power></power>
+      <toughness></toughness>
+      <edition>Masters Edition</edition>
+      <rarity>Magic Online only</rarity>
+      <oracleText>Look at the top five cards of your library. As many times as you choose, you may pay 1 life, put those cards on the bottom of your library, then look at the top five cards of your library. Then shuffle your library and put the last cards you looked at this way on top of it in any order.</oracleText>
       <dbprice>0.0</dbprice>
       <rating>0.0</rating>
     </mc>
