@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Classic Sixth Edition</name>
+<releaseDate>1999-04-28</releaseDate>
+<shortname>6ED</shortname><list>
 <mc>
   <id>10816</id>
   <name>Prosperity</name>
@@ -5951,6 +5951,40 @@
   <flavorText>"They shall drink sorrow's dregs. They shall kill those whom once they loved."&lt;br&gt;--Lim-Dul, the Necromancer</flavorText>
   <cmc>1</cmc>
   <color>{B}</color>
+</mc>
+<mc>
+  <id>45203</id>
+  <name>Circle of Protection: Blue</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Classic Sixth Edition</edition>
+  <rarity>Common</rarity>
+  <setNumber>11</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>83027</id>
+  <name>Circle of Protection: Red</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Classic Sixth Edition</edition>
+  <rarity>Common</rarity>
+  <setNumber>11</setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
 </mc>
 </list>
 </cards>

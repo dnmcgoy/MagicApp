@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Apocalypse</name>
+<releaseDate>2001-06-04</releaseDate>
+<shortname>APC</shortname><list>
 <mc>
   <id>19117</id>
   <name>Flowstone Charger</name>
@@ -769,6 +769,23 @@
 </mc>
 <mc>
   <id>26691</id>
+  <name>Night</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Apocalypse</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>131</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>Target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>26691</id>
   <name>Day</name>
   <cost>{2}{W}</cost>
   <type>Instant</type>
@@ -779,7 +796,7 @@
   <setNumber>131</setNumber>
   <artist>Christopher Moeller</artist>
   <oracleText>Creatures target player controls get +1/+1 until end of turn.</oracleText>
-  <printedText>Target creature gets -1/-1 until end of turn.</printedText>
+  <printedText>Creatures target player controls get +1/+1 until end of turn.</printedText>
   <flavorText></flavorText>
   <cmc>3</cmc>
   <color>{W}</color>
@@ -1500,6 +1517,23 @@
 </mc>
 <mc>
   <id>27162</id>
+  <name>Death</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Apocalypse</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>130</setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</oracleText>
+  <printedText>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>27162</id>
   <name>Life</name>
   <cost>{G}</cost>
   <type>Sorcery</type>
@@ -1510,10 +1544,27 @@
   <setNumber>130</setNumber>
   <artist>Edward P. Beard, Jr.</artist>
   <oracleText>All lands you control become 1/1 creatures until end of turn. They're still lands.</oracleText>
-  <printedText>Return target creature card from your graveyard to play. You lose life equal to its converted mana cost.</printedText>
+  <printedText>All lands you control become 1/1 creatures until end of turn. They're still lands.</printedText>
   <flavorText></flavorText>
   <cmc>1</cmc>
   <color>{G}</color>
+</mc>
+<mc>
+  <id>27164</id>
+  <name>Illusion</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Apocalypse</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>129</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>Target spell or permanent becomes the color of your choice until end of turn.</oracleText>
+  <printedText>Target spell or permanent becomes the color of your choice until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
 </mc>
 <mc>
   <id>27164</id>
@@ -1534,6 +1585,23 @@
 </mc>
 <mc>
   <id>27166</id>
+  <name>Ice</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Apocalypse</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>128</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>Tap target permanent. Draw a card.</oracleText>
+  <printedText>Tap target permanent. Draw a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>27166</id>
   <name>Fire</name>
   <cost>{1}{R}</cost>
   <type>Instant</type>
@@ -1544,10 +1612,27 @@
   <setNumber>128</setNumber>
   <artist>Franz Vohwinkel</artist>
   <oracleText>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</oracleText>
-  <printedText>Tap target permanent.&lt;br&gt;Draw a card.</printedText>
+  <printedText>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{R}</color>
+</mc>
+<mc>
+  <id>27168</id>
+  <name>Order</name>
+  <cost>{3}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Apocalypse</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>132</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>Target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>Target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
 </mc>
 <mc>
   <id>27168</id>

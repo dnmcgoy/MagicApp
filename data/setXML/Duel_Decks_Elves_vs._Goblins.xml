@@ -1,58 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
-<mc>
-  <id>159328</id>
-  <name>Akki Coalflinger</name>
-  <cost>{1}{R}{R}</cost>
-  <type>Creature  -- Goblin Shaman</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>33</setNumber>
-  <artist>Nottsuo</artist>
-  <oracleText>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.</oracleText>
-  <printedText>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.</printedText>
-  <flavorText>No matter where you find them, goblins love rocks.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>158100</id>
-  <name>Allosaurus Rider</name>
-  <cost>{5}{G}{G}</cost>
-  <type>Creature  -- Elf Warrior</type>
-  <power>1+*</power>
-  <toughness>1+*</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>2</setNumber>
-  <artist>Daren Bader</artist>
-  <oracleText>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.</oracleText>
-  <printedText>You may remove two green cards in your hand from the game rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.</printedText>
-  <flavorText></flavorText>
-  <cmc>7</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>157950</id>
-  <name>Ambush Commander</name>
-  <cost>{3}{G}{G}</cost>
-  <type>Creature  -- Elf</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>1</setNumber>
-  <artist>Lucio Parrillo</artist>
-  <oracleText>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.</oracleText>
-  <printedText>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.</printedText>
-  <flavorText></flavorText>
-  <cmc>5</cmc>
-  <color>{G}</color>
-</mc>
+<name>Duel Decks: Elves vs. Goblins</name>
+<releaseDate>2007-11-16</releaseDate>
+<shortname>EVG</shortname><list>
 <mc>
   <id>157915</id>
   <name>Boggart Shenanigans</name>
@@ -71,584 +20,6 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>157928</id>
-  <name>Clickslither</name>
-  <cost>{1}{R}{R}{R}</cost>
-  <type>Creature  -- Insect</type>
-  <power>3</power>
-  <toughness>3</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>34</setNumber>
-  <artist>Kev Walker</artist>
-  <oracleText>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</oracleText>
-  <printedText>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</printedText>
-  <flavorText>The least popular goblins get the outer caves.</flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159048</id>
-  <name>Elemental</name>
-  <cost></cost>
-  <type>Creature -- Elemental</type>
-  <power>7</power>
-  <toughness>7</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>1</setNumber>
-  <artist>Anthony S. Waters</artist>
-  <oracleText>Trample</oracleText>
-  <printedText>Trample</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>159047</id>
-  <name>Elf Warrior</name>
-  <cost></cost>
-  <type>Creature -- Elf Warrior</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>2</setNumber>
-  <artist>Dominick Domingo</artist>
-  <oracleText></oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>158120</id>
-  <name>Elvish Eulogist</name>
-  <cost>{G}</cost>
-  <type>Creature  -- Elf Shaman</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>3</setNumber>
-  <artist>Ben Thompson</artist>
-  <oracleText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</oracleText>
-  <printedText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</printedText>
-  <flavorText>"No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn."</flavorText>
-  <cmc>1</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>158121</id>
-  <name>Elvish Harbinger</name>
-  <cost>{2}{G}</cost>
-  <type>Creature  -- Elf Druid</type>
-  <power>1</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>4</setNumber>
-  <artist>Larry MacDougall</artist>
-  <oracleText>When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
-  <printedText>When Elvish Harbinger comes into play, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
-  <flavorText></flavorText>
-  <cmc>3</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>159030</id>
-  <name>Elvish Promenade</name>
-  <cost>{3}{G}</cost>
-  <type>Tribal Sorcery  -- Elf</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>20</setNumber>
-  <artist>Steve Ellis</artist>
-  <oracleText>Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.</oracleText>
-  <printedText>Put a 1/1 green Elf Warrior creature token into play for each Elf you control.</printedText>
-  <flavorText>The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.</flavorText>
-  <cmc>4</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>158136</id>
-  <name>Elvish Warrior</name>
-  <cost>{G}{G}</cost>
-  <type>Creature  -- Elf Warrior</type>
-  <power>2</power>
-  <toughness>3</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>5</setNumber>
-  <artist>Christopher Moeller</artist>
-  <oracleText></oracleText>
-  <printedText></printedText>
-  <flavorText>"My tales of war are the stories most asked for around the fires at night, but they're the ones I care least to tell."</flavorText>
-  <cmc>2</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>157932</id>
-  <name>Emberwilde Augur</name>
-  <cost>{1}{R}</cost>
-  <type>Creature  -- Goblin Shaman</type>
-  <power>2</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>35</setNumber>
-  <artist>Brandon Kitkouski</artist>
-  <oracleText>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.</oracleText>
-  <printedText>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.</printedText>
-  <flavorText>Legends say a djinn gave the goblins a gift they could never hope to master.</flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159053</id>
-  <name>Flamewave Invoker</name>
-  <cost>{2}{R}</cost>
-  <type>Creature  -- Goblin Mutant</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>36</setNumber>
-  <artist>Dave Dorman</artist>
-  <oracleText>{7}{R}: Flamewave Invoker deals 5 damage to target player.</oracleText>
-  <printedText>{7}{R}: Flamewave Invoker deals 5 damage to target player.</printedText>
-  <flavorText>Inside even the humblest goblin lurks the potential for far greater things--and far worse.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157948</id>
-  <name>Forest</name>
-  <cost></cost>
-  <type>Basic Land  -- Forest</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>29</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>G</oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>159327</id>
-  <name>Forgotten Cave</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>57</setNumber>
-  <artist>Tony Szczudlo</artist>
-  <oracleText>Forgotten Cave enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} ({R}, Discard this card: Draw a card.)</oracleText>
-  <printedText>Forgotten Cave comes into play tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} ({R}, Discard this card: Draw a card.)</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>157929</id>
-  <name>Gempalm Incinerator</name>
-  <cost>{2}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>37</setNumber>
-  <artist>Luca Zontini</artist>
-  <oracleText>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</oracleText>
-  <printedText>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins in play.</printedText>
-  <flavorText></flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>158117</id>
-  <name>Gempalm Strider</name>
-  <cost>{1}{G}</cost>
-  <type>Creature  -- Elf</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>6</setNumber>
-  <artist>Tim Hildebrandt</artist>
-  <oracleText>Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.</oracleText>
-  <printedText>Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Strider, all Elf creatures get +2/+2 until end of turn.</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>159037</id>
-  <name>Giant Growth</name>
-  <cost>{G}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>21</setNumber>
-  <artist>Matt Cavotta</artist>
-  <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
-  <printedText>Target creature gets +3/+3 until end of turn.</printedText>
-  <flavorText></flavorText>
-  <cmc>1</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>159056</id>
-  <name>Goblin</name>
-  <cost></cost>
-  <type>Creature -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>3</setNumber>
-  <artist>Dave Kendall</artist>
-  <oracleText></oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>157935</id>
-  <name>Goblin Burrows</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>58</setNumber>
-  <artist>David Martin</artist>
-  <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</oracleText>
-  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>157922</id>
-  <name>Goblin Cohort</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin Warrior</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>38</setNumber>
-  <artist>Darrell Riche</artist>
-  <oracleText>Goblin Cohort can't attack unless you've cast a creature spell this turn.</oracleText>
-  <printedText>Goblin Cohort can't attack unless you've played a creature spell this turn.</printedText>
-  <flavorText>Akki shells provided good protection when downhill charging became headlong tumbling.</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157933</id>
-  <name>Goblin Matron</name>
-  <cost>{2}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>39</setNumber>
-  <artist>Daniel Gelon</artist>
-  <oracleText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
-  <printedText>When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</printedText>
-  <flavorText>There's always room for one more.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157937</id>
-  <name>Goblin Ringleader</name>
-  <cost>{3}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>40</setNumber>
-  <artist>Mark Romanoski</artist>
-  <oracleText>Haste&lt;br&gt;When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.</oracleText>
-  <printedText>Haste&lt;br&gt;When Goblin Ringleader comes into play, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library.</printedText>
-  <flavorText></flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159049</id>
-  <name>Goblin Sledder</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>41</setNumber>
-  <artist>Ron Spencer</artist>
-  <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</oracleText>
-  <printedText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</printedText>
-  <flavorText>"Let's play 'sled.' Here's how it works: you're the sled."</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157934</id>
-  <name>Goblin Warchief</name>
-  <cost>{1}{R}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>42</setNumber>
-  <artist>Greg & Tim Hildebrandt</artist>
-  <oracleText>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.</oracleText>
-  <printedText>Goblin spells you play cost {1} less to play.&lt;br&gt;Goblin creatures you control have haste.</printedText>
-  <flavorText>They poured from the Skirk Ridge like lava, burning and devouring everything in their path.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157946</id>
-  <name>Forest</name>
-  <cost></cost>
-  <type>Basic Land  -- Forest</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>28</setNumber>
-  <artist>Glen Angus</artist>
-  <oracleText>G</oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>159042</id>
-  <name>Forest</name>
-  <cost></cost>
-  <type>Basic Land  -- Forest</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>30</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>G</oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>159041</id>
-  <name>Forest</name>
-  <cost></cost>
-  <type>Basic Land  -- Forest</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>31</setNumber>
-  <artist>Rob Alexander</artist>
-  <oracleText>G</oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>159033</id>
-  <name>Harmonize</name>
-  <cost>{2}{G}{G}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>22</setNumber>
-  <artist>Rob Alexander</artist>
-  <oracleText>Draw three cards.</oracleText>
-  <printedText>Draw three cards.</printedText>
-  <flavorText>"Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing."&lt;br&gt;--Seton, centaur druid</flavorText>
-  <cmc>4</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>158113</id>
-  <name>Heedless One</name>
-  <cost>{3}{G}</cost>
-  <type>Creature  -- Elf Avatar</type>
-  <power>*</power>
-  <toughness>*</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>7</setNumber>
-  <artist>Mark Zug</artist>
-  <oracleText>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves on the battlefield.</oracleText>
-  <printedText>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves in play.</printedText>
-  <flavorText>"Channel your vitality through me."</flavorText>
-  <cmc>4</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>157923</id>
-  <name>Ib Halfheart, Goblin Tactician</name>
-  <cost>{3}{R}</cost>
-  <type>Legendary Creature  -- Goblin Advisor</type>
-  <power>3</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>43</setNumber>
-  <artist>Wayne Reynolds</artist>
-  <oracleText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens onto the battlefield.</oracleText>
-  <printedText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens into play.</printedText>
-  <flavorText>"Everybody but me--CHARGE!"</flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>158123</id>
-  <name>Imperious Perfect</name>
-  <cost>{2}{G}</cost>
-  <type>Creature  -- Elf Warrior</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>8</setNumber>
-  <artist>Scott M. Fischer</artist>
-  <oracleText>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.</oracleText>
-  <printedText>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token into play.</printedText>
-  <flavorText>In a culture of beauty, the most beautiful are worshipped as gods.</flavorText>
-  <cmc>3</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>158112</id>
-  <name>Llanowar Elves</name>
-  <cost>{G}</cost>
-  <type>Creature  -- Elf Druid</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>9</setNumber>
-  <artist>Kev Walker</artist>
-  <oracleText>{T}: Add {G} to your mana pool.</oracleText>
-  <printedText>{T}: Add {G} to your mana pool.</printedText>
-  <flavorText>One bone broken for every twig snapped underfoot.&lt;br&gt;--Llanowar penalty for trespassing</flavorText>
-  <cmc>1</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>158125</id>
-  <name>Lys Alana Huntmaster</name>
-  <cost>{2}{G}{G}</cost>
-  <type>Creature  -- Elf Warrior</type>
-  <power>3</power>
-  <toughness>3</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>10</setNumber>
-  <artist>Pete Venters</artist>
-  <oracleText>Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.</oracleText>
-  <printedText>Whenever you play an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.</printedText>
-  <flavorText>From the highest tiers of Dawn's Light Palace to the deepest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.</flavorText>
-  <cmc>4</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>157925</id>
-  <name>Mogg Fanatic</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>44</setNumber>
-  <artist>Brom</artist>
-  <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</oracleText>
-  <printedText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</printedText>
-  <flavorText>"I got it! I got it! I--"</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157924</id>
-  <name>Mogg War Marshal</name>
-  <cost>{1}{R}</cost>
-  <type>Creature  -- Goblin Warrior</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>45</setNumber>
-  <artist>Wayne England</artist>
-  <oracleText>Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Mogg War Marshal enters the battlefield or is put into a graveyard from the battlefield, put a 1/1 red Goblin creature token onto the battlefield.</oracleText>
-  <printedText>Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Mogg War Marshal comes into play or is put into a graveyard from play, put a 1/1 red Goblin creature token into play.</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159032</id>
-  <name>Moonglove Extract</name>
-  <cost>{3}</cost>
-  <type>Artifact</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>24</setNumber>
-  <artist>Terese Nielsen</artist>
-  <oracleText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.</oracleText>
-  <printedText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.</printedText>
-  <flavorText>Diluted, moonglove can etch living tissue. Concentrated, a drop will kill a giant.</flavorText>
-  <cmc>3</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
-  <id>159061</id>
-  <name>Mountain</name>
-  <cost></cost>
-  <type>Basic Land  -- Mountain</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>60</setNumber>
-  <artist>Jeff Miracola</artist>
-  <oracleText>R</oracleText>
-  <printedText></printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
   <id>157919</id>
   <name>Mudbutton Torchrunner</name>
   <cost>{2}{R}</cost>
@@ -664,193 +35,6 @@
   <flavorText>The oil sloshes against his skull as he nears his destination: the Frogtosser Games and the lighting of the Flaming Boggart.</flavorText>
   <cmc>3</cmc>
   <color>{R}</color>
-</mc>
-<mc>
-  <id>159326</id>
-  <name>Raging Goblin</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin Berserker</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>47</setNumber>
-  <artist>Jeff Miracola</artist>
-  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
-  <printedText>Haste</printedText>
-  <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159050</id>
-  <name>Reckless One</name>
-  <cost>{3}{R}</cost>
-  <type>Creature  -- Goblin Avatar</type>
-  <power>*</power>
-  <toughness>*</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>48</setNumber>
-  <artist>Ron Spencer</artist>
-  <oracleText>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.</oracleText>
-  <printedText>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins in play.</printedText>
-  <flavorText>"Release chaos with me!"</flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157926</id>
-  <name>Siege-Gang Commander</name>
-  <cost>{3}{R}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>32</setNumber>
-  <artist>Lucio Parrillo</artist>
-  <oracleText>When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.</oracleText>
-  <printedText>When Siege-Gang Commander comes into play, put three 1/1 red Goblin creature tokens into play.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.</printedText>
-  <flavorText></flavorText>
-  <cmc>5</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157931</id>
-  <name>Skirk Drill Sergeant</name>
-  <cost>{1}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>49</setNumber>
-  <artist>Alex Horley-Orlandelli</artist>
-  <oracleText>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from the battlefield, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.</oracleText>
-  <printedText>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from play, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it into play. Otherwise, put it into your graveyard.</printedText>
-  <flavorText>"I order you to volunteer."</flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>157936</id>
-  <name>Skirk Fire Marshal</name>
-  <cost>{3}{R}{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>50</setNumber>
-  <artist>Greg & Tim Hildebrandt</artist>
-  <oracleText>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</oracleText>
-  <printedText>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</printedText>
-  <flavorText>He's boss because he's smart enough to get out of the way.</flavorText>
-  <cmc>5</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159051</id>
-  <name>Skirk Prospector</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>51</setNumber>
-  <artist>Doug Chaffee</artist>
-  <oracleText>Sacrifice a Goblin: Add {R} to your mana pool.</oracleText>
-  <printedText>Sacrifice a Goblin: Add {R} to your mana pool.</printedText>
-  <flavorText>"I like goblins. They make funny little popping sounds when they die."&lt;br&gt;--Braids, dementia summoner</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159055</id>
-  <name>Skirk Shaman</name>
-  <cost>{1}{R}{R}</cost>
-  <type>Creature  -- Goblin Shaman</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>52</setNumber>
-  <artist>Chippy</artist>
-  <oracleText>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.</oracleText>
-  <printedText>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.</printedText>
-  <flavorText>In a shaman's grimy hands, a concoction of dried Skirk Ridge herbs can become the face of panic.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159501</id>
-  <name>Slate of Ancestry</name>
-  <cost>{4}</cost>
-  <type>Artifact</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Rare</rarity>
-  <setNumber>25</setNumber>
-  <artist>Corey D. Macourek</artist>
-  <oracleText>{4}, {T}, Discard your hand: Draw a card for each creature you control.</oracleText>
-  <printedText>{4}, {T}, Discard your hand: Draw a card for each creature you control.</printedText>
-  <flavorText>The pattern of life can be studied like a book, if you know how to read it.</flavorText>
-  <cmc>4</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
-  <id>159054</id>
-  <name>Spitting Earth</name>
-  <cost>{1}{R}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>55</setNumber>
-  <artist>Michael Koelsch</artist>
-  <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.</oracleText>
-  <printedText>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</printedText>
-  <flavorText>"Within each of you is the strength of a landslide."&lt;br&gt;--Kumano, to his pupils</flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>159324</id>
-  <name>Stonewood Invoker</name>
-  <cost>{1}{G}</cost>
-  <type>Creature  -- Elf Mutant</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>11</setNumber>
-  <artist>Eric Peterson</artist>
-  <oracleText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</oracleText>
-  <printedText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</printedText>
-  <flavorText>The Mirari pulses in his veins.</flavorText>
-  <cmc>2</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>159035</id>
-  <name>Sylvan Messenger</name>
-  <cost>{3}{G}</cost>
-  <type>Creature  -- Elf</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>EVG</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>12</setNumber>
-  <artist>Heather Hudson</artist>
-  <oracleText>Trample&lt;br&gt;When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.</oracleText>
-  <printedText>Trample&lt;br&gt;When Sylvan Messenger comes into play, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.</printedText>
-  <flavorText></flavorText>
-  <cmc>4</cmc>
-  <color>{G}</color>
 </mc>
 <mc>
   <id>157920</id>
@@ -887,38 +71,242 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>158118</id>
-  <name>Timberwatch Elf</name>
-  <cost>{2}{G}</cost>
-  <type>Creature  -- Elf</type>
-  <power>1</power>
+  <id>157922</id>
+  <name>Goblin Cohort</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>2</power>
   <toughness>2</toughness>
   <edition>EVG</edition>
   <rarity>Common</rarity>
-  <setNumber>13</setNumber>
-  <artist>Dave Dorman</artist>
-  <oracleText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.</oracleText>
-  <printedText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves in play.</printedText>
-  <flavorText>Even through the Mirari's voice, the elves still hear the call of their kinship.</flavorText>
-  <cmc>3</cmc>
-  <color>{G}</color>
+  <setNumber>38</setNumber>
+  <artist>Darrell Riche</artist>
+  <oracleText>Goblin Cohort can't attack unless you've cast a creature spell this turn.</oracleText>
+  <printedText>Goblin Cohort can't attack unless you've played a creature spell this turn.</printedText>
+  <flavorText>Akki shells provided good protection when downhill charging became headlong tumbling.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
 </mc>
 <mc>
-  <id>157940</id>
-  <name>Mountain</name>
+  <id>157923</id>
+  <name>Ib Halfheart, Goblin Tactician</name>
+  <cost>{3}{R}</cost>
+  <type>Legendary Creature  -- Goblin Advisor</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>43</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens onto the battlefield.</oracleText>
+  <printedText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens into play.</printedText>
+  <flavorText>"Everybody but me--CHARGE!"</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157924</id>
+  <name>Mogg War Marshal</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>45</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Mogg War Marshal enters the battlefield or is put into a graveyard from the battlefield, put a 1/1 red Goblin creature token onto the battlefield.</oracleText>
+  <printedText>Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Mogg War Marshal comes into play or is put into a graveyard from play, put a 1/1 red Goblin creature token into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157925</id>
+  <name>Mogg Fanatic</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>44</setNumber>
+  <artist>Brom</artist>
+  <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</oracleText>
+  <printedText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</printedText>
+  <flavorText>"I got it! I got it! I--"</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157926</id>
+  <name>Siege-Gang Commander</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>32</setNumber>
+  <artist>Lucio Parrillo</artist>
+  <oracleText>When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.</oracleText>
+  <printedText>When Siege-Gang Commander comes into play, put three 1/1 red Goblin creature tokens into play.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157928</id>
+  <name>Clickslither</name>
+  <cost>{1}{R}{R}{R}</cost>
+  <type>Creature  -- Insect</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>34</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</oracleText>
+  <printedText>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</printedText>
+  <flavorText>The least popular goblins get the outer caves.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157929</id>
+  <name>Gempalm Incinerator</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>37</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</oracleText>
+  <printedText>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157931</id>
+  <name>Skirk Drill Sergeant</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>49</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from the battlefield, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.</oracleText>
+  <printedText>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from play, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it into play. Otherwise, put it into your graveyard.</printedText>
+  <flavorText>"I order you to volunteer."</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157932</id>
+  <name>Emberwilde Augur</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Goblin Shaman</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>35</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.</oracleText>
+  <printedText>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.</printedText>
+  <flavorText>Legends say a djinn gave the goblins a gift they could never hope to master.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157933</id>
+  <name>Goblin Matron</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>39</setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+  <printedText>When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</printedText>
+  <flavorText>There's always room for one more.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157934</id>
+  <name>Goblin Warchief</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>42</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.</oracleText>
+  <printedText>Goblin spells you play cost {1} less to play.&lt;br&gt;Goblin creatures you control have haste.</printedText>
+  <flavorText>They poured from the Skirk Ridge like lava, burning and devouring everything in their path.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157935</id>
+  <name>Goblin Burrows</name>
   <cost></cost>
-  <type>Basic Land  -- Mountain</type>
+  <type>Land</type>
   <power></power>
   <toughness></toughness>
   <edition>EVG</edition>
-  <rarity>Land</rarity>
-  <setNumber>59</setNumber>
-  <artist>David Day</artist>
-  <oracleText>R</oracleText>
-  <printedText></printedText>
+  <rarity>Uncommon</rarity>
+  <setNumber>58</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</printedText>
   <flavorText></flavorText>
   <cmc></cmc>
   <color></color>
+</mc>
+<mc>
+  <id>157936</id>
+  <name>Skirk Fire Marshal</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>50</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</oracleText>
+  <printedText>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</printedText>
+  <flavorText>He's boss because he's smart enough to get out of the way.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>157937</id>
+  <name>Goblin Ringleader</name>
+  <cost>{3}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>40</setNumber>
+  <artist>Mark Romanoski</artist>
+  <oracleText>Haste&lt;br&gt;When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.</oracleText>
+  <printedText>Haste&lt;br&gt;When Goblin Ringleader comes into play, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
 </mc>
 <mc>
   <id>157939</id>
@@ -931,6 +319,23 @@
   <rarity>Land</rarity>
   <setNumber>61</setNumber>
   <artist>Rob Alexander</artist>
+  <oracleText>R</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>157940</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Land</rarity>
+  <setNumber>59</setNumber>
+  <artist>David Day</artist>
   <oracleText>R</oracleText>
   <printedText></printedText>
   <flavorText></flavorText>
@@ -955,37 +360,71 @@
   <color></color>
 </mc>
 <mc>
-  <id>159325</id>
-  <name>Tranquil Thicket</name>
+  <id>157946</id>
+  <name>Forest</name>
   <cost></cost>
-  <type>Land</type>
+  <type>Basic Land  -- Forest</type>
   <power></power>
   <toughness></toughness>
   <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>27</setNumber>
-  <artist>Heather Hudson</artist>
-  <oracleText>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} ({G}, Discard this card: Draw a card.)</oracleText>
-  <printedText>Tranquil Thicket comes into play tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} ({G}, Discard this card: Draw a card.)</printedText>
+  <rarity>Land</rarity>
+  <setNumber>28</setNumber>
+  <artist>Glen Angus</artist>
+  <oracleText>G</oracleText>
+  <printedText></printedText>
   <flavorText></flavorText>
   <cmc></cmc>
   <color></color>
 </mc>
 <mc>
-  <id>159029</id>
-  <name>Voice of the Woods</name>
+  <id>157948</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Land</rarity>
+  <setNumber>29</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>157950</id>
+  <name>Ambush Commander</name>
   <cost>{3}{G}{G}</cost>
   <type>Creature  -- Elf</type>
   <power>2</power>
   <toughness>2</toughness>
   <edition>EVG</edition>
   <rarity>Rare</rarity>
-  <setNumber>14</setNumber>
-  <artist>Pete Venters</artist>
-  <oracleText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.</oracleText>
-  <printedText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample into play.</printedText>
-  <flavorText>The ritual of making draws upon the elves' memories and pasts. And elves have long memories and ancient pasts.</flavorText>
+  <setNumber>1</setNumber>
+  <artist>Lucio Parrillo</artist>
+  <oracleText>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.</oracleText>
+  <printedText>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.</printedText>
+  <flavorText></flavorText>
   <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158100</id>
+  <name>Allosaurus Rider</name>
+  <cost>{5}{G}{G}</cost>
+  <type>Creature  -- Elf Warrior</type>
+  <power>1+*</power>
+  <toughness>1+*</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>2</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.</oracleText>
+  <printedText>You may remove two green cards in your hand from the game rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
   <color>{G}</color>
 </mc>
 <mc>
@@ -1003,23 +442,6 @@
   <printedText>{T}: You gain 1 life for each Elf in play.</printedText>
   <flavorText>"Close your ears to the voice of greed, and you can turn a gift for one into a gift for many."</flavorText>
   <cmc>2</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
-  <id>159036</id>
-  <name>Wildsize</name>
-  <cost>{2}{G}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>EVG</edition>
-  <rarity>Common</rarity>
-  <setNumber>23</setNumber>
-  <artist>Jim Murray</artist>
-  <oracleText>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.</oracleText>
-  <printedText>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.</printedText>
-  <flavorText>Two times the size, four times the smell.</flavorText>
-  <cmc>3</cmc>
   <color>{G}</color>
 </mc>
 <mc>
@@ -1057,19 +479,291 @@
   <color></color>
 </mc>
 <mc>
-  <id>159322</id>
-  <name>Wirewood Symbiote</name>
+  <id>158112</id>
+  <name>Llanowar Elves</name>
   <cost>{G}</cost>
-  <type>Creature  -- Insect</type>
+  <type>Creature  -- Elf Druid</type>
   <power>1</power>
   <toughness>1</toughness>
   <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>9</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add {G} to your mana pool.</printedText>
+  <flavorText>One bone broken for every twig snapped underfoot.&lt;br&gt;--Llanowar penalty for trespassing</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158113</id>
+  <name>Heedless One</name>
+  <cost>{3}{G}</cost>
+  <type>Creature  -- Elf Avatar</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>EVG</edition>
   <rarity>Uncommon</rarity>
-  <setNumber>17</setNumber>
-  <artist>Thomas M. Baxa</artist>
-  <oracleText>Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.</oracleText>
-  <printedText>Return an Elf you control to its owner's hand: Untap target creature. Play this ability only once each turn.</printedText>
-  <flavorText>It drinks fatigue.</flavorText>
+  <setNumber>7</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves on the battlefield.</oracleText>
+  <printedText>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves in play.</printedText>
+  <flavorText>"Channel your vitality through me."</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158117</id>
+  <name>Gempalm Strider</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Elf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>6</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.</oracleText>
+  <printedText>Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Gempalm Strider, all Elf creatures get +2/+2 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158118</id>
+  <name>Timberwatch Elf</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Elf</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>13</setNumber>
+  <artist>Dave Dorman</artist>
+  <oracleText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.</oracleText>
+  <printedText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves in play.</printedText>
+  <flavorText>Even through the Mirari's voice, the elves still hear the call of their kinship.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158120</id>
+  <name>Elvish Eulogist</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Elf Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</oracleText>
+  <printedText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.</printedText>
+  <flavorText>"No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn."</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158121</id>
+  <name>Elvish Harbinger</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Elf Druid</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>4</setNumber>
+  <artist>Larry MacDougall</artist>
+  <oracleText>When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>When Elvish Harbinger comes into play, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158123</id>
+  <name>Imperious Perfect</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Elf Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>8</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.</oracleText>
+  <printedText>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token into play.</printedText>
+  <flavorText>In a culture of beauty, the most beautiful are worshipped as gods.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158125</id>
+  <name>Lys Alana Huntmaster</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature  -- Elf Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>10</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.</oracleText>
+  <printedText>Whenever you play an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.</printedText>
+  <flavorText>From the highest tiers of Dawn's Light Palace to the deepest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158129</id>
+  <name>Wren's Run Vanquisher</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Elf Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>19</setNumber>
+  <artist>Parente</artist>
+  <oracleText>As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</oracleText>
+  <printedText>As an additional cost to play Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>158136</id>
+  <name>Elvish Warrior</name>
+  <cost>{G}{G}</cost>
+  <type>Creature  -- Elf Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>5</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"My tales of war are the stories most asked for around the fires at night, but they're the ones I care least to tell."</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159029</id>
+  <name>Voice of the Woods</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature  -- Elf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>14</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.</oracleText>
+  <printedText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample into play.</printedText>
+  <flavorText>The ritual of making draws upon the elves' memories and pasts. And elves have long memories and ancient pasts.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159030</id>
+  <name>Elvish Promenade</name>
+  <cost>{3}{G}</cost>
+  <type>Tribal Sorcery  -- Elf</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>20</setNumber>
+  <artist>Steve Ellis</artist>
+  <oracleText>Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.</oracleText>
+  <printedText>Put a 1/1 green Elf Warrior creature token into play for each Elf you control.</printedText>
+  <flavorText>The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159032</id>
+  <name>Moonglove Extract</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>24</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.</oracleText>
+  <printedText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.</printedText>
+  <flavorText>Diluted, moonglove can etch living tissue. Concentrated, a drop will kill a giant.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>159033</id>
+  <name>Harmonize</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>22</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Draw three cards.</oracleText>
+  <printedText>Draw three cards.</printedText>
+  <flavorText>"Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing."&lt;br&gt;--Seton, centaur druid</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159035</id>
+  <name>Sylvan Messenger</name>
+  <cost>{3}{G}</cost>
+  <type>Creature  -- Elf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>12</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Trample&lt;br&gt;When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.</oracleText>
+  <printedText>Trample&lt;br&gt;When Sylvan Messenger comes into play, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159036</id>
+  <name>Wildsize</name>
+  <cost>{2}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>23</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.</oracleText>
+  <printedText>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.</printedText>
+  <flavorText>Two times the size, four times the smell.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159037</id>
+  <name>Giant Growth</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>21</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+  <printedText>Target creature gets +3/+3 until end of turn.</printedText>
+  <flavorText></flavorText>
   <cmc>1</cmc>
   <color>{G}</color>
 </mc>
@@ -1091,21 +785,327 @@
   <color>{G}</color>
 </mc>
 <mc>
-  <id>158129</id>
-  <name>Wren's Run Vanquisher</name>
-  <cost>{1}{G}</cost>
-  <type>Creature  -- Elf Warrior</type>
-  <power>3</power>
-  <toughness>3</toughness>
+  <id>159041</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Land</rarity>
+  <setNumber>31</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>G</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159042</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Land</rarity>
+  <setNumber>30</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159047</id>
+  <name>Elf Warrior</name>
+  <cost></cost>
+  <type>Creature -- Elf Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>2</setNumber>
+  <artist>Dominick Domingo</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159048</id>
+  <name>Elemental</name>
+  <cost></cost>
+  <type>Creature -- Elemental</type>
+  <power>7</power>
+  <toughness>7</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>Trample</oracleText>
+  <printedText>Trample</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159049</id>
+  <name>Goblin Sledder</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>41</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</printedText>
+  <flavorText>"Let's play 'sled.' Here's how it works: you're the sled."</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159050</id>
+  <name>Reckless One</name>
+  <cost>{3}{R}</cost>
+  <type>Creature  -- Goblin Avatar</type>
+  <power>*</power>
+  <toughness>*</toughness>
   <edition>EVG</edition>
   <rarity>Uncommon</rarity>
-  <setNumber>19</setNumber>
-  <artist>Parente</artist>
-  <oracleText>As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</oracleText>
-  <printedText>As an additional cost to play Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)</printedText>
+  <setNumber>48</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.</oracleText>
+  <printedText>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins in play.</printedText>
+  <flavorText>"Release chaos with me!"</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159051</id>
+  <name>Skirk Prospector</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>51</setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Sacrifice a Goblin: Add {R} to your mana pool.</oracleText>
+  <printedText>Sacrifice a Goblin: Add {R} to your mana pool.</printedText>
+  <flavorText>"I like goblins. They make funny little popping sounds when they die."&lt;br&gt;--Braids, dementia summoner</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159053</id>
+  <name>Flamewave Invoker</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Goblin Mutant</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>36</setNumber>
+  <artist>Dave Dorman</artist>
+  <oracleText>{7}{R}: Flamewave Invoker deals 5 damage to target player.</oracleText>
+  <printedText>{7}{R}: Flamewave Invoker deals 5 damage to target player.</printedText>
+  <flavorText>Inside even the humblest goblin lurks the potential for far greater things--and far worse.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159054</id>
+  <name>Spitting Earth</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>55</setNumber>
+  <artist>Michael Koelsch</artist>
+  <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.</oracleText>
+  <printedText>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</printedText>
+  <flavorText>"Within each of you is the strength of a landslide."&lt;br&gt;--Kumano, to his pupils</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159055</id>
+  <name>Skirk Shaman</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Goblin Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>52</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.</oracleText>
+  <printedText>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.</printedText>
+  <flavorText>In a shaman's grimy hands, a concoction of dried Skirk Ridge herbs can become the face of panic.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159056</id>
+  <name>Goblin</name>
+  <cost></cost>
+  <type>Creature -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
   <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159061</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Land</rarity>
+  <setNumber>60</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>R</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159322</id>
+  <name>Wirewood Symbiote</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Insect</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>17</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.</oracleText>
+  <printedText>Return an Elf you control to its owner's hand: Untap target creature. Play this ability only once each turn.</printedText>
+  <flavorText>It drinks fatigue.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>159324</id>
+  <name>Stonewood Invoker</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Elf Mutant</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>11</setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</oracleText>
+  <printedText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</printedText>
+  <flavorText>The Mirari pulses in his veins.</flavorText>
   <cmc>2</cmc>
   <color>{G}</color>
+</mc>
+<mc>
+  <id>159325</id>
+  <name>Tranquil Thicket</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>27</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} ({G}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Tranquil Thicket comes into play tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} ({G}, Discard this card: Draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159326</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>47</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Haste</printedText>
+  <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159327</id>
+  <name>Forgotten Cave</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Common</rarity>
+  <setNumber>57</setNumber>
+  <artist>Tony Szczudlo</artist>
+  <oracleText>Forgotten Cave enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} ({R}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Forgotten Cave comes into play tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} ({R}, Discard this card: Draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>159328</id>
+  <name>Akki Coalflinger</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Goblin Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>EVG</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>33</setNumber>
+  <artist>Nottsuo</artist>
+  <oracleText>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.</oracleText>
+  <printedText>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.</printedText>
+  <flavorText>No matter where you find them, goblins love rocks.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>159501</id>
+  <name>Slate of Ancestry</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>EVG</edition>
+  <rarity>Rare</rarity>
+  <setNumber>25</setNumber>
+  <artist>Corey D. Macourek</artist>
+  <oracleText>{4}, {T}, Discard your hand: Draw a card for each creature you control.</oracleText>
+  <printedText>{4}, {T}, Discard your hand: Draw a card for each creature you control.</printedText>
+  <flavorText>The pattern of life can be studied like a book, if you know how to read it.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
 </mc>
 </list>
 </cards>

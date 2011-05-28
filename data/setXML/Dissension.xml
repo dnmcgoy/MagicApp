@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Dissension</name>
+<releaseDate>2006-05-05</releaseDate>
+<shortname>DIS</shortname><list>
 <mc>
   <id>83737</id>
   <name>Omnibian</name>
@@ -837,6 +837,23 @@
 </mc>
 <mc>
   <id>107259</id>
+  <name>Trial</name>
+  <cost>{W}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>158</setNumber>
+  <artist>Ron Spears & Wayne Reynolds</artist>
+  <oracleText>Return all creatures blocking or blocked by target creature to their owner's hand.</oracleText>
+  <printedText>Return all creatures blocking or blocked by target creature to their owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}{W}</color>
+</mc>
+<mc>
+  <id>107259</id>
   <name>Error</name>
   <cost>{U}{B}</cost>
   <type>Instant</type>
@@ -847,7 +864,7 @@
   <setNumber>158</setNumber>
   <artist>Ron Spears & Wayne Reynolds</artist>
   <oracleText>Counter target multicolored spell.</oracleText>
-  <printedText>Return all creatures blocking or blocked by target creature to their owner's hand.&lt;br&gt;//&lt;br&gt;Error&lt;br&gt;{U}{B}&lt;br&gt;Instant&lt;br&gt;Counter target multicolored spell.</printedText>
+  <printedText>Counter target multicolored spell.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{U}{B}</color>
@@ -1041,6 +1058,23 @@
 </mc>
 <mc>
   <id>107285</id>
+  <name>Crime</name>
+  <cost>{3}{W}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Rare</rarity>
+  <setNumber>150</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Put target creature or enchantment card in an opponent's graveyard into play under your control.</oracleText>
+  <printedText>Put target creature or enchantment card in an opponent's graveyard into play under your control.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}{W}</color>
+</mc>
+<mc>
+  <id>107285</id>
   <name>Punishment</name>
   <cost>{X}{B}{G}</cost>
   <type>Sorcery</type>
@@ -1051,7 +1085,7 @@
   <setNumber>150</setNumber>
   <artist>Randy Gallegos</artist>
   <oracleText>Destroy each artifact, creature, and enchantment with converted mana cost X.</oracleText>
-  <printedText>Put target creature or enchantment card in an opponent's graveyard into play under your control.&lt;br&gt;//&lt;br&gt;Punishment&lt;br&gt;{X}{B}{G}&lt;br&gt;Sorcery&lt;br&gt;Destroy each artifact, creature, and enchantment with converted mana cost X.</printedText>
+  <printedText>Destroy each artifact, creature, and enchantment with converted mana cost X.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{B}{G}</color>
@@ -1245,6 +1279,23 @@
 </mc>
 <mc>
   <id>107315</id>
+  <name>Hide</name>
+  <cost>{R}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Rare</rarity>
+  <setNumber>151</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>Put target artifact or enchantment on the bottom of its owner's library.</oracleText>
+  <printedText>Put target artifact or enchantment on the bottom of its owner's library.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}{W}</color>
+</mc>
+<mc>
+  <id>107315</id>
   <name>Seek</name>
   <cost>{W}{B}</cost>
   <type>Instant</type>
@@ -1255,7 +1306,7 @@
   <setNumber>151</setNumber>
   <artist>Zoltan Boros & Gabor Szikszai</artist>
   <oracleText>Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles his or her library.</oracleText>
-  <printedText>Put target artifact or enchantment on the bottom of its owner's library.&lt;br&gt;//&lt;br&gt;Seek&lt;br&gt;{W}{B}&lt;br&gt;Instant&lt;br&gt;Search target opponent's library for a card and remove that card from the game. You gain life equal to its converted mana cost. Then that player shuffles his or her library.</printedText>
+  <printedText>Search target opponent's library for a card and exile it. You gain life equal to its converted mana cost. Then that player shuffles his or her library.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{B}{W}</color>
@@ -1636,6 +1687,23 @@
 </mc>
 <mc>
   <id>107373</id>
+  <name>Bound</name>
+  <cost>{3}{B}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Rare</rarity>
+  <setNumber>149</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Then remove this card from the game.</oracleText>
+  <printedText>Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Then remove this card from the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}{G}</color>
+</mc>
+<mc>
+  <id>107373</id>
   <name>Determined</name>
   <cost>{G}{U}</cost>
   <type>Instant</type>
@@ -1647,7 +1715,8 @@
   <artist>Jim Nelson</artist>
   <oracleText>Other spells you control can't be countered by spells or abilities this turn.
 Draw a card.</oracleText>
-  <printedText>Sacrifice a creature. Return up to X cards from your graveyard to your hand, where X is the number of colors that creature was. Then remove this card from the game.&lt;br&gt;//&lt;br&gt;Determined&lt;br&gt;{G}{U}&lt;br&gt;Instant&lt;br&gt;Other spells you control can't be countered by spells or abilities this turn.&lt;br&gt;Draw a card.</printedText>
+  <printedText>Other spells you control can't be countered by spells or abilities this turn.
+Draw a card.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{U}{G}</color>
@@ -1671,6 +1740,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107375</id>
+  <name>Research</name>
+  <cost>{G}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Rare</rarity>
+  <setNumber>155</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Choose up to four cards you own from outside the game and shuffle them into your library.</oracleText>
+  <printedText>Choose up to four cards you own from outside the game and shuffle them into your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}{G}</color>
+</mc>
+<mc>
+  <id>107375</id>
   <name>Development</name>
   <cost>{3}{U}{R}</cost>
   <type>Instant</type>
@@ -1681,7 +1767,7 @@ Draw a card.</oracleText>
   <setNumber>155</setNumber>
   <artist>Greg Staples</artist>
   <oracleText>Put a 3/1 red Elemental creature token onto the battlefield unless any opponent has you draw a card. Repeat this process two more times.</oracleText>
-  <printedText>Choose up to four cards you own from outside the game and shuffle them into your library.&lt;br&gt;//&lt;br&gt;Development&lt;br&gt;{3}{U}{R}&lt;br&gt;Instant&lt;br&gt;Put a 3/1 red Elemental creature token into play unless an opponent lets you draw a card. Repeat this process two more times.</printedText>
+  <printedText>Put a 3/1 red Elemental creature token onto the battlefield unless any opponent has you draw a card. Repeat this process two more times.</printedText>
   <flavorText></flavorText>
   <cmc>5</cmc>
   <color>{U}{R}</color>
@@ -1739,6 +1825,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107387</id>
+  <name>Hit</name>
+  <cost>{1}{B}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>152</setNumber>
+  <artist>Darrell Riche</artist>
+  <oracleText>Target player sacrifices an artifact or creature.  Hit deals damage to that player equal to that permanent's converted mana cost.</oracleText>
+  <printedText>Target player sacrifices an artifact or creature.  Hit deals damage to that player equal to that permanent's converted mana cost.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>107387</id>
   <name>Run</name>
   <cost>{3}{R}{G}</cost>
   <type>Instant</type>
@@ -1749,7 +1852,7 @@ Draw a card.</oracleText>
   <setNumber>152</setNumber>
   <artist>Darrell Riche</artist>
   <oracleText>Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.</oracleText>
-  <printedText>Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's converted mana cost.&lt;br&gt;//&lt;br&gt;Run&lt;br&gt;{3}{R}{G}&lt;br&gt;Instant&lt;br&gt;Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.</printedText>
+  <printedText>Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.</printedText>
   <flavorText></flavorText>
   <cmc>5</cmc>
   <color>{G}{R}</color>
@@ -1875,6 +1978,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107423</id>
+  <name>Rise</name>
+  <cost>{U}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>156</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Return target creature card in a graveyard and target creature in play to their owners' hands.</oracleText>
+  <printedText>Return target creature card in a graveyard and target creature in play to their owners' hands.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}{B}</color>
+</mc>
+<mc>
+  <id>107423</id>
   <name>Fall</name>
   <cost>{1}{W}{U}</cost>
   <type>Sorcery</type>
@@ -1885,7 +2005,7 @@ Draw a card.</oracleText>
   <setNumber>156</setNumber>
   <artist>Pete Venters</artist>
   <oracleText>Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.</oracleText>
-  <printedText>Return target creature card in a graveyard and target creature in play to their owners' hands.&lt;br&gt;//&lt;br&gt;Fall&lt;br&gt;{B}{R}&lt;br&gt;Sorcery&lt;br&gt;Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.</printedText>
+  <printedText>Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.</printedText>
   <flavorText></flavorText>
   <cmc>3</cmc>
   <color>{U}{W}</color>
@@ -2045,6 +2165,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107445</id>
+  <name>Odds</name>
+  <cost>{U}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Rare</rarity>
+  <setNumber>153</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.</oracleText>
+  <printedText>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}{R}</color>
+</mc>
+<mc>
+  <id>107445</id>
   <name>Ends</name>
   <cost>{3}{R}{W}</cost>
   <type>Instant</type>
@@ -2055,7 +2192,7 @@ Draw a card.</oracleText>
   <setNumber>153</setNumber>
   <artist>Michael Sutfin</artist>
   <oracleText>Target player sacrifices two attacking creatures.</oracleText>
-  <printedText>Flip a coin. If it comes up heads, counter target instant or sorcery spell. If it comes up tails, copy that spell and you may choose new targets for the copy.&lt;br&gt;//&lt;br&gt;Ends&lt;br&gt;{3}{R}{W}&lt;br&gt;Instant&lt;br&gt;Target player sacrifices two attacking creatures.</printedText>
+  <printedText>Target player sacrifices two attacking creatures.</printedText>
   <flavorText></flavorText>
   <cmc>5</cmc>
   <color>{R}{W}</color>
@@ -2130,6 +2267,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107464</id>
+  <name>Supply</name>
+  <cost>{X}{G}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>157</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Put X 1/1 green Saproling creature tokens into play.</oracleText>
+  <printedText>Put X 1/1 green Saproling creature tokens into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>107464</id>
   <name>Demand</name>
   <cost>{1}{W}{U}</cost>
   <type>Sorcery</type>
@@ -2140,7 +2294,7 @@ Draw a card.</oracleText>
   <setNumber>157</setNumber>
   <artist>Daren Bader</artist>
   <oracleText>Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.</oracleText>
-  <printedText>Put X 1/1 green Saproling creature tokens into play.&lt;br&gt;//&lt;br&gt;Demand&lt;br&gt;{1}{W}{U}&lt;br&gt;Sorcery&lt;br&gt;Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.</printedText>
+  <printedText>Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library.</printedText>
   <flavorText></flavorText>
   <cmc>3</cmc>
   <color>{U}{W}</color>
@@ -2402,6 +2556,23 @@ Draw a card.</oracleText>
 </mc>
 <mc>
   <id>107532</id>
+  <name>Simple</name>
+  <cost>{1}{G}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Dissension</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>154</setNumber>
+  <artist>Parente</artist>
+  <oracleText>Destroy all Auras and Equipment.</oracleText>
+  <printedText>Destroy all Auras and Equipment.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>107532</id>
   <name>Pure</name>
   <cost>{1}{R}{G}</cost>
   <type>Sorcery</type>
@@ -2412,7 +2583,7 @@ Draw a card.</oracleText>
   <setNumber>154</setNumber>
   <artist>Parente</artist>
   <oracleText>Destroy target multicolored permanent.</oracleText>
-  <printedText>Destroy target multicolored permanent.&lt;br&gt;//&lt;br&gt;Simple&lt;br&gt;{1}{G}{W}&lt;br&gt;Sorcery&lt;br&gt;Destroy all Auras and Equipment.</printedText>
+  <printedText>Destroy target multicolored permanent.</printedText>
   <flavorText></flavorText>
   <cmc>3</cmc>
   <color>{G}{R}</color>

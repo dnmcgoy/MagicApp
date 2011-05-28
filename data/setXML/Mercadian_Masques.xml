@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Mercadian Masques</name>
+<releaseDate>1999-10-04</releaseDate>
+<shortname>MMQ</shortname><list>
 <mc>
   <id>19535</id>
   <name>Charm Peddler</name>
@@ -5237,6 +5237,23 @@
   <flavorText>Don't trust your secrets to the sea.</flavorText>
   <cmc>5</cmc>
   <color>{U}</color>
+</mc>
+<mc>
+  <id>20409</id>
+  <name>Ramosian Rally</name>
+  <cost>{3}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Mercadian Masques</edition>
+  <rarity>Common</rarity>
+  <setNumber>38</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>If you control a Plains, you may tap an untapped creature you control rather than pay Ramosian Rally's mana cost. &lt;br&gt; &lt;br&gt;Creatures you control get +1/+1 until end of turn.</oracleText>
+  <printedText>If you control a Plains, you may tap an untapped creature you control rather than pay Ramosian Rally's mana cost. &lt;br&gt; &lt;br&gt;Creatures you control get +1/+1 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
 </mc>
 <mc>
   <id>20410</id>

@@ -1,73 +1,22 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Premium Deck Series: Fire and Lightning</name>
+<releaseDate>2010-11-19</releaseDate>
+<shortname>PD2</shortname><list>
 <mc>
-  <id>234722</id>
-  <name>Ball Lightning</name>
-  <cost>{R}{R}{R}</cost>
-  <type>Creature  -- Elemental</type>
-  <power>6</power>
+  <id>217974</id>
+  <name>Jackal Pup</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Hound</type>
+  <power>2</power>
   <toughness>1</toughness>
   <edition>PD2</edition>
-  <rarity>Rare</rarity>
-  <setNumber>12</setNumber>
-  <artist>Trevor Claxton</artist>
-  <oracleText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;At the beginning of the end step, sacrifice Ball Lightning.</oracleText>
-  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Ball Lightning.</printedText>
-  <flavorText></flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234737</id>
-  <name>Barbarian Ring</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
   <rarity>Uncommon</rarity>
-  <setNumber>28</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.&lt;br&gt;Threshold -- {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</oracleText>
-  <printedText>{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.&lt;br&gt;Threshold -- {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>234723</id>
-  <name>Boggart Ram-Gang</name>
-  <cost>{RG}{RG}{RG}</cost>
-  <type>Creature  -- Goblin Warrior</type>
-  <power>3</power>
-  <toughness>3</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>13</setNumber>
-  <artist>Dave Allsop</artist>
-  <oracleText>Haste&lt;br&gt;Wither (This deals damage to creatures in the form of -1/-1 counters.)</oracleText>
-  <printedText>Haste&lt;br&gt;Wither (This deals damage to creatures in the form of -1/-1 counters.)</printedText>
-  <flavorText>"We're going to need a bigger gate."&lt;br&gt;--Bowen, Barrenton guardcaptain</flavorText>
-  <cmc>3</cmc>
-  <color>{G}{R}</color>
-</mc>
-<mc>
-  <id>234712</id>
-  <name>Browbeat</name>
-  <cost>{2}{R}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>21</setNumber>
-  <artist>Mark Tedin</artist>
-  <oracleText>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.</oracleText>
-  <printedText>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.</printedText>
-  <flavorText>"Even the threat of power has power."&lt;br&gt;--Jeska, warrior adept</flavorText>
-  <cmc>3</cmc>
+  <setNumber>2</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</oracleText>
+  <printedText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</printedText>
+  <flavorText>The first morning after acquiring her familiar, the wizard awoke with fleabites and mange.</flavorText>
+  <cmc>1</cmc>
   <color>{R}</color>
 </mc>
 <mc>
@@ -88,38 +37,72 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>234717</id>
-  <name>Cinder Pyromancer</name>
-  <cost>{2}{R}</cost>
-  <type>Creature  -- Elemental Shaman</type>
-  <power>0</power>
-  <toughness>1</toughness>
+  <id>234698</id>
+  <name>Ghitu Encampment</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
   <edition>PD2</edition>
-  <rarity>Common</rarity>
-  <setNumber>9</setNumber>
-  <artist>Greg Staples</artist>
-  <oracleText>{T}: Cinder Pyromancer deals 1 damage to target player.&lt;br&gt;Whenever you cast a red spell, you may untap Cinder Pyromancer.</oracleText>
-  <printedText>{T}: Cinder Pyromancer deals 1 damage to target player.&lt;br&gt;Whenever you cast a red spell, you may untap Cinder Pyromancer.</printedText>
-  <flavorText>"If the whole world burns, I'll never grow cold."</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
+  <rarity>Uncommon</rarity>
+  <setNumber>29</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
 </mc>
 <mc>
-  <id>236456</id>
-  <name>Figure of Destiny</name>
-  <cost>{RW}</cost>
-  <type>Creature  -- Kithkin</type>
+  <id>234699</id>
+  <name>Mogg Fanatic</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin</type>
   <power>1</power>
   <toughness>1</toughness>
   <edition>PD2</edition>
-  <rarity>Rare</rarity>
-  <setNumber>5</setNumber>
-  <artist>Scott M. Fischer</artist>
-  <oracleText>{RW}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.</oracleText>
-  <printedText>{RW}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.</printedText>
-  <flavorText></flavorText>
+  <rarity>Uncommon</rarity>
+  <setNumber>3</setNumber>
+  <artist>Brom</artist>
+  <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</oracleText>
+  <printedText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</printedText>
+  <flavorText>"I got it! I got it! I--"</flavorText>
   <cmc>1</cmc>
-  <color>{R}{W}</color>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234700</id>
+  <name>Spark Elemental</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Elemental</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>4</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Trample, haste (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.</oracleText>
+  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.</printedText>
+  <flavorText>Vulshok shamans could never keep them alive for more than a few seconds, yet those few seconds seemed to be enough.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234701</id>
+  <name>Sudden Impact</name>
+  <cost>{3}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>25</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</oracleText>
+  <printedText>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</printedText>
+  <flavorText>"Some say it's better to think before you act. While those people are considering all the options, that's usually when I kill them."&lt;br&gt;--Dravus, lava mage</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
 </mc>
 <mc>
   <id>234702</id>
@@ -156,55 +139,38 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>234736</id>
-  <name>Fireblast</name>
-  <cost>{4}{R}{R}</cost>
+  <id>234704</id>
+  <name>Lightning Bolt</name>
+  <cost>{R}</cost>
   <type>Instant</type>
   <power></power>
   <toughness></toughness>
   <edition>PD2</edition>
   <rarity>Common</rarity>
-  <setNumber>26</setNumber>
-  <artist>Michael Danza</artist>
-  <oracleText>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.</oracleText>
-  <printedText>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.</printedText>
-  <flavorText>Embermages aren't well known for their diplomatic skills.</flavorText>
-  <cmc>6</cmc>
+  <setNumber>17</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Lightning Bolt deals 3 damage to target creature or player.</oracleText>
+  <printedText>Lightning Bolt deals 3 damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
   <color>{R}</color>
 </mc>
 <mc>
-  <id>234718</id>
-  <name>Flames of the Blood Hand</name>
-  <cost>{2}{R}</cost>
+  <id>234705</id>
+  <name>Reverberate</name>
+  <cost>{R}{R}</cost>
   <type>Instant</type>
   <power></power>
   <toughness></toughness>
   <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>22</setNumber>
-  <artist>Aleksi Briclot</artist>
-  <oracleText>Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</oracleText>
-  <printedText>Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</printedText>
-  <flavorText>Many ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.</flavorText>
-  <cmc>3</cmc>
+  <rarity>Rare</rarity>
+  <setNumber>20</setNumber>
+  <artist>jD</artist>
+  <oracleText>Copy target instant or sorcery spell. You may choose new targets for the copy.</oracleText>
+  <printedText>Copy target instant or sorcery spell. You may choose new targets for the copy.</printedText>
+  <flavorText>"I'm not indecisive. I just don't like to limit my options."&lt;br&gt;--Maxti, pyromancer</flavorText>
+  <cmc>2</cmc>
   <color>{R}</color>
-</mc>
-<mc>
-  <id>234698</id>
-  <name>Ghitu Encampment</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>29</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)</oracleText>
-  <printedText>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
 </mc>
 <mc>
   <id>234706</id>
@@ -220,57 +186,6 @@
   <oracleText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.</oracleText>
   <printedText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.</printedText>
   <flavorText>"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper."</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234721</id>
-  <name>Hammer of Bogardan</name>
-  <cost>{1}{R}{R}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Rare</rarity>
-  <setNumber>23</setNumber>
-  <artist>Ron Spencer</artist>
-  <oracleText>Hammer of Bogardan deals 3 damage to target creature or player.&lt;br&gt;{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.</oracleText>
-  <printedText>Hammer of Bogardan deals 3 damage to target creature or player.&lt;br&gt;{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.</printedText>
-  <flavorText></flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234711</id>
-  <name>Hellspark Elemental</name>
-  <cost>{1}{R}</cost>
-  <type>Creature  -- Elemental</type>
-  <power>3</power>
-  <toughness>1</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>6</setNumber>
-  <artist>Justin Sweet</artist>
-  <oracleText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</oracleText>
-  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>217974</id>
-  <name>Jackal Pup</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Hound</type>
-  <power>2</power>
-  <toughness>1</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>2</setNumber>
-  <artist>Kev Walker</artist>
-  <oracleText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</oracleText>
-  <printedText>Whenever Jackal Pup is dealt damage, it deals that much damage to you.</printedText>
-  <flavorText>The first morning after acquiring her familiar, the wizard awoke with fleabites and mange.</flavorText>
   <cmc>1</cmc>
   <color>{R}</color>
 </mc>
@@ -292,23 +207,6 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>234713</id>
-  <name>Keldon Champion</name>
-  <cost>{2}{R}{R}</cost>
-  <type>Creature  -- Human Barbarian</type>
-  <power>3</power>
-  <toughness>2</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>14</setNumber>
-  <artist>Mark Tedin</artist>
-  <oracleText>Haste&lt;br&gt;Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Keldon Champion enters the battlefield, it deals 3 damage to target player.</oracleText>
-  <printedText>Haste&lt;br&gt;Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Keldon Champion enters the battlefield, it deals 3 damage to target player.</printedText>
-  <flavorText></flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
   <id>234709</id>
   <name>Keldon Marauders</name>
   <cost>{1}{R}</cost>
@@ -323,40 +221,6 @@
   <printedText>Vanishing 2 (This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)&lt;br&gt;When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234704</id>
-  <name>Lightning Bolt</name>
-  <cost>{R}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Common</rarity>
-  <setNumber>17</setNumber>
-  <artist>Christopher Moeller</artist>
-  <oracleText>Lightning Bolt deals 3 damage to target creature or player.</oracleText>
-  <printedText>Lightning Bolt deals 3 damage to target creature or player.</printedText>
-  <flavorText></flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234699</id>
-  <name>Mogg Fanatic</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Goblin</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>3</setNumber>
-  <artist>Brom</artist>
-  <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</oracleText>
-  <printedText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</printedText>
-  <flavorText>"I got it! I got it! I--"</flavorText>
-  <cmc>1</cmc>
   <color>{R}</color>
 </mc>
 <mc>
@@ -377,37 +241,54 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>234739</id>
-  <name>Mountain</name>
-  <cost></cost>
-  <type>Basic Land  -- Mountain</type>
-  <power></power>
-  <toughness></toughness>
+  <id>234711</id>
+  <name>Hellspark Elemental</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Elemental</type>
+  <power>3</power>
+  <toughness>1</toughness>
   <edition>PD2</edition>
-  <rarity>Land</rarity>
-  <setNumber>32</setNumber>
-  <artist>Aleksi Briclot</artist>
-  <oracleText>R</oracleText>
-  <printedText>R</printedText>
+  <rarity>Uncommon</rarity>
+  <setNumber>6</setNumber>
+  <artist>Justin Sweet</artist>
+  <oracleText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</oracleText>
+  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</printedText>
   <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
+  <cmc>2</cmc>
+  <color>{R}</color>
 </mc>
 <mc>
-  <id>234720</id>
-  <name>Pillage</name>
-  <cost>{1}{R}{R}</cost>
+  <id>234712</id>
+  <name>Browbeat</name>
+  <cost>{2}{R}</cost>
   <type>Sorcery</type>
   <power></power>
   <toughness></toughness>
   <edition>PD2</edition>
   <rarity>Uncommon</rarity>
-  <setNumber>24</setNumber>
-  <artist>Bradley Williams</artist>
-  <oracleText>Destroy target artifact or land. It can't be regenerated.</oracleText>
-  <printedText>Destroy target artifact or land. It can't be regenerated.</printedText>
-  <flavorText></flavorText>
+  <setNumber>21</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.</oracleText>
+  <printedText>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.</printedText>
+  <flavorText>"Even the threat of power has power."&lt;br&gt;--Jeska, warrior adept</flavorText>
   <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234713</id>
+  <name>Keldon Champion</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature  -- Human Barbarian</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>14</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Haste&lt;br&gt;Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Keldon Champion enters the battlefield, it deals 3 damage to target player.</oracleText>
+  <printedText>Haste&lt;br&gt;Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;br&gt;When Keldon Champion enters the battlefield, it deals 3 damage to target player.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
   <color>{R}</color>
 </mc>
 <mc>
@@ -428,6 +309,193 @@
   <color>{R}</color>
 </mc>
 <mc>
+  <id>234715</id>
+  <name>Teetering Peaks</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Common</rarity>
+  <setNumber>30</setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.</oracleText>
+  <printedText>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>234716</id>
+  <name>Thunderbolt</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Common</rarity>
+  <setNumber>19</setNumber>
+  <artist>Dylan Martens</artist>
+  <oracleText>Choose one -- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</oracleText>
+  <printedText>Choose one -- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</printedText>
+  <flavorText>"Most wizards consider a thunderbolt to be a proper retort."&lt;br&gt;--Ertai, wizard adept</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234717</id>
+  <name>Cinder Pyromancer</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Elemental Shaman</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>PD2</edition>
+  <rarity>Common</rarity>
+  <setNumber>9</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>{T}: Cinder Pyromancer deals 1 damage to target player.&lt;br&gt;Whenever you cast a red spell, you may untap Cinder Pyromancer.</oracleText>
+  <printedText>{T}: Cinder Pyromancer deals 1 damage to target player.&lt;br&gt;Whenever you cast a red spell, you may untap Cinder Pyromancer.</printedText>
+  <flavorText>"If the whole world burns, I'll never grow cold."</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234718</id>
+  <name>Flames of the Blood Hand</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>22</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</oracleText>
+  <printedText>Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</printedText>
+  <flavorText>Many ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234719</id>
+  <name>Vulshok Sorcerer</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Human Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PD2</edition>
+  <rarity>Common</rarity>
+  <setNumber>11</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.</oracleText>
+  <printedText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.</printedText>
+  <flavorText>Vulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234720</id>
+  <name>Pillage</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>24</setNumber>
+  <artist>Bradley Williams</artist>
+  <oracleText>Destroy target artifact or land. It can't be regenerated.</oracleText>
+  <printedText>Destroy target artifact or land. It can't be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234721</id>
+  <name>Hammer of Bogardan</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Rare</rarity>
+  <setNumber>23</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Hammer of Bogardan deals 3 damage to target creature or player.&lt;br&gt;{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.</oracleText>
+  <printedText>Hammer of Bogardan deals 3 damage to target creature or player.&lt;br&gt;{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234722</id>
+  <name>Ball Lightning</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Creature  -- Elemental</type>
+  <power>6</power>
+  <toughness>1</toughness>
+  <edition>PD2</edition>
+  <rarity>Rare</rarity>
+  <setNumber>12</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;At the beginning of the end step, sacrifice Ball Lightning.</oracleText>
+  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Ball Lightning.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234723</id>
+  <name>Boggart Ram-Gang</name>
+  <cost>{RG}{RG}{RG}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>13</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Haste&lt;br&gt;Wither (This deals damage to creatures in the form of -1/-1 counters.)</oracleText>
+  <printedText>Haste&lt;br&gt;Wither (This deals damage to creatures in the form of -1/-1 counters.)</printedText>
+  <flavorText>"We're going to need a bigger gate."&lt;br&gt;--Bowen, Barrenton guardcaptain</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>234736</id>
+  <name>Fireblast</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Common</rarity>
+  <setNumber>26</setNumber>
+  <artist>Michael Danza</artist>
+  <oracleText>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.</oracleText>
+  <printedText>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.</printedText>
+  <flavorText>Embermages aren't well known for their diplomatic skills.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234737</id>
+  <name>Barbarian Ring</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>28</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.&lt;br&gt;Threshold -- {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</oracleText>
+  <printedText>{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.&lt;br&gt;Threshold -- {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
   <id>234738</id>
   <name>Mountain</name>
   <cost></cost>
@@ -438,6 +506,23 @@
   <rarity>Land</rarity>
   <setNumber>31</setNumber>
   <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>234739</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PD2</edition>
+  <rarity>Land</rarity>
+  <setNumber>32</setNumber>
+  <artist>Aleksi Briclot</artist>
   <oracleText>R</oracleText>
   <printedText>R</printedText>
   <flavorText></flavorText>
@@ -479,106 +564,21 @@
   <color></color>
 </mc>
 <mc>
-  <id>234705</id>
-  <name>Reverberate</name>
-  <cost>{R}{R}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Rare</rarity>
-  <setNumber>20</setNumber>
-  <artist>jD</artist>
-  <oracleText>Copy target instant or sorcery spell. You may choose new targets for the copy.</oracleText>
-  <printedText>Copy target instant or sorcery spell. You may choose new targets for the copy.</printedText>
-  <flavorText>"I'm not indecisive. I just don't like to limit my options."&lt;br&gt;--Maxti, pyromancer</flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234700</id>
-  <name>Spark Elemental</name>
-  <cost>{R}</cost>
-  <type>Creature  -- Elemental</type>
-  <power>3</power>
-  <toughness>1</toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>4</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>Trample, haste (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.</oracleText>
-  <printedText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.</printedText>
-  <flavorText>Vulshok shamans could never keep them alive for more than a few seconds, yet those few seconds seemed to be enough.</flavorText>
-  <cmc>1</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234701</id>
-  <name>Sudden Impact</name>
-  <cost>{3}{R}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>25</setNumber>
-  <artist>Wayne Reynolds</artist>
-  <oracleText>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</oracleText>
-  <printedText>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</printedText>
-  <flavorText>"Some say it's better to think before you act. While those people are considering all the options, that's usually when I kill them."&lt;br&gt;--Dravus, lava mage</flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234715</id>
-  <name>Teetering Peaks</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Common</rarity>
-  <setNumber>30</setNumber>
-  <artist>Fred Fields</artist>
-  <oracleText>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.</oracleText>
-  <printedText>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>234716</id>
-  <name>Thunderbolt</name>
-  <cost>{1}{R}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PD2</edition>
-  <rarity>Common</rarity>
-  <setNumber>19</setNumber>
-  <artist>Dylan Martens</artist>
-  <oracleText>Choose one -- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</oracleText>
-  <printedText>Choose one -- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.</printedText>
-  <flavorText>"Most wizards consider a thunderbolt to be a proper retort."&lt;br&gt;--Ertai, wizard adept</flavorText>
-  <cmc>2</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>234719</id>
-  <name>Vulshok Sorcerer</name>
-  <cost>{1}{R}{R}</cost>
-  <type>Creature  -- Human Shaman</type>
+  <id>236456</id>
+  <name>Figure of Destiny</name>
+  <cost>{RW}</cost>
+  <type>Creature  -- Kithkin</type>
   <power>1</power>
   <toughness>1</toughness>
   <edition>PD2</edition>
-  <rarity>Common</rarity>
-  <setNumber>11</setNumber>
-  <artist>rk post</artist>
-  <oracleText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.</oracleText>
-  <printedText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.</printedText>
-  <flavorText>Vulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.</flavorText>
-  <cmc>3</cmc>
-  <color>{R}</color>
+  <rarity>Rare</rarity>
+  <setNumber>5</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>{RW}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.</oracleText>
+  <printedText>{RW}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}{W}</color>
 </mc>
 </list>
 </cards>

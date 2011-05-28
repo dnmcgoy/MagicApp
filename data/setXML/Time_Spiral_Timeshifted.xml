@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Time Spiral "Timeshifted"</name>
+<releaseDate>2006-10-06</releaseDate>
+<shortname>TSB</shortname><list>
 <mc>
   <id>106625</id>
   <name>Sacred Mesa</name>
@@ -1670,6 +1670,23 @@
 </mc>
 <mc>
   <id>109704</id>
+  <name>Assault</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Time Spiral "Timeshifted"</edition>
+  <rarity>Special</rarity>
+  <setNumber>106</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Assault deals 2 damage to target creature or player.</oracleText>
+  <printedText>Assault deals 2 damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>109704</id>
   <name>Battery</name>
   <cost>{3}{G}</cost>
   <type>Sorcery</type>
@@ -1680,7 +1697,7 @@
   <setNumber>106</setNumber>
   <artist>Ben Thompson</artist>
   <oracleText>Put a 3/3 green Elephant creature token into play.</oracleText>
-  <printedText>Assault deals 2 damage to target creature or player.&lt;br&gt;//&lt;br&gt;Battery&lt;br&gt;{3}{G}&lt;br&gt;Sorcery&lt;br&gt;Put a 3/3 green Elephant creature token into play.</printedText>
+  <printedText>Put a 3/3 green Elephant creature token into play.</printedText>
   <flavorText></flavorText>
   <cmc>4</cmc>
   <color>{G}</color>

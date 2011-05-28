@@ -1,24 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
-<mc>
-  <id>83027</id>
-  <name>Circle of Protection: Red</name>
-  <cost>{1}{W}</cost>
-  <type>Enchantment</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Ninth Edition</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>11</setNumber>
-  <artist>Christopher Rush</artist>
-  <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
-  <printedText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{W}</color>
-</mc>
+<name>Ninth Edition</name>
+<releaseDate>2005-07-29</releaseDate>
+<shortname>9ED</shortname><list>
 <mc>
   <id>82942</id>
   <name>Daring Apprentice</name>
@@ -627,6 +610,23 @@
   <artist>Christopher Rush</artist>
   <oracleText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
   <printedText>{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>83027</id>
+  <name>Circle of Protection: Red</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Ninth Edition</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>11</setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{W}</color>

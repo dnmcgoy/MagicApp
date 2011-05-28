@@ -1,58 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
-<mc>
-  <id>220577</id>
-  <name>Suffering</name>
-  <cost>{3}{R}</cost>
-  <type>Socery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Invasion</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>67</setNumber>
-  <artist>Kev Walker</artist>
-  <oracleText>Destroy target land.</oracleText>
-  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.</printedText>
-  <flavorText>Hatred outlives the hateful.</flavorText>
-  <cmc>4</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>220576</id>
-  <name>Malice</name>
-  <cost>{2}{B}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Invasion</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>21</setNumber>
-  <artist>Robert Bliss</artist>
-  <oracleText>Destroy target nonblack creature. It can't be regenerated.</oracleText>
-  <printedText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</printedText>
-  <flavorText>"You will learn to earn death."&lt;br&gt;--Volrath</flavorText>
-  <cmc>3</cmc>
-  <color>{B}</color>
-</mc>
-<mc>
-  <id>220502</id>
-  <name>Wane</name>
-  <cost>{W}</cost>
-  <type>Instant</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Invasion</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>101</setNumber>
-  <artist>Ben Thompson</artist>
-  <oracleText>Destroy target enchantment.</oracleText>
-  <printedText>Target creature gets +2/+2 until end of turn.&lt;br&gt;//&lt;br&gt;Wane&lt;br&gt;{W}&lt;br&gt;Instant&lt;br&gt;Destroy target enchantment.</printedText>
-  <flavorText></flavorText>
-  <cmc>1</cmc>
-  <color>{W}</color>
-</mc>
+<name>Invasion</name>
+<releaseDate>2000-10-02</releaseDate>
+<shortname>INV</shortname><list>
 <mc>
   <id>5680</id>
   <name>Goblin Spy</name>
@@ -99,10 +48,27 @@
   <setNumber>292</setNumber>
   <artist>David Martin</artist>
   <oracleText>Prevent the next 2 damage that would be dealt to target creature this turn.</oracleText>
-  <printedText>Return target permanent to its owner's hand.</printedText>
+  <printedText>Prevent the next 2 damage that would be dealt to target creature this turn.</printedText>
   <flavorText></flavorText>
   <cmc>1</cmc>
   <color>{W}</color>
+</mc>
+<mc>
+  <id>20574</id>
+  <name>Deliver</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>292</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>Return target permanent to its owner's hand.</oracleText>
+  <printedText>Return target permanent to its owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
 </mc>
 <mc>
   <id>20576</id>
@@ -154,6 +120,23 @@
   <flavorText></flavorText>
   <cmc>1</cmc>
   <color>{R}</color>
+</mc>
+<mc>
+  <id>20579</id>
+  <name>Battery</name>
+  <cost>{3}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>295</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Put a 3/3 green Elephant creature token into play.</oracleText>
+  <printedText>Put a 3/3 green Elephant creature token into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
 </mc>
 <mc>
   <id>22317</id>
@@ -5985,6 +5968,74 @@
   <flavorText>"For what are leaves but countless blades&lt;br&gt;To fight a countless foe on high."&lt;br&gt;--Skyshroud hymn</flavorText>
   <cmc>3</cmc>
   <color>{G}</color>
+</mc>
+<mc>
+  <id>220502</id>
+  <name>Wane</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>101</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Destroy target enchantment.</oracleText>
+  <printedText>Destroy target enchantment.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220502</id>
+  <name>Wax</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>101</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Target creature gets +2/+2 until end of turn.</oracleText>
+  <printedText>Target creature gets +2/+2 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220576</id>
+  <name>Malice</name>
+  <cost>{2}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>21</setNumber>
+  <artist>Robert Bliss</artist>
+  <oracleText>Destroy target nonblack creature. It can't be regenerated.</oracleText>
+  <printedText>Destroy target nonblack creature. It can't be regenerated.</printedText>
+  <flavorText>"You will learn to earn death."&lt;br&gt;--Volrath</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220577</id>
+  <name>Suffering</name>
+  <cost>{3}{R}</cost>
+  <type>Socery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Invasion</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>67</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy target land.</printedText>
+  <flavorText>Hatred outlives the hateful.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
 </mc>
 </list>
 </cards>

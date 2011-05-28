@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Premium Deck Series: Slivers</name>
+<releaseDate>2009-11-20</releaseDate>
+<shortname>PDS</shortname><list>
 <mc>
   <id>207897</id>
   <name>Acidic Sliver</name>
@@ -18,57 +18,6 @@
   <flavorText>The first sliver burst against the cave wall, and others piled in behind to deepen the new tunnel.</flavorText>
   <cmc>2</cmc>
   <color>{B}{R}</color>
-</mc>
-<mc>
-  <id>207921</id>
-  <name>Amoeboid Changeling</name>
-  <cost>{1}{U}</cost>
-  <type>Creature  -- Shapeshifter</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>3</setNumber>
-  <artist>Nils Hamm</artist>
-  <oracleText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</oracleText>
-  <printedText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{U}</color>
-</mc>
-<mc>
-  <id>207930</id>
-  <name>Ancient Ziggurat</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>31</setNumber>
-  <artist>John Avon</artist>
-  <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</oracleText>
-  <printedText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</printedText>
-  <flavorText>Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.</flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>207925</id>
-  <name>Aphetto Dredging</name>
-  <cost>{3}{B}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>28</setNumber>
-  <artist>Monte Michael Moore</artist>
-  <oracleText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</oracleText>
-  <printedText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</printedText>
-  <flavorText>Phage became both executioner and savior, helping others to the same rebirth she had found.</flavorText>
-  <cmc>4</cmc>
-  <color>{B}</color>
 </mc>
 <mc>
   <id>207898</id>
@@ -105,23 +54,6 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>208039</id>
-  <name>Brood Sliver</name>
-  <cost>{4}{G}</cost>
-  <type>Creature  -- Sliver</type>
-  <power>3</power>
-  <toughness>3</toughness>
-  <edition>PDS</edition>
-  <rarity>Rare</rarity>
-  <setNumber>22</setNumber>
-  <artist>Ron Spears</artist>
-  <oracleText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</oracleText>
-  <printedText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</printedText>
-  <flavorText>Within weeks, more slivers nested in Otaria than ever existed on Rath.</flavorText>
-  <cmc>5</cmc>
-  <color>{G}</color>
-</mc>
-<mc>
   <id>207900</id>
   <name>Clot Sliver</name>
   <cost>{1}{B}</cost>
@@ -139,23 +71,6 @@
   <color>{B}</color>
 </mc>
 <mc>
-  <id>207927</id>
-  <name>Coat of Arms</name>
-  <cost>{5}</cost>
-  <type>Artifact</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Rare</rarity>
-  <setNumber>29</setNumber>
-  <artist>Scott M. Fischer</artist>
-  <oracleText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</oracleText>
-  <printedText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it.</printedText>
-  <flavorText>"Hup, two, three, four,&lt;br&gt;Dunno how to count no more."&lt;br&gt;--Mogg march</flavorText>
-  <cmc>5</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
   <id>207901</id>
   <name>Crystalline Sliver</name>
   <cost>{W}{U}</cost>
@@ -171,40 +86,6 @@
   <flavorText>Bred as living shields, these slivers have proven unruly--they know they cannot be caught.</flavorText>
   <cmc>2</cmc>
   <color>{U}{W}</color>
-</mc>
-<mc>
-  <id>207926</id>
-  <name>Distant Melody</name>
-  <cost>{3}{U}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>27</setNumber>
-  <artist>Omar Rayyan</artist>
-  <oracleText>Choose a creature type. Draw a card for each permanent you control of that type.</oracleText>
-  <printedText>Choose a creature type. Draw a card for each permanent you control of that type.</printedText>
-  <flavorText>Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts--on the stolen dreams and rumors they serve her.</flavorText>
-  <cmc>4</cmc>
-  <color>{U}</color>
-</mc>
-<mc>
-  <id>207934</id>
-  <name>Forest</name>
-  <cost></cost>
-  <type>Basic Land  -- Forest</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Land</rarity>
-  <setNumber>41</setNumber>
-  <artist>Douglas Shuler</artist>
-  <oracleText>G</oracleText>
-  <printedText>G</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
 </mc>
 <mc>
   <id>207902</id>
@@ -292,23 +173,6 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>207924</id>
-  <name>Heartstone</name>
-  <cost>{3}</cost>
-  <type>Artifact</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>26</setNumber>
-  <artist>John Matson</artist>
-  <oracleText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</oracleText>
-  <printedText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</printedText>
-  <flavorText>"Finding a true heartstone is even harder than finding a true heart."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
-  <cmc>3</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
   <id>207907</id>
   <name>Hibernation Sliver</name>
   <cost>{U}{B}</cost>
@@ -343,40 +207,6 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>207935</id>
-  <name>Island</name>
-  <cost></cost>
-  <type>Basic Land  -- Island</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Land</rarity>
-  <setNumber>38</setNumber>
-  <artist>Randy Gallegos</artist>
-  <oracleText>U</oracleText>
-  <printedText>U</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>208040</id>
-  <name>Metallic Sliver</name>
-  <cost>{1}</cost>
-  <type>Artifact Creature  -- Sliver</type>
-  <power>1</power>
-  <toughness>1</toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>1</setNumber>
-  <artist>L. A. Williams</artist>
-  <oracleText></oracleText>
-  <printedText></printedText>
-  <flavorText>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</flavorText>
-  <cmc>1</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
   <id>207910</id>
   <name>Might Sliver</name>
   <cost>{4}{G}</cost>
@@ -392,23 +222,6 @@
   <flavorText>"The colossal thing rumbled over the ridge, tree husks crumbling before it. The ones we were already fighting howled as it came, their muscles suddenly surging, and we knew it was time to flee."&lt;br&gt;--Llanach, Skyshroud ranger</flavorText>
   <cmc>5</cmc>
   <color>{G}</color>
-</mc>
-<mc>
-  <id>207936</id>
-  <name>Mountain</name>
-  <cost></cost>
-  <type>Basic Land  -- Mountain</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Land</rarity>
-  <setNumber>40</setNumber>
-  <artist>Mark Poole</artist>
-  <oracleText>R</oracleText>
-  <printedText>R</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
 </mc>
 <mc>
   <id>207911</id>
@@ -445,23 +258,6 @@
   <color>{B}{W}</color>
 </mc>
 <mc>
-  <id>207937</id>
-  <name>Plains</name>
-  <cost></cost>
-  <type>Basic Land  -- Plains</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Land</rarity>
-  <setNumber>37</setNumber>
-  <artist>Terese Nielsen</artist>
-  <oracleText>W</oracleText>
-  <printedText>W</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
   <id>207913</id>
   <name>Quick Sliver</name>
   <cost>{1}{G}</cost>
@@ -477,40 +273,6 @@
   <flavorText>The directors of the Riptide Project wanted instant results on the sliver experiments. They got their wish.</flavorText>
   <cmc>2</cmc>
   <color>{G}</color>
-</mc>
-<mc>
-  <id>208042</id>
-  <name>Rootbound Crag</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Rare</rarity>
-  <setNumber>32</setNumber>
-  <artist>Matt Stewart</artist>
-  <oracleText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
-  <printedText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>207933</id>
-  <name>Rupture Spire</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>33</setNumber>
-  <artist>Jaime Jones</artist>
-  <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
-  <printedText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
 </mc>
 <mc>
   <id>207915</id>
@@ -547,57 +309,6 @@
   <color>{B}</color>
 </mc>
 <mc>
-  <id>208041</id>
-  <name>Spined Sliver</name>
-  <cost>{R}{G}</cost>
-  <type>Creature  -- Sliver</type>
-  <power>2</power>
-  <toughness>2</toughness>
-  <edition>PDS</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>14</setNumber>
-  <artist>Ron Spencer</artist>
-  <oracleText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</oracleText>
-  <printedText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</printedText>
-  <flavorText>"Slivers are evil and slivers are sly;&lt;br&gt;And if you get eaten, then no one will cry."&lt;br&gt;--Mogg children's rhyme</flavorText>
-  <cmc>2</cmc>
-  <color>{G}{R}</color>
-</mc>
-<mc>
-  <id>207938</id>
-  <name>Swamp</name>
-  <cost></cost>
-  <type>Basic Land  -- Swamp</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Land</rarity>
-  <setNumber>39</setNumber>
-  <artist>Brom</artist>
-  <oracleText>B</oracleText>
-  <printedText>B</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>207928</id>
-  <name>Terramorphic Expanse</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>PDS</edition>
-  <rarity>Common</rarity>
-  <setNumber>34</setNumber>
-  <artist>Dan Scott</artist>
-  <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
-  <printedText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
   <id>207918</id>
   <name>Victual Sliver</name>
   <cost>{G}{W}</cost>
@@ -632,21 +343,38 @@
   <color>{G}</color>
 </mc>
 <mc>
-  <id>208043</id>
-  <name>Vivid Creek</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
+  <id>207920</id>
+  <name>Winged Sliver</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
   <edition>PDS</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>35</setNumber>
-  <artist>Fred Fields</artist>
-  <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</oracleText>
-  <printedText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</printedText>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>All Sliver creatures have flying.</oracleText>
+  <printedText>All Sliver creatures have flying.</printedText>
+  <flavorText>"Everything around here has cut a deal with gravity."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>207921</id>
+  <name>Amoeboid Changeling</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Shapeshifter</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</oracleText>
+  <printedText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</printedText>
   <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
+  <cmc>2</cmc>
+  <color>{U}</color>
 </mc>
 <mc>
   <id>207922</id>
@@ -661,6 +389,91 @@
   <artist>Howard Lyon</artist>
   <oracleText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.</oracleText>
   <printedText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207924</id>
+  <name>Heartstone</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>26</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</oracleText>
+  <printedText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</printedText>
+  <flavorText>"Finding a true heartstone is even harder than finding a true heart."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>207925</id>
+  <name>Aphetto Dredging</name>
+  <cost>{3}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>28</setNumber>
+  <artist>Monte Michael Moore</artist>
+  <oracleText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</oracleText>
+  <printedText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</printedText>
+  <flavorText>Phage became both executioner and savior, helping others to the same rebirth she had found.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>207926</id>
+  <name>Distant Melody</name>
+  <cost>{3}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>27</setNumber>
+  <artist>Omar Rayyan</artist>
+  <oracleText>Choose a creature type. Draw a card for each permanent you control of that type.</oracleText>
+  <printedText>Choose a creature type. Draw a card for each permanent you control of that type.</printedText>
+  <flavorText>Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts--on the stolen dreams and rumors they serve her.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>207927</id>
+  <name>Coat of Arms</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>29</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</oracleText>
+  <printedText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it.</printedText>
+  <flavorText>"Hup, two, three, four,&lt;br&gt;Dunno how to count no more."&lt;br&gt;--Mogg march</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>207928</id>
+  <name>Terramorphic Expanse</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</printedText>
   <flavorText></flavorText>
   <cmc></cmc>
   <color></color>
@@ -683,21 +496,208 @@
   <color>{G}</color>
 </mc>
 <mc>
-  <id>207920</id>
-  <name>Winged Sliver</name>
-  <cost>{1}{U}</cost>
+  <id>207930</id>
+  <name>Ancient Ziggurat</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>31</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</oracleText>
+  <printedText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</printedText>
+  <flavorText>Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207933</id>
+  <name>Rupture Spire</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>33</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207934</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>41</setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207935</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>38</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207936</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>40</setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207937</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>37</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207938</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>39</setNumber>
+  <artist>Brom</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>208039</id>
+  <name>Brood Sliver</name>
+  <cost>{4}{G}</cost>
   <type>Creature  -- Sliver</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>22</setNumber>
+  <artist>Ron Spears</artist>
+  <oracleText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</oracleText>
+  <printedText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</printedText>
+  <flavorText>Within weeks, more slivers nested in Otaria than ever existed on Rath.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>208040</id>
+  <name>Metallic Sliver</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature  -- Sliver</type>
   <power>1</power>
   <toughness>1</toughness>
   <edition>PDS</edition>
   <rarity>Common</rarity>
-  <setNumber>4</setNumber>
-  <artist>Anthony S. Waters</artist>
-  <oracleText>All Sliver creatures have flying.</oracleText>
-  <printedText>All Sliver creatures have flying.</printedText>
-  <flavorText>"Everything around here has cut a deal with gravity."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <setNumber>1</setNumber>
+  <artist>L. A. Williams</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>208041</id>
+  <name>Spined Sliver</name>
+  <cost>{R}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>14</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+  <printedText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</printedText>
+  <flavorText>"Slivers are evil and slivers are sly;&lt;br&gt;And if you get eaten, then no one will cry."&lt;br&gt;--Mogg children's rhyme</flavorText>
   <cmc>2</cmc>
-  <color>{U}</color>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>208042</id>
+  <name>Rootbound Crag</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>32</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+  <printedText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>208043</id>
+  <name>Vivid Creek</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>35</setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
 </mc>
 </list>
 </cards>

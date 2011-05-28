@@ -1,24 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
-<mc>
-  <id>45203</id>
-  <name>Circle of Protection: Blue</name>
-  <cost>{1}{W}</cost>
-  <type>Enchantment</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Eighth Edition</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>11</setNumber>
-  <artist>Greg & Tim Hildebrandt</artist>
-  <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
-  <printedText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</printedText>
-  <flavorText></flavorText>
-  <cmc>2</cmc>
-  <color>{W}</color>
-</mc>
+<name>Eighth Edition</name>
+<releaseDate>2003-07-28</releaseDate>
+<shortname>8ED</shortname><list>
 <mc>
   <id>45167</id>
   <name>Tundra Wolves</name>
@@ -610,6 +593,23 @@
   <artist>Darrell Riche</artist>
   <oracleText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
   <printedText>{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>45203</id>
+  <name>Circle of Protection: Blue</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Eighth Edition</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>11</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{W}</color>

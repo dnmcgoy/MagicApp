@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>From the Vault: Dragons</name>
+<releaseDate>2008-08-29</releaseDate>
+<shortname>FVD</shortname><list>
 <mc>
   <id>178014</id>
   <name>Bladewing the Risen</name>
@@ -18,6 +18,40 @@
   <flavorText></flavorText>
   <cmc>7</cmc>
   <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>178015</id>
+  <name>Dragonstorm</name>
+  <cost>{8}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVD</edition>
+  <rarity>Rare</rarity>
+  <setNumber>5</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Storm (When you cast this spell, copy it for each spell cast before it this turn.)</oracleText>
+  <printedText>Search your library for a Dragon permanent card and put it into play. Then shuffle your library.&lt;br&gt;Storm (When you play this spell, copy it for each spell played before it this turn.)</printedText>
+  <flavorText>Dragons come not in packs or in herds but in storms.</flavorText>
+  <cmc>9</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>178016</id>
+  <name>Form of the Dragon</name>
+  <cost>{4}{R}{R}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVD</edition>
+  <rarity>Rare</rarity>
+  <setNumber>7</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.&lt;br&gt;At the beginning of each end step, your life total becomes 5.&lt;br&gt;Creatures without flying can't attack you.</oracleText>
+  <printedText>At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.&lt;br&gt;At the end of each turn, your life total becomes 5.&lt;br&gt;Creatures without flying can't attack you.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
 </mc>
 <mc>
   <id>178017</id>
@@ -71,21 +105,21 @@
   <color>{R}</color>
 </mc>
 <mc>
-  <id>178015</id>
-  <name>Dragonstorm</name>
-  <cost>{8}{R}</cost>
-  <type>Sorcery</type>
-  <power></power>
-  <toughness></toughness>
+  <id>178020</id>
+  <name>Nicol Bolas</name>
+  <cost>{2}{U}{U}{B}{B}{R}{R}</cost>
+  <type>Legendary Creature  -- Elder Dragon</type>
+  <power>7</power>
+  <toughness>7</toughness>
   <edition>FVD</edition>
   <rarity>Rare</rarity>
-  <setNumber>5</setNumber>
-  <artist>Kev Walker</artist>
-  <oracleText>Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Storm (When you cast this spell, copy it for each spell cast before it this turn.)</oracleText>
-  <printedText>Search your library for a Dragon permanent card and put it into play. Then shuffle your library.&lt;br&gt;Storm (When you play this spell, copy it for each spell played before it this turn.)</printedText>
-  <flavorText>Dragons come not in packs or in herds but in storms.</flavorText>
-  <cmc>9</cmc>
-  <color>{R}</color>
+  <setNumber>10</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</oracleText>
+  <printedText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</printedText>
+  <flavorText>Dominaria's most ancient evil.</flavorText>
+  <cmc>8</cmc>
+  <color>{U}{B}{R}</color>
 </mc>
 <mc>
   <id>178021</id>
@@ -105,40 +139,6 @@
   <color>{B}</color>
 </mc>
 <mc>
-  <id>178016</id>
-  <name>Form of the Dragon</name>
-  <cost>{4}{R}{R}{R}</cost>
-  <type>Enchantment</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>FVD</edition>
-  <rarity>Rare</rarity>
-  <setNumber>7</setNumber>
-  <artist>Daarken</artist>
-  <oracleText>At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.&lt;br&gt;At the beginning of each end step, your life total becomes 5.&lt;br&gt;Creatures without flying can't attack you.</oracleText>
-  <printedText>At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.&lt;br&gt;At the end of each turn, your life total becomes 5.&lt;br&gt;Creatures without flying can't attack you.</printedText>
-  <flavorText></flavorText>
-  <cmc>7</cmc>
-  <color>{R}</color>
-</mc>
-<mc>
-  <id>178028</id>
-  <name>Hellkite Overlord</name>
-  <cost>{4}{B}{R}{R}{G}</cost>
-  <type>Creature  -- Dragon</type>
-  <power>8</power>
-  <toughness>8</toughness>
-  <edition>FVD</edition>
-  <rarity>Rare</rarity>
-  <setNumber>8</setNumber>
-  <artist>Justin Sweet</artist>
-  <oracleText>Flying, trample, haste&lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn.&lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</oracleText>
-  <printedText>Flying, trample, haste&lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn.&lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</printedText>
-  <flavorText>"The dragon has no pretense of compassion, no false mask of civilization--just hunger, heat, and need."&lt;br&gt;--Sarkhan Vol</flavorText>
-  <cmc>8</cmc>
-  <color>{B}{G}{R}</color>
-</mc>
-<mc>
   <id>178022</id>
   <name>Kokusho, the Evening Star</name>
   <cost>{4}{B}{B}</cost>
@@ -154,23 +154,6 @@
   <flavorText>The fall of the evening star never heralds a gentle dawn.</flavorText>
   <cmc>6</cmc>
   <color>{B}</color>
-</mc>
-<mc>
-  <id>178020</id>
-  <name>Nicol Bolas</name>
-  <cost>{2}{U}{U}{B}{B}{R}{R}</cost>
-  <type>Legendary Creature  -- Elder Dragon</type>
-  <power>7</power>
-  <toughness>7</toughness>
-  <edition>FVD</edition>
-  <rarity>Rare</rarity>
-  <setNumber>10</setNumber>
-  <artist>D. Alexander Gregory</artist>
-  <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</oracleText>
-  <printedText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</printedText>
-  <flavorText>Dominaria's most ancient evil.</flavorText>
-  <cmc>8</cmc>
-  <color>{U}{B}{R}</color>
 </mc>
 <mc>
   <id>178023</id>
@@ -256,6 +239,23 @@
   <flavorText></flavorText>
   <cmc>6</cmc>
   <color>{R}</color>
+</mc>
+<mc>
+  <id>178028</id>
+  <name>Hellkite Overlord</name>
+  <cost>{4}{B}{R}{R}{G}</cost>
+  <type>Creature  -- Dragon</type>
+  <power>8</power>
+  <toughness>8</toughness>
+  <edition>FVD</edition>
+  <rarity>Rare</rarity>
+  <setNumber>8</setNumber>
+  <artist>Justin Sweet</artist>
+  <oracleText>Flying, trample, haste&lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn.&lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</oracleText>
+  <printedText>Flying, trample, haste&lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn.&lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</printedText>
+  <flavorText>"The dragon has no pretense of compassion, no false mask of civilization--just hunger, heat, and need."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>8</cmc>
+  <color>{B}{G}{R}</color>
 </mc>
 </list>
 </cards>

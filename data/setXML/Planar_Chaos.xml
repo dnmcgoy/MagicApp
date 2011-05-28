@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Planar Chaos</name>
+<releaseDate>2007-02-02</releaseDate>
+<shortname>PLC</shortname><list>
 <mc>
   <id>108899</id>
   <name>Aven Riftwatcher</name>
@@ -1959,6 +1959,23 @@
 </mc>
 <mc>
   <id>126218</id>
+  <name>Bust</name>
+  <cost>{5}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Planar Chaos</edition>
+  <rarity>Rare</rarity>
+  <setNumber>112</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Destroy all lands.</oracleText>
+  <printedText>Destroy all lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>126218</id>
   <name>Boom</name>
   <cost>{1}{R}</cost>
   <type>Sorcery</type>
@@ -1969,7 +1986,7 @@
   <setNumber>112</setNumber>
   <artist>John Avon</artist>
   <oracleText>Destroy target land you control and target land you don't control.</oracleText>
-  <printedText>Destroy target land you control and target land you don't control.&lt;br&gt;//&lt;br&gt;Bust&lt;br&gt;{5}{R}&lt;br&gt;Sorcery&lt;br&gt;Destroy all lands.</printedText>
+  <printedText>Destroy target land you control and target land you don't control.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{R}</color>
@@ -2027,6 +2044,23 @@
 </mc>
 <mc>
   <id>126419</id>
+  <name>Gone</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Planar Chaos</edition>
+  <rarity>Common</rarity>
+  <setNumber>113</setNumber>
+  <artist>Tomas Giorello</artist>
+  <oracleText>Return target creature you don't control to its owner's hand.</oracleText>
+  <printedText>Return target creature you don't control to its owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>126419</id>
   <name>Dead</name>
   <cost>{R}</cost>
   <type>Instant</type>
@@ -2037,9 +2071,26 @@
   <setNumber>113</setNumber>
   <artist>Tomas Giorello</artist>
   <oracleText>Dead deals 2 damage to target creature.</oracleText>
-  <printedText>Dead deals 2 damage to target creature.&lt;br&gt;//&lt;br&gt;Gone&lt;br&gt;{2}{R}&lt;br&gt;Instant&lt;br&gt;Return target creature you don't control to its owner's hand.</printedText>
+  <printedText>Dead deals 2 damage to target creature.</printedText>
   <flavorText></flavorText>
   <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>126420</id>
+  <name>Tumble</name>
+  <cost>{5}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Planar Chaos</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>114</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Tumble deals 6 damage to each creature with flying.</oracleText>
+  <printedText>Tumble deals 6 damage to each creature with flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
   <color>{R}</color>
 </mc>
 <mc>
@@ -2054,7 +2105,7 @@
   <setNumber>114</setNumber>
   <artist>Luca Zontini</artist>
   <oracleText>Rough deals 2 damage to each creature without flying.</oracleText>
-  <printedText>Rough deals 2 damage to each creature without flying.&lt;br&gt;//&lt;br&gt;Tumble&lt;br&gt;{5}{R}&lt;br&gt;Sorcery&lt;br&gt;Tumble deals 6 damage to each creature with flying.</printedText>
+  <printedText>Rough deals 2 damage to each creature without flying.</printedText>
   <flavorText></flavorText>
   <cmc>2</cmc>
   <color>{R}</color>

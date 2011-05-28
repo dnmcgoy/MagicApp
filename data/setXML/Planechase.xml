@@ -1,7 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
+<name>Planechase</name>
+<releaseDate>2009-09-04</releaseDate>
+<shortname>HOP</shortname><list>
 <mc>
   <id>20409</id>
   <name>Assault</name>
@@ -14,7 +14,7 @@
   <setNumber>38</setNumber>
   <artist>Christopher Moeller</artist>
   <oracleText>Assault deals 2 damage to target creature or player.</oracleText>
-  <printedText>If you control a plains, you may tap an untapped creature you control instead of paying Ramosian Rally's mana cost.&lt;br&gt;Creatures you control get +1/+1 until end of turn.</printedText>
+  <printedText>Assault deals 2 damage to target creature or player.</printedText>
   <flavorText></flavorText>
   <cmc>1</cmc>
   <color>{R}</color>
@@ -2537,6 +2537,23 @@
 </mc>
 <mc>
   <id>205384</id>
+  <name>Chaos</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Planechase</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>104</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>Creatures can't block this turn.</oracleText>
+  <printedText>Creatures can't block this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>205384</id>
   <name>Order</name>
   <cost>{3}{W}</cost>
   <type>Instant</type>
@@ -2547,7 +2564,7 @@
   <setNumber>104</setNumber>
   <artist>Tim Hildebrandt</artist>
   <oracleText>Target creature gets -1/-1 until end of turn.</oracleText>
-  <printedText>Exile target attacking creature.&lt;br&gt;//&lt;br&gt;Chaos&lt;br&gt;{2}{R}&lt;br&gt;Instant&lt;br&gt;Creatures can't block this turn.</printedText>
+  <printedText>Target creature gets -1/-1 until end of turn.</printedText>
   <flavorText></flavorText>
   <cmc>4</cmc>
   <color>{W}</color>

@@ -1,58 +1,7 @@
 <cards>
-<name></name>
-<key></key>
-<list>
-<mc>
-  <id>205236</id>
-  <name>Terramorphic Expanse</name>
-  <cost></cost>
-  <type>Land</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Magic 2011</edition>
-  <rarity>Common</rarity>
-  <setNumber>229</setNumber>
-  <artist>Dan Scott</artist>
-  <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
-  <printedText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</printedText>
-  <flavorText></flavorText>
-  <cmc></cmc>
-  <color></color>
-</mc>
-<mc>
-  <id>206332</id>
-  <name>Voltaic Key</name>
-  <cost>{1}</cost>
-  <type>Artifact</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Magic 2011</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>219</setNumber>
-  <artist>Franz Vohwinkel</artist>
-  <oracleText>{1}, {T}: Untap target artifact.</oracleText>
-  <printedText>{1}, {T}: Untap target artifact.</printedText>
-  <flavorText>The missing piece to every puzzle.</flavorText>
-  <cmc>1</cmc>
-  <color>{_}</color>
-</mc>
-<mc>
-  <id>206342</id>
-  <name>Whispersilk Cloak</name>
-  <cost>{3}</cost>
-  <type>Artifact - Equipment</type>
-  <power></power>
-  <toughness></toughness>
-  <edition>Magic 2011</edition>
-  <rarity>Uncommon</rarity>
-  <setNumber>221</setNumber>
-  <artist>Daren Bader</artist>
-  <oracleText>Equipped creature is unblockable.&lt;br&gt;Equipped creature has shroud. (It can't be the target of spells or abilities.)&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
-  <printedText>Equipped creature is unblockable.&lt;br&gt;Equipped creature has shroud. (It can't be the target of spells or abilities.)&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
-  <flavorText></flavorText>
-  <cmc>3</cmc>
-  <color>{_}</color>
-</mc>
+<name>Magic 2011</name>
+<releaseDate>2010-07-16</releaseDate>
+<shortname>M11</shortname><list>
 <mc>
   <id>204972</id>
   <name>Wild Evocation</name>
@@ -2689,6 +2638,23 @@
   <color>{R}</color>
 </mc>
 <mc>
+  <id>205236</id>
+  <name>Terramorphic Expanse</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Magic 2011</edition>
+  <rarity>Common</rarity>
+  <setNumber>229</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
   <id>205237</id>
   <name>Unholy Strength</name>
   <cost>{B}</cost>
@@ -2941,6 +2907,40 @@
   <printedText>Flying</printedText>
   <flavorText>Regardless of the century, plane, or species, developing artificers never fail to invent the ornithopter.</flavorText>
   <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>206332</id>
+  <name>Voltaic Key</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Magic 2011</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>219</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>{1}, {T}: Untap target artifact.</oracleText>
+  <printedText>{1}, {T}: Untap target artifact.</printedText>
+  <flavorText>The missing piece to every puzzle.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>206342</id>
+  <name>Whispersilk Cloak</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Magic 2011</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>221</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Equipped creature is unblockable.&lt;br&gt;Equipped creature has shroud. (It can't be the target of spells or abilities.)&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature is unblockable.&lt;br&gt;Equipped creature has shroud. (It can't be the target of spells or abilities.)&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
   <color>{_}</color>
 </mc>
 <mc>
