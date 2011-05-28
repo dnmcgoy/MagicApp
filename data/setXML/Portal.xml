@@ -1,0 +1,3780 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>4207</id>
+  <name>Arrogant Vampire</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Vampire</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Charm and grace may hide a foul heart.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4208</id>
+  <name>Assassin's Blade</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Play Assassin's Blade only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Destroy target nonblack attacking creature.</oracleText>
+  <printedText>Play Assassin's Blade only after you're attacked, before you declare interceptors.&lt;br&gt;Destroy any one attacking creature that isn't black.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4209</id>
+  <name>Bog Imp</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Imp</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Don't be fooled by their looks. Think of them as little knives with wings.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4210</id>
+  <name>Bog Raiders</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>Swampwalk</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Bog Raiders can't be intercepted.)</printedText>
+  <flavorText>Those who live amid decay must expect scavengers.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4211</id>
+  <name>Bog Wraith</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Wraith</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Bog Wraith can't be intercepted.)</printedText>
+  <flavorText>It moved through the troops leaving no footprints, save on their souls.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4212</id>
+  <name>Charging Bandits</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.</oracleText>
+  <printedText>If Charging Bandits attacks, it gets +2/+0 until the end of the turn.</printedText>
+  <flavorText>The fear in their victims' eyes is their most cherished reward.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4213</id>
+  <name>Craven Knight</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Charles Gillespie</artist>
+  <oracleText>Craven Knight can't block.</oracleText>
+  <printedText>Craven Knight can't intercept.</printedText>
+  <flavorText>"I say victory is better than honor."</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4214</id>
+  <name>Cruel Bargain</name>
+  <cost>{B}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>Draw four cards. You lose half your life, rounded up.</oracleText>
+  <printedText>Draw four cards. You lose half your life, rounded up. (For example, if you have 11 life, you lose 6 life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4215</id>
+  <name>Cruel Tutor</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</oracleText>
+  <printedText>Search your deck for any card. Shuffle your deck and put that card on top of it. You lose 2 life.</printedText>
+  <flavorText>The more you pay for the lesson, the better you'll remember it.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4216</id>
+  <name>Dread Charge</name>
+  <cost>{3}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Until end of turn, black creatures you control can be blocked only by black creatures.</oracleText>
+  <printedText>This turn, your black creatures can be intercepted only by other black creatures.</printedText>
+  <flavorText>"As equal were their souls, so equal was their fate."John Dryden, "Ode to Mrs. Anne Killigrew"</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4217</id>
+  <name>Dread Reaper</name>
+  <cost>{3}{B}{B}{B}</cost>
+  <type>Creature - Horror</type>
+  <power>6</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying &lt;br&gt; &lt;br&gt;When Dread Reaper comes into play, you lose 5 life.</oracleText>
+  <printedText>Flying&lt;br&gt;When Dread Reaper comes into play from your hand, you lose 5 life. (The person who plays Dread Reaper loses the life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4218</id>
+  <name>Dry Spell</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Roger Raupp</artist>
+  <oracleText>Dry Spell deals 1 damage to each creature and each player.</oracleText>
+  <printedText>Dry Spell deals 1 damage to each creature and player. (This includes your creatures and you.)</printedText>
+  <flavorText>A fist of dust to line your throat, a bowl of sand to fill your belly.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4219</id>
+  <name>Ebon Dragon</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Creature - Dragon</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Flying &lt;br&gt;When Ebon Dragon comes into play, you may have target opponent discard a card.</oracleText>
+  <printedText>Flying&lt;br&gt;When Ebon Dragon comes into play from your hand, you may force your opponent to choose and discard a card from his or her hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4220</id>
+  <name>Endless Cockroaches</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Insect</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>When Endless Cockroaches is put into to a graveyard from play, return Endless Cockroaches to its owner's hand.</oracleText>
+  <printedText>If Endless Cockroaches is put into your discard pile from play, return Endless Cockroaches to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4221</id>
+  <name>Feral Shadow</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Colin MacNeil</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Not all shadows are cast by light--some are cast by darkness.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4222</id>
+  <name>Final Strike</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>As an additional cost to play Final Strike, sacrifice a creature. &lt;br&gt;Final Strike deals damage to target opponent equal to the sacrificed creature's power.</oracleText>
+  <printedText>Choose one of your creatures. Final Strike deals to your opponent damage equal to that creature's offense. Then, put the creature in your discard pile.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4223</id>
+  <name>Gravedigger</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>When Gravedigger comes into play, you may return target creature card from your graveyard to your hand.</oracleText>
+  <printedText>When Gravedigger comes into play from your hand, you may choose to return a summon creature from your discard pile to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4224</id>
+  <name>Hand of Death</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Destroy target nonblack creature.</oracleText>
+  <printedText>Destroy any one creature that isn't black. (A creature is black if it has {B} in its cost.)</printedText>
+  <flavorText>Death claims all but the darkest souls.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4225</id>
+  <name>Hand of Death</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Destroy target nonblack creature.</oracleText>
+  <printedText>Destroy any one creature that isn't black.</printedText>
+  <flavorText>Death claims all but the darkest souls.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4226</id>
+  <name>Howling Fury</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText>Target creature gets +4/+0 until end of turn.</oracleText>
+  <printedText>Any one creature gets +4/+0 until the end of the turn.</printedText>
+  <flavorText>I howl my soul to the moon, and the moon howls with me.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4227</id>
+  <name>King's Assassin</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Human Assassin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>{T}: Destroy target tapped creature. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap King's Assassin to destroy any one tapped creature.</printedText>
+  <flavorText>Fear is as effective a weapon as the blade.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4228</id>
+  <name>Mercenary Knight</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Human Mercenary Knight</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>When Mercenary Knight comes into play, sacrifice it unless you discard a creature card.</oracleText>
+  <printedText>When Mercenary Knight comes into play from your hand, choose and discard a summon creature from your hand or destroy Mercenary Knight.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4229</id>
+  <name>Mind Knives</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Target opponent discards a card at random.</oracleText>
+  <printedText>Your opponent discards a card at random from his or her hand.</printedText>
+  <flavorText>To dodge the unerring knife, one must be free of thought.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4230</id>
+  <name>Mind Rot</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>Target player discards two cards.</oracleText>
+  <printedText>Your opponent chooses and discards two cards from his or her hand. (If your opponent has only one card, he or she discards it.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4231</id>
+  <name>Muck Rats</name>
+  <cost>{B}</cost>
+  <type>Creature - Rat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Colin MacNeil</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The difference between a nuisance and a threat is often merely a matter of numbers.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4232</id>
+  <name>Nature's Ruin</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText>Destroy all green creatures.</oracleText>
+  <printedText>Destroy all green creatures. (This includes your green creatures.)</printedText>
+  <flavorText>One chill blast--the exhalation of the grave.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4233</id>
+  <name>Noxious Toad</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Frog</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>When Noxious Toad is put into a graveyard from play, each opponent discards a card.</oracleText>
+  <printedText>If Noxious Toad is put into your discard pile from play, your opponent chooses and discards a card from his or her hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4234</id>
+  <name>Python</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Snake</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>What could it have swallowed to grow so large?</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4235</id>
+  <name>Rain of Tears</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy any one land.</printedText>
+  <flavorText>When emotions rain down, what rivers will be born?</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4236</id>
+  <name>Raise Dead</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Charles Gillespie</artist>
+  <oracleText>Return target creature card from your graveyard to your hand.</oracleText>
+  <printedText>Return any one summon creature from your discard pile to your hand.</printedText>
+  <flavorText>The earth cannot hold that which magic commands.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4237</id>
+  <name>Serpent Assassin</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Snake Assassin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Roger Raupp</artist>
+  <oracleText>When Serpent Assassin comes into play, you may destroy target nonblack creature.</oracleText>
+  <printedText>When Serpent Assassin comes into play from your hand, you may choose to destroy any one creature that isn't black.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4238</id>
+  <name>Serpent Warrior</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Snake Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Roger Raupp</artist>
+  <oracleText>When Serpent Warrior comes into play, you lose 3 life.</oracleText>
+  <printedText>When Serpent Warrior comes into play from your hand, you lose 3 life. (The person who plays Serpent Warrior loses the life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4239</id>
+  <name>Skeletal Crocodile</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Crocodile Skeleton</type>
+  <power>5</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The less flesh there is, the more teeth there seem to be.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4240</id>
+  <name>Skeletal Snake</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Snake Skeleton</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>They watched as the snake shed layer after layer until only cold bone remained.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4241</id>
+  <name>Soul Shred</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.</oracleText>
+  <printedText>Soul Shred deals 3 damage to any one creature that isn't black. You gain 3 life.</printedText>
+  <flavorText>It would be a shame to let life slip away to nothing.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4242</id>
+  <name>Undying Beast</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Beast</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>When Undying Beast is put into a graveyard from play, put Undying Beast on top of its owner's library.</oracleText>
+  <printedText>If Undying Beast is put into your discard pile from play, put Undying Beast on top of your deck.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4243</id>
+  <name>Vampiric Feast</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.</oracleText>
+  <printedText>Vampiric Feast deals 4 damage to any one creature or player. You gain 4 life.</printedText>
+  <flavorText>It's not always gold the thief is after.</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4244</id>
+  <name>Vampiric Touch</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Vampiric Touch deals 2 damage to target opponent and you gain 2 life.</oracleText>
+  <printedText>Vampiric Touch deals 2 damage to your opponent. You gain 2 life.</printedText>
+  <flavorText>A touch, not comforting, but of death.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4245</id>
+  <name>Virtue's Ruin</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText>Destroy all white creatures.</oracleText>
+  <printedText>Destroy all white creatures. (This includes your white creatures.)</printedText>
+  <flavorText>All must fall, and those who stand highest fall hardest.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4246</id>
+  <name>Wicked Pact</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Destroy two target nonblack creatures. You lose 5 life.</oracleText>
+  <printedText>Destroy any two creatures that aren't black. You lose 5 life. (You can't play Wicked Pact unless you can choose two creatures to destroy.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>4247</id>
+  <name>Ancestral Memories</name>
+  <cost>{2}{U}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.</oracleText>
+  <printedText>Look at the top seven cards of your deck. Put two of them into your hand and the rest into your discard pile.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4248</id>
+  <name>Balance of Power</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>If target opponent has more cards in hand than you, draw cards equal to the difference.</oracleText>
+  <printedText>If you have fewer cards in your hand than your opponent does, draw until you have the same number. (When you play Balance of Power, it doesn't count as in your hand.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4249</id>
+  <name>Baleful Stare</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.</oracleText>
+  <printedText>Look at your opponent's hand. For each mountain and red card there, you draw a card. (You draw from your deck.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4250</id>
+  <name>Capricious Sorcerer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>{T}: Capricious Sorcerer deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Capricious Sorcerer to have it deal 1 damage to any one creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4251</id>
+  <name>Cloak of Feathers</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Target creature gains flying until end of turn. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Any one creature gains flying until the end of the turn. You draw a card.</printedText>
+  <flavorText>A thousand feathers from a thousand birds, sewn with magic and song.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4252</id>
+  <name>Cloud Dragon</name>
+  <cost>{5}{U}</cost>
+  <type>Creature - Illusion Dragon</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Flying &lt;br&gt;Cloud Dragon can block only creatures with flying.</oracleText>
+  <printedText>Flying&lt;br&gt;Cloud Dragon can intercept only creatures with flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4253</id>
+  <name>Cloud Pirates</name>
+  <cost>{U}</cost>
+  <type>Creature - Human Pirate</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Flying &lt;br&gt;Cloud Pirates can block only creatures with flying.</oracleText>
+  <printedText>Flying&lt;br&gt;Cloud Pirates can intercept only creatures with flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4254</id>
+  <name>Cloud Spirit</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Spirit</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Flying &lt;br&gt;Cloud Spirit can block only creatures with flying.</oracleText>
+  <printedText>Flying&lt;br&gt;Cloud Spirit can intercept only creatures with flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4255</id>
+  <name>Command of Unsummoning</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Play Command of Unsummoning only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Return one or two target attacking creatures to their owner's hand.</oracleText>
+  <printedText>Play Command of Unsummoning only after you're attacked, before you declare interceptors.&lt;br&gt;Return any one or two attacking creatures to their owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4256</id>
+  <name>Coral Eel</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Fish</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Some fishers like to eat eels, and some eels like to eat fishers.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4257</id>
+  <name>Cruel Fate</name>
+  <cost>{4}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard, and the rest on top of his or her library in any order.</oracleText>
+  <printedText>Look at the top five cards of your opponent's deck. Put one of them into your opponent's discard pile and the rest on top of his or her deck in any order.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4258</id>
+  <name>Deep-Sea Serpent</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Creature - Serpent</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Deep-Sea Serpent can't attack unless defending player controls an Island.</oracleText>
+  <printedText>Deep-Sea Serpent can attack only if the defending player has an island in play.</printedText>
+  <flavorText>Sailors fear the deep-sea serpent; others thank the gods it has no legs.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4259</id>
+  <name>Déjà Vu</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Return target sorcery card from your graveyard to your hand.</oracleText>
+  <printedText>Return any one sorcery card from your discard pile to your hand.</printedText>
+  <flavorText>The past is a mirror of the future.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4260</id>
+  <name>Djinn of the Lamp</name>
+  <cost>{5}{U}{U}</cost>
+  <type>Creature - Djinn</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Once they learn the trick of carrying their own lamps, they never touch the ground again.</flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4261</id>
+  <name>Exhaustion</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Creatures and lands target opponent controls don't untap during his or her next untap step.</oracleText>
+  <printedText>At the beginning of your opponent's next turn, he or she skips untapping his or her creatures and lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4262</id>
+  <name>Flux</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Each player discards any number of cards, then draws that many cards. &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Each player chooses and discards from his or her hand any number of cards and then draws that many cards. You then draw a card. (You choose first.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4263</id>
+  <name>Giant Octopus</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Octopus</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>At the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4264</id>
+  <name>Horned Turtle</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Turtle</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Its spear has no shaft, its shield no handle.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4265</id>
+  <name>Ingenious Thief</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Flying &lt;br&gt;When Ingenious Thief comes into play, look at target player's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;When Ingenious Thief comes into play from your hand, look at your opponent's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4266</id>
+  <name>Man-o'-War</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Jellyfish</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>When Man-o'-War comes into play, return target creature to its owner's hand.</oracleText>
+  <printedText>When Man-o'-War comes into play from your hand, return any one creature to its owner's hand. (If you're the only one with creatures, return one of them to your hand.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4267</id>
+  <name>Merfolk of the Pearl Trident</name>
+  <cost>{U}</cost>
+  <type>Creature - Merfolk</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Are merfolk humans with fins, or are humans merfolk with feet?</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4268</id>
+  <name>Mystic Denial</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Counter target creature or sorcery spell.</oracleText>
+  <printedText>Play Mystic Denial only in response to another player playing a summon creature or a sorcery. That card has no effect, and that player puts it into his or her discard pile.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4269</id>
+  <name>Omen</name>
+  <cost>{1}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>Look at the top three cards of your library. You may put them back in any order or shuffle your library. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Look at the top three cards of your deck and return them in any order. You may choose to shuffle your deck. Then draw a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4270</id>
+  <name>Owl Familiar</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Janine Johnston</artist>
+  <oracleText>Flying &lt;br&gt;When Owl Familiar comes into play, draw a card, then discard a card.</oracleText>
+  <printedText>Flying&lt;br&gt;When Owl Familiar comes into play from your hand, draw a card, then choose and discard a card from your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4271</id>
+  <name>Personal Tutor</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+  <printedText>Search your deck for a sorcery and reveal that card to all players. Shuffle your deck and put the revealed card on top of it.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4272</id>
+  <name>Phantom Warrior</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Illusion Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Phantom Warrior is unblockable.</oracleText>
+  <printedText>Phantom Warrior can't be intercepted.</printedText>
+  <flavorText>The phantom warrior comes from nowhere and returns there just as quickly.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4273</id>
+  <name>Prosperity</name>
+  <cost>{X}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Each player draws X cards.</oracleText>
+  <printedText>Each player draws X cards.</printedText>
+  <flavorText>"Life can never be too good."</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4274</id>
+  <name>Snapping Drake</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Drakes claim to be dragons--until the dragons show up.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4275</id>
+  <name>Sorcerous Sight</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Look at target opponent's hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Look at your opponent's hand. You draw a card. (Draw the card from your deck.)</printedText>
+  <flavorText>Do not react; anticipate.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4276</id>
+  <name>Storm Crow</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Storm crow descending, winter unending.  Storm crow departing, summer is starting.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4277</id>
+  <name>Symbol of Unsummoning</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Return target creature to its owner's hand. &lt;br&gt; &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Return any one creature to its owner's hand. You draw a card.</printedText>
+  <flavorText>". . . inviting the soul to wander for a spell in abysses of solitude . . . ."&lt;br&gt;--Kate Chopin, The Awakening</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4278</id>
+  <name>Taunt</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>During target player's next turn, each creature he or she controls attacks you if able.</oracleText>
+  <printedText>Choose any one player. On that player's next turn, all his or her creatures that can attack you must do so.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4279</id>
+  <name>Theft of Dreams</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Draw a card for each tapped creature target opponent controls.</oracleText>
+  <printedText>For each tapped creature your opponent has in play, you draw a card.</printedText>
+  <flavorText>Energy is never lost, only transformed.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4280</id>
+  <name>Thing from the Deep</name>
+  <cost>{6}{U}{U}{U}</cost>
+  <type>Creature - Leviathan</type>
+  <power>9</power>
+  <toughness>9</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.</oracleText>
+  <printedText>If Thing from the Deep attacks, destroy one of your islands or destroy Thing from the Deep.</printedText>
+  <flavorText>Seafarers fear sailing off the world's edge not so much as down its gullet.</flavorText>
+  <cmc>9</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4281</id>
+  <name>Tidal Surge</name>
+  <cost>{1}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Tap up to three target creatures without flying.</oracleText>
+  <printedText>Tap any one, two, or three creatures without flying. (Tapped creatures can't intercept.)</printedText>
+  <flavorText>"'Twas  when the seas were roaring&lt;br&gt;With hollow blasts of wind . . . ."&lt;br&gt;--John Gay, "The What D'Ye Call It"</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4282</id>
+  <name>Time Ebb</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Put target creature on top of its owner's library.</oracleText>
+  <printedText>Return any one creature to the top of its owner's deck.</printedText>
+  <flavorText>Like the tide, time both ebbs and flows.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4283</id>
+  <name>Touch of Brilliance</name>
+  <cost>{3}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Draw two cards.</oracleText>
+  <printedText>Draw two cards.</printedText>
+  <flavorText>Acting on one good idea is better than hoarding all the world's knowledge.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4284</id>
+  <name>Wind Drake</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"No bird soars too high, if he soars with his own wings."--William Blake, The Marriage of Heaven and Hell</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4285</id>
+  <name>Withering Gaze</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.</oracleText>
+  <printedText>Look at your opponent's hand. For each forest and green card there, you draw a card. (You draw from your deck.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>4286</id>
+  <name>Alluring Scent</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>All creatures able to block target creature this turn do so.</oracleText>
+  <printedText>Choose any one creature. This turn, all creatures able to intercept that creature do so.</printedText>
+  <flavorText>Doom rarely smells this sweet.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4287</id>
+  <name>Anaconda</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Snake</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Anaconda can't be intercepted. Swamps are in play regardless of whether they're tapped or untapped.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4288</id>
+  <name>Anaconda</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Snake</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Anaconda can't be intercepted.)</printedText>
+  <flavorText>Something soft bumped against the rowboat, then was gone.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4289</id>
+  <name>Bee Sting</name>
+  <cost>{3}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Bee Sting deals 2 damage to target creature or player.</oracleText>
+  <printedText>Bee Sting deals 2 damage to any one creature or player.</printedText>
+  <flavorText>There are few things as motivating as a swarm of bees.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4290</id>
+  <name>Bull Hippo</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Hippo</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Roger Raupp</artist>
+  <oracleText>Islandwalk</oracleText>
+  <printedText>Islandwalk (If defending player has any islands in play, Bull Hippo can't be intercepted.)</printedText>
+  <flavorText>Stay alert: his lumbering may shake the ground itself, but in water, he glides.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4291</id>
+  <name>Charging Rhino</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Rhino</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Charging Rhino can't be blocked by more than one creature.</oracleText>
+  <printedText>Charging Rhino can't be intercepted by more than one creature.</printedText>
+  <flavorText>A rhino rarely uses its horn to announce its charge, only to end it.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4292</id>
+  <name>Deep Wood</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Play Deep Wood only during the declare attackers step and only if you are the defending player. &lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.</oracleText>
+  <printedText>Play Deep Wood only after you're attacked, before you declare interceptors.&lt;br&gt;This turn, all damage dealt to you by attacking creatures is reduced to 0.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4293</id>
+  <name>Elite Cat Warrior</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Cat Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>Forestwalk</oracleText>
+  <printedText>Forestwalk (If defending player has any forests in play, Elite Cat Warrior can't be intercepted. Forests are in play regardless of whether they're tapped or untapped.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4294</id>
+  <name>Elite Cat Warrior</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Cat Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>Forestwalk</oracleText>
+  <printedText>Forestwalk (If defending player has any forests in play, Elite Cat Warrior can't be intercepted.)</printedText>
+  <flavorText>"Hear that? No? That's a cat warrior."</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4295</id>
+  <name>Elven Cache</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Return target card from your graveyard to your hand.</oracleText>
+  <printedText>Return any one card from your discard pile to your hand.</printedText>
+  <flavorText>Elves know where to harvest the best of the forest, for they planted it themselves.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4296</id>
+  <name>Elvish Ranger</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Elf</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>It's up to you if you enter their woods--and up to them if you leave.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4297</id>
+  <name>Fruition</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>You gain 1 life for each Forest in play.</oracleText>
+  <printedText>For each forest you and your opponent have in play, you gain 1 life.</printedText>
+  <flavorText>Come to these woods and suffer no pain; you've burdens to lose and new life to gain.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4298</id>
+  <name>Giant Spider</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Spider</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Giant Spider can intercept as though it had flying.</printedText>
+  <flavorText>It's not far into the trap, as the crow flies.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4299</id>
+  <name>Gorilla Warrior</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Ape Warrior</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>They were formidable even before they learned the use of weapons.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4300</id>
+  <name>Grizzly Bears</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Bear</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Don't worry about provoking grizzly bears; they come that way.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4301</id>
+  <name>Hurricane</name>
+  <cost>{X}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Hurricane deals X damage to each creature with flying and each player.</oracleText>
+  <printedText>Hurricane deals X damage to each player and each creature with flying. (This includes you and your creatures with flying.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4302</id>
+  <name>Jungle Lion</name>
+  <cost>{G}</cost>
+  <type>Creature - Cat</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Janine Johnston</artist>
+  <oracleText>Jungle Lion can't block.</oracleText>
+  <printedText>Jungle Lion can't intercept.</printedText>
+  <flavorText>The lion's only loyalty is to its hunger.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4303</id>
+  <name>Mobilize</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Untap all creatures you control.</oracleText>
+  <printedText>Untap all your creatures.</printedText>
+  <flavorText>A rested mind is the sharpest weapon.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4304</id>
+  <name>Monstrous Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+  <printedText>Any one creature gets +4/+4 until the end of the turn. (For example, a 6/3 creature would become 10/7.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4305</id>
+  <name>Monstrous Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+  <printedText>Any one creature gets +4/+4 until the end of the turn.</printedText>
+  <flavorText>Some cats are born fighters; others need a little persuading.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4306</id>
+  <name>Moon Sprite</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"I am that merry wanderer of the night."&lt;br&gt;--William Shakespeare,&lt;br&gt;A Midsummer Night's Dream</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4307</id>
+  <name>Natural Order</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>As an additional cost to play Natural Order, sacrifice a green creature. &lt;br&gt;Search your library for a green creature card and put it into play. Then shuffle your library.</oracleText>
+  <printedText>Search your deck for a green summon creature and put that card into play. Treat it as though you just played it from your hand. Then put one of your green creatures into your discard pile. Shuffle your deck afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4308</id>
+  <name>Natural Spring</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Janine Johnston</artist>
+  <oracleText>Target player gains 8 life.</oracleText>
+  <printedText>You gain 8 life.</printedText>
+  <flavorText>Though many have come to this place to wash their wounds, the water has never turned red.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4309</id>
+  <name>Nature's Cloak</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Green creatures you control gain forestwalk until end of turn.</oracleText>
+  <printedText>All your green creatures gain forestwalk until the end of the turn. (If defending player has any forests in play, none of your green creatures can be intercepted.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4310</id>
+  <name>Nature's Lore</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>Search your deck for a forest and put that card into play. Shuffle your deck afterwards.</printedText>
+  <flavorText>Nature's secrets can be read on every tree, every branch, every leaf.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4311</id>
+  <name>Needle Storm</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Charles Gillespie</artist>
+  <oracleText>Needle Storm deals 4 damage to each creature with flying.</oracleText>
+  <printedText>Needle Storm deals 4 damage to each creature with flying. (This includes your creatures with flying.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4313</id>
+  <name>Plant Elemental</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Plant Elemental</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>When Plant Elemental comes into play, sacrifice it unless you sacrifice a Forest.</oracleText>
+  <printedText>When Plant Elemental comes into play from your hand, destroy one of your forests or destroy Plant Elemental.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4314</id>
+  <name>Primeval Force</name>
+  <cost>{2}{G}{G}{G}</cost>
+  <type>Creature - Elemental</type>
+  <power>8</power>
+  <toughness>8</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>When Primeval Force comes into play, sacrifice it unless you sacrifice three Forests.</oracleText>
+  <printedText>When Primeval Force comes into play from your hand, destroy three of your forests or destroy Primeval Force.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4315</id>
+  <name>Redwood Treefolk</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Treefolk</type>
+  <power>3</power>
+  <toughness>6</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The soldiers chopped and chopped, and still the great tree stood, frowning down at them.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4316</id>
+  <name>Rowan Treefolk</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Treefolk</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Gerry Grace</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>One of the forest's best protectors is the forest itself.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4317</id>
+  <name>Spined Wurm</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Colin MacNeil</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>It has more teeth than fit in its mouth.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4318</id>
+  <name>Stalking Tiger</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Cat</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Colin MacNeil</artist>
+  <oracleText>Stalking Tiger can't be blocked by more than one creature.</oracleText>
+  <printedText>Stalking Tiger can't be intercepted by more than one creature.</printedText>
+  <flavorText>No one is happy when they notice a tiger.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4319</id>
+  <name>Summer Bloom</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>You may play up to three additional lands this turn.</oracleText>
+  <printedText>Take up to three lands from your hand and put them into play.</printedText>
+  <flavorText>Summer sends its kiss with warmth and blooming life.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4320</id>
+  <name>Sylvan Tutor</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+  <printedText>Search your deck for a summon creature and reveal that card to all players. Then shuffle your deck and put the revealed card on top of it.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4321</id>
+  <name>Thundering Wurm</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>When Thundering Wurm comes into play, sacrifice it unless you discard a land card.</oracleText>
+  <printedText>When Thundering Wurm comes into play from your hand, discard a land from your hand or destroy Thundering Wurm.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4322</id>
+  <name>Treetop Defense</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Play Treetop Defense only during the declare attackers step and only if you are the defending player. &lt;br&gt;Creatures you control gain reach until end of turn. (They can block creatures with flying.)</oracleText>
+  <printedText>Play Treetop Defense only after you're attacked, before you declare interceptors.&lt;br&gt;This turn, all your creatures can intercept as though they had flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4323</id>
+  <name>Untamed Wilds</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Romas</artist>
+  <oracleText>Search your library for a basic land card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>Search your deck for a plains, island, swamp, mountain, or forest and put that card into play. Shuffle your deck afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4324</id>
+  <name>Whiptail Wurm</name>
+  <cost>{6}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>8</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>It's hard to say for certain which end is more dangerous.</flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4325</id>
+  <name>Willow Dryad</name>
+  <cost>{G}</cost>
+  <type>Creature - Dryad</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Forestwalk</oracleText>
+  <printedText>Forestwalk (If defending player has any forests in play, Willow Dryad can't be intercepted.)</printedText>
+  <flavorText>Some think that dryads are the dreams of trees.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4326</id>
+  <name>Winter's Grasp</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy any one land.</printedText>
+  <flavorText>Winter settles on the land, and the land prays it will wake.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4327</id>
+  <name>Wood Elves</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Elf Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>When Wood Elves comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>When Wood Elves comes into play from your hand, search your deck for a forest and put that card into play. Shuffle your deck afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>4328</id>
+  <name>Blaze</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Gerry Grace</artist>
+  <oracleText>Blaze deals X damage to target creature or player.</oracleText>
+  <printedText>Blaze deals X damage to any one creature or player.</printedText>
+  <flavorText>Fire never dies alone.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4329</id>
+  <name>Blaze</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Gerry Grace</artist>
+  <oracleText>Blaze deals X damage to target creature or player.</oracleText>
+  <printedText>Blaze deals X damage to any one creature or player. (For example, if you tap a mountain plus four other lands when you play Blaze, it deals 4 damage.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4330</id>
+  <name>Boiling Seas</name>
+  <cost>{3}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Destroy all Islands.</oracleText>
+  <printedText>Destroy all islands. (This includes your islands.)</printedText>
+  <flavorText>What burns the land, boils the seas.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4331</id>
+  <name>Burning Cloak</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.</oracleText>
+  <printedText>Any one creature gets +2/+0 until the end of the turn.&lt;br&gt;Burning Cloak deals 2 damage to that creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4332</id>
+  <name>Craven Giant</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Craven Giant can't block.</oracleText>
+  <printedText>Craven Giant can't intercept.</printedText>
+  <flavorText>"The best armor is to keep out of range."&lt;br&gt;--Italian proverb</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4333</id>
+  <name>Desert Drake</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Gerry Grace</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Never doubt a dragon just because of its size.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4334</id>
+  <name>Devastation</name>
+  <cost>{5}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>Destroy all creatures and lands.</oracleText>
+  <printedText>Destroy all creatures and lands. (This includes your creatures and lands.)</printedText>
+  <flavorText>There is much talk about the art of creation. What about the art of destruction?</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4335</id>
+  <name>Earthquake</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>Earthquake deals X damage to each creature without flying and each player.</oracleText>
+  <printedText>Earthquake deals X damage to each player and each creature without flying. (This includes you and your creatures without flying.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4336</id>
+  <name>Fire Dragon</name>
+  <cost>{6}{R}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>William Simpson</artist>
+  <oracleText>Flying &lt;br&gt;When Fire Dragon comes into play, it deals damage equal to the number of Mountains you control to target creature.</oracleText>
+  <printedText>Flying&lt;br&gt;When Fire Dragon comes into play from your hand, it deals to any one creature damage equal to the number of mountains you have in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>9</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4337</id>
+  <name>Fire Imp</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Imp</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>When Fire Imp comes into play, it deals 2 damage to target creature.</oracleText>
+  <printedText>When Fire Imp comes into play from your hand, it deals 2 damage to any one creature. (If you're the only player with creatures, Fire Imp deals 2 damage to one of your creatures.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4338</id>
+  <name>Fire Snake</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Snake</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>When Fire Snake is put into a graveyard from play, destroy target land.</oracleText>
+  <printedText>If Fire Snake is put into your discard pile from play, destroy any one land.</printedText>
+  <flavorText>The snake's final thrashings only spread the fire within it.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4339</id>
+  <name>Fire Tempest</name>
+  <cost>{5}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText>Fire Tempest deals 6 damage to each creature and each player.</oracleText>
+  <printedText>Fire Tempest deals 6 damage to each creature and player. (This includes your creatures and you. If all players drop to 0 life or less, the game is a draw.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4340</id>
+  <name>Flashfires</name>
+  <cost>{3}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Destroy all Plains.</oracleText>
+  <printedText>Destroy all plains. (This includes your plains.)</printedText>
+  <flavorText>Dry grass is tinder before the spark.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4341</id>
+  <name>Forked Lightning</name>
+  <cost>{3}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.</oracleText>
+  <printedText>Forked Lightning deals 4 damage divided any way you choose among any one, two, or three creatures.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4342</id>
+  <name>Goblin Bully</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>It's easy to stand head and shoulders over those with no backbone.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4343</id>
+  <name>Highland Giant</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Though slow-witted and slow-moving, they are quick to anger.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4344</id>
+  <name>Hill Giant</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Hill giants are mostly just big. Of course, that does count for a lot</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4345</id>
+  <name>Hulking Cyclops</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Creature - Cyclops</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Hulking Cyclops can't block.</oracleText>
+  <printedText>Hulking Cyclops can't intercept.</printedText>
+  <flavorText>Anyone can get around a cyclops, but few can stand in its way.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4346</id>
+  <name>Hulking Goblin</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Hulking Goblin can't block.</oracleText>
+  <printedText>Hulking Goblin can't intercept.</printedText>
+  <flavorText>The bigger they are, the harder they avoid work.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4347</id>
+  <name>Last Chance</name>
+  <cost>{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Take an extra turn after this one. At the end of that turn, you lose the game.</oracleText>
+  <printedText>Take another turn after this one. You lose the game at the end of that turn. (You don't lose if you've already won.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4348</id>
+  <name>Lava Axe</name>
+  <cost>{4}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>Lava Axe deals 5 damage to target player.</oracleText>
+  <printedText>Lava Axe deals 5 damage to your opponent.</printedText>
+  <flavorText>Swing your axe as a broom, to sweep away the foe.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4349</id>
+  <name>Lava Flow</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Dringenberg</artist>
+  <oracleText>Destroy target creature or land.</oracleText>
+  <printedText>Destroy any one creature or land.</printedText>
+  <flavorText>People ran as never before at the thought of being buried and cremated at the same time.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4350</id>
+  <name>Lizard Warrior</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Lizard Warrior</type>
+  <power>4</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Roger Raupp</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Don't let its appearance frighten you. Let its claws and teeth do that.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4351</id>
+  <name>Minotaur Warrior</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Minotaur Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The herd's patience, the stampede's fury.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4352</id>
+  <name>Mountain Goat</name>
+  <cost>{R}</cost>
+  <type>Creature - Goat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Mountainwalk</oracleText>
+  <printedText>Mountainwalk (If defending player has any mountains in play, Mountain Goat can't be intercepted.)</printedText>
+  <flavorText>Only the heroic and the mad follow mountain goat trails.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4353</id>
+  <name>Pillaging Horde</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Human Barbarian</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>When Pillaging Horde comes into play, sacrifice it unless you discard a card at random.</oracleText>
+  <printedText>When Pillaging Horde comes into play from your hand, discard a card at random from your hand or destroy Pillaging Horde.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4354</id>
+  <name>Pyroclasm</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Pyroclasm deals 2 damage to each creature.</oracleText>
+  <printedText>Pyroclasm deals 2 damage to each creature. (This includes your creatures.)</printedText>
+  <flavorText>Chaos does not choose its enemies.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4355</id>
+  <name>Raging Cougar</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Cat</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Haste</oracleText>
+  <printedText>Raging Cougar is unaffected by summoning sickness.</printedText>
+  <flavorText>Mountaineers quickly learn to travel with their spears always pointed up.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4356</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Raging Goblin is unaffected by summoning sickness. (It can attack the turn you play it, unless another card prevents this.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4357</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Raging Goblin is unaffected by summoning sickness.</printedText>
+  <flavorText>Charging alone takes uncommon daring or uncommon stupidity. Or both.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4358</id>
+  <name>Raging Minotaur</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Minotaur Berserker</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Haste</oracleText>
+  <printedText>Raging Minotaur is unaffected by summoning sickness.</printedText>
+  <flavorText>The only thing worse than a minotaur with an axe is an angry minotaur with an axe.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4359</id>
+  <name>Rain of Salt</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Charles Gillespie</artist>
+  <oracleText>Destroy two target lands.</oracleText>
+  <printedText>Destroy any two lands.</printedText>
+  <flavorText>It pelts the land with its fury,&lt;br&gt;spoiling what was once sweet.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4360</id>
+  <name>Scorching Spear</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Scorching Spear deals 1 damage to target creature or player.</oracleText>
+  <printedText>Scorching Spear deals 1 damage to any one creature or player.</printedText>
+  <flavorText>Lift your spear as you might lift your glass, and toast your enemy.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4361</id>
+  <name>Scorching Winds</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Play Scorching Winds only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Scorching Winds deals 1 damage to each attacking creature.</oracleText>
+  <printedText>Play Scorching Winds only after you're attacked, before you declare interceptors.&lt;br&gt;Scorching Winds deals 1 damage to each attacking creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4362</id>
+  <name>Spitting Earth</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</oracleText>
+  <printedText>Spitting Earth deals to any one creature damage equal to the number of mountains you have in play. (This includes both tapped and untapped mountains.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4363</id>
+  <name>Stone Rain</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy any one land.</printedText>
+  <flavorText>I cast a thousand tiny suns--&lt;br&gt;Beware my many dawns.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4364</id>
+  <name>Thundermare</name>
+  <cost>{5}{R}</cost>
+  <type>Creature - Elemental Horse</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Bob Eggleton</artist>
+  <oracleText>Haste (This creature can attack the turn it comes under your control.) &lt;br&gt;When Thundermare comes into play, tap all other creatures.</oracleText>
+  <printedText>Thundermare is unaffected by summoning sickness.&lt;br&gt;When Thundermare comes into play from your hand, tap all other creatures. (This includes your creatures.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4365</id>
+  <name>Volcanic Dragon</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Flying, haste</oracleText>
+  <printedText>Flying&lt;br&gt;Volcanic Dragon is unaffected by summoning sickness.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4366</id>
+  <name>Volcanic Hammer</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Volcanic Hammer deals 3 damage to target creature or player.</oracleText>
+  <printedText>Volcanic Hammer deals 3 damage to any one creature or player.</printedText>
+  <flavorText>Cast the weight as though it were a die, to see a rival's fate.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4367</id>
+  <name>Wall of Granite</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>7</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Defender (This creature can't attack.)</oracleText>
+  <printedText>Wall of Granite can't attack.</printedText>
+  <flavorText>The wisest man builds his house behind the rock.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4368</id>
+  <name>Winds of Change</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.</oracleText>
+  <printedText>Each player counts the cards in his or her hand, shuffles those cards into his or her deck, and then draws that many cards. (When you play Winds of Change, it doesn't count as a card in your hand.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>4369</id>
+  <name>Alabaster Dragon</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature - Dragon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Flying &lt;br&gt;When Alabaster Dragon is put into a graveyard from play, shuffle Alabaster Dragon into its owner's library.</oracleText>
+  <printedText>Flying&lt;br&gt;If Alabaster Dragon is put into your discard pile from play, shuffle Alabaster Dragon back into your deck.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4370</id>
+  <name>Angelic Blessing</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Any one creature gets +3/+3 and gains flying until the end of the turn.</printedText>
+  <flavorText>A peasant can do more by faith than a king by proclamation.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4371</id>
+  <name>Archangel</name>
+  <cost>{5}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Flying, vigilance</oracleText>
+  <printedText>Flying&lt;br&gt;Attacking doesn't cause Archangel to tap.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4372</id>
+  <name>Ardent Militia</name>
+  <cost>{4}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Vigilance</oracleText>
+  <printedText>Attacking doesn't cause Ardent Militia to tap.</printedText>
+  <flavorText>Some fight for honor and some for gold, but the militia fights for hearth and home.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4373</id>
+  <name>Armageddon</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Destroy all lands.</oracleText>
+  <printedText>Destroy all lands. (This includes your lands.)</printedText>
+  <flavorText>"--'O miserable of happy Is this the end&lt;br&gt;Of this new glorious world . . . ?'"&lt;br&gt;--John Milton, Paradise Lost</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4374</id>
+  <name>Armored Pegasus</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Pegasus</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4375</id>
+  <name>Blessed Reversal</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>You gain 3 life for each creature attacking you.</oracleText>
+  <printedText>Play Blessed Reversal only after you're attacked, before you declare interceptors.&lt;br&gt;For each attacking creature, you gain 3 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4376</id>
+  <name>Blinding Light</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Tap all nonwhite creatures.</oracleText>
+  <printedText>Tap all creatures except for white creatures. (This includes your creatures.)</printedText>
+  <flavorText>Let the unjust avert their faces and contemplate their peril.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4377</id>
+  <name>Border Guard</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"Join the army, see foreign countries" they'd said.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4378</id>
+  <name>Breath of Life</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Return target creature card from your graveyard to play.</oracleText>
+  <printedText>Take any one summon creature from your discard pile and put that card into play. Treat it as though you just played it from your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4379</id>
+  <name>Charging Paladin</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</oracleText>
+  <printedText>If Charging Paladin attacks, it gets +0/+3 until the end of the turn.</printedText>
+  <flavorText>A true warrior's thoughts are of victory, not death.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4380</id>
+  <name>Defiant Stand</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Play Defiant Stand only during the declare attackers step and only if you are the defending player. &lt;br&gt;Target creature gets +1/+3 until the end of the turn. If that creature is tapped, untap it.</oracleText>
+  <printedText>Play Defiant Stand only after you're attacked, before you declare interceptors.&lt;br&gt;Any one creature gets +1/+3 until the end of the turn. If that creature is tapped, untap it.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4381</id>
+  <name>Devoted Hero</name>
+  <cost>{W}</cost>
+  <type>Creature - Elf Soldier</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The heart's courage is the soul's guardian.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4382</id>
+  <name>False Peace</name>
+  <cost>{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Target player skips all combat phases of his or her next turn.</oracleText>
+  <printedText>Choose any one player. That player can't attack on his or her next turn.</printedText>
+  <flavorText>Mutual consent is not required for war.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4383</id>
+  <name>Fleet-Footed Monk</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Monk</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.</oracleText>
+  <printedText>Fleet-Footed Monk can't be intercepted by any creature with offense 2 or greater.</printedText>
+  <flavorText>"Hesitation is for the faithless. My belief lends me speed."</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4384</id>
+  <name>Foot Soldiers</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Infantry deployment is the art of putting your troops in the wrong place at the right time.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4385</id>
+  <name>Gift of Estates</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.</oracleText>
+  <printedText>If your opponent has more lands in play than you do, search your deck for up to three plains and put them into your hand. Shuffle your deck afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4386</id>
+  <name>Harsh Justice</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Play Harsh Justice only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.</oracleText>
+  <printedText>Play Harsh Justice only after you're attacked, before you declare interceptors.&lt;br&gt;This turn, each attacking creature that damages you also deals equal damage to the attacking player.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4387</id>
+  <name>Keen-Eyed Archers</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Elf Archer</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Keen-Eyed Archers can intercept as though it had flying.</printedText>
+  <flavorText>"If it has wings, shoot it. If it doesn't, shoot it anyway."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4388</id>
+  <name>Knight Errant</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>". . . Before honor is humility."&lt;br&gt;--The Bible, Proverbs 15:33</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4389</id>
+  <name>Path of Peace</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Destroy target creature. Its owner gains 4 life.</oracleText>
+  <printedText>Destroy any one creature. That creature's owner gains 4 life.</printedText>
+  <flavorText>The soldier reaped the profits of peace.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4390</id>
+  <name>Regal Unicorn</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Unicorn</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Unicorns don't care if you believe in them any more than you care if they believe in you.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4391</id>
+  <name>Renewing Dawn</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>You gain 2 life for each Mountain target opponent controls.</oracleText>
+  <printedText>For each mountain your opponent has in play, you gain 2 life.</printedText>
+  <flavorText>Dawn brings a new day, and a new day brings hope.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4392</id>
+  <name>Sacred Knight</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Sacred Knight can't be blocked by black and/or red creatures.</oracleText>
+  <printedText>Sacred Knight can't be intercepted by black or red creatures.</printedText>
+  <flavorText>"No flame, no horror can sway me from my cause."</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4393</id>
+  <name>Sacred Nectar</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Janine Johnston</artist>
+  <oracleText>You gain 4 life.</oracleText>
+  <printedText>You gain 4 life.</printedText>
+  <flavorText>"For he on honey-dew hath fed,&lt;br&gt;And drunk the milk of Paradise."&lt;br&gt;--Samuel Taylor Coleridge, "Kubla Khan"</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4394</id>
+  <name>Seasoned Marshal</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Whenever Seasoned Marshal attacks, you may tap target creature.</oracleText>
+  <printedText>If Seasoned Marshal attacks, you may choose to tap any one creature. (Tapped creatures can't intercept.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4395</id>
+  <name>Spiritual Guardian</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Spirit</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>When Spiritual Guardian comes into play, you gain 4 life.</oracleText>
+  <printedText>When Spiritual Guardian comes into play from your hand, you gain 4 life.</printedText>
+  <flavorText>Hope is born within.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4396</id>
+  <name>Spotted Griffin</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Griffin</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>William Simpson</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>When the cat flies and the bird stalks, guard your horses carefully.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4397</id>
+  <name>Starlight</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>You gain 3 life for each black creature target opponent controls.</oracleText>
+  <printedText>For each black creature your opponent has in play, you gain 3 life.</printedText>
+  <flavorText>Stars are like coins dropped into the night: their light buys safe passage.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4398</id>
+  <name>Starlit Angel</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>To soar as high as hope, to dive as swift as justice.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4399</id>
+  <name>Steadfastness</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Creatures you control get +0/+3 until end of turn.</oracleText>
+  <printedText>All your creatures get +0/+3 until the end of the turn.</printedText>
+  <flavorText>Brute force wins the battles. Conviction wins the wars.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4400</id>
+  <name>Stern Marshal</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>{T}: Target creature gets +2/+2 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Stern Marshal to give any one creature +2/+2 until the end of the turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4401</id>
+  <name>Temporary Truce</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.</oracleText>
+  <printedText>Each player may draw up to two cards. For each card less than two any player draws, that player gains 2 life. (You choose whether to draw first.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4402</id>
+  <name>Valorous Charge</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>White creatures get +2/+0 until end of turn.</oracleText>
+  <printedText>All white creatures get +2/+0 until the end of the turn. (This includes other players' white creatures.)</printedText>
+  <flavorText>Stand in the way of truth at your peril.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4403</id>
+  <name>Venerable Monk</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Monk Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>When Venerable Monk comes into play, you gain 2 life.</oracleText>
+  <printedText>When Venerable Monk comes into play from your hand, you gain 2 life.</printedText>
+  <flavorText>His presence brings not only a strong arm but also renewed hope.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4404</id>
+  <name>Vengeance</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Destroy target tapped creature.</oracleText>
+  <printedText>Destroy any one tapped creature.</printedText>
+  <flavorText>Bitter as wormwood, sweet as mulled wine.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4405</id>
+  <name>Wall of Swords</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Wall</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>Portal</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Defender, flying (This creature can't attack, and it can block creatures with flying.)</oracleText>
+  <printedText>Flying&lt;br&gt;Wall of Swords can't attack.</printedText>
+  <flavorText>Sharper than wind, lighter than air.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4406</id>
+  <name>Warrior's Charge</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Creatures you control get +1/+1 until end of turn.</oracleText>
+  <printedText>All your creatures get +1/+1 until the end of the turn. (For example, a 1/2 creature would become 2/3.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4407</id>
+  <name>Warrior's Charge</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ted Naifeh</artist>
+  <oracleText>Creatures you control get +1/+1 until end of turn.</oracleText>
+  <printedText>All your creatures get +1/+1 until the end of the turn.</printedText>
+  <flavorText>It is not the absence of fear that makes a warrior, but its domination.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4408</id>
+  <name>Wrath of God</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Destroy all creatures. They can't be regenerated.</oracleText>
+  <printedText>Put all creatures into their owners' discard piles. (This includes your creatures.)</printedText>
+  <flavorText>"As flies to wanton boys, are we to the gods. They kill us for their sport."&lt;br&gt;--William Shakespeare, King Lear</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>4409</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Romas</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4410</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Romas</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4411</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Romas</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4412</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Romas</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4413</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4414</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4415</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4416</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4417</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Durfee</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4418</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Durfee</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4419</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Durfee</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4420</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Durfee</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4421</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4422</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4423</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4424</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4425</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4426</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4427</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>4428</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>9845</id>
+  <name>Panther Warriors</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Cat Warrior</type>
+  <power>6</power>
+  <toughness>3</toughness>
+  <edition>Portal</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The dogs of war are nothing compared to the cats.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+</list>
+</cards>

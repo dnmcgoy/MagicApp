@@ -1,0 +1,2811 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>10670</id>
+  <name>Arcane Spyglass</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>93</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass. &lt;br&gt;Remove three charge counters from Arcane Spyglass: Draw a card.</oracleText>
+  <printedText>{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass.&lt;br&gt;Remove three charge counters from Arcane Spyglass: Draw a card.</printedText>
+  <flavorText>It breaches not physical distances but temporal ones.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>15190</id>
+  <name>Viridian Acolyte</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>89</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>{1}, {T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>{1}, {T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText>"We have no sun to guide our dead, so I tend the prismatic flames of the spirit fires that show the souls their way. When I die, I hope there is one left to guide my spirit home."</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21293</id>
+  <name>Tears of Rage</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>70</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Play Tears of Rage only during the declare attackers step. &lt;br&gt;Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at end of turn.</oracleText>
+  <printedText>Play Tears of Rage only during the declare attackers step.&lt;br&gt;Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>26732</id>
+  <name>Spawning Pit</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>141</setNumber>
+  <artist>Tony Szczudlo</artist>
+  <oracleText>Sacrifice a creature: Put a charge counter on Spawning Pit. &lt;br&gt;{1}, Remove two charge counters from Spawning Pit: Put a 2/2 Spawn artifact creature token into play.</oracleText>
+  <printedText>Sacrifice a creature: Put a charge counter on Spawning Pit.&lt;br&gt;{1}, Remove two charge counters from Spawning Pit: Put a 2/2 Spawn artifact creature token into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>29513</id>
+  <name>Hallow</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.</oracleText>
+  <printedText>Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.</printedText>
+  <flavorText>"Bend with the storm, then reply in kind."</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>34479</id>
+  <name>Purge</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>12</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Destroy target artifact creature or black creature. It can't be regenerated.</oracleText>
+  <printedText>Destroy target artifact creature or black creature. It can't be regenerated.</printedText>
+  <flavorText>For the first and last time, the horrific creature experienced terror.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>39377</id>
+  <name>Murderous Spoils</name>
+  <cost>{5}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>48</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect doesn't end at end of turn.)</oracleText>
+  <printedText>Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect doesn't end at end of turn.)</printedText>
+  <flavorText>Scavengers are always the first to pay their respects.</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>39410</id>
+  <name>Pulse of the Forge</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>66</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Pulse of the Forge deals 4 damage to target player. Then if that player has more life than you, return Pulse of the Forge to its owner's hand.</oracleText>
+  <printedText>Pulse of the Forge deals 4 damage to target player. Then if that player has more life than you, return Pulse of the Forge to its owner's hand.</printedText>
+  <flavorText>Before wars or weapons, there was anger.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>39421</id>
+  <name>Mirrodin's Core</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>165</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Put a charge counter on Mirrodin's Core. &lt;br&gt;{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Put a charge counter on Mirrodin's Core.&lt;br&gt;{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>39439</id>
+  <name>Blinkmoth Nexus</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>163</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land. &lt;br&gt;{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.&lt;br&gt;{1}, {T}: Target Blinkmoth gets +1/+1 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>39478</id>
+  <name>Karstoderm</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>77</setNumber>
+  <artist>Tony Szczudlo</artist>
+  <oracleText>Karstoderm comes into play with five +1/+1 counters on it. &lt;br&gt;Whenever an artifact comes into play, remove a +1/+1 counter from Karstoderm.</oracleText>
+  <printedText>Karstoderm comes into play with five +1/+1 counters on it.&lt;br&gt;Whenever an artifact comes into play, remove a +1/+1 counter from Karstoderm.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>39485</id>
+  <name>Darksteel Pendant</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>113</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Darksteel Pendant is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.</oracleText>
+  <printedText>Darksteel Pendant is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>39562</id>
+  <name>Loxodon Mystic</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Elephant Cleric</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>7</setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>{W}, {T}: Tap target creature.</oracleText>
+  <printedText>{W}, {T}: Tap target creature.</printedText>
+  <flavorText>As the nim storm across the plains, a lone priest stands in their path. At his silent gesture, the battle line breaks, and the tide turns.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>39639</id>
+  <name>Arcbound Overseer</name>
+  <cost>{8}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>99</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control. &lt;br&gt;Modular 6 (This comes into play with six +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.&lt;br&gt;Modular 6 (This comes into play with six +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>39690</id>
+  <name>Pulse of the Tangle</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>80</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>Put a 3/3 green Beast creature token into play. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.</oracleText>
+  <printedText>Put a 3/3 green Beast creature token into play. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.</printedText>
+  <flavorText>Before predators or prey, there was life.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>39692</id>
+  <name>Pulse of the Dross</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>50</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Target player reveals three cards from his or her hand and you choose one of them. That player discards that card. Then if that player has more cards in hand than you, return Pulse of the Dross to its owner's hand.</oracleText>
+  <printedText>Target player reveals three cards from his or her hand and you choose one of them. That player discards that card. Then if that player has more cards in hand than you, return Pulse of the Dross to its owner's hand.</printedText>
+  <flavorText>Before tyrants or torturers, there was evil.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>39697</id>
+  <name>Pulse of the Fields</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>11</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.</oracleText>
+  <printedText>You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.</printedText>
+  <flavorText>Before religion or civilization, there was order.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>42084</id>
+  <name>Sundering Titan</name>
+  <cost>{8}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>7</power>
+  <toughness>10</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>146</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>When Sundering Titan comes into play, choose a land of each basic land type, then destroy those lands. &lt;br&gt;When Sundering Titan leaves play, choose a land of each basic land type, then destroy those lands.</oracleText>
+  <printedText>When Sundering Titan comes into play, choose a land of each basic land type, then destroy those lands.&lt;br&gt;When Sundering Titan leaves play, choose a land of each basic land type, then destroy those lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43491</id>
+  <name>Krark-Clan Stoker</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>65</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.</oracleText>
+  <printedText>{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.</printedText>
+  <flavorText>Fallen enemies are fed to the scavengers. Fallen friends are thrown into the Great Furnace, their souls returned to the Great Mother.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>43502</id>
+  <name>Nim Abomination</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>49</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>At the end of your turn, if Nim Abomination is untapped, you lose 3 life.</oracleText>
+  <printedText>At the end of your turn, if Nim Abomination is untapped, you lose 3 life.</printedText>
+  <flavorText>It is one of the oldest nim, steeped so long in the Dross that it has lost all vestiges of humanity.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>43503</id>
+  <name>Reap and Sow</name>
+  <cost>{3}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>81</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Choose one - Destroy target land; or search your library for a land card, put that card into play, then shuffle your library. &lt;br&gt;Entwine {1}{G} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one Destroy target land; or search your library for a land card, put that card into play, then shuffle your library.&lt;br&gt;Entwine {1}{G} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>43506</id>
+  <name>Savage Beating</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>67</setNumber>
+  <artist>Matt Thompson</artist>
+  <oracleText>Play Savage Beating only during your turn and only during combat. &lt;br&gt;Choose one - Creatures you control gain double strike until end of turn; or untap all creatures you control and after this phase, there is an additional combat phase. &lt;br&gt;Entwine {1}{R}</oracleText>
+  <printedText>Play Savage Beating only during your turn and only during combat.&lt;br&gt;Choose one Creatures you control gain double strike until end of turn; or untap all creatures you control and after this phase, there is an additional combat phase.&lt;br&gt;Entwine {1}{R}</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>43510</id>
+  <name>Second Sight</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>33</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Choose one - Look at the top five cards of target opponent's library, then put them back in any order; or look at the top five cards of your library, then put them back in any order. &lt;br&gt;Entwine {U} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one Look at the top five cards of target opponent's library, then put them back in any order; or look at the top five cards of your library, then put them back in any order.&lt;br&gt;Entwine {U} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>43511</id>
+  <name>Soulscour</name>
+  <cost>{7}{W}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>14</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Destroy all nonartifact permanents.</oracleText>
+  <printedText>Destroy all nonartifact permanents.</printedText>
+  <flavorText>"I have seen the end of times, a future in which all our kind are torn from this world." &lt;br&gt;--Ushanti, leonin shaman</flavorText>
+  <cmc>10</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>43517</id>
+  <name>Screams from Within</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>52</setNumber>
+  <artist>Hugh Jamieson</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -1/-1. &lt;br&gt;When enchanted creature is put into a graveyard, return Screams from Within from your graveyard to play.</oracleText>
+  <printedText>Enchanted creature gets -1/-1.&lt;br&gt;When enchanted creature is put into a graveyard, return Screams from Within from your graveyard to play.</printedText>
+  <flavorText>There's no escaping an enemy that lives inside your head.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>43540</id>
+  <name>Dismantle</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>57</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.</oracleText>
+  <printedText>Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.</printedText>
+  <flavorText>"If only the living were so easily salvaged."&lt;br&gt;--Memnarch</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>43545</id>
+  <name>Trinisphere</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>154</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>As long as Trinisphere is untapped, each spell that would cost less than three mana to play costs three mana to play. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to play costs {2}{B} to play instead.)</oracleText>
+  <printedText>As long as Trinisphere is untapped, each spell that would cost less than three mana to play costs three mana to play. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to play costs {2}{B} to play instead.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43547</id>
+  <name>Tanglewalker</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Dryad</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>86</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Creatures you control are unblockable as long as defending player controls an artifact land.</oracleText>
+  <printedText>Creatures you control are unblockable as long as defending player controls an artifact land.</printedText>
+  <flavorText>In bringing life to Mirrodin, Memnarch was more successful than he knew--for Mirrodin began to take on a life of its own.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>43548</id>
+  <name>Darksteel Reactor</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>114</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Darksteel Reactor is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor. &lt;br&gt;When Darksteel Reactor has twenty or more charge counters on it, you win the game.</oracleText>
+  <printedText>Darksteel Reactor is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.&lt;br&gt;When Darksteel Reactor has twenty or more charge counters on it, you win the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43556</id>
+  <name>Auriok Siege Sled</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Juggernaut</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>105</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>{1}: Target artifact creature blocks Auriok Siege Sled this turn if able. &lt;br&gt;{1}: Target artifact creature can't block Auriok Siege Sled this turn.</oracleText>
+  <printedText>{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.&lt;br&gt;{1}: Target artifact creature can't block Auriok Siege Sled this turn.</printedText>
+  <flavorText>Everything in its path is either pushed aside or ground under.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43557</id>
+  <name>Burden of Greed</name>
+  <cost>{3}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>38</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Target player loses 1 life for each tapped artifact he or she controls.</oracleText>
+  <printedText>Target player loses 1 life for each tapped artifact he or she controls.</printedText>
+  <flavorText>"The one who dies with the most toys is still dead."&lt;br&gt;--Geth, keeper of the Vault</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>43559</id>
+  <name>Magnetic Flux</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>25</setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Artifact creatures you control gain flying until end of turn.</oracleText>
+  <printedText>Artifact creatures you control gain flying until end of turn.</printedText>
+  <flavorText>After the researcher's astonishing success, his assistants spent six hours finding a way to return the specimens safely to the ground.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>43563</id>
+  <name>Darksteel Brute</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>108</setNumber>
+  <artist>Nottsuo</artist>
+  <oracleText>Darksteel Brute is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;{3}: Darksteel Brute becomes a 2/2 Beast artifact creature until end of turn.</oracleText>
+  <printedText>Darksteel Brute is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;{3}: Darksteel Brute becomes a 2/2 artifact creature until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43579</id>
+  <name>Juggernaut</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Juggernaut</type>
+  <power>5</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>125</setNumber>
+  <artist>Arnie Swekel</artist>
+  <oracleText>Juggernaut attacks each turn if able. &lt;br&gt;Juggernaut can't be blocked by Walls.</oracleText>
+  <printedText>Juggernaut attacks each turn if able.&lt;br&gt;Juggernaut can't be blocked by Walls.</printedText>
+  <flavorText>The goblins built it far larger than the cave opening, but to their glee, it smashed into the mountainside, ripping itself a new exit.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>43587</id>
+  <name>Test of Faith</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>17</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.</oracleText>
+  <printedText>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.</printedText>
+  <flavorText>Those who survive the test bear a mark of power anyone can recognize.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>43592</id>
+  <name>Echoing Calm</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>2</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Destroy target enchantment and all other enchantments with the same name as that enchantment.</oracleText>
+  <printedText>Destroy target enchantment and all other enchantments with the same name as that enchantment.</printedText>
+  <flavorText>A single light unleashes a hail of cleansing.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>44307</id>
+  <name>Leonin Battlemage</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Cat Wizard</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>5</setNumber>
+  <artist>Stephen Tappin</artist>
+  <oracleText>{T}: Target creature gets +1/+1 until end of turn.  &lt;br&gt;Whenever you play a spell, you may untap Leonin Battlemage.</oracleText>
+  <printedText>{T}: Target creature gets +1/+1 until end of turn.&lt;br&gt;Whenever you play a spell, you may untap Leonin Battlemage.</printedText>
+  <flavorText>The strongest of the pride are measured not by the steel in their hands but by the steel in their souls.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>45191</id>
+  <name>Metal Fatigue</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>8</setNumber>
+  <artist>Arnie Swekel</artist>
+  <oracleText>Tap all artifacts.</oracleText>
+  <printedText>Tap all artifacts.</printedText>
+  <flavorText>The Auriok have fought the metal hordes for so long now that knowing how to cripple them has become an instinct.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>45415</id>
+  <name>Darksteel Citadel</name>
+  <cost></cost>
+  <type>Artifact Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>164</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Darksteel Citadel is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;{T}: Add {1} to your mana pool.</oracleText>
+  <printedText>Darksteel Citadel is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;{T}: Add {1} to your mana pool.</printedText>
+  <flavorText>Panopticon, forge of the Darksteel Eye, home of Mirrodin's keeper.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>45428</id>
+  <name>Myr Landshaper</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Myr</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>131</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>{T}: Target land becomes an artifact in addition to its other types until end of turn.</oracleText>
+  <printedText>{T}: Target land becomes an artifact in addition to its other types until end of turn.</printedText>
+  <flavorText>One thing the myr can't do is enjoy the scenery.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>45455</id>
+  <name>Vulshok War Boar</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Boar Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>72</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>When Vulshok War Boar comes into play, sacrifice it unless you sacrifice an artifact.</oracleText>
+  <printedText>When Vulshok War Boar comes into play, sacrifice it unless you sacrifice an artifact.</printedText>
+  <flavorText>It must eat its weight in metal daily, or its furnacelike belly will consume itself for lack of fuel.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>45469</id>
+  <name>Emissary of Despair</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>42</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Flying &lt;br&gt;Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>45961</id>
+  <name>Stir the Pride</name>
+  <cost>{4}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>16</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Choose one - Creatures you control get +2/+2 until end of turn; or creatures you control gain lifelink until end of turn. (Whenever a creature with lifelink deals damage, its controller gains that much life.) &lt;br&gt;Entwine {1}{W} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."&lt;br&gt;Entwine {1}{W} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>45975</id>
+  <name>Pulse of the Grid</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>29</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.</oracleText>
+  <printedText>Draw two cards, then discard a card from your hand. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.</printedText>
+  <flavorText>Before labs or lectures, there was insight.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>46002</id>
+  <name>Tel-Jilad Outrider</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf Warrior</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>87</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Protection from artifacts</oracleText>
+  <printedText>Protection from artifacts</printedText>
+  <flavorText>"When the levelers come again, we shall be ready for them."</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46008</id>
+  <name>Tel-Jilad Wolf</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Wolf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>88</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.</oracleText>
+  <printedText>Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.</printedText>
+  <flavorText>Thanks to the wolves, Tel-Jilad is the one area of Mirrodin the myr don't see often.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46012</id>
+  <name>Oxidize</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>79</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Destroy target artifact. It can't be regenerated.</oracleText>
+  <printedText>Destroy target artifact. It can't be regenerated.</printedText>
+  <flavorText>"Ashes to ashes, rust to rust."&lt;br&gt;--Viridian shaman</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46023</id>
+  <name>Death-Mask Duplicant</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Shapeshifter</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>115</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Imprint - {1}: Remove target creature card in your graveyard from the game. (The removed card is imprinted on this artifact.) &lt;br&gt;As long as an imprinted creature card has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.</oracleText>
+  <printedText>Imprint {1}: Remove target creature card in your graveyard from the game. (The removed card is imprinted on this artifact.)&lt;br&gt;As long as an imprinted creature card has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46030</id>
+  <name>Whispersilk Cloak</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>160</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Equipped creature is unblockable and has shroud. (It can't be the target of spells or abilities.) &lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature is unblockable and can't be the target of spells or abilities.&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46058</id>
+  <name>Fangren Firstborn</name>
+  <cost>{1}{G}{G}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>4</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>75</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.</oracleText>
+  <printedText>Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.</printedText>
+  <flavorText>In the Tangle, bad is often followed by worse.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46060</id>
+  <name>Furnace Dragon</name>
+  <cost>{6}{R}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>62</setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.) &lt;br&gt;Flying &lt;br&gt;When Furnace Dragon comes into play, if you played it from your hand, remove all artifacts from the game.</oracleText>
+  <printedText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.)&lt;br&gt;Flying&lt;br&gt;When Furnace Dragon comes into play, if you played it from your hand, remove all artifacts from the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>9</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>46076</id>
+  <name>Nourish</name>
+  <cost>{G}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>78</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>You gain 6 life.</oracleText>
+  <printedText>You gain 6 life.</printedText>
+  <flavorText>Gelfruit grows abundantly wherever Sylvok druids live, as if the Tangle knows that humans are not as hardy as the beasts or as nimble as the elves.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46078</id>
+  <name>Crazed Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>56</setNumber>
+  <artist>Darrell Riche</artist>
+  <oracleText>Crazed Goblin attacks each turn if able.</oracleText>
+  <printedText>Crazed Goblin attacks each turn if able.</printedText>
+  <flavorText>Because fighting is easier than figuring out what else to do.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>46083</id>
+  <name>Roaring Slagwurm</name>
+  <cost>{5}{G}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>6</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>83</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>Whenever Roaring Slagwurm attacks, tap all artifacts.</oracleText>
+  <printedText>Whenever Roaring Slagwurm attacks, tap all artifacts.</printedText>
+  <flavorText>Wurms compete for nesting grounds near the Radix. The young who hatch closest have the best chance for survival.</flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46088</id>
+  <name>Hunger of the Nim</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>46</setNumber>
+  <artist>Puddnhead</artist>
+  <oracleText>Target creature gets +1/+0 until end of turn for each artifact you control.</oracleText>
+  <printedText>Target creature gets +1/+0 until end of turn for each artifact you control.</printedText>
+  <flavorText>Their pain is so great, they can't help but share it with others.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46093</id>
+  <name>Scavenging Scarab</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Insect</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>51</setNumber>
+  <artist>Jeff Easley</artist>
+  <oracleText>Scavenging Scarab can't block.</oracleText>
+  <printedText>Scavenging Scarab can't block.</printedText>
+  <flavorText>The beetles feed not on the flesh of corpses but on the metal, grinding out the iron and steel to add to their own bulky shells.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46096</id>
+  <name>Chittering Rats</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Rat</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>39</setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>When Chittering Rats comes into play, target opponent puts a card from his or her hand on top of his or her library.</oracleText>
+  <printedText>When Chittering Rats comes into play, target opponent puts a card from his or her hand on top of his or her library.</printedText>
+  <flavorText>Bottom feeders sometimes rise to the top.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46100</id>
+  <name>Grimclaw Bats</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Bat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>45</setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Flying &lt;br&gt;{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.</printedText>
+  <flavorText>Even on a world of metal, there are those who thirst for blood.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46101</id>
+  <name>Arcbound Hybrid</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Beast</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>97</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Haste &lt;br&gt;Modular 2 (This comes into play with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Haste&lt;br&gt;Modular 2 (This comes into play with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46111</id>
+  <name>Talon of Pain</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>150</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain. &lt;br&gt;{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.</oracleText>
+  <printedText>Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.&lt;br&gt;{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46112</id>
+  <name>Myr Moonvessel</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature - Myr</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>133</setNumber>
+  <artist>Dany Orizio</artist>
+  <oracleText>When Myr Moonvessel is put into a graveyard from play, add {1} to your mana pool.</oracleText>
+  <printedText>When Myr Moonvessel is put into a graveyard from play, add {1} to your mana pool.</printedText>
+  <flavorText>Memnarch created the myr with three qualities in mind: dependability, controllability, and disposability.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46116</id>
+  <name>Neurok Prodigy</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>26</setNumber>
+  <artist>Puddnhead</artist>
+  <oracleText>Flying &lt;br&gt;Discard an artifact card: Return Neurok Prodigy to its owner's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;Discard an artifact card from your hand: Return Neurok Prodigy to its owner's hand.</printedText>
+  <flavorText>"Why should I be bound by rules when I can see so far beyond them?"</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>46129</id>
+  <name>Arcbound Bruiser</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>94</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Modular 3 (This comes into play with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Modular 3 (This comes into play with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText>Break in case of emergency.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46130</id>
+  <name>Arcbound Lancer</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Beast</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>98</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>First strike &lt;br&gt;Modular 4 (This comes into play with four +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>First strike&lt;br&gt;Modular 4 (This comes into play with four +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46131</id>
+  <name>Arcbound Stinger</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Insect</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>103</setNumber>
+  <artist>Darrell Riche</artist>
+  <oracleText>Flying &lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Flying&lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46134</id>
+  <name>Lich's Tomb</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>128</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>You don't lose the game for having 0 or less life. &lt;br&gt;Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)</oracleText>
+  <printedText>You don't lose the game for having 0 or less life.&lt;br&gt;Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46136</id>
+  <name>Darksteel Gargoyle</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Gargoyle</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>111</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Flying &lt;br&gt;Darksteel Gargoyle is indestructible. ("Destroy" effects and lethal damage don't destroy it.)</oracleText>
+  <printedText>Flying&lt;br&gt;Darksteel Gargoyle is indestructible. ("Destroy" effects and lethal damage don't destroy it.)</printedText>
+  <flavorText>The ultimate treasure is one that guards itself.</flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46142</id>
+  <name>Leonin Bola</name>
+  <cost>{1}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>127</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Equipped creature has "{T}, Unattach Leonin Bola: Tap target creature." &lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>Equipped creature has "{T}, Unattach Leonin Bola: Tap target creature."&lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46143</id>
+  <name>Razor Golem</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>137</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Affinity for Plains (This spell costs {1} less to play for each Plains you control.) &lt;br&gt;Vigilance</oracleText>
+  <printedText>Affinity for Plains (This spell costs {1} less to play for each Plains you control.)&lt;br&gt;Attacking doesn't cause Razor Golem to tap.</printedText>
+  <flavorText>The longer it stands among the deadly blades of the Razor Fields, the more it adopts their harsh exterior.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46148</id>
+  <name>Ageless Entity</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>73</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.</oracleText>
+  <printedText>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.</printedText>
+  <flavorText>Tel-Jilad's sworn protectors are the trolls, yet more fearsome protectors were created by the Tangle itself.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46150</id>
+  <name>Spire Golem</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>145</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Affinity for Islands (This spell costs {1} less to play for each Island you control.) &lt;br&gt;Flying</oracleText>
+  <printedText>Affinity for Islands (This spell costs {1} less to play for each Island you control.)&lt;br&gt;Flying</printedText>
+  <flavorText>The longer it soars above the shimmering swirls of the Quicksilver Sea, the more it adopts their unpredictability.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46154</id>
+  <name>Mephitic Ooze</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Ooze</type>
+  <power>0</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>47</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Mephitic Ooze gets +1/+0 for each artifact you control. &lt;br&gt;Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.</oracleText>
+  <printedText>Mephitic Ooze gets +1/+0 for each artifact you control.&lt;br&gt;Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.</printedText>
+  <flavorText>In Mephidross, refuse doesn't last long--it's all scavenged, reanimated, or consumed.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46155</id>
+  <name>Echoing Ruin</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>59</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Destroy target artifact and all other artifacts with the same name as that artifact.</oracleText>
+  <printedText>Destroy target artifact and all other artifacts with the same name as that artifact.</printedText>
+  <flavorText>A single misstep unleashes an avalanche of ruin.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>46157</id>
+  <name>Dross Golem</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>119</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Affinity for Swamps (This spell costs {1} less to play for each Swamp you control.) &lt;br&gt;Fear</oracleText>
+  <printedText>Affinity for Swamps (This spell costs {1} less to play for each Swamp you control.)&lt;br&gt;Fear</printedText>
+  <flavorText>The longer it skulks through the corrosive gases of Mephidross, the more it adopts their thirst for death.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46158</id>
+  <name>Surestrike Trident</name>
+  <cost>{2}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>147</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Equipped creature has first strike and "{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player." &lt;br&gt;Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>Equipped creature has first strike and "{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player."&lt;br&gt;Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46160</id>
+  <name>Genesis Chamber</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>122</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Whenever a nontoken creature comes into play, if Genesis Chamber is untapped, that creature's controller puts a 1/1 Myr artifact creature token into play.</oracleText>
+  <printedText>Whenever a nontoken creature comes into play, if Genesis Chamber is untapped, that creature's controller puts a 1/1 Myr artifact creature token into play.</printedText>
+  <flavorText>"As the experimental population grows, so do the number of myr. It's a perfect equilibrium."&lt;br&gt;--Memnarch</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46162</id>
+  <name>Echoing Truth</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>21</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.</oracleText>
+  <printedText>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.</printedText>
+  <flavorText>A single lie unleashes a tide of disbelief.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>46164</id>
+  <name>Oxidda Golem</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>135</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Affinity for Mountains (This spell costs {1} less to play for each Mountain you control.) &lt;br&gt;Haste</oracleText>
+  <printedText>Affinity for Mountains (This spell costs {1} less to play for each Mountain you control.)&lt;br&gt;Haste</printedText>
+  <flavorText>The longer it patrols the smoldering crags of the Oxidda Chain, the more it adopts their fiery temper.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46165</id>
+  <name>Eater of Days</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Leviathan</type>
+  <power>9</power>
+  <toughness>8</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>120</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Flying, trample &lt;br&gt;When Eater of Days comes into play, you skip your next two turns.</oracleText>
+  <printedText>Flying, trample&lt;br&gt;When Eater of Days comes into play, you skip your next two turns.</printedText>
+  <flavorText>When Mirrodin's varied civilizations developed ways to fight the levelers, Memnarch upped the stakes.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46168</id>
+  <name>Gemini Engine</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>121</setNumber>
+  <artist>Nottsuo</artist>
+  <oracleText>Whenever Gemini Engine attacks, put an attacking Construct artifact creature token named Twin into play. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.</oracleText>
+  <printedText>Whenever Gemini Engine attacks, put an attacking Twin artifact creature token into play. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46169</id>
+  <name>Echoing Courage</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>74</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.</oracleText>
+  <printedText>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.</printedText>
+  <flavorText>A single seed unleashes a flurry of growth.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46171</id>
+  <name>Tangle Golem</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>151</setNumber>
+  <artist>Arnie Swekel</artist>
+  <oracleText>Affinity for Forests (This spell costs {1} less to play for each Forest you control.)</oracleText>
+  <printedText>Affinity for Forests (This spell costs {1} less to play for each Forest you control.)</printedText>
+  <flavorText>The longer it weaves through the twisted vines of the Tangle, the more it adopts their hidden strength.</flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46172</id>
+  <name>Nemesis Mask</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>134</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>All creatures able to block equipped creature do so. &lt;br&gt;Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>All creatures able to block equipped creature do so.&lt;br&gt;Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46176</id>
+  <name>Echoing Decay</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>41</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</oracleText>
+  <printedText>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</printedText>
+  <flavorText>A single fear unleashes a torrent of nightmares.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46429</id>
+  <name>Sword of Fire and Ice</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>148</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Equipped creature gets +2/+2 and has protection from red and from blue. &lt;br&gt;Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card. &lt;br&gt;Equip {2}</oracleText>
+  <printedText>Equipped creature gets +2/+2 and has protection from red and from blue.&lt;br&gt;Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.&lt;br&gt;Equip {2}</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>46547</id>
+  <name>Viridian Zealot</name>
+  <cost>{G}{G}</cost>
+  <type>Creature - Elf Warrior</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>90</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.</oracleText>
+  <printedText>{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.</printedText>
+  <flavorText>"I will fight only the way nature intended--and nature intended us to win."</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46548</id>
+  <name>Tangle Spider</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Creature - Spider</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>85</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Flash (You may play this spell any time you could play an instant.) &lt;br&gt;Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>You may play Tangle Spider any time you could play an instant.&lt;br&gt;Tangle Spider may block as though it had flying.</printedText>
+  <flavorText>They're considered good luck by the elves they don't eat.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>46568</id>
+  <name>Scrounge</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>53</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Target opponent chooses an artifact card in his or her graveyard. Put that card into play under your control.</oracleText>
+  <printedText>Target opponent chooses an artifact card in his or her graveyard. Put that card into play under your control.</printedText>
+  <flavorText>When leonin settlers abandon their homes to the nim, items of value are often left behind.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>46735</id>
+  <name>Goblin Archaeologist</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>63</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.</oracleText>
+  <printedText>{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.</printedText>
+  <flavorText>Always easily impressed, Durg was about to be blown away.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>46768</id>
+  <name>Fireball</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>60</setNumber>
+  <artist>Dave Dorman</artist>
+  <oracleText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. &lt;br&gt;As an additional cost to play Fireball, pay {1} for each target beyond the first.</oracleText>
+  <printedText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;As an additional cost to play Fireball, pay {1} for each target beyond the first.</printedText>
+  <flavorText>The spell fell upon the crowd like a dragon, ancient and full of death.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>47453</id>
+  <name>Sword of Light and Shadow</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>149</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Equipped creature gets +2/+2 and has protection from white and from black. &lt;br&gt;Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand. &lt;br&gt;Equip {2}</oracleText>
+  <printedText>Equipped creature gets +2/+2 and has protection from white and from black.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.&lt;br&gt;Equip {2}</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>47587</id>
+  <name>Pristine Angel</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>9</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Flying &lt;br&gt;As long as Pristine Angel is untapped, it has protection from artifacts and from all colors. &lt;br&gt;Whenever you play a spell, you may untap Pristine Angel.</oracleText>
+  <printedText>Flying&lt;br&gt;As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.&lt;br&gt;Whenever you play a spell, you may untap Pristine Angel.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>47792</id>
+  <name>Shriveling Rot</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>54</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Choose one - Until end of turn, whenever a creature is dealt damage, destroy it; or until end of turn, whenever a creature is put into a graveyard from play, that creature's controller loses life equal to its toughness. &lt;br&gt;Entwine {2}{B} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one Until end of turn, whenever a creature is dealt damage, destroy it; or until end of turn, whenever a creature is put into a graveyard from play, that creature's controller loses life equal to its toughness.&lt;br&gt;Entwine {2}{B} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>47799</id>
+  <name>Quicksilver Behemoth</name>
+  <cost>{6}{U}</cost>
+  <type>Creature - Beast</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>30</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.) &lt;br&gt;When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's in play.)</oracleText>
+  <printedText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.)&lt;br&gt;When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's in play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>47930</id>
+  <name>Panoptic Mirror</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>136</setNumber>
+  <artist>Glen Angus</artist>
+  <oracleText>Imprint - {X}, {T}: You may remove an instant or sorcery card with converted mana cost X in your hand from the game. (That card is imprinted on this artifact.) &lt;br&gt;At the beginning of your upkeep, you may copy an imprinted instant or sorcery card. If you do, you may play the copy without paying its mana cost.</oracleText>
+  <printedText>Imprint {X}, {T}: You may remove an instant or sorcery card with converted mana cost X in your hand from the game. (That card is imprinted on this artifact.)&lt;br&gt;At the beginning of your upkeep, you may copy an imprinted instant or sorcery card and play the copy without paying its mana cost.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48048</id>
+  <name>Darksteel Ingot</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>112</setNumber>
+  <artist>Martina Pilcerova</artist>
+  <oracleText>Darksteel Ingot is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Darksteel Ingot is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48049</id>
+  <name>Myr Matrix</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>132</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Myr Matrix is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;Myr creatures get +1/+1. &lt;br&gt;{5}: Put a 1/1 Myr artifact creature token into play.</oracleText>
+  <printedText>Myr Matrix is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;All Myr get +1/+1.&lt;br&gt;{5}: Put a 1/1 Myr artifact creature token into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48072</id>
+  <name>Darksteel Forge</name>
+  <cost>{9}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>110</setNumber>
+  <artist>Martina Pilcerova</artist>
+  <oracleText>Artifacts you control are indestructible. ("Destroy" effects and lethal damage don't destroy them.)</oracleText>
+  <printedText>Artifacts you control are indestructible. ("Destroy" effects and lethal damage don't destroy them.)</printedText>
+  <flavorText>"Did it have this shape upon Mirrodin's creation, or did some inconceivable force shape the unshapable?"&lt;br&gt;--Pontifex, elder researcher</flavorText>
+  <cmc>9</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48120</id>
+  <name>Inflame</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>64</setNumber>
+  <artist>Hugh Jamieson</artist>
+  <oracleText>Inflame deals 2 damage to each creature dealt damage this turn.</oracleText>
+  <printedText>Inflame deals 2 damage to each creature dealt damage this turn.</printedText>
+  <flavorText>A Vulshok weapon strikes with the fire of the forge that made it.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>48127</id>
+  <name>Chromescale Drake</name>
+  <cost>{6}{U}{U}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>20</setNumber>
+  <artist>Ben Thompson</artist>
+  <oracleText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.) &lt;br&gt;Flying &lt;br&gt;When Chromescale Drake comes into play, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.</oracleText>
+  <printedText>Affinity for artifacts (This spell costs {1} less to play for each artifact you control.)&lt;br&gt;Flying&lt;br&gt;When Chromescale Drake comes into play, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>9</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48141</id>
+  <name>Voltaic Construct</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Golem Construct</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>156</setNumber>
+  <artist>Jeff Easley</artist>
+  <oracleText>{2}: Untap target artifact creature.</oracleText>
+  <printedText>{2}: Untap target artifact creature.</printedText>
+  <flavorText>The undead may outlast the living, but those who have never lived outlast them both.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48146</id>
+  <name>Æther Vial</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>91</setNumber>
+  <artist>Greg Hildebrandt</artist>
+  <oracleText>At the beginning of your upkeep, you may put a charge counter on Æther Vial. &lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand into play.</oracleText>
+  <printedText>At the beginning of your upkeep, you may put a charge counter on Aether Vial.&lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48147</id>
+  <name>Reshape</name>
+  <cost>{X}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>31</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>As an additional cost to play Reshape, sacrifice an artifact. &lt;br&gt;Search your library for an artifact card with converted mana cost X or less and put it into play. Then shuffle your library.</oracleText>
+  <printedText>As an additional cost to play Reshape, sacrifice an artifact.&lt;br&gt;Search your library for an artifact card with converted mana cost X or less and put it into play. Then shuffle your library.</printedText>
+  <flavorText>"Today's paperweight, tomorrow's leveler."&lt;br&gt;--Bruenna, Neurok leader</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48148</id>
+  <name>Vedalken Engineer</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Vedalken Artificer</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>35</setNumber>
+  <artist>Lars Grant-West</artist>
+  <oracleText>{T}: Add two mana of any one color to your mana pool. Spend this mana only to play artifact spells or activated abilities of artifacts.</oracleText>
+  <printedText>{T}: Add two mana of any one color to your mana pool. Spend this mana only to play artifact spells or activated abilities of artifacts.</printedText>
+  <flavorText>Art is unknown to the vedalken--for them, all creations must serve a purpose.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48153</id>
+  <name>Emissary of Hope</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Spirit</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>3</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Flying &lt;br&gt;Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>48158</id>
+  <name>Darksteel Colossus</name>
+  <cost>{11}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>11</power>
+  <toughness>11</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>109</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Trample &lt;br&gt;Darksteel Colossus is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.</oracleText>
+  <printedText>Trample&lt;br&gt;Darksteel Colossus is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.</printedText>
+  <flavorText></flavorText>
+  <cmc>11</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48163</id>
+  <name>Psychic Overload</name>
+  <cost>{3}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>28</setNumber>
+  <artist>Jeremy Jarvis</artist>
+  <oracleText>Enchant permanent &lt;br&gt;When Psychic Overload comes into play, tap enchanted permanent. &lt;br&gt;Enchanted permanent doesn't untap during its controller's untap step. &lt;br&gt;Enchanted permanent has "Discard two artifact cards: Untap this permanent."</oracleText>
+  <printedText>When Psychic Overload comes into play, tap enchanted permanent.&lt;br&gt;Enchanted permanent doesn't untap during its controller's untap step.&lt;br&gt;Enchanted permanent has "Discard two artifact cards from your hand: Untap this permanent."</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48197</id>
+  <name>Skullclamp</name>
+  <cost>{1}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>140</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Equipped creature gets +1/-1. &lt;br&gt;When equipped creature is put into a graveyard, draw two cards. &lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>Equipped creature gets +1/-1.&lt;br&gt;When equipped creature is put into a graveyard, draw two cards.&lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48572</id>
+  <name>Carry Away</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>19</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>Enchant Equipment &lt;br&gt;When Carry Away comes into play, unattach enchanted Equipment. &lt;br&gt;You control enchanted Equipment.</oracleText>
+  <printedText>When Carry Away comes into play, unattach enchanted Equipment.&lt;br&gt;You control enchanted Equipment.</printedText>
+  <flavorText>Stealing goblin weapons would be easier if the goblins were smart enough to let go.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48573</id>
+  <name>Retract</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>32</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Return all artifacts you control to their owner's hand.</oracleText>
+  <printedText>Return all artifacts you control to their owner's hand.</printedText>
+  <flavorText>"Secrets are meant to remain secret."&lt;br&gt;--Memnarch</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>48576</id>
+  <name>Ritual of Restoration</name>
+  <cost>{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>13</setNumber>
+  <artist>Dany Orizio</artist>
+  <oracleText>Return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>Return target artifact card from your graveyard to your hand.</printedText>
+  <flavorText>Leonin raising ceremonies take place at the white sun's dawn, the rebirth of artifacts mirroring the birth of a new day.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>48579</id>
+  <name>Leonin Shikari</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Cat Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>6</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>You may play equip abilities any time you could play an instant.</oracleText>
+  <printedText>You may play equip abilities any time you could play an instant.</printedText>
+  <flavorText>Her instinct is as sharp as her blade.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>48582</id>
+  <name>Shield of Kaldra</name>
+  <cost>{4}</cost>
+  <type>Legendary Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>139</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra are indestructible. &lt;br&gt;Equipped creature is indestructible. ("Destroy" effects and lethal damage don't destroy it.) &lt;br&gt;Equip {4}</oracleText>
+  <printedText>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra are indestructible.&lt;br&gt;Equipped creature is indestructible. ("Destroy" effects and lethal damage don't destroy it.)&lt;br&gt;Equip {4}</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48598</id>
+  <name>Infested Roothold</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>76</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;Protection from artifacts &lt;br&gt;Whenever an opponent plays an artifact spell, you may put a 1/1 green Insect creature token into play.</oracleText>
+  <printedText>(Walls can't attack.)&lt;br&gt;Protection from artifacts&lt;br&gt;Whenever an opponent plays an artifact spell, you may put a 1/1 green Insect creature token into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>48604</id>
+  <name>Arcbound Worker</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>104</setNumber>
+  <artist>Darrell Riche</artist>
+  <oracleText>Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText>The parts are as strong as the whole.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48920</id>
+  <name>Serum Powder</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>138</setNumber>
+  <artist>Matt Thompson</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;Any time you could mulligan and Serum Powder is in your hand, you may remove all the cards in your hand from the game, then draw that many cards. (You can do this in addition to taking mulligans.)</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;Any time you could mulligan and Serum Powder is in your hand, you may remove your hand from the game, then draw that many cards. (You can do this in addition to taking mulligans.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>48988</id>
+  <name>Auriok Glaivemaster</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.</oracleText>
+  <printedText>As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.</printedText>
+  <flavorText>"Give me a bit of steel and I'll deliver it into the hearts of my enemies."</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>48993</id>
+  <name>Well of Lost Dreams</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>159</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.</oracleText>
+  <printedText>Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.</printedText>
+  <flavorText>Some say the knowledge lost during the Ritual of Rebuking is returned through the well's waters.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49012</id>
+  <name>Barbed Lightning</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>55</setNumber>
+  <artist>Hugh Jamieson</artist>
+  <oracleText>Choose one - Barbed Lightning deals 3 damage to target creature; or Barbed Lightning deals 3 damage to target player. &lt;br&gt;Entwine {2} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one Barbed Lightning deals 3 damage to target creature; or Barbed Lightning deals 3 damage to target player.&lt;br&gt;Entwine {2} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText>Every creature on Mirrodin is a lightning rod.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>49016</id>
+  <name>Coretapper</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Myr</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>107</setNumber>
+  <artist>Dany Orizio</artist>
+  <oracleText>{T}: Put a charge counter on target artifact. &lt;br&gt;Sacrifice Coretapper: Put two charge counters on target artifact.</oracleText>
+  <printedText>{T}: Put a charge counter on target artifact.&lt;br&gt;Sacrifice Coretapper: Put two charge counters on target artifact.</printedText>
+  <flavorText>It converts the faintest surges of power from Mirrodin's core into usable energy, providing endless power for Memnarch's creations on the surface.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49020</id>
+  <name>Hoverguard Observer</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Drone</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>22</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Flying &lt;br&gt;Hoverguard Observer can block only creatures with flying.</oracleText>
+  <printedText>Flying&lt;br&gt;Hoverguard Observer can block only creatures with flying.</printedText>
+  <flavorText>It could be made to run silently, but its low hum reminds the Neurok that they are always watched.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>49021</id>
+  <name>Synod Artificer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Vedalken Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>34</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>{X}, {T}: Tap X target noncreature artifacts. &lt;br&gt;{X}, {T}: Untap X target noncreature artifacts.</oracleText>
+  <printedText>{X}, {T}: Tap X target noncreature artifacts.&lt;br&gt;{X}, {T}: Untap X target noncreature artifacts.</printedText>
+  <flavorText>Memnarch shared a touch of his power with the vedalken in return for their service. It is a debt he intends to collect.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>49026</id>
+  <name>Wirefly Hive</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>161</setNumber>
+  <artist>Nottsuo</artist>
+  <oracleText>{3}, {T}: Flip a coin. If you win the flip, put a 2/2 Insect artifact creature token with flying named Wirefly into play. If you lose the flip, destroy all permanents named Wirefly.</oracleText>
+  <printedText>{3}, {T}: Flip a coin. If you win the flip, put a 2/2 Wirefly artifact creature token with flying into play. If you lose the flip, destroy all Wireflies.</printedText>
+  <flavorText>"The lifespan of a wirefly can be precisely described as --'short.'"&lt;br&gt;--Bruenna, Neurok leader</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49033</id>
+  <name>Turn the Tables</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>18</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.</oracleText>
+  <printedText>All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.</printedText>
+  <flavorText>"Your arrogance is my best weapon."</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>49035</id>
+  <name>Pteron Ghost</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>10</setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Flying &lt;br&gt;Sacrifice Pteron Ghost: Regenerate target artifact.</oracleText>
+  <printedText>Flying&lt;br&gt;Sacrifice Pteron Ghost: Regenerate target artifact.</printedText>
+  <flavorText>Defending to the death isn't always enough.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>49049</id>
+  <name>Kraken's Eye</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>126</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player plays a blue spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a blue spell, you may gain 1 life.</printedText>
+  <flavorText>Bright as a mirror, dark as the sea.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49075</id>
+  <name>Æther Snap</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>37</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Remove all counters from all permanents and remove all tokens from the game.</oracleText>
+  <printedText>Remove all counters from all permanents and remove all tokens from the game.</printedText>
+  <flavorText>"May you wake to find you were only ever a dream."&lt;br&gt;--Mephidross curse</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>49078</id>
+  <name>Steelshaper Apprentice</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>15</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+  <printedText>{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.</printedText>
+  <flavorText>Theirs is a craft brought about by necessity, now raised to the level of art.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>49085</id>
+  <name>Vex</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>36</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Counter target spell. That spell's controller may draw a card.</oracleText>
+  <printedText>Counter target spell. That spell's controller may draw a card.</printedText>
+  <flavorText>"The druids would be better off if they spent more time in the lab and less time watching trees grow."&lt;br&gt;--Pontifex, elder researcher</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>49089</id>
+  <name>Drooling Ogre</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Ogre</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>58</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Whenever a player plays an artifact spell, that player gains control of Drooling Ogre. (This effect doesn't end at end of turn.)</oracleText>
+  <printedText>Whenever a player plays an artifact spell, that player gains control of Drooling Ogre. (This effect doesn't end at end of turn.)</printedText>
+  <flavorText>"Is it the stomping kind or the munching kind?"&lt;br&gt;--Slobad, goblin tinkerer</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>49094</id>
+  <name>Specter's Shroud</name>
+  <cost>{2}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>142</setNumber>
+  <artist>Greg Hildebrandt</artist>
+  <oracleText>Equipped creature gets +1/+0. &lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card. &lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>Equipped creature gets +1/+0.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card from his or her hand.&lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49097</id>
+  <name>Chimeric Egg</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>106</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Whenever an opponent plays a nonartifact spell, put a charge counter on Chimeric Egg. &lt;br&gt;Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.</oracleText>
+  <printedText>Whenever an opponent plays a nonartifact spell, put a charge counter on Chimeric Egg.&lt;br&gt;Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 artifact creature with trample until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49110</id>
+  <name>Ur-Golem's Eye</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>155</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>{T}: Add {2} to your mana pool.</oracleText>
+  <printedText>{T}: Add {2} to your mana pool.</printedText>
+  <flavorText>It still stares accusingly at Memnarch, though millennia have passed since he separated the eye from its body.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49438</id>
+  <name>Stand Together</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>84</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Put two +1/+1 counters on target creature and two +1/+1 counters on another target creature.</oracleText>
+  <printedText>Put two +1/+1 counters on target creature and two +1/+1 counters on another target creature.</printedText>
+  <flavorText>Strange times make for strange allies.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>49758</id>
+  <name>Vulshok Morningstar</name>
+  <cost>{2}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>157</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>Equipped creature gets +2/+2. &lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature gets +2/+2.&lt;br&gt;Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49775</id>
+  <name>Wand of the Elements</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>158</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying into play. &lt;br&gt;{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token into play.</oracleText>
+  <printedText>{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying into play.&lt;br&gt;{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token into play.</printedText>
+  <flavorText>It gives legs to the earth and wings to the sky.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>49829</id>
+  <name>Machinate</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>24</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.</oracleText>
+  <printedText>Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.</printedText>
+  <flavorText>As long as there are questions to be asked, the vedalken will ask them.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>49836</id>
+  <name>Shunt</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>68</setNumber>
+  <artist>Greg Hildebrandt</artist>
+  <oracleText>Change the target of target spell with a single target.</oracleText>
+  <printedText>Change the target of target spell with a single target.</printedText>
+  <flavorText>"You might want to work on your aim."</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>49837</id>
+  <name>Greater Harvester</name>
+  <cost>{2}{B}{B}{B}</cost>
+  <type>Creature - Horror</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>44</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice a permanent. &lt;br&gt;Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.</oracleText>
+  <printedText>At the beginning of your upkeep, sacrifice a permanent.&lt;br&gt;Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>49839</id>
+  <name>Neurok Transmuter</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>27</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>{U}: Target creature becomes an artifact in addition to its other types until end of turn. &lt;br&gt;{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.</oracleText>
+  <printedText>{U}: Target creature becomes an artifact in addition to its other types until end of turn.&lt;br&gt;{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>50521</id>
+  <name>Thought Dissector</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>152</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>{X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it into play under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.</oracleText>
+  <printedText>{X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it into play under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50527</id>
+  <name>Mycosynth Lattice</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>130</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>All permanents are artifacts in addition to their other types. &lt;br&gt;All cards that aren't in play, spells, and permanents are colorless. &lt;br&gt;Players may spend mana as though it were mana of any color.</oracleText>
+  <printedText>All permanents are artifacts in addition to their other types.&lt;br&gt;All cards that aren't in play, spells, and permanents are colorless.&lt;br&gt;Players may spend mana as though it were mana of any color.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50528</id>
+  <name>Arcbound Reclaimer</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>101</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library. &lt;br&gt;Modular 2 (This comes into play with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.&lt;br&gt;Modular 2 (This comes into play with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50529</id>
+  <name>Spincrusher</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>144</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Whenever Spincrusher blocks, put a +1/+1 counter on it.  &lt;br&gt;Remove a +1/+1 counter from Spincrusher: Spincrusher is unblockable this turn.</oracleText>
+  <printedText>Whenever Spincrusher blocks, put a +1/+1 counter on it.&lt;br&gt;Remove a +1/+1 counter from Spincrusher: Spincrusher is unblockable this turn.</printedText>
+  <flavorText>It rolls with the punches.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50530</id>
+  <name>Thunderstaff</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>153</setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>If Thunderstaff is untapped and a creature would deal combat damage to you, prevent 1 of that damage. &lt;br&gt;{2}, {T}: Attacking creatures get +1/+0 until end of turn.</oracleText>
+  <printedText>If Thunderstaff is untapped and a creature would deal combat damage to you, prevent 1 of that damage.&lt;br&gt;{2}, {T}: Attacking creatures get +1/+0 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50533</id>
+  <name>Rebuking Ceremony</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>82</setNumber>
+  <artist>Ittoku</artist>
+  <oracleText>Put two target artifacts on top of their owners' libraries.</oracleText>
+  <printedText>Put two target artifacts on top of their owners' libraries.</printedText>
+  <flavorText>From the Radix at the hub of the Tangle all the way out to the Edges of Forgetting, a Viridian elf's life is built around the temporary.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>50536</id>
+  <name>Essence Drain</name>
+  <cost>{4}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>43</setNumber>
+  <artist>Tony Szczudlo</artist>
+  <oracleText>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</oracleText>
+  <printedText>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</printedText>
+  <flavorText>Mephidross claims all life within it. What cannot be twisted is absorbed.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>50539</id>
+  <name>Flamebreak</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>61</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.</oracleText>
+  <printedText>Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.</printedText>
+  <flavorText>"Now I'm thirsty."&lt;br&gt;--Korva, Vulshok battlemaster</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>50540</id>
+  <name>Spellbinder</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>143</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Imprint - When Spellbinder comes into play, you may remove an instant card in your hand from the game. &lt;br&gt;Whenever equipped creature deals combat damage to a player, you may copy the imprinted instant card. If you do, you may play the copy without paying its mana cost. &lt;br&gt;Equip {4}</oracleText>
+  <printedText>Imprint When Spellbinder comes into play, you may remove an instant card in your hand from the game.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you may copy the imprinted instant card and play the copy without paying its mana cost.&lt;br&gt;Equip {4}</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50647</id>
+  <name>Death Cloud</name>
+  <cost>{X}{B}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>40</setNumber>
+  <artist>Stephen Tappin</artist>
+  <oracleText>Each player loses X life, then discards X cards, then sacrifices X creatures, then sacrifices X lands.</oracleText>
+  <printedText>Each player loses X life, then discards X cards from his or her hand, then sacrifices X creatures, then sacrifices X lands.</printedText>
+  <flavorText>The swarm's million wings stir the foulest of breezes.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>50929</id>
+  <name>Last Word</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>23</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Last Word can't be countered by spells or abilities. &lt;br&gt;Counter target spell.</oracleText>
+  <printedText>Last Word can't be countered by spells or abilities.&lt;br&gt;Counter target spell.</printedText>
+  <flavorText>"Someday, someone will best me. But it won't be today, and it won't be you."</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>50937</id>
+  <name>Arcbound Crusher</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Juggernaut</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>95</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Trample &lt;br&gt;Whenever another artifact comes into play, put a +1/+1 counter on Arcbound Crusher. &lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Trample&lt;br&gt;Whenever another artifact comes into play, put a +1/+1 counter on Arcbound Crusher.&lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50938</id>
+  <name>Arcbound Fiend</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Horror</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>96</setNumber>
+  <artist>Ittoku</artist>
+  <oracleText>Fear &lt;br&gt;At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend. &lt;br&gt;Modular 3 (This comes into play with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Fear&lt;br&gt;At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend.&lt;br&gt;Modular 3 (This comes into play with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50939</id>
+  <name>Arcbound Slith</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Slith</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>102</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it. &lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.&lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>50943</id>
+  <name>Arcbound Ravager</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Beast</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>100</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager. &lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</oracleText>
+  <printedText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.&lt;br&gt;Modular 1 (This comes into play with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>51054</id>
+  <name>Memnarch</name>
+  <cost>{7}</cost>
+  <type>Legendary Artifact Creature - Wizard</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>129</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect doesn't end at end of turn.) &lt;br&gt;{3}{U}: Gain control of target artifact. (This effect doesn't end at end of turn.)</oracleText>
+  <printedText>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect doesn't end at end of turn.)&lt;br&gt;{3}{U}: Gain control of target artifact. (This effect doesn't end at end of turn.)</printedText>
+  <flavorText>In the blur between metal and flesh, Memnarch found madness.</flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>51055</id>
+  <name>Slobad, Goblin Tinkerer</name>
+  <cost>{1}{R}</cost>
+  <type>Legendary Creature - Goblin Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>69</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Sacrifice an artifact: Target artifact becomes indestructible until end of turn. ("Destroy" effects and lethal damage don't destroy that artifact.)</oracleText>
+  <printedText>Sacrifice an artifact: Target artifact becomes indestructible until end of turn. ("Destroy" effects and lethal damage don't destroy that artifact.)</printedText>
+  <flavorText>"I used to joke that he had been exiled for being too smart. Now I know why he never laughed."&lt;br&gt;--Glissa Sunseeker</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>51056</id>
+  <name>Drill-Skimmer</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Thopter</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>118</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Flying &lt;br&gt;Drill-Skimmer has shroud as long as you control another artifact creature. (It can't be the target of spells or abilities.)</oracleText>
+  <printedText>Flying&lt;br&gt;Drill-Skimmer can't be the target of spells or abilities as long as you control another artifact creature.</printedText>
+  <flavorText>In close proximity, their magnetic energies merge and form a field of protection.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>51070</id>
+  <name>Geth's Grimoire</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>123</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Whenever an opponent discards a card, you may draw a card.</oracleText>
+  <printedText>Whenever an opponent discards a card from his or her hand, you may draw a card.</printedText>
+  <flavorText>The book shrieks horribly until its cover is opened, granting the spirit inside a moment's rest from the painful stirrings of the book's contents.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>51074</id>
+  <name>Heartseeker</name>
+  <cost>{4}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Rare</rarity>
+  <setNumber>124</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Equipped creature gets +2/+1 and has "{T}, Unattach Heartseeker: Destroy target creature." &lt;br&gt;Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</oracleText>
+  <printedText>Equipped creature gets +2/+1 and has "{T}, Unattach Heartseeker: Destroy target creature."&lt;br&gt;Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>51616</id>
+  <name>Unforge</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Common</rarity>
+  <setNumber>71</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.</oracleText>
+  <printedText>Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.</printedText>
+  <flavorText>Compared to the fire of the forge, the strength of steel is nothing.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>72682</id>
+  <name>Demon's Horn</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>116</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player plays a black spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a black spell, you may gain 1 life.</printedText>
+  <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>72683</id>
+  <name>Dragon's Claw</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>117</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player plays a red spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a red spell, you may gain 1 life.</printedText>
+  <flavorText>Though no longer attached to the hand, it still holds its adversary in its grasp.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>72684</id>
+  <name>Wurm's Tooth</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>162</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player plays a green spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a green spell, you may gain 1 life.</printedText>
+  <flavorText>A wurm knows nothing of deception. If it opens its mouth, it plans to eat you.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>72686</id>
+  <name>Angel's Feather</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Darksteel</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>92</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player plays a white spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a white spell, you may gain 1 life.</printedText>
+  <flavorText>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+</list>
+</cards>

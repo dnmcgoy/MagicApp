@@ -1,0 +1,992 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>25447</id>
+  <name>Breath of Life</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Return target creature card from your graveyard to play.</oracleText>
+  <printedText>Return target creature card from your graveyard to play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25448</id>
+  <name>Wind Drake</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"No bird soars too high, if he soars with his own wings."&lt;br&gt;--William Blake,&lt;br&gt;The Marriage of Heaven and Hell</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25449</id>
+  <name>Wild Griffin</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Griffin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Two little goblins, out in the sun. Down came a griffin, and then there was one.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25450</id>
+  <name>Knight Errant</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>". . . Before honor is humility."&lt;br&gt;--The Bible, Proverbs 15:33</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25451</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25452</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25453</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25454</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25455</id>
+  <name>Eager Cadet</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The enthusiasm of the young, sharpened by the discipline of a soldier.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25456</id>
+  <name>Angelic Blessing</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Target creature gets +3/+3 and gains flying until end of turn.</printedText>
+  <flavorText>Only the warrior who can admit mortal weakness will be bolstered by immortal strength.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25457</id>
+  <name>Giant Octopus</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Octopus</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>At the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25458</id>
+  <name>Merfolk of the Pearl Trident</name>
+  <cost>{U}</cost>
+  <type>Creature - Merfolk</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Are merfolk humans with fins, or are humans merfolk with feet?</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25459</id>
+  <name>Royal Falcon</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Hunter by instinct, weapon by training.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25460</id>
+  <name>Sea Eagle</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Where air meets water, fish meets talon.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25462</id>
+  <name>Time Ebb</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Put target creature on top of its owner's library.</oracleText>
+  <printedText>Put target creature on top of its owner's library.</printedText>
+  <flavorText>Like the tide, time both ebbs and flows.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25463</id>
+  <name>Vizzerdrix</name>
+  <cost>{6}{U}</cost>
+  <type>Creature - Rabbit Beast</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Its swamp cousin may be meaner, but the vizzerdrix is much bigger.</flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25475</id>
+  <name>Monstrous Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+  <printedText>Target creature gets +4/+4 until end of turn.</printedText>
+  <flavorText>The nightstalkers' little game of tease-the-squirrel suddenly took an unexpected turn.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25476</id>
+  <name>Ogre Warrior</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ogre Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Assault and battery included.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25477</id>
+  <name>Coercion</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Target opponent reveals his or her hand. Choose a card from it. That player discards that card.</oracleText>
+  <printedText>Look at target player's hand and choose a card from it. That player discards that card.</printedText>
+  <flavorText>A rhino's bargain&lt;br&gt;--Femeref expression meaning&lt;br&gt;"a situation with no choices"</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25478</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25479</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25480</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25481</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Durfee</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25482</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25483</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>25484</id>
+  <name>Willow Elf</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The forest lives in the elf as the elf lives in the forest.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25485</id>
+  <name>Moon Sprite</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"I am that merry wanderer of the night."&lt;br&gt;--William Shakespeare,&lt;br&gt;A Midsummer Night's Dream</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25486</id>
+  <name>Goblin Hero</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"When you're a goblin, you don't have to step forward to be a hero--everyone else just has to step back"&lt;br&gt;--Biggum Flodrot, goblin veteran</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25487</id>
+  <name>Scathe Zombies</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"They groaned, they stirred, they all uprose,&lt;br&gt;Nor spake, nor moved their eyes;&lt;br&gt;It had been strange, even in a dream,&lt;br&gt;To have seen those dead men rise."&lt;br&gt;--Samuel Coleridge,&lt;br&gt;"The Rime of the Ancient Mariner"</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25488</id>
+  <name>Lava Axe</name>
+  <cost>{4}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Lava Axe deals 5 damage to target player.</oracleText>
+  <printedText>Lava Axe deals 5 damage to target opponent.</printedText>
+  <flavorText>Meant to cut through the body and burn straight to the soul.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25490</id>
+  <name>Hand of Death</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Destroy target nonblack creature.</oracleText>
+  <printedText>Destroy target nonblack creature.</printedText>
+  <flavorText>The touch of death is never gentle.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25491</id>
+  <name>Mons's Goblin Raiders</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Just because they have a club doesn't mean they're organized.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25492</id>
+  <name>Bog Imp</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Imp</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Don't be fooled by their looks. Think of them as little knives with wings.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25493</id>
+  <name>Durkwood Boars</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Boar</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"And the unclean spirits went out, and entered the swine: and the herd ran violently . . . ."&lt;br&gt;--The Bible, Mark 5:13</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25494</id>
+  <name>Trained Orgg</name>
+  <cost>{6}{R}</cost>
+  <type>Creature - Orgg</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Eric Peterson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>All orggs know how to kill; training teaches them what to kill.</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25496</id>
+  <name>Spined Wurm</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, --'Alas for the living.'"&lt;br&gt;--Dal myth of the wurm</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25497</id>
+  <name>Stone Rain</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy target land.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25498</id>
+  <name>Armored Pegasus</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Pegasus</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25499</id>
+  <name>Python</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Snake</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Steve White</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"How can you claim the gods are merciless when they robbed the snake of its limbs to give the other creatures a sporting chance?"&lt;br&gt;--Hakim, Loreweaver</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25500</id>
+  <name>Disenchant</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Destroy target artifact or enchantment.</oracleText>
+  <printedText>Destroy target artifact or enchantment.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25501</id>
+  <name>Shock</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Shock deals 2 damage to target creature or player.</oracleText>
+  <printedText>Shock deals 2 damage to target creature or player.</printedText>
+  <flavorText>Lightning tethers souls to the world.&lt;br&gt;--Kor saying</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25502</id>
+  <name>Giant Growth</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+  <printedText>Target creature gets +3/+3 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25503</id>
+  <name>Counterspell</name>
+  <cost>{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Counter target spell.</oracleText>
+  <printedText>Counter target spell.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25504</id>
+  <name>Terror</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</oracleText>
+  <printedText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25506</id>
+  <name>Prodigal Sorcerer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</oracleText>
+  <printedText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</printedText>
+  <flavorText>Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25507</id>
+  <name>Drudge Skeletons</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Skeleton</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ian Miller</artist>
+  <oracleText>{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</oracleText>
+  <printedText>{B}: Regenerate Drudge Skeletons.</printedText>
+  <flavorText>"The dead make good soldiers. They can't disobey orders, they never surrender, and they don't stop fighting when a random body part falls off."&lt;br&gt;--Nevinyrral, Necromancer's Handbook</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>25508</id>
+  <name>Llanowar Elves</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add {G} to your mana pool.</printedText>
+  <flavorText>One bone broken for every twig snapped underfoot.&lt;br&gt;--Llanowar penalty for trespassing</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>25510</id>
+  <name>Flight</name>
+  <cost>{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jerry Tiritilli</artist>
+  <oracleText>Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) &lt;br&gt;Enchanted creature has flying. (It can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Enchanted creature gains flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25514</id>
+  <name>Flame Spirit</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Elemental Spirit</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Justin Hampton</artist>
+  <oracleText>{R}: Flame Spirit gets +1/+0 until end of turn.</oracleText>
+  <printedText>{R}: Flame Spirit gets +1/+0 until end of turn.</printedText>
+  <flavorText>"The spirit of the flame is the spirit of change."&lt;br&gt;--Lovisa Coldeyes,&lt;br&gt;Balduvian chieftain</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25515</id>
+  <name>Venerable Monk</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Monk Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>When Venerable Monk comes into play, you gain 2 life.</oracleText>
+  <printedText>When Venerable Monk comes into play, you gain 2 life.</printedText>
+  <flavorText>His presence brings not only a strong arm but also renewed hope.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25526</id>
+  <name>Inspiration</name>
+  <cost>{3}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Target player draws two cards.</oracleText>
+  <printedText>Target player draws two cards.</printedText>
+  <flavorText>"Madness and genius are separated only by degrees of success."&lt;br&gt;--Sidar Jabari</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>25528</id>
+  <name>Obsianus Golem</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>4</power>
+  <toughness>6</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"The foot stone is connected to the ankle stone, the ankle stone is connected to the leg stone . . . ."&lt;br&gt;--"Song of the Artificer"</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>25529</id>
+  <name>Rod of Ruin</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.</oracleText>
+  <printedText>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>25533</id>
+  <name>Samite Healer</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+  <printedText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</printedText>
+  <flavorText>Healers ultimately acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness on to others.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25536</id>
+  <name>Hero's Resolve</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+5.</oracleText>
+  <printedText>Enchanted creature gets +1/+5.</printedText>
+  <flavorText>"Destiny, chance, fate, fortune--they're all just ways of claiming your successes without claiming your failures."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>25540</id>
+  <name>Orcish Oriflamme</name>
+  <cost>{3}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Attacking creatures you control get +1/+0.</oracleText>
+  <printedText>Attacking creatures you control get +1/+0.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>25543</id>
+  <name>Soul Net</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Whenever a creature is put into a graveyard from play, you may pay {1}. If you do, you gain 1 life.</oracleText>
+  <printedText>Whenever a creature is put into a graveyard from play, you may pay {1}. If you do, you gain 1 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>999999</id>
+  <name>Rhox</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Creature - Rhino Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Starter 2000</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist></artist>
+  <oracleText>You may have Rhox assign its combat damage as though it weren't blocked. &lt;br&gt;{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+</list>
+</cards>

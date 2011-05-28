@@ -1,0 +1,2029 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>1708</id>
+  <name>Barl's Cage</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{3}: Target creature doesn't untap during its controller's next untap step.</oracleText>
+  <printedText>{3}: Target creature does not untap as normal during its controller's next untap phase.</printedText>
+  <flavorText>For a dozen years the Cage had held Lord Ith, but as the Pretender Mairsil's power weakened, so did the bars.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1709</id>
+  <name>Bone Flute</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{2}, {T}: All creatures get -1/-0 until end of turn.</oracleText>
+  <printedText>{2}, {T}: All creatures get -1/-0 until end of turn.</printedText>
+  <flavorText>After the Battle of Pitdown, Lady Ursnell fashioned the first such instrument out of Lord Ursnell's left leg.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1710</id>
+  <name>Book of Rass</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>{2}, Pay 2 life: Draw a card.</oracleText>
+  <printedText>{2}: Pay 2 life to draw one card. Effects that prevent or redirect damage may not be used to counter this loss of life.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1711</id>
+  <name>Coal Golem</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.</oracleText>
+  <printedText>{3}: Sacrifice Coal Golem to add {R}{R}{R} to your mana pool. This ability is played as an interrupt.</printedText>
+  <flavorText>"Three such creatures stood burning at the crest of the hill. Only seconds later, the Fireball struck our front line."Lydia, Countess Brellis</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1712</id>
+  <name>Dark Sphere</name>
+  <cost>{0}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, it deals half that damage, rounded up, to you instead.</oracleText>
+  <printedText>{T}: Sacrifice Dark Sphere to prevent half of the damage done to you by a single source, rounded down.</printedText>
+  <flavorText>"I was struck senseless for a moment, but revived when the strange curiosity I carried fell to the ground, screaming like a dying animal."Barl, Lord Ith</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1713</id>
+  <name>Diabolic Machine</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{3}: Regenerate Diabolic Machine.</oracleText>
+  <printedText>{3}: Regenerates</printedText>
+  <flavorText>"The bolts of our ballistae smashed into the monstrous thing, but our hopes died in our chests as its gears continued turning."Sevti Mukul, The Fall of Alsoor</flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1714</id>
+  <name>Fellwar Stone</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</oracleText>
+  <printedText>{T}: Add 1 mana to your mana pool. This mana may be of any color that any of opponent's lands can produce. This ability is played as an interrupt.</printedText>
+  <flavorText>"What do you have that I cannot obtain?"&lt;br&gt;--Mairsil, called the Pretender</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1715</id>
+  <name>Fountain of Youth</name>
+  <cost>{0}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{2}, {T}: You gain 1 life.</oracleText>
+  <printedText>{2}, {T}: Gain 1 life.</printedText>
+  <flavorText>The Fountain had stood in the town square for centuries, but only the pigeons knew its secret.</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1716</id>
+  <name>Living Armor</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.</oracleText>
+  <printedText>{T}: Sacrifice Living Armor to put a +0/+X counter on target creature, where X is target creature's casting cost.</printedText>
+  <flavorText>Though it affords excellent protection, few don this armor. The process is uncomfortable and not easily reversed.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1717</id>
+  <name>Necropolis</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Wall</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>NeNe Thomas</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;Remove a creature card in your graveyard from the game: Put X +0/+1 counters on Necropolis, where X is the removed card's converted mana cost.</oracleText>
+  <printedText>Counts as a wall.&lt;br&gt;{0}: Take a creature in your graveyard and remove it from the game. Put X +0/+1 counters on Necropolis, where X is the removed creature's casting cost.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1718</id>
+  <name>Reflecting Mirror</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{X}, {T}: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.</oracleText>
+  <printedText>{X}, {T}: Target spell, which targets you, targets the player of your choice instead. X is twice the casting cost of target spell. This ability is played as an interrupt.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1719</id>
+  <name>Runesword</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves play this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would be put into a graveyard this turn, remove that creature from the game instead.</oracleText>
+  <printedText>{3}, {T}: Target attacking creature gains +2/+0 until end of turn. Any creature damaged by target creature may not be regenerated this turn; if such a creature is placed in the graveyard this turn, remove it from the game. If target creature leaves play before end of turn, Runesword is buried.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1720</id>
+  <name>Scarecrow</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Scarecrow</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{6}, {T}: Prevent all damage that would be dealt to you this turn by creatures with flying.</oracleText>
+  <printedText>{6}, {T}: Until end of turn, all damage done to you by flying creatures is reduced to 0.</printedText>
+  <flavorText>There was more malice in its button eyes than should have been possible in something that had never known life.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1721</id>
+  <name>Skull of Orm</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{5}, {T}: Return target enchantment card from your graveyard to your hand.</oracleText>
+  <printedText>{5}, {T}: Bring one enchantment card from your graveyard to your hand.</printedText>
+  <flavorText>Though lifeless, the Skull still possessed a strange power over the flow of magic.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1722</id>
+  <name>Standing Stones</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>{1}, {T}, Pay 1 life: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>{1}, {T}: Pay 1 life and add 1 mana of any color to your mana pool. This ability is played as an interrupt. Effects that prevent or redirect damage may not be used to counter this loss of life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1723</id>
+  <name>Stone Calendar</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Spells you play cost up to {1} less to play.</oracleText>
+  <printedText>Your spells cost up to 1 less to cast; casting cost of spells cannot go below 0.</printedText>
+  <flavorText>The Pretender Mairsil ordered a great Calendar drawn up to show when the paths to the Dark Lands were strongest.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1724</id>
+  <name>Tormod's Crypt</name>
+  <cost>{0}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{T}, Sacrifice Tormod's Crypt: Remove target player's graveyard from the game.</oracleText>
+  <printedText>{T}: Sacrifice Tormod's Crypt to remove all cards in target player's graveyard from the game.</printedText>
+  <flavorText>The dark opening seemed to breathe the cold, damp air of the dead earth in a steady rhythm.</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1725</id>
+  <name>Tower of Coireall</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{T}: Target creature can't be blocked by Walls this turn.</oracleText>
+  <printedText>{T}: Target creature cannot be blocked by walls until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1726</id>
+  <name>Wand of Ith</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>{3}, {T}: Target player reveals a card at random from his or her hand. If it's a land card, that player discards it unless he or she pays 1 life. If it isn't a land card, the player discards it unless he or she pays life equal to its converted mana cost. Play this ability only during your turn.</oracleText>
+  <printedText>{3}, {T}: Look at one card at random from target player's hand. If the card is not a land, target player must choose either to discard it or pay an amount of life equal to its casting cost. If the card is a land, target player must choose either to discard it or pay 1 life. Effects that prevent or redirect damage may not be used to counter this loss of life. Can only be used during controller's turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1727</id>
+  <name>War Barge</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{3}: Target creature gains islandwalk until end of turn. When War Barge leaves play this turn, destroy that creature. A creature destroyed this way can't be regenerated.</oracleText>
+  <printedText>{3}: Target creature gains islandwalk until end of turn. If War Barge leaves play this turn, target creature is buried.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1728</id>
+  <name>Ashes to Ashes</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Remove two target nonartifact creatures from the game. Ashes to Ashes deals 5 damage to you.</oracleText>
+  <printedText>Ashes to Ashes removes two target non-artifact creatures from the game and does 5 damage to you.</printedText>
+  <flavorText>"All rivers eventually run to the sea. My job is to sort out who goes first."&lt;br&gt;--Maeveen O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1729</id>
+  <name>Banshee</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{X}, {T}: Banshee deals X damage divided evenly between you and target creature or player. Round up for you and down for that creature or player.</oracleText>
+  <printedText>{X}, {T}: Banshee does X damage--half (rounded up) to you and half (rounded down) to any one target.</printedText>
+  <flavorText>Some say Banshees are the hounds of Death, baying to herd their prey into the arms of their master.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1730</id>
+  <name>Bog Imp</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Imp</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1731</id>
+  <name>Bog Rats</name>
+  <cost>{B}</cost>
+  <type>Creature - Rat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Bog Rats can't be blocked by Walls.</oracleText>
+  <printedText>Cannot be blocked by walls.</printedText>
+  <flavorText>Their stench was vile and strong enough, but not nearly as powerful as their hunger.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1732</id>
+  <name>Curse Artifact</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Enchant artifact &lt;br&gt;At the beginning of the upkeep of enchanted artifact's controller, Curse Artifact deals 2 damage to that player unless he or she sacrifices that artifact.</oracleText>
+  <printedText>During his or her upkeep, controller of target artifact may choose to bury target artifact. If controller chooses not to bury target artifact, Curse Artifact does 2 damage to him or her.</printedText>
+  <flavorText>Voska feared the artifact had come too easily.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1733</id>
+  <name>Eater of the Dead</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Horror</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{0}: If Eater of the Dead is tapped, untap it and remove target creature card in a graveyard from the game.</oracleText>
+  <printedText>{0}: Take one creature from any graveyard and remove it from the game. Untap Eater of the Dead.</printedText>
+  <flavorText>Even the putrid muscles of the dead can provide strength to those loathsome enough to consume them.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1734</id>
+  <name>Frankenstein's Monster</name>
+  <cost>{X}{B}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>As Frankenstein's Monster comes into play, remove X creature cards in your graveyard from the game. If you can't, put Frankenstein's Monster into its owner's graveyard instead of into play. For each creature card removed this way, Frankenstein's Monster comes into play with a +2/+0, +1/+1, or +0/+2 counter.</oracleText>
+  <printedText>When Frankenstein's Monster is brought into play, if you do not take X creatures from your graveyard and remove them from the game, Frankenstein's Monster is countered. For each creature removed from your graveyard in this way, you may choose to give Frankenstein's Monster a permanent +2/+0, +1/+1, or +0/+2.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1735</id>
+  <name>Grave Robbers</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>{B}, {T}: Remove target artifact card in a graveyard from the game. You gain 2 life.</oracleText>
+  <printedText>{B}, {T}: Take one artifact from any graveyard and remove it from the game. Gain 2 life.</printedText>
+  <flavorText>"If you don't have your health, you don't have anything."Proverb</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1736</id>
+  <name>Inquisition</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.</oracleText>
+  <printedText>Look at target player's hand. Inquisition does 1 damage to target player for each white card in his or her hand.</printedText>
+  <flavorText>Many of those entrusted to Primata Delphine's care tended to express themselves with screams.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1737</id>
+  <name>Marsh Gas</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>All creatures get -2/-0 until end of turn.</oracleText>
+  <printedText>All creatures get -2/-0 until end of turn.</printedText>
+  <flavorText>"Comes right outta th' ground. If ya can smell it, it's too late."Keevy Bogsbury</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1738</id>
+  <name>Murk Dwellers</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.</oracleText>
+  <printedText>When attacking, Murk Dwellers gain +2/+0 if not blocked.</printedText>
+  <flavorText>When Raganorn unsealed the catacombs, he found more than the dead and their treasures.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1739</id>
+  <name>Nameless Race</name>
+  <cost>{3}{B}</cost>
+  <type>Creature</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Trample &lt;br&gt;As Nameless Race comes into play, pay any amount of life. The amount you pay can't be more than the total number of white nontoken permanents all opponents control plus the total number of white cards in their graveyards. &lt;br&gt;Nameless Race's power and toughness are each equal to the life paid as it came into play.</oracleText>
+  <printedText>Trample&lt;br&gt;Pay * life when bringing Nameless Race into play. Effects that prevent or redirect damage may not be used to counter this loss of life. When Nameless Race is brought into play, * may not be greater than the total number of white cards all opponents have in play and in their graveyards.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1740</id>
+  <name>Rag Man</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Human Minion</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Play this ability only during your turn.</oracleText>
+  <printedText>{B}{B}{B}, {T}: Look at opponent's hand.&lt;br&gt;If opponent has any creature cards in hand, he or she discards one of them at random. This ability can only be used during controller's turn.</printedText>
+  <flavorText>"Aw, he's just a silly, dirty little man. What's to be afraid of?"</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1741</id>
+  <name>Season of the Witch</name>
+  <cost>{B}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Season of the Witch unless you pay 2 life. &lt;br&gt; &lt;br&gt;At end of turn, destroy all untapped creatures that didn't attack this turn, except for creatures that couldn't attack.</oracleText>
+  <printedText>At the end of each player's turn, all of his or her untapped creatures that could have attacked but did not are destroyed. If you do not pay 2 life during your upkeep, Season of the Witch is destroyed. Effects that prevent or redirect damage may not be used to counter this loss of life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1742</id>
+  <name>The Fallen</name>
+  <cost>{1}{B}{B}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.</oracleText>
+  <printedText>During its controller's upkeep, The Fallen does 1 damage to each opponent it has previously damaged.</printedText>
+  <flavorText>Magic often masters those who cannot master it.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1743</id>
+  <name>Uncle Istvan</name>
+  <cost>{1}{B}{B}{B}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>Prevent all damage that would be dealt to Uncle Istvan by creatures.</oracleText>
+  <printedText>All damage done to Uncle Istvan by creatures is reduced to 0.</printedText>
+  <flavorText>Solitude drove the old hermit insane. Now he only keeps company with those he can catch.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1744</id>
+  <name>Word of Binding</name>
+  <cost>{X}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Tap X target creatures.</oracleText>
+  <printedText>X target creatures become tapped.</printedText>
+  <flavorText>"That was the worst experience of my days, standing there helpless as they killed my whole troop."Maeveen O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1745</id>
+  <name>Worms of the Earth</name>
+  <cost>{2}{B}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Players can't play lands. &lt;br&gt;If a land would come into play, instead it doesn't. &lt;br&gt;At the beginning of each upkeep, any player may sacrifice two lands or pay 5 life. If a player does either, sacrifice Worms of the Earth.</oracleText>
+  <printedText>No new land may be brought into play. During any player's upkeep, any player may destroy Worms of the Earth by sacrificing two lands or taking 5 damage from Worms of the Earth.</printedText>
+  <flavorText>The ground collapsed, leaving nothing but the great Worms' mucous residues.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1746</id>
+  <name>Amnesia</name>
+  <cost>{3}{U}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Target player reveals his or her hand and discards all nonland cards.</oracleText>
+  <printedText>Look at target player's hand. Target player discards all non-land cards in his or her hand.</printedText>
+  <flavorText>"When one has witnessed the unspeakable, 'tis sometimes better to forget."Vervamon the Elder</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1747</id>
+  <name>Apprentice Wizard</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{U}, {T}: Add {3} to your mana pool.</oracleText>
+  <printedText>{U}, {T}: Add {3} to your mana pool. This ability is played as an interrupt.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1748</id>
+  <name>Dance of Many</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>When Dance of Many comes into play, put a token into play as a copy of target nontoken creature. &lt;br&gt; &lt;br&gt;When Dance of Many leaves play, remove the creature token from the game. &lt;br&gt; &lt;br&gt;When the creature token leaves play, sacrifice Dance of Many. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.</oracleText>
+  <printedText>When Dance of Many is brought into play, choose a target summon card in play. Then put a token creature in play and treat it as if you have just brought an exact copy of target summon card into play. If Dance of Many leaves play, remove token creature from game. If token creature leaves play, destroy Dance of Many. If you do not pay {U}{U} during your upkeep, Dance of Many is destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1749</id>
+  <name>Deep Water</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.</oracleText>
+  <printedText>{U}: All mana-producing lands you control provide {U} instead of their normal mana until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1750</id>
+  <name>Drowned</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Zombie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>{B}: Regenerate Drowned.</oracleText>
+  <printedText>{B}: Regenerates</printedText>
+  <flavorText>We asked Captain Soll what became of the Serafina, but all he said was, "Ships that go down shouldn't come back up."</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1751</id>
+  <name>Electric Eel</name>
+  <cost>{U}</cost>
+  <type>Creature - Fish</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>When Electric Eel comes into play, it deals 1 damage to you. &lt;br&gt;{R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.</oracleText>
+  <printedText>{R}{R}: +2/+0; Electric Eel does 1 damage to you. Electric Eel does 1 damage to you when it is brought into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1752</id>
+  <name>Erosion</name>
+  <cost>{U}{U}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant land &lt;br&gt;At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.</oracleText>
+  <printedText>Target land is destroyed unless its controller pays {1} or pays 1 life during his or her upkeep. Effects that prevent or redirect damage may not be used to counter this loss of life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1753</id>
+  <name>Flood</name>
+  <cost>{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>{U}{U}: Tap target creature without flying.</oracleText>
+  <printedText>{U}{U}: Target non-flying creature becomes tapped.</printedText>
+  <flavorText>"A dash of cool water does wonders to clear a cluttered battlefield."&lt;br&gt;--Vibekke Ragnild, Witches and War</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1754</id>
+  <name>Ghost Ship</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Spirit</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Flying &lt;br&gt;{U}{U}{U}: Regenerate Ghost Ship.</oracleText>
+  <printedText>Flying, {U}{U}{U}: Regenerates</printedText>
+  <flavorText>"That phantom prow split the storm as lightning cast its long shadow on the battlefield below."Mireille Gaetane, The Valeriad</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1755</id>
+  <name>Giant Shark</name>
+  <cost>{5}{U}</cost>
+  <type>Creature - Fish</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Giant Shark can't attack unless defending player controls an Island. &lt;br&gt;Whenever Giant Shark blocks or becomes blocked by a creature that has been dealt damage this turn, Giant Shark gets +2/+0 and gains trample until end of turn. &lt;br&gt;When you control no Islands, sacrifice Giant Shark.</oracleText>
+  <printedText>If Giant Shark blocks or is blocked by a creature that has taken damage this turn, Giant Shark gains +2/+0 and trample until end of turn. Giant Shark cannot attack unless opponent controls at least one island. Giant Shark is buried immediately if at any time controller controls no islands.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1756</id>
+  <name>Leviathan</name>
+  <cost>{5}{U}{U}{U}{U}</cost>
+  <type>Creature - Leviathan</type>
+  <power>10</power>
+  <toughness>10</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Trample &lt;br&gt;Leviathan comes into play tapped and doesn't untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan. &lt;br&gt;Leviathan can't attack unless you sacrifice two Islands.</oracleText>
+  <printedText>Trample&lt;br&gt;Leviathan comes into play tapped, and does not untap as normal during your untap phase.&lt;br&gt;Sacrifice two islands during your upkeep phase to untap Leviathan.&lt;br&gt;Leviathan may not attack unless you sacrifice two islands during your attack.</printedText>
+  <flavorText></flavorText>
+  <cmc>9</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1757</id>
+  <name>Mana Vortex</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>When you play Mana Vortex, you may sacrifice a land. If you don't, counter Mana Vortex. &lt;br&gt;At the beginning of each player's upkeep, that player sacrifices a land. &lt;br&gt;When there are no lands in play, sacrifice Mana Vortex.</oracleText>
+  <printedText>Each player who controls land sacrifices one land during his or her upkeep. If at any time there are no lands in play, Mana Vortex is destroyed. If you do not sacrifice a land when Mana Vortex is cast, Mana Vortex is countered.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1758</id>
+  <name>Merfolk Assassin</name>
+  <cost>{U}{U}</cost>
+  <type>Creature - Merfolk Assassin</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>{T}: Destroy target creature with islandwalk.</oracleText>
+  <printedText>{T}: Destroy target creature that has islandwalk.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1759</id>
+  <name>Mind Bomb</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.</oracleText>
+  <printedText>Mind Bomb does 3 damage to each player. All players may discard up to three cards of their choice from their hands. Each card a player discards in this manner prevents 1 damage to that player from Mind Bomb.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1760</id>
+  <name>Psychic Allergy</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>As Psychic Allergy comes into play, choose a color. &lt;br&gt; &lt;br&gt;At the beginning of each opponent's upkeep, Psychic Allergy deals X damage to that player, where X is the number of cards of the chosen color he or she controls. &lt;br&gt; &lt;br&gt;At the beginning of your upkeep, sacrifice Psychic Allergy unless you sacrifice two Islands.</oracleText>
+  <printedText>Choose a color when casting Psychic Allergy. During opponent's upkeep, Psychic Allergy does 1 damage to opponent for each card of this color that he or she controls. Sacrifice two islands during your upkeep or Psychic Allergy is destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1761</id>
+  <name>Riptide</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>Tap all blue creatures.</oracleText>
+  <printedText>All blue creatures become tapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1762</id>
+  <name>Sunken City</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}. &lt;br&gt;Blue creatures get +1/+1.</oracleText>
+  <printedText>All blue creatures gain +1/+1.&lt;br&gt;If you do not pay {U}{U} during your upkeep, Sunken City is destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1763</id>
+  <name>Tangle Kelp</name>
+  <cost>{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Enchant creature &lt;br&gt;When Tangle Kelp comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if it attacked during its controller's last turn.</oracleText>
+  <printedText>Target creature does not untap during its controller's untap phase if it attacked during its controller's last turn. Target creature becomes tapped when Tangle Kelp is cast.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1764</id>
+  <name>Water Wurm</name>
+  <cost>{U}</cost>
+  <type>Creature - Wurm</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Water Wurm gets +0/+1 as long as an opponent controls an Island.</oracleText>
+  <printedText>Water Wurm gains +0/+1 if opponent controls at least one island.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1765</id>
+  <name>Carnivorous Plant</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Plant Wall</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Defender</oracleText>
+  <printedText></printedText>
+  <flavorText>"It had a mouth like that of a great beast, and gnashed its teeth as it strained to reach us. I am thankful it possessed no means of locomotion."Vervamon the Elder</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1766</id>
+  <name>Elves of Deep Shadow</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.</oracleText>
+  <printedText>{T}: Add {B} to your mana pool, and Elves of Deep Shadow do 1 damage to you. This ability is played as an interrupt.</printedText>
+  <flavorText>"They are aberrations who have turned on everything we hold sacred. Let them be cast out."Ailheen, Speaker of the Council</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1767</id>
+  <name>Gaea's Touch</name>
+  <cost>{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>You may play an additional land during your turn if that land is a basic Forest. &lt;br&gt; &lt;br&gt;Sacrifice Gaea's Touch: Add {G}{G} to your mana pool.</oracleText>
+  <printedText>You may put one additional land in play during each of your turns, but that land must be a basic forest. You may sacrifice Gaea's Touch to add {G}{G} to your mana pool. This ability is played as an interrupt.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1768</id>
+  <name>Hidden Path</name>
+  <cost>{2}{G}{G}{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Green creatures have forestwalk.</oracleText>
+  <printedText>All green creatures gain forestwalk.</printedText>
+  <flavorText>"Where moments before we were lost beyond hope, the strange, floating lights showed us the way and restored our morale."Vervamon the Elder</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1769</id>
+  <name>Land Leeches</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Leech</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>First strike</oracleText>
+  <printedText>First strike</printedText>
+  <flavorText>"The standard cure for leeches requires the application of burning embers. Alternative methods must be devised should an ember of sufficient size prove more harmful than the leech."Vervamon the Elder</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1770</id>
+  <name>Lurker</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Lurker can't be the target of spells unless it attacked or blocked this turn.</oracleText>
+  <printedText>Lurker may not be the target of any spell unless Lurker was declared as an attacker or blocker this turn.</printedText>
+  <flavorText>"Each night we felt it watching us from the darkness beyond our fire. We only had one pack horse left."&lt;br&gt;--Maeveen O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1771</id>
+  <name>Marsh Viper</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Snake</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Whenever Marsh Viper deals damage to an opponent, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</oracleText>
+  <printedText>If Marsh Viper damages opponent, opponent gets two poison counters. If opponent ever has ten or more poison counters, opponent loses game.</printedText>
+  <flavorText>"All we had left were their black and bloated bodies."Maeveen&lt;br&gt;O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1772</id>
+  <name>Niall Silvain</name>
+  <cost>{G}{G}{G}</cost>
+  <type>Creature - Ouphe</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{G}{G}{G}{G}, {T}: Regenerate target creature.</oracleText>
+  <printedText>{G}{G}{G}{G}, {T}: Target creature is regenerated.</printedText>
+  <flavorText>This is his domain, and while you remain here you must value all life as you value your own.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1773</id>
+  <name>People of the Woods</name>
+  <cost>{G}{G}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>*</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>People of the Woods's toughness is equal to the number of Forests you control.</oracleText>
+  <printedText>The * below represents the number of forests controlled by People of the Woods' controller.</printedText>
+  <flavorText>"Their rain of arrows left only myself alive, cowering within a tree hollow. They did not even come out to loot the bodies."Vervamon the Elder</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1774</id>
+  <name>Savaen Elves</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>{G}{G}, {T}: Destroy target Aura attached to a land.</oracleText>
+  <printedText>{G}{G}, {T}: Target enchant land is destroyed.</printedText>
+  <flavorText>"Purity of magic can only come from purity of the land. How can a meal nourish if the ingredients are spoiled?Sidaine of Savaen</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1775</id>
+  <name>Scarwood Bandits</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Forestwalk &lt;br&gt;{2}{G}, {T}: Unless target artifact's controller pays {2}, gain control of that artifact as long as Scarwood Bandits is in play.</oracleText>
+  <printedText>Forestwalk&lt;br&gt;{2}{G}, {T}: Take control of target artifact. Opponent may counter this action by paying {2}. You lose control of target artifact if Scarwood Bandits leave play or at end of game.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1776</id>
+  <name>Scarwood Hag</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Hag</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn. &lt;br&gt;{T}: Target creature loses forestwalk until end of turn.</oracleText>
+  <printedText>{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn.&lt;br&gt;{T}: Target creature loses forestwalk until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1777</id>
+  <name>Scavenger Folk</name>
+  <cost>{G}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.</oracleText>
+  <printedText>{G}, {T}: Sacrifice Scavenger Folk to destroy target artifact.</printedText>
+  <flavorText>String, weapons, wax, or jewels--it makes no difference. Leave nothing unguarded in Scarwood.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1778</id>
+  <name>Spitting Slug</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Slug</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.</oracleText>
+  <printedText>{1}{G}: Spitting Slug gains first strike until end of turn. If this ability is not activated, all creatures blocking or blocked by Spitting Slug gain first strike until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1779</id>
+  <name>Tracker</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.</oracleText>
+  <printedText>{G}{G}, {T}: Tracker does an amount of damage equal to its power to target creature. Target creature does an amount of damage equal to its power to Tracker.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1780</id>
+  <name>Venom</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.</oracleText>
+  <printedText>All non-wall creatures target creature blocks or is blocked by are destroyed at the end of combat.</printedText>
+  <flavorText>"I told him it was just a flesh wound, a wee scratch, but the next time I looked at him, poor Tadhg was dead and gone."Maeveen O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1781</id>
+  <name>Whippoorwill</name>
+  <cost>{G}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{G}{G}, {T}: Target creature can't be regenerated this turn. Damage that would be dealt to that creature this turn can't be prevented or dealt instead to another creature or player. When the creature is put into a graveyard this turn, remove the creature from the game.</oracleText>
+  <printedText>{G}{G}, {T}: Until end of turn, target creature may not regenerate and damage done to target creature may not be prevented or redirected. If target creature goes to the graveyard, remove it from game.</printedText>
+  <flavorText>If the Whippoorwill remains silent, the soul has not reached its reward.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1782</id>
+  <name>Wormwood Treefolk</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Treefolk</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you. &lt;br&gt;{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you.</oracleText>
+  <printedText>{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and does 2 damage to you.&lt;br&gt;{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and does 2 damage to you.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1783</id>
+  <name>Ball Lightning</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>6</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;At the beginning of the end step, sacrifice Ball Lightning.</oracleText>
+  <printedText>Trample&lt;br&gt;Ball Lightning may attack on the turn during which it is summoned. Ball Lightning is buried at the end of the turn during which it is summoned.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1784</id>
+  <name>Blood Moon</name>
+  <cost>{2}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Nonbasic lands are Mountains.</oracleText>
+  <printedText>All non-basic lands are now basic mountains.</printedText>
+  <flavorText>Heavy light flooded across the landscape, cloaking everything in deep crimson.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1785</id>
+  <name>Brothers of Fire</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.</oracleText>
+  <printedText>{1}{R}{R}: Brothers of Fire do 1 damage to any target and 1 damage to you.</printedText>
+  <flavorText>Fire is never a gentle master.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1786</id>
+  <name>Cave People</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Whenever Cave People attacks, it gets +1/-2 until end of turn. &lt;br&gt;{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn.</oracleText>
+  <printedText>If declared as an attacker, Cave People get +1/-2 until end of turn.&lt;br&gt;{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1787</id>
+  <name>Eternal Flame</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.</oracleText>
+  <printedText>Eternal Flame does an amount of damage to your opponent equal to the number of mountains you control, but it also does half that amount of damage to you, rounding up.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1788</id>
+  <name>Fire Drake</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Drake</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying &lt;br&gt;{R}: Fire Drake gets +1/+0 until end of turn. Play this ability only once each turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{R}: +1/+0 until end of turn. No more than {R} may be spent in this way each turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1789</id>
+  <name>Fissure</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Destroy target creature or land. It can't be regenerated.</oracleText>
+  <printedText>Target land or creature is buried.</printedText>
+  <flavorText>"Must not all things at the last be swallowed up in death?"Plato</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1790</id>
+  <name>Goblin Caves</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Enchant land &lt;br&gt;If enchanted land is a basic Mountain, Goblin creatures get +0/+2.</oracleText>
+  <printedText>If target land is a basic mountain, all Goblins gain +0/+2.</printedText>
+  <flavorText>The stench of countless generations of unspeakable activities was enough to loosen both our footing and our stomachs.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1791</id>
+  <name>Goblin Digging Team</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.</oracleText>
+  <printedText>{T}: Sacrifice Goblin Digging Team to destroy target wall.</printedText>
+  <flavorText>"From down here we can make the whole wall collapse" "Uh, yeah, boss, but how do we get out?"</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1792</id>
+  <name>Goblin Hero</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>They attack in an orgy of rage and madness, but only one seemed as focused on killing us as the sheer joy of battle.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1793</id>
+  <name>Goblin Rock Sled</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>Trample &lt;br&gt;Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn. &lt;br&gt;Goblin Rock Sled can't attack unless defending player controls a Mountain.</oracleText>
+  <printedText>Trample&lt;br&gt;Rock Sled may not attack unless opponent controls at least one mountain. Rock Sled does not untap as normal during your untap phase if it attacked during your last turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1794</id>
+  <name>Goblin Shrine</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Enchant land &lt;br&gt;If enchanted land is a Mountain, Goblin creatures get +1/+0. &lt;br&gt;When Goblin Shrine leaves play, it deals 1 damage to each Goblin creature.</oracleText>
+  <printedText>If target land is a basic mountain, all Goblins gain +1/0. Goblin Shrine does 1 damage to all Goblins if it leaves play.</printedText>
+  <flavorText>"I knew it weren't no ordinary pile of--you know."Norin the Wary</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1795</id>
+  <name>Goblin Wizard</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Goblin Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{T}: You may put a Goblin permanent card from your hand into play. &lt;br&gt;{R}: Target Goblin gains protection from white until end of turn.</oracleText>
+  <printedText>{T}: Take a Goblin from your hand and put it directly into play. Treat this goblin as if it were just summoned.&lt;br&gt;{R}: Target Goblin gains protection from white until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1796</id>
+  <name>Goblins of the Flarg</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Mountainwalk &lt;br&gt;When you control a Dwarf, sacrifice Goblins of the Flarg.</oracleText>
+  <printedText>Mountainwalk&lt;br&gt;Goblins of the Flarg are buried if controller controls any Dwarves.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1797</id>
+  <name>Inferno</name>
+  <cost>{5}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>Inferno deals 6 damage to each creature and each player.</oracleText>
+  <printedText>Inferno does 6 damage to all players and all creatures.</printedText>
+  <flavorText>"Any scrap of compassion that still existed in my soul was permanently snuffed out when they cast me out into the flames."Mairsil, called the Pretender</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1798</id>
+  <name>Mana Clash</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.</oracleText>
+  <printedText>You and target player each flip a coin. Mana Clash does 1 damage to any player whose coin comes up tails. Repeat this process until both players' coins come up heads at the same time.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1799</id>
+  <name>Orc General</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Orc Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.</oracleText>
+  <printedText>{T}: Sacrifice one Orc or Goblin to give all Orcs +1/+1 until end of turn.</printedText>
+  <flavorText>"Your army must fear you more than the enemy. Only then will you triumph."Malga Phlegmtooth</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1800</id>
+  <name>Sisters of the Flame</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{T}: Add {R} to your mana pool.</oracleText>
+  <printedText>{T}: Add {R} to your mana pool. This ability is played as an interrupt.</printedText>
+  <flavorText>We are many wicks sharing a common tallow; we feed the skies with the ashes of our prey.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1801</id>
+  <name>Angry Mob</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human</type>
+  <power>2+*</power>
+  <toughness>2+*</toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Trample &lt;br&gt;As long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.</oracleText>
+  <printedText>Trample&lt;br&gt;During your turn, the *s below are both equal to the total number of swamps all opponents control. During any other player's turn, * equals 0.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1802</id>
+  <name>Blood of the Martyr</name>
+  <cost>{W}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.</oracleText>
+  <printedText>For the remainder of the turn, you may redirect damage done to any number of creatures to yourself instead.</printedText>
+  <flavorText>The willow knows what the storm does not: that the power to endure harm outlives the power to inflict it.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1803</id>
+  <name>Brainwash</name>
+  <cost>{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature can't attack unless its controller pays {3}.</oracleText>
+  <printedText>Target creature may not attack unless its controller pays {3} in addition to any other costs required for the creature to attack.</printedText>
+  <flavorText>"They're not your friends; they despise you. I'm the only one you can count on. Trust me."</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1804</id>
+  <name>Cleansing</name>
+  <cost>{W}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>For each land, destroy that land unless any player pays 1 life.</oracleText>
+  <printedText>All land is destroyed. Players may prevent Cleansing from destroying specific lands by paying 1 life for each land they wish to protect. Effects that prevent or redirect damage may not be used to counter this loss of life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1805</id>
+  <name>Dust to Dust</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Remove two target artifacts from the game.</oracleText>
+  <printedText>Removes two target artifacts from the game.</printedText>
+  <flavorText>Tervish never noticed that the amulet had vanished. It had disappeared not only from his possession, but from his memory as well.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1806</id>
+  <name>Exorcist</name>
+  <cost>{W}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>{1}{W}, {T}: Destroy target black creature.</oracleText>
+  <printedText>{1}{W}, {T}: Target black creature is destroyed.</printedText>
+  <flavorText>Though they often bore little greater charm than the demons they battled, exorcists were always welcome in Scarwood.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1807</id>
+  <name>Fasting</name>
+  <cost>{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>At the beginning of your upkeep, put a hunger counter on Fasting. If Fasting has five or more hunger counters on it, sacrifice it. Otherwise, you may choose to skip your draw step this turn and gain 2 life. &lt;br&gt; &lt;br&gt;When you draw a card, sacrifice Fasting.</oracleText>
+  <printedText>You may choose to skip your draw phase; if you do so, you gain 2 life. If you draw a card for any reason, Fasting is destroyed. During your upkeep, put a hunger counter on Fasting. When Fasting has five hunger counters on it, it is destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1808</id>
+  <name>Festival</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Play Festival only during an opponent's upkeep. &lt;br&gt;Creatures can't attack this turn.</oracleText>
+  <printedText>Opponent may not declare an attack this turn. Play during opponent's upkeep phase.</printedText>
+  <flavorText>Only after the townsfolk had drawn us into their merry celebration did we discover that their holiday rituals held a deeper purpose.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1809</id>
+  <name>Fire and Brimstone</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Fire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.</oracleText>
+  <printedText>Fire and Brimstone does 4 damage to target player and 4 damage to you. Can only be used during a turn in which target player has declared an attack.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1810</id>
+  <name>Holy Light</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Nonwhite creatures get -1/-1 until end of turn.</oracleText>
+  <printedText>All non-white creatures get -1/-1 until end of turn.</printedText>
+  <flavorText>"Bathed in hallowed light, the infidels looked upon the impurities of their souls and despaired."The Book of Tal</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1811</id>
+  <name>Knights of Thorn</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Banding, protection from red</oracleText>
+  <printedText>Protection from red, banding</printedText>
+  <flavorText>"With a great cry, the Goblin host broke and ran as the first wave of Knights penetrated its ranks."Tivadar of Thorn, History of the Goblin Wars</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1812</id>
+  <name>Martyr's Cry</name>
+  <cost>{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Remove all white creatures from the game. For each white creature removed this way, its controller draws a card.</oracleText>
+  <printedText>All white creatures are removed from the game. Players must draw one card for each white creature they control that is lost in this manner.</printedText>
+  <flavorText>"It is only fitting that one such as I should die in pursuit of knowledge."Vervamon the Elder</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1813</id>
+  <name>Miracle Worker</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>{T}: Destroy target Aura attached to a creature you control.</oracleText>
+  <printedText>{T}: Destroy target enchantment card on a creature you control.</printedText>
+  <flavorText>"Those blessed hands could bring surcease to even the most tainted soul."Sister Betje, Miracles of the Saints</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1814</id>
+  <name>Morale</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Attacking creatures get +1/+1 until end of turn.</oracleText>
+  <printedText>All attacking creatures gain +1/+1 until end of turn.</printedText>
+  <flavorText>"After Lacjsi's speech, the Knights grew determined to crush their ancient enemies clan by clan."Tivadar of Thorn, History of the Goblin Wars</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1815</id>
+  <name>Pikemen</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>Banding, first strike</oracleText>
+  <printedText>Banding, first strike</printedText>
+  <flavorText>"As the cavalry bore down, we faced them with swords drawn and pikes hidden in the grass at our feet. --'Don't lift your pikes 'til I give the word,' I said."Maeveen O'Donagh, Memoirs of a Soldier</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1816</id>
+  <name>Preacher</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>You may choose not to untap Preacher during your untap step. &lt;br&gt;{T}: Gain control of target creature of an opponent's choice that he or she controls as long as Preacher remains tapped.</oracleText>
+  <printedText>{T}: Gain control of one of opponent's creatures. Opponent chooses which target creature you control. If Preacher becomes untapped, you lose control of this creature; you may choose not to untap Preacher as normal during your untap phase. You also lose control of the creature if Preacher leaves play or at end of game.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1817</id>
+  <name>Squire</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"Of twenty yeer of age he was, I gesse. Of his stature he was of even lengthe. And wonderly deliver, and greete of strengthe."Geoffrey Chaucer, The Canterbury Tales</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1818</id>
+  <name>Tivadar's Crusade</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Denise Detwiler</artist>
+  <oracleText>Destroy all Goblins.</oracleText>
+  <printedText>All Goblins are destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1819</id>
+  <name>Witch Hunter</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{T}: Witch Hunter deals 1 damage to target player. &lt;br&gt;{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.</oracleText>
+  <printedText>{T}: Witch Hunter does 1 damage to target player.&lt;br&gt;{1}{W}{W}, {T}: Return target creature opponent controls from play to owner's hand. Enchantments on target creature are destroyed.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1820</id>
+  <name>Dark Heart of the Wood</name>
+  <cost>{B}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Sacrifice a Forest: You gain 3 life.</oracleText>
+  <printedText>You may sacrifice a forest to gain 3 life.&lt;br&gt;Counts as both a black card and a green card.</printedText>
+  <flavorText>Even the Goblins shun this haunted place, where the tree limbs twist in agony and the ground seems to scuttle under your feet.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}{G}</color>
+</mc>
+<mc>
+  <id>1821</id>
+  <name>Marsh Goblins</name>
+  <cost>{B}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Swampwalk</oracleText>
+  <printedText>Swampwalk&lt;br&gt;Counts as both a black card and a red card.</printedText>
+  <flavorText>Even the other Goblin races shun the Marsh Goblins, thanks to certain unwholesome customs they practice.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>1822</id>
+  <name>Scarwood Goblins</name>
+  <cost>{G}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>The Dark</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText></oracleText>
+  <printedText>Counts as both a green card and a red card.</printedText>
+  <flavorText>Larger and more cunning than most Goblins, Scarwood Goblins are thankfully found only in isolated pockets.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>1823</id>
+  <name>City of Shadows</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{T}, Remove a creature you control from the game: Put a storage counter on City of Shadows. &lt;br&gt; &lt;br&gt;{T}: Add {X} to your mana pool, where X is the number of storage counters on City of Shadows.</oracleText>
+  <printedText>{T}: Sacrifice one of your creatures, but remove it from the game instead of placing it in your graveyard. Put a counter on City of Shadows.&lt;br&gt;{T}: Add X colorless mana to your mana pool, where X is the number of counters on City of Shadows.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1824</id>
+  <name>Maze of Ith</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+  <printedText>{T}: Target attacking creature becomes untapped. This creature neither deals nor receives damage as a result of combat.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1825</id>
+  <name>Safe Haven</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{2}, {T}: Remove target creature you control from the game. &lt;br&gt;At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card removed from the game with Safe Haven to play under its owner's control.</oracleText>
+  <printedText>{2}, {T}: Remove target creature you control from game. This ability is played as an interrupt.&lt;br&gt;During your upkeep, sacrifice Safe Haven to return all creatures it has removed from game directly into play. Treat this as if they were just summoned.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1826</id>
+  <name>Sorrow's Path</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>The Dark</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>{T}: Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking. Sorrow's Path deals 2 damage to you and 2 damage to each creature you control.</oracleText>
+  <printedText>{T}: Exchange two of opponent's blocking creatures. This exchange may not cause an illegal block. Sorrow's Path does 2 damage to you and 2 damage to each creature you control whenever it is tapped.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>

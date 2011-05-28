@@ -1,0 +1,1570 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>900</id>
+  <name>Aladdin's Lamp</name>
+  <cost>{10}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, shuffle all but one of them, put the shuffled cards on the bottom of your library, then draw a card. X can't be 0.</oracleText>
+  <printedText>{X}: Instead of drawing a card from the top of your library, draw X cards but choose only one to put in your hand. You must shuffle the leftover cards and put them at the bottom of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>10</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>901</id>
+  <name>Aladdin's Ring</name>
+  <cost>{8}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.</oracleText>
+  <printedText>{8}: Do 4 damage to any target.</printedText>
+  <flavorText>"After these words the magician drew a ring off his finger, and put it on one of Aladdin's, saying: 'It is a talisman against all evil, so long as you obey me.'"The Arabian Nights, Junior Classics trans.</flavorText>
+  <cmc>8</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>902</id>
+  <name>Bottle of Suleiman</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 Djinn artifact creature token with flying into play.</oracleText>
+  <printedText>{4}: Flip a coin, with opponent calling heads or tails while coin is in the air. If the flip ends up in opponent's favor, Bottle of Suleiman does 5 damage to you. Otherwise, a 5/5 flying Djinn immediately comes into play on your side. Use a counter to represent Djinn. Djinn is treated exactly like a normal artifact creature except that if it leaves play it is removed from the game entirely. No matter how the flip turns out, Bottle of Suleiman is discarded after use.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>903</id>
+  <name>Brass Man</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Brass Man doesn't untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.</oracleText>
+  <printedText>Brass Man does not untap as normal; you must pay {1} during your untap phase to untap it.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>904</id>
+  <name>City in a Bottle</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Whenever a permanent from the Arabian Nights expansion other than City in a Bottle is in play, its controller sacrifices it. &lt;br&gt; &lt;br&gt;Players can't play cards from the Arabian Nights expansion.</oracleText>
+  <printedText>All cards from Arabian Nights must be discarded from play, except for City in a Bottle. While City in a Bottle is in play, no further cards from Arabian Nights can be played.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>905</id>
+  <name>Dancing Scimitar</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Spirit</type>
+  <power>1</power>
+  <toughness>5</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Bobbing merrily from opponent to opponent, the scimitar began adding playful little flourishes to its strokes; it even turned a couple of somersaults.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>906</id>
+  <name>Ebony Horse</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+  <printedText>{2}: Remove one of your attacking creatures from combat. Treat this as if the creature never attacked, except that defenders assigned to block it cannot choose to block another creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>907</id>
+  <name>Flying Carpet</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{2}, {T}: Target creature gains flying until end of turn.</oracleText>
+  <printedText>{2}: Gives one creature flying ability until end of turn. If that creature is destroyed before end of turn, so is Flying Carpet.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>908</id>
+  <name>Jandor's Ring</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{2}, {T}, Discard the last card you drew this turn: Draw a card.</oracleText>
+  <printedText>{2}: Discard a card you just drew from your library, and draw another card to replace it.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>909</id>
+  <name>Jandor's Saddlebags</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>{3}, {T}: Untap target creature.</oracleText>
+  <printedText>{3}: Untap a creature.</printedText>
+  <flavorText>Each day of their journey, Jandor opened the saddlebags and found them full of mutton, quinces, cheese, date rolls, wine, and all manner of delicious and satisfying foods.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>910</id>
+  <name>Jeweled Bird</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Remove Jeweled Bird from your deck before playing if you're not playing for ante. &lt;br&gt; &lt;br&gt;{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own in the ante into your graveyard, then draw a card.</oracleText>
+  <printedText>Draw a card, and exchange Jeweled Bird for your contribution to the ante. Your former contribution goes to your graveyard. Remove this card from your deck before playing if you are not playing for ante.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>911</id>
+  <name>Pyramids</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{2}: Destroy target Aura attached to a land. &lt;br&gt;{2}: Regenerate target land.</oracleText>
+  <printedText>{2}: Prevents a land from being destroyed, or removes an enchantment from any land.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>912</id>
+  <name>Ring of Ma'rûf</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.</oracleText>
+  <printedText>{5}: Instead of drawing a card from the top of your library, select one of your cards from outside the game. This card can be any card you have that you're not using in your deck or that for some reason has left the game. Ring of Ma'ruf is removed from the game entirely after use.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>913</id>
+  <name>Sandals of Abdallah</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{2}, {T}: Target creature gains islandwalk until end of turn. When that creature is put into a graveyard from play this turn, destroy Sandals of Abdallah.</oracleText>
+  <printedText>{2}: Gives one creature islandwalk ability until end of turn. If that creature is destroyed before end of turn, so are Sandals.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>914</id>
+  <name>Cuombajj Witches</name>
+  <cost>{B}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.</oracleText>
+  <printedText>Tap to do 1 damage to any target; opponent may also do 1 damage to any target. You choose your target before opponent does, but damage is inflicted simultaneously.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>915</id>
+  <name>El-Hajjâj</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>Lifelink (Whenever this creature deals damage, you gain that much life.)</oracleText>
+  <printedText>You gain 1 life for every point of damage El-Hajjaj inflicts.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>916</id>
+  <name>Erg Raiders</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Human Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>At the end of your turn, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</oracleText>
+  <printedText>If you do not attack with Raiders, they do 2 damage to you at end of turn. Raiders do no damage to you during the turn in which they are summoned.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>917</id>
+  <name>Erg Raiders</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Human Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>At the end of your turn, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.</oracleText>
+  <printedText>If you do not attack with Raiders, they do 2 damage to you at end of turn. Raiders do no damage to you during the turn in which they are summoned.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>918</id>
+  <name>Guardian Beast</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Beast</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they're indestructible, and other players can't gain control of them.</oracleText>
+  <printedText>As long as Guardian Beast is untapped, your non-creature artifacts cannot be further enchanted, destroyed, or taken under someone else's control. If something occurs that would destroy the Guardian Beast and artifacts simultaneously, the Guardian Beast is destroyed but your artifacts are not. If an artifact is enchanted or stolen while Guardian Beast is tapped, it remains so when Guardian Beast becomes untapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>919</id>
+  <name>Hasran Ogress</name>
+  <cost>{B}{B}</cost>
+  <type>Creature - Ogre</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</oracleText>
+  <printedText>Unless you pay {2} each time Hasran Ogress&lt;br&gt;attacks, Hasran Ogress does 3 damage to you.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>920</id>
+  <name>Hasran Ogress</name>
+  <cost>{B}{B}</cost>
+  <type>Creature - Ogre</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</oracleText>
+  <printedText>Unless you pay {2} each time Hasran Ogress&lt;br&gt;attacks, Hasran Ogress does 3 damage to you.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>921</id>
+  <name>Junún Efreet</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Efreet</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, sacrifice Junun Efreet unless you pay {B}{B}.</oracleText>
+  <printedText>Flying&lt;br&gt;You must pay {B}{B} during your upkeep or Junun Efreet is destroyed and may not regenerate.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>922</id>
+  <name>Juzám Djinn</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Djinn</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.</oracleText>
+  <printedText>Juzam Djinn does 1 damage to you during your upkeep.</printedText>
+  <flavorText>"Expect my visit when the darkness comes. The night I think is best for hiding all."Ouallada</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>923</id>
+  <name>Khabál Ghoul</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>At end of turn, put a +1/+1 counter on Khabál Ghoul for each creature put into a graveyard from play this turn.</oracleText>
+  <printedText>At the end of each turn, put a +1/+1 counter on Khabal Ghoul for each other creature that died during the turn and was not regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>924</id>
+  <name>Oubliette</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>When Oubliette comes into play, remove target creature and all Auras attached to it from the game. Note the number and kind of counters that were on that creature. &lt;br&gt;When Oubliette leaves play, return the removed card to play under its owner's control tapped with the noted number and kind of counters on it. If you do, return the removed Aura cards to play under their owner's control attached to that permanent.</oracleText>
+  <printedText>Select a creature in play when Oubliette is cast. That creature is considered out of play as long as Oubliette is in play. Hence the creature cannot be the target of spells and cannot receive damage, use special powers, attack, or defend. All counters and enchantments on the creature remain but are also out of play. If Oubliette is removed, creature returns to play tapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>925</id>
+  <name>Oubliette</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>When Oubliette comes into play, remove target creature and all Auras attached to it from the game. Note the number and kind of counters that were on that creature. &lt;br&gt;When Oubliette leaves play, return the removed card to play under its owner's control tapped with the noted number and kind of counters on it. If you do, return the removed Aura cards to play under their owner's control attached to that permanent.</oracleText>
+  <printedText>Select a creature in play when Oubliette is cast. That creature is considered out of play as long as Oubliette is in play. Hence the creature cannot be the target of spells and cannot receive damage, use special powers, attack, or defend. All counters and enchantments on the creature remain but are also out of play. If Oubliette is removed, creature returns to play tapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>926</id>
+  <name>Sorceress Queen</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.</oracleText>
+  <printedText>Tap to make another creature 0/2 until end of turn. Treat this exactly as if the numbers in the lower right of the target card were 0/2. All special characteristics and enchantments on the creature are unaffected.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>927</id>
+  <name>Stone-Throwing Devils</name>
+  <cost>{B}</cost>
+  <type>Creature - Devil</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>First strike</oracleText>
+  <printedText>First strike</printedText>
+  <flavorText>Sometimes those with the most sin cast the first stones.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>928</id>
+  <name>Stone-Throwing Devils</name>
+  <cost>{B}</cost>
+  <type>Creature - Devil</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>First strike</oracleText>
+  <printedText>First strike</printedText>
+  <flavorText>Sometimes those with the most sin cast the first stones.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>929</id>
+  <name>Dandân</name>
+  <cost>{U}{U}</cost>
+  <type>Creature - Fish</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Dandân can't attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Dandân.</oracleText>
+  <printedText>Dandan cannot attack unless opponent has islands in play. Dandan is destroyed immediately if at any time you have no islands in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>930</id>
+  <name>Fishliver Oil</name>
+  <cost>{1}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) &lt;br&gt;Enchanted creature has islandwalk. (This creature is unblockable as long as defending player controls an Island.)</oracleText>
+  <printedText>Target creature gains islandwalk ability.</printedText>
+  <flavorText>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>931</id>
+  <name>Fishliver Oil</name>
+  <cost>{1}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) &lt;br&gt;Enchanted creature has islandwalk. (This creature is unblockable as long as defending player controls an Island.)</oracleText>
+  <printedText>Target creature gains islandwalk ability.</printedText>
+  <flavorText>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>932</id>
+  <name>Flying Men</name>
+  <cost>{U}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Saffiyah clapped her hands and twenty flying men appeared at her side, each well trained in the art of combat.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>933</id>
+  <name>Giant Tortoise</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Turtle</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Giant Tortoise gets +0/+3 as long as it's untapped.</oracleText>
+  <printedText>Giant Tortoise gains +0/+3 while untapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>934</id>
+  <name>Giant Tortoise</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Turtle</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Giant Tortoise gets +0/+3 as long as it's untapped.</oracleText>
+  <printedText>Giant Tortoise gains +0/+3 while untapped.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>935</id>
+  <name>Island Fish Jasconius</name>
+  <cost>{4}{U}{U}{U}</cost>
+  <type>Creature - Fish</type>
+  <power>6</power>
+  <toughness>8</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>Island Fish Jasconius can't attack unless defending player controls an Island. &lt;br&gt;Jasconius doesn't untap during your untap step. &lt;br&gt;At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Jasconius. &lt;br&gt;When you control no Islands, sacrifice Jasconius.</oracleText>
+  <printedText>You must pay {U}{U}{U} during your untap phase to untap Island Fish. Island Fish cannot attack unless opponent has islands in play. Island Fish is destroyed immediately if at any time you have no islands in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>936</id>
+  <name>Merchant Ship</name>
+  <cost>{U}</cost>
+  <type>Creature - Human</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Merchant Ship can't attack unless defending player controls an Island. &lt;br&gt;Whenever Merchant Ship attacks and isn't blocked, you gain 2 life. &lt;br&gt;When you control no Islands, sacrifice Merchant Ship.</oracleText>
+  <printedText>If Merchant Ship attacks and is not blocked, you gain 2 life. Merchant Ship cannot attack unless opponent has islands in play. Merchant Ship is destroyed immediately if at any time you have no islands in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>937</id>
+  <name>Old Man of the Sea</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Djinn</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>You may choose not to untap Old Man of the Sea during your untap step. &lt;br&gt;{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.</oracleText>
+  <printedText>Tap to gain control of a creature with power no greater than Old Man's power. If Old Man becomes untapped, you lose control of this creature; you may choose not to untap Old Man as normal. You also lose control of the creature if Old Man dies or if the creature's power becomes greater than Old Man's.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>938</id>
+  <name>Serendib Djinn</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Djinn</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you. &lt;br&gt;When you control no lands, sacrifice Serendib Djinn.</oracleText>
+  <printedText>Flying&lt;br&gt;During your upkeep, you must choose one of your own lands and destroy it. If you destroy an island in this manner, Serendib Djinn does 3 damage to you. Serendib Djinn is destroyed immediately if at any time you have no land in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>939</id>
+  <name>Serendib Efreet</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Efreet</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying &lt;br&gt;At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.</oracleText>
+  <printedText>Flying&lt;br&gt;Serendib Efreet does 1 damage to you during your upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>940</id>
+  <name>Sindbad</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>{T}: Draw a card and reveal it. If it isn't a land card, discard it.</oracleText>
+  <printedText>Tap to draw a card from your library, but discard that card if it is not a land.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>941</id>
+  <name>Unstable Mutation</name>
+  <cost>{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3. &lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.</oracleText>
+  <printedText>Target creature gains +3/+3. Each round, put a -1/-1 counter on the creature during its controller's upkeep. These counters remain even if this enchantment is removed before the creature dies.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>942</id>
+  <name>Cyclone</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) &lt;br&gt;Whenever you pay Cyclone's cumulative upkeep, it deals damage equal to the number of age counters on Cyclone to each creature and each player.</oracleText>
+  <printedText>Put one chip on Cyclone each round during your upkeep, then pay {G} for each chip or discard Cyclone. If not discarded, Cyclone immediately does 1 damage per chip to each player and each creature in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>943</id>
+  <name>Desert Twister</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Destroy target permanent.</oracleText>
+  <printedText>Destroy any card in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>944</id>
+  <name>Drop of Honey</name>
+  <cost>{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them. &lt;br&gt;When there are no creatures in play, sacrifice Drop of Honey.</oracleText>
+  <printedText>During your upkeep, the creature in play with the lowest power is destroyed and cannot be regenerated. If there is a tie you choose which to destroy. Drop of Honey must be discarded if there are no creatures in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>945</id>
+  <name>Erhnam Djinn</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Djinn</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</oracleText>
+  <printedText>During your upkeep, you must choose one of opponent's non-wall creatures in play. Until your next upkeep, that creature gains the forestwalk ability. If opponent has no creatures, ignore this effect.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>946</id>
+  <name>Ghazbán Ogre</name>
+  <cost>{G}</cost>
+  <type>Creature - Ogre</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazbán Ogre.</oracleText>
+  <printedText>During its current controller's upkeep, the player with the highest life total takes control of Ghazban Ogre.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>947</id>
+  <name>Ifh-Biff Efreet</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Efreet</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>Flying &lt;br&gt;{G}: Ifh-Biff Efreet deals 1 damage to each creature with flying and each player. Any player may play this ability.</oracleText>
+  <printedText>Flying&lt;br&gt;While Ifh-Biff Efreet is in play, any player can pay {G} to have Ifh-Biff Efreet do 1 damage to each player and each flying creature in play. This ability does not tap the Ifh-Biff Efreet, and can be used as soon as it is successfully summoned.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>948</id>
+  <name>Metamorphosis</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>As an additional cost to play Metamorphosis, sacrifice a creature. &lt;br&gt; &lt;br&gt;Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to play creature spells.</oracleText>
+  <printedText>Sacrifice a creature of yours in play for an amount of mana equal to its casting cost plus 1. This mana can be of any one color, and can only be used to summon creatures.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>949</id>
+  <name>Nafs Asp</name>
+  <cost>{G}</cost>
+  <type>Creature - Snake</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.</oracleText>
+  <printedText>If Asp inflicts any damage on your opponent, your opponent must spend {1} before the draw phase of his or her next turn or lose an additional 1 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>950</id>
+  <name>Nafs Asp</name>
+  <cost>{G}</cost>
+  <type>Creature - Snake</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.</oracleText>
+  <printedText>If Asp inflicts any damage on your opponent, your opponent must spend {1} before the draw phase of his or her next turn or lose an additional 1 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>951</id>
+  <name>Sandstorm</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Sandstorm deals 1 damage to each attacking creature.</oracleText>
+  <printedText>All attacking creatures suffer 1 damage.</printedText>
+  <flavorText>Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>952</id>
+  <name>Singing Tree</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Plant</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>{T}: Target attacking creature's power becomes 0 until end of turn.</oracleText>
+  <printedText>Tap to reduce an attacking creature's power to 0.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>953</id>
+  <name>Wyluli Wolf</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Wolf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>{T}: Target creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to give any creature in play +1/+1 until end of turn.</printedText>
+  <flavorText>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?"Maimun al-Wyluli, Diary</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>954</id>
+  <name>Wyluli Wolf</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Wolf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>{T}: Target creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to give any creature in play +1/+1 until end of turn.</printedText>
+  <flavorText>"When one wolf calls, others follow. Who wants to fight creatures that eat scorpions?"Maimun al-Wyluli, Diary</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>955</id>
+  <name>Aladdin</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>{1}{R}{R}, {T}: Gain control of target artifact as long as Aladdin remains in play.</oracleText>
+  <printedText>{1}{R}{R} and tap to take control of an artifact from opponent. Artifact is returned when Aladdin is removed from play or when game ends.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>956</id>
+  <name>Ali Baba</name>
+  <cost>{R}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>{R}: Tap target Wall.</oracleText>
+  <printedText>{R}: Tap a wall.</printedText>
+  <flavorText>"When he reached the entrance of the cavern, he pronounced the words, --'Open, Sesame'"The Arabian Nights, Junior Classics trans.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>957</id>
+  <name>Ali from Cairo</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Human</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Damage that would reduce your life total to less than 1 reduces it to 1 instead.</oracleText>
+  <printedText>While Ali is in play, damage that would reduce you to less than 1 life lowers you to 1 life. All further damage is prevented.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>958</id>
+  <name>Bird Maiden</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Bird</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile."The Arabian Nights, trans. Haddawy</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>959</id>
+  <name>Bird Maiden</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Bird</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Four things that never meet do here unite To shed my blood and to ravage my heart, A radiant brow and tresses that beguile And rosy cheeks and a glittering smile."The Arabian Nights, trans. Haddawy</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>960</id>
+  <name>Desert Nomads</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Nomad</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Desertwalk &lt;br&gt;Prevent all damage that would be dealt to Desert Nomads by Deserts.</oracleText>
+  <printedText>Desertwalk&lt;br&gt;Desert Nomads are immune to damage done by Deserts.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>961</id>
+  <name>Hurr Jackal</name>
+  <cost>{R}</cost>
+  <type>Creature - Hound</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>{T}: Target creature can't be regenerated this turn.</oracleText>
+  <printedText>Tap to prevent a target creature from regenerating for the remainder of the turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>962</id>
+  <name>Kird Ape</name>
+  <cost>{R}</cost>
+  <type>Creature - Ape</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>Kird Ape gets +1/+2 as long as you control a Forest.</oracleText>
+  <printedText>Kird Ape gains +1/+2 if you have any forests in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>963</id>
+  <name>Magnetic Mountain</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Blue creatures don't untap during their controllers' untap steps. &lt;br&gt;Blue creatures have "At the beginning of your upkeep, you may pay {4}. If you do, untap this creature."</oracleText>
+  <printedText>Blue creatures do not untap as normal. During their untap phases, players must spend {4} for each blue creature they wish to untap. This cost must be paid in addition to any other untap cost a given blue creature may already require.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>964</id>
+  <name>Mijae Djinn</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Creature - Djinn</type>
+  <power>6</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.</oracleText>
+  <printedText>If you choose to attack with Mijae Djinn, flip a coin immediately after attack is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, Mijae Djinn is tapped but does not attack.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>965</id>
+  <name>Rukh Egg</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Egg</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>When Rukh Egg is put into a graveyard from play, put a 4/4 red Bird creature token with flying into play at end of turn.</oracleText>
+  <printedText>If Rukh Egg goes to the graveyard, a Rukh--a 4/4 red flying creature--comes into play on your side at the end of that turn. Use a counter to represent Rukh. Rukh is treated exactly like a normal creature except that if it leaves play it is removed from the game entirely.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>966</id>
+  <name>Rukh Egg</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Egg</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>When Rukh Egg is put into a graveyard from play, put a 4/4 red Bird creature token with flying into play at end of turn.</oracleText>
+  <printedText>If Rukh Egg goes to the graveyard, a Rukh--a 4/4 red flying creature--comes into play on your side at the end of that turn. Use a counter to represent Rukh. Rukh is treated exactly like a normal creature except that if it leaves play it is removed from the game entirely.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>967</id>
+  <name>Ydwen Efreet</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Creature - Efreet</type>
+  <power>3</power>
+  <toughness>6</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Whenever you're attacked, flip a coin. If you lose the flip, Ydwen Efreet can't block this turn.</oracleText>
+  <printedText>If you choose to block with Ydwen Efreet, flip a coin immediately after defense is announced; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, Ydwen Efreet cannot block this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>968</id>
+  <name>Abu Ja'far</name>
+  <cost>{W}</cost>
+  <type>Creature - Human</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ken Meyer Jr.</artist>
+  <oracleText>When Abu Ja'far is put into a graveyard from play, destroy all creatures blocking or blocked by it. They can't be regenerated.</oracleText>
+  <printedText>If Abu dies without regenerating while participating in an attack or defense,all creatures Abu is blocking or being blocked by are also killed and may not regenerate.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>969</id>
+  <name>Army of Allah</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Attacking creatures get +2/+0 until end of turn.</oracleText>
+  <printedText>All attacking creatures gain +2/+0 until end of turn.</printedText>
+  <flavorText>On the day of victory no one is tired.Arab proverb</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>970</id>
+  <name>Army of Allah</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Attacking creatures get +2/+0 until end of turn.</oracleText>
+  <printedText>All attacking creatures gain +2/+0 until end of turn.</printedText>
+  <flavorText>On the day of victory no one is tired.Arab proverb</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>971</id>
+  <name>Camel</name>
+  <cost>{W}</cost>
+  <type>Creature - Camel</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>Banding &lt;br&gt;Prevent all damage that would be dealt to Camel or to creatures banded with Camel by Deserts.</oracleText>
+  <printedText>Bands&lt;br&gt;All creatures attacking in a band with Camel are immune to damage done by Deserts.</printedText>
+  <flavorText>Everyone knew Walid was a pious man, for he had been blessed with many sons, many jewels, and a great many Camels.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>972</id>
+  <name>Eye for an Eye</name>
+  <cost>{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Eye for an Eye deals X damage to the controller of the source of your choice that dealt damage to you this turn, where X is the damage dealt to you by that source this turn.</oracleText>
+  <printedText>Can be cast only when a creature or spell does damage to you. Eye for an Eye does an equal amount of damage to the controller of that creature or spell. If some spell or effect reduces the amount of damage you receive, it does not reduce the damage dealt by Eye for an Eye.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>973</id>
+  <name>Jihad</name>
+  <cost>{W}{W}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>As Jihad comes into play, choose a color and an opponent. &lt;br&gt; &lt;br&gt;White creatures get +2/+1. &lt;br&gt; &lt;br&gt;When the chosen opponent controls no cards of the chosen color, sacrifice Jihad.</oracleText>
+  <printedText>Choose a color. As long as opponent has cards of this color in play, all white creatures gain +2/+1. Jihad must be discarded immediately if at any time opponent has no cards of this color in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>974</id>
+  <name>King Suleiman</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}: Destroy target Djinn or Efreet.</oracleText>
+  <printedText>Tap to destroy an Efreet or Djinn.</printedText>
+  <flavorText>"We made tempestuous winds obedient to Solomon . . . And many of the devils We also made obedient to him."The Qur'an, 21:81</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>975</id>
+  <name>Moorish Cavalry</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>Trample</oracleText>
+  <printedText>Trample</printedText>
+  <flavorText>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>976</id>
+  <name>Moorish Cavalry</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>Trample</oracleText>
+  <printedText>Trample</printedText>
+  <flavorText>Members of the elite Moorish Cavalry are very particular about their mounts, choosing only those whose bloodlines have been pure for generations.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>977</id>
+  <name>Piety</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Blocking creatures get +0/+3 until end of turn.</oracleText>
+  <printedText>All defending creatures gain +0/+3 until end of turn.</printedText>
+  <flavorText>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success."The Qur'an, 24:52</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>978</id>
+  <name>Piety</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Blocking creatures get +0/+3 until end of turn.</oracleText>
+  <printedText>All defending creatures gain +0/+3 until end of turn.</printedText>
+  <flavorText>"Whoever obeys God and His Prophet, fears God and does his duty to Him, will surely find success."The Qur'an, 24:52</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>979</id>
+  <name>Repentant Blacksmith</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Drew Tucker</artist>
+  <oracleText>Protection from red</oracleText>
+  <printedText>Protection from red</printedText>
+  <flavorText>"For my confession they burned me with fire And found that I was for endurance made."The Arabian Nights, trans. Haddawy</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>980</id>
+  <name>Shahrazad</name>
+  <cost>{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.</oracleText>
+  <printedText>Players must leave game in progress as it is and use the cards left in their libraries as decks with which to play a subgame of Magic. When subgame is over, players shuffle these cards, return them to libraries, and resume game in progress, with any loser of subgame halving his or her remaining life points, rounding down. Effects that prevent damage may not be used to counter this loss of life. The subgame has no ante; using less than forty cards may be necessary.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>981</id>
+  <name>War Elephant</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Elephant</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kristen Bishop</artist>
+  <oracleText>Banding, trample</oracleText>
+  <printedText>Trample, bands</printedText>
+  <flavorText>"When elephants fight it is the grass that suffers."Kikuyu Proverb</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>982</id>
+  <name>War Elephant</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Elephant</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kristen Bishop</artist>
+  <oracleText>Banding, trample</oracleText>
+  <printedText>Trample, bands</printedText>
+  <flavorText>"When elephants fight it is the grass that suffers."Kikuyu Proverb</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>983</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>R</oracleText>
+  <printedText>Tap to add {R} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>984</id>
+  <name>Bazaar of Baghdad</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>(none)</artist>
+  <oracleText>{T}: Draw two cards, then discard three cards.</oracleText>
+  <printedText>Tap to take two cards from your library, after which you must immediately discard three from your hand to your graveyard. If you don't have three or more cards in your hand, discard your whole hand. No spells may be cast between drawing and discarding cards.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>985</id>
+  <name>City of Brass</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Tap to add 1 mana of any color to your mana pool. You suffer 1 damage whenever City of Brass becomes tapped.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>986</id>
+  <name>Desert</name>
+  <cost></cost>
+  <type>Land - Desert</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Desert deals 1 damage to target attacking creature. Play this ability only during the end of combat step.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or do 1 damage to an attacking creature after it deals its damage.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>987</id>
+  <name>Diamond Valley</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.</oracleText>
+  <printedText>Tap to sacrifice one of your creatures in exchange for a number of life points equal to its toughness. Note that this ability may be used after blocking has been declared.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>988</id>
+  <name>Elephant Graveyard</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Regenerate target Elephant.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or regenerate an Elephant or Mammoth.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>989</id>
+  <name>Island of Wak-Wak</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{T}: The power of target creature with flying becomes 0 until end of turn.</oracleText>
+  <printedText>Tap to reduce target flying creature's power to 0.</printedText>
+  <flavorText>The Isle of Wak-Wak, home to a tribe of winged folk, is named for a peculiar fruit that grows there. The fruit looks like a woman's head, and when ripe speaks the word "Wak."</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>990</id>
+  <name>Library of Alexandria</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>(none)</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Draw a card. Play this ability only if you have exactly seven cards in hand.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or draw a card from your library; you may use the card-drawing ability only if you have exactly seven cards in your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>991</id>
+  <name>Oasis</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Arabian Nights</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature this turn.</oracleText>
+  <printedText>Tap to prevent 1 damage to any creature.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>

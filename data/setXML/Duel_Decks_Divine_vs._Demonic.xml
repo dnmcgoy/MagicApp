@@ -1,0 +1,1111 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>197037</id>
+  <name>Abyssal Gatekeeper</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Horror</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>31</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>When Abyssal Gatekeeper is put into a graveyard from the battlefield, each player sacrifices a creature.</oracleText>
+  <printedText>When Abyssal Gatekeeper is put into a graveyard from play, each player sacrifices a creature.</printedText>
+  <flavorText>"There are two ways for me to pass this gate. One involves you remaining conscious."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197008</id>
+  <name>Abyssal Specter</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature  -- Specter</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>40</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Flying&lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.</printedText>
+  <flavorText>To gaze under its hood is to invite death.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>193871</id>
+  <name>Akroma, Angel of Wrath</name>
+  <cost>{5}{W}{W}{W}</cost>
+  <type>Legendary Creature  -- Angel</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>DDC</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>1</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Flying, first strike, vigilance, trample, haste, protection from black and from red</oracleText>
+  <printedText>Flying, first strike, vigilance, trample, haste, protection from black and from red</printedText>
+  <flavorText>"Wrath is no vice when inflicted upon the deserving."</flavorText>
+  <cmc>8</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>196990</id>
+  <name>Angel of Mercy</name>
+  <cost>{4}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>9</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>Flying&lt;br&gt;When Angel of Mercy enters the battlefield, you gain 3 life.</oracleText>
+  <printedText>Flying&lt;br&gt;When Angel of Mercy comes into play, you gain 3 life.</printedText>
+  <flavorText>Every tear shed is a drop of immortality.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197013</id>
+  <name>Angelic Benediction</name>
+  <cost>{3}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>19</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;Whenever a creature you control attacks alone, you may tap target creature.</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;Whenever a creature you control attacks alone, you may tap target creature.</printedText>
+  <flavorText>"Even in single combat, I am never alone."&lt;br&gt;--Rafiq of the Many</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197009</id>
+  <name>Angelic Page</name>
+  <cost>{1}{W}</cost>
+  <type>Creature  -- Angel Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Marc Fishman</artist>
+  <oracleText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</printedText>
+  <flavorText>If only every message were as perfect as its bearer.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197035</id>
+  <name>Angelic Protector</name>
+  <cost>{3}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>6</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Flying&lt;br&gt;Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</printedText>
+  <flavorText>"My family sheltered in her light, the dark was content to wait."&lt;br&gt;--Crovax</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>196991</id>
+  <name>Angel's Feather</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>23</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a white spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a white spell, you may gain 1 life.</printedText>
+  <flavorText>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>197014</id>
+  <name>Angelsong</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>15</setNumber>
+  <artist>Sal Villagran</artist>
+  <oracleText>Prevent all combat damage that would be dealt this turn.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Prevent all combat damage that would be dealt this turn.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>Clash of sword and cry of beast fall mute when angels sound the call to prayer.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197029</id>
+  <name>Barren Moor</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>58</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Barren Moor enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {B} ({B}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Barren Moor comes into play tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {B} ({B}, Discard this card: Draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197025</id>
+  <name>Barter in Blood</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>52</setNumber>
+  <artist>Parente</artist>
+  <oracleText>Each player sacrifices two creatures.</oracleText>
+  <printedText>Each player sacrifices two creatures.</printedText>
+  <flavorText>"In the game of conquest, who cares about the pawns if the king yet reigns?"&lt;br&gt;--Geth, keeper of the Vault</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197024</id>
+  <name>Breeding Pit</name>
+  <cost>{3}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>53</setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.&lt;br&gt;At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.</oracleText>
+  <printedText>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.&lt;br&gt;At the end of your turn, put a 0/1 black Thrull creature token into play.</printedText>
+  <flavorText>The thrulls bred at a terrifying pace. In the end, they overwhelmed the Order of the Ebon Hand.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197003</id>
+  <name>Cackling Imp</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>41</setNumber>
+  <artist>Matt Thompson</artist>
+  <oracleText>Flying&lt;br&gt;{T}: Target player loses 1 life.</oracleText>
+  <printedText>Flying&lt;br&gt;{T}: Target player loses 1 life.</printedText>
+  <flavorText>Its laughter drives needles through your mind.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197021</id>
+  <name>Charging Paladin</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Ciruelo</artist>
+  <oracleText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</oracleText>
+  <printedText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</printedText>
+  <flavorText>"Hope shall be the blade that severs our bonds."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>196992</id>
+  <name>Consume Spirit</name>
+  <cost>{X}{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>56</setNumber>
+  <artist>Matt Thompson</artist>
+  <oracleText>Spend only black mana on X.&lt;br&gt;Consume Spirit deals X damage to target creature or player and you gain X life.</oracleText>
+  <printedText>Spend only black mana on X.&lt;br&gt;Consume Spirit deals X damage to target creature or player and you gain X life.</printedText>
+  <flavorText>"Your blood, your marrow, your spirit--all are mine."&lt;br&gt;--Mayvar, minion of Geth</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197033</id>
+  <name>Corrupt</name>
+  <cost>{5}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>55</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.</oracleText>
+  <printedText>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.</printedText>
+  <flavorText>There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>196993</id>
+  <name>Cruel Edict</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>48</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Target opponent sacrifices a creature.</oracleText>
+  <printedText>Target opponent sacrifices a creature.</printedText>
+  <flavorText>"Choose your next words carefully. They will be your last."&lt;br&gt;--Phage the Untouchable</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197022</id>
+  <name>Daggerclaw Imp</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>33</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying&lt;br&gt;Daggerclaw Imp can't block.</oracleText>
+  <printedText>Flying&lt;br&gt;Daggerclaw Imp can't block.</printedText>
+  <flavorText>The Simic use the claws as scalpels, while the Rakdos use them for tattooing and torture. The Gruul use them to pick their teeth after lunching on the rest of the carcass.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197023</id>
+  <name>Dark Banishing</name>
+  <cost>{2}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>50</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Destroy target nonblack creature. It can't be regenerated.</oracleText>
+  <printedText>Destroy target nonblack creature. It can't be regenerated.</printedText>
+  <flavorText>"Ha, banishment? Be merciful, say 'death,'&lt;br&gt;For exile hath more terror in his look,&lt;br&gt;Much more than death."&lt;br&gt;--William Shakespeare, Romeo and Juliet</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197019</id>
+  <name>Dark Ritual</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>45</setNumber>
+  <artist>Clint Langley</artist>
+  <oracleText>Add {B}{B}{B} to your mana pool.</oracleText>
+  <printedText>Add {B}{B}{B} to your mana pool.</printedText>
+  <flavorText>"Leshrac, my liege, grant me the power I am due."&lt;br&gt;--Lim-Dul, the Necromancer</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197936</id>
+  <name>Demon</name>
+  <cost></cost>
+  <type>Creature  -- Demon</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>2</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>193867</id>
+  <name>Demonic Tutor</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>49</setNumber>
+  <artist>Scott Chou</artist>
+  <oracleText>Search your library for a card and put that card into your hand. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a card and put that card into your hand. Then shuffle your library.</printedText>
+  <flavorText>Liliana learned the secrets she sought, but at a price that was etched on her fate.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>196994</id>
+  <name>Demon's Horn</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>57</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a black spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player plays a black spell, you may gain 1 life.</printedText>
+  <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>197018</id>
+  <name>Demon's Jester</name>
+  <cost>{3}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>38</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying&lt;br&gt;Hellbent -- Demon's Jester gets +2/+1 as long as you have no cards in hand.</oracleText>
+  <printedText>Flying&lt;br&gt;Hellbent -- Demon's Jester gets +2/+1 as long as you have no cards in hand.</printedText>
+  <flavorText>They knock 'em dead, with or without the punch line.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197004</id>
+  <name>Duress</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>46</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</oracleText>
+  <printedText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</printedText>
+  <flavorText>"Change your mind, or I'll change it for you."</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>196995</id>
+  <name>Dusk Imp</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Imps are just intelligent enough to have an understanding of cruelty.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>193869</id>
+  <name>Faith's Fetters</name>
+  <cost>{3}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>20</setNumber>
+  <artist>Brian Despain</artist>
+  <oracleText>Enchant permanent&lt;br&gt;When Faith's Fetters enters the battlefield, you gain 4 life.&lt;br&gt;Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</oracleText>
+  <printedText>Enchant permanent&lt;br&gt;When Faith's Fetters comes into play, you gain 4 life.&lt;br&gt;Enchanted permanent's activated abilities can't be played unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197010</id>
+  <name>Fallen Angel</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature  -- Angel</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>42</setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Flying&lt;br&gt;Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</printedText>
+  <flavorText>"Why do you weep for the dead? I rejoice, for they have died for me."</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197012</id>
+  <name>Foul Imp</name>
+  <cost>{B}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>32</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Flying&lt;br&gt;When Foul Imp enters the battlefield, you lose 2 life.</oracleText>
+  <printedText>Flying&lt;br&gt;When Foul Imp comes into play, you lose 2 life.</printedText>
+  <flavorText>The imp, unaware of its own odor, paused to catch its breath . . . and promptly died.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197011</id>
+  <name>Healing Salve</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>14</setNumber>
+  <artist>Greg & Tim Hildebrandt</artist>
+  <oracleText>Choose one -- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+  <printedText>Choose one -- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>196996</id>
+  <name>Icatian Priest</name>
+  <cost>{W}</cost>
+  <type>Creature  -- Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>2</setNumber>
+  <artist>Stephen Tappin</artist>
+  <oracleText>{1}{W}{W}: Target creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>{1}{W}{W}: Target creature gets +1/+1 until end of turn.</printedText>
+  <flavorText>Grelden knelt and felt the cool, dry hand of the priest on his brow. Hours later, when his wits returned, he was covered in his enemies' blood on the field of victory.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197015</id>
+  <name>Kuro, Pitlord</name>
+  <cost>{6}{B}{B}{B}</cost>
+  <type>Legendary Creature  -- Demon Spirit</type>
+  <power>9</power>
+  <toughness>9</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>44</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.&lt;br&gt;Pay 1 life: Target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.&lt;br&gt;Pay 1 life: Target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>9</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>193868</id>
+  <name>Lord of the Pit</name>
+  <cost>{4}{B}{B}{B}</cost>
+  <type>Creature  -- Demon</type>
+  <power>7</power>
+  <toughness>7</toughness>
+  <edition>DDC</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>30</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Flying, trample&lt;br&gt;At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.</oracleText>
+  <printedText>Flying, trample&lt;br&gt;At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.</printedText>
+  <flavorText>"My summoning begins your debt, planeswalker."</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>193872</id>
+  <name>Luminous Angel</name>
+  <cost>{4}{W}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>12</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.</oracleText>
+  <printedText>Flying&lt;br&gt;At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying into play.</printedText>
+  <flavorText>"The spread of evil's destruction shall always be matched by the rise of the noble fallen."</flavorText>
+  <cmc>7</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197005</id>
+  <name>Marble Diamond</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>24</setNumber>
+  <artist>David Martin</artist>
+  <oracleText>Marble Diamond enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.</oracleText>
+  <printedText>Marble Diamond comes into play tapped.&lt;br&gt;{T}: Add {W} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>197016</id>
+  <name>Oni Possession</name>
+  <cost>{2}{B}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>51</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>Enchant creature&lt;br&gt;At the beginning of your upkeep, sacrifice a creature.&lt;br&gt;Enchanted creature gets +3/+3 and has trample.&lt;br&gt;Enchanted creature is a Demon Spirit.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;At the beginning of your upkeep, sacrifice a creature.&lt;br&gt;Enchanted creature gets +3/+3 and has trample.&lt;br&gt;Enchanted creature is a Demon Spirit.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197017</id>
+  <name>Otherworldly Journey</name>
+  <cost>{1}{W}</cost>
+  <type>Instant  -- Arcane</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>16</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.</oracleText>
+  <printedText>Remove target creature from the game. At end of turn, return that card to play under its owner's control with a +1/+1 counter on it.</printedText>
+  <flavorText>"The landscape shimmered and I felt a chill breeze. When my vision cleared, I found myself alone among the corpses of my fallen friends."&lt;br&gt;--Journal found in Numai</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197028</id>
+  <name>Overeager Apprentice</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Human Minion</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>35</setNumber>
+  <artist>Ray Lago</artist>
+  <oracleText>Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.</oracleText>
+  <printedText>Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.</printedText>
+  <flavorText>Slow and steady may not always win the race, but at least it doesn't end up splattered on the walls.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>196997</id>
+  <name>Pacifism</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>17</setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.</printedText>
+  <flavorText>Even those born to battle could only lay their blades at Akroma's feet.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197256</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>27</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197026</id>
+  <name>Promise of Power</name>
+  <cost>{2}{B}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>54</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Choose one -- You draw five cards and you lose 5 life; or put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand as the token enters the battlefield.&lt;br&gt;Entwine {4} (Choose both if you pay the entwine cost.)</oracleText>
+  <printedText>Choose one -- You draw five cards and you lose 5 life; or put a black Demon creature token with flying into play with power and toughness each equal to the number of cards in your hand as the token comes into play.&lt;br&gt;Entwine {4} (Choose both if you pay the entwine cost.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197027</id>
+  <name>Reiver Demon</name>
+  <cost>{4}{B}{B}{B}{B}</cost>
+  <type>Creature  -- Demon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>43</setNumber>
+  <artist>Brom</artist>
+  <oracleText>Flying&lt;br&gt;When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.</oracleText>
+  <printedText>Flying&lt;br&gt;When Reiver Demon comes into play, if you played it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>196998</id>
+  <name>Reya Dawnbringer</name>
+  <cost>{6}{W}{W}{W}</cost>
+  <type>Legendary Creature  -- Angel</type>
+  <power>4</power>
+  <toughness>6</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>13</setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.</oracleText>
+  <printedText>Flying&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to play.</printedText>
+  <flavorText>"You have not died until I consent."</flavorText>
+  <cmc>9</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197030</id>
+  <name>Righteous Cause</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>22</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Whenever a creature attacks, you gain 1 life.</oracleText>
+  <printedText>Whenever a creature attacks, you gain 1 life.</printedText>
+  <flavorText>"Until the world unites in vengeful fury and Phage is destroyed, I will not stay my hand."&lt;br&gt;--Akroma, angelic avenger</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197031</id>
+  <name>Secluded Steppe</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>25</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Secluded Steppe enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} ({W}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Secluded Steppe comes into play tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} ({W}, Discard this card: Draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197006</id>
+  <name>Serra Advocate</name>
+  <cost>{3}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>7</setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +2/+2 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +2/+2 until end of turn.</printedText>
+  <flavorText>An angel's blessing prepares a soldier for war better than a thousand military drills.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>196999</id>
+  <name>Serra Angel</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>10</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Flying&lt;br&gt;Vigilance (Attacking doesn't cause this creature to tap.)</oracleText>
+  <printedText>Flying, vigilance</printedText>
+  <flavorText>Her sword sings more beautifully than any choir.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197032</id>
+  <name>Serra's Boon</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>18</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.</printedText>
+  <flavorText>"The light of an angel's glance is warm, but her fixed stare blinds and burns."&lt;br&gt;--Calexis, deacon of the New Order of Serra</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197000</id>
+  <name>Serra's Embrace</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>21</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying and vigilance.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying and vigilance.</printedText>
+  <flavorText>The touch of Serra's angels bears hopes aloft and empowers noble causes.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197020</id>
+  <name>Soot Imp</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>37</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Flying&lt;br&gt;Whenever a player casts a nonblack spell, that player loses 1 life.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a player plays a nonblack spell, that player loses 1 life.</printedText>
+  <flavorText>"If one gets in your chimney, you're going to need a long wick and a barrel of bangstuff to get it out."&lt;br&gt;--Hob Heddil</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197254</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>26</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197255</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>28</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197253</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>29</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197036</id>
+  <name>Souldrinker</name>
+  <cost>{3}{B}</cost>
+  <type>Creature  -- Spirit</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>39</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Pay 3 life: Put a +1/+1 counter on Souldrinker.</oracleText>
+  <printedText>Pay 3 life: Put a +1/+1 counter on Souldrinker.</printedText>
+  <flavorText>Don't drink and thrive.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197937</id>
+  <name>Spirit</name>
+  <cost></cost>
+  <type>Creature  -- Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>193870</id>
+  <name>Stinkweed Imp</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Imp</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>36</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>Flying&lt;br&gt;Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.&lt;br&gt;Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.&lt;br&gt;Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197007</id>
+  <name>Sustainer of the Realm</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>DDC</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>8</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Flying&lt;br&gt;Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.</printedText>
+  <flavorText>You may break her shield, but you'll never break her spirit.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197258</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>60</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197261</id>
+  <name>Thrull</name>
+  <cost></cost>
+  <type>Creature  -- Thrull</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Veronique Meignaud</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197034</id>
+  <name>Twilight Shepherd</name>
+  <cost>{3}{W}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>DDC</edition>
+  <rarity>Rare</rarity>
+  <setNumber>11</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>Flying, vigilance&lt;br&gt;When Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.&lt;br&gt;Persist (When this creature is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</oracleText>
+  <printedText>Flying, vigilance&lt;br&gt;When Twilight Shepherd comes into play, return to your hand all cards in your graveyard put there from play this turn.&lt;br&gt;Persist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197001</id>
+  <name>Unholy Strength</name>
+  <cost>{B}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>47</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1.</printedText>
+  <flavorText>Such power grows the body as it shrinks the soul.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>197002</id>
+  <name>Venerable Monk</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Human Monk Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>DDC</edition>
+  <rarity>Common</rarity>
+  <setNumber>5</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>When Venerable Monk enters the battlefield, you gain 2 life.</oracleText>
+  <printedText>When Venerable Monk comes into play, you gain 2 life.</printedText>
+  <flavorText>Age wears the flesh but galvanizes the soul.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>197257</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>59</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197259</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>61</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>197260</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>DDC</edition>
+  <rarity>Land</rarity>
+  <setNumber>62</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>

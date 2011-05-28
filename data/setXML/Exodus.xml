@@ -1,0 +1,2437 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>5133</id>
+  <name>Pit Spawn</name>
+  <cost>{4}{B}{B}{B}</cost>
+  <type>Creature - Demon</type>
+  <power>6</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>70</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>First strike &lt;br&gt;At the beginning of your upkeep, sacrifice Pit Spawn unless you pay {B}{B}. &lt;br&gt;Whenever Pit Spawn deals damage to a creature, remove that creature from the game.</oracleText>
+  <printedText>First strike&lt;br&gt;During your upkeep, pay {B}{B} or sacrifice Pit Spawn.&lt;br&gt;If Pit Spawn damages any creature, remove that creature from the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>5139</id>
+  <name>Dominating Licid</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Licid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>30</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect. &lt;br&gt;You control enchanted creature.</oracleText>
+  <printedText>{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes a creature enchantment that reads "Gain control of enchanted creature" instead of any other type of permanent. Move Dominating Licid onto target creature. You may pay {U} to end this effect.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>5146</id>
+  <name>Ertai, Wizard Adept</name>
+  <cost>{2}{U}</cost>
+  <type>Legendary Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>33</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>{2}{U}{U}, {T}: Counter target spell.</oracleText>
+  <printedText>Ertai, Wizard Adept counts as a Wizard.&lt;br&gt;{2}{U}{U}, {T}: Counter target spell. Play this ability as an interrupt.</printedText>
+  <flavorText>"Was that it?"&lt;br&gt;--Ertai, wizard adept</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>5157</id>
+  <name>Forbid</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>35</setNumber>
+  <artist>Scott Kirschner</artist>
+  <oracleText>Buyback-Discard two cards. (You may discard two cards in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Counter target spell.</oracleText>
+  <printedText>Buyback--Choose and discard two cards. (You may choose and discard two cards in addition to any other costs when you play this spell. If you do, put Forbid into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Counter target spell.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>5159</id>
+  <name>Fugue</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>62</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Target player discards three cards.</oracleText>
+  <printedText>Target player chooses and discards three cards.</printedText>
+  <flavorText>"My ship . . . ," Sisay mumbled. "Intact," Gerrard reassured her, "which is more than I can say for you, my friend." Sisay laughed despite the pain.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>5171</id>
+  <name>Mindless Automaton</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>135</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Mindless Automaton comes into play with two +1/+1 counters on it. &lt;br&gt;{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton. &lt;br&gt;Remove two +1/+1 counters from Mindless Automaton: Draw a card.</oracleText>
+  <printedText>Mindless Automaton comes into play with two +1/+1 counters on it.&lt;br&gt;{1}, Choose and discard a card: Put a +1/+1 counter on Mindless Automaton.&lt;br&gt;Remove two +1/+1 counters from Mindless Automaton: Draw a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>5176</id>
+  <name>Null Brooch</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>136</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>{2}, {T}, Discard your hand: Counter target noncreature spell.</oracleText>
+  <printedText>{2}, {T}, Discard your hand: Counter target noncreature spell. Play this ability as an interrupt.</printedText>
+  <flavorText>Give away everything so others have nothing.&lt;br&gt;--Brooch inscription</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>5184</id>
+  <name>Fighting Chance</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>82</setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>For each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.</oracleText>
+  <printedText>For each blocking creature, flip a coin. If you win the flip, that creature deals no combat damage this turn.</printedText>
+  <flavorText>A stroke of luck can smite an army.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>5189</id>
+  <name>Mirozel</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Illusion</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>41</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>Flying &lt;br&gt;When Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;If Mirozel is the target of any spell or ability, return Mirozel to owner's hand.</printedText>
+  <flavorText>The mirozels are the only stars in Rath's opaque skies.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>5199</id>
+  <name>Paladin en-Vec</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>12</setNumber>
+  <artist>Randy Elliott</artist>
+  <oracleText>First strike, protection from black, protection from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)</oracleText>
+  <printedText>First strike, protection from black, protection from red</printedText>
+  <flavorText>"Our belief shall be the lance that pierces Volrath's heart."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>5200</id>
+  <name>Plaguebearer</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>71</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>{X}{X}{B}: Destroy target nonblack creature with converted mana cost X.</oracleText>
+  <printedText>{X}{X}{B}: Destroy target nonblack creature with total casting cost equal to X.</printedText>
+  <flavorText>Its respiration is your expiration.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>5201</id>
+  <name>Plated Rootwalla</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Lizard</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>116</setNumber>
+  <artist>Randy Elliott</artist>
+  <oracleText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Play this ability only once each turn.</oracleText>
+  <printedText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Play this ability only once each turn.</printedText>
+  <flavorText>" . . . And the third little boar built his house out of rootwalla plates . . . ."&lt;br&gt;--Skyshroud children's story</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>5207</id>
+  <name>Ravenous Baboons</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ape</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>97</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>When Ravenous Baboons comes into play, destroy target nonbasic land.</oracleText>
+  <printedText>When Ravenous Baboons comes into play, destroy target nonbasic land.</printedText>
+  <flavorText>Build something and the baboons will tear it down. Leave the pieces lying and they will scatter them.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>5221</id>
+  <name>Shattering Pulse</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>102</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Buyback {3} (You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Destroy target artifact.</oracleText>
+  <printedText>Buyback {3} (You may pay an additional {3} when you play this spell. If you do, put it into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Destroy target artifact.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>5227</id>
+  <name>Skyshaper</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>137</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Sacrifice Skyshaper: Creatures you control gain flying until end of turn.</oracleText>
+  <printedText>Sacrifice Skyshaper: All creatures you control gain flying until end of turn.</printedText>
+  <flavorText>"It'll get us to the portal, but I can't guarantee what it'll do to the ship."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>5229</id>
+  <name>Skyshroud Elite</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>123</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</oracleText>
+  <printedText>Skyshroud Elite gets +1/+2 as long as any opponent controls any nonbasic lands.</printedText>
+  <flavorText>"Civilization is a conspiracy to disguise the mutilation of nature."&lt;br&gt;--Skyshroud elite creed</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>5231</id>
+  <name>Skyshroud War Beast</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>124</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>Trample &lt;br&gt;As Skyshroud War Beast comes into play, choose an opponent. &lt;br&gt;Skyshroud War Beast's power and toughness are each equal to the number of nonbasic lands the chosen player controls.</oracleText>
+  <printedText>Trample&lt;br&gt;Skyshroud War Beast has power and toughness each equal to the number of nonbasic lands target opponent controls.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>5254</id>
+  <name>Theft of Dreams</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>49</setNumber>
+  <artist>Richard Kane Ferguson</artist>
+  <oracleText>Draw a card for each tapped creature target opponent controls.</oracleText>
+  <printedText>For each tapped creature target opponent controls, draw a card.</printedText>
+  <flavorText>"Volrath stole everything there was of me."&lt;br&gt;--Takara</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>5273</id>
+  <name>Wayward Soul</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Spirit</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>51</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Flying &lt;br&gt; &lt;br&gt;{U}: Put Wayward Soul on top of its owner's library.</oracleText>
+  <printedText>Flying&lt;br&gt;{U}: Put Wayward Soul on top of owner's library.</printedText>
+  <flavorText>"no home    no heart    no hope"&lt;br&gt;--Stronghold graffito</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6030</id>
+  <name>Shield Mate</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>19</setNumber>
+  <artist>Randy Elliott</artist>
+  <oracleText>Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.</oracleText>
+  <printedText>Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.</printedText>
+  <flavorText>They bear weightier burdens than the shields they carry.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6031</id>
+  <name>Soltari Visionary</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Soltari Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>20</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.) &lt;br&gt;Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)&lt;br&gt;If Soltari Visionary damages any player, destroy target enchantment that player controls.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6032</id>
+  <name>Standing Troops</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>22</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Vigilance</oracleText>
+  <printedText>Attacking does not cause Standing Troops to tap.</printedText>
+  <flavorText>The less you have, the harder you fight for it.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6033</id>
+  <name>Soul Warden</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>21</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Whenever another creature comes into play, you gain 1 life.</oracleText>
+  <printedText>Whenever any other creature comes into play, gain 1 life.</printedText>
+  <flavorText>Count carefully the souls and see that none are lost.&lt;br&gt;--Vec teaching</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6034</id>
+  <name>Welkin Hawk</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>25</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Flying &lt;br&gt; &lt;br&gt;When Welkin Hawk is put into a graveyard from play, you may search your library for a card named Welkin Hawk, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+  <printedText>Flying&lt;br&gt;If Welkin Hawk is put into any graveyard from play, you may search your library for a Welkin Hawk card, reveal that card to all players, and put it into your hand. Shuffle your library afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6035</id>
+  <name>Charging Paladin</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Ciruelo</artist>
+  <oracleText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</oracleText>
+  <printedText>If Charging Paladin attacks, it gets +0/+3 until end of turn.</printedText>
+  <flavorText>"Hope shall be the blade that severs our bonds."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6036</id>
+  <name>Allay</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Buyback {3} (You may pay an additional {3} as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Destroy target enchantment.</oracleText>
+  <printedText>Buyback {3} (You may pay an additional {3} when you play this spell. If you do, put it into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Destroy target enchantment.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6037</id>
+  <name>Reaping the Rewards</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>16</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Buyback-Sacrifice a land. (You may sarifice a land in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;You gain 2 life.</oracleText>
+  <printedText>Buyback--Sacrifice a land. (You may sacrifice a land in addition to any other costs when you play this spell. If you do, put Reaping the Rewards into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Gain 2 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6038</id>
+  <name>Shackles</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>18</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step. &lt;br&gt;{W}: Return Shackles to its owner's hand.</oracleText>
+  <printedText>Enchanted creature does not untap during its controller's untap phase.&lt;br&gt;{W}: Return Shackles to owner's hand.</printedText>
+  <flavorText>Shackles of gold are still shackles.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6039</id>
+  <name>Peace of Mind</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>13</setNumber>
+  <artist>Randy Elliott</artist>
+  <oracleText>{W}, Discard a card: You gain 3 life.</oracleText>
+  <printedText>{W}, Choose and discard a card: Gain 3 life.</printedText>
+  <flavorText>Three are the paths of the soul:&lt;br&gt;One out--roam across the plain,&lt;br&gt;One back--dwell with tribe and tent,&lt;br&gt;One in--turn an enemy's hate.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6040</id>
+  <name>Angelic Blessing</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>2</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Target creature gets +3/+3 and gains flying until end of turn.</printedText>
+  <flavorText>Only the warrior who can admit mortal weakness will be bolstered by immortal strength.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6041</id>
+  <name>Keeper of the Light</name>
+  <cost>{W}{W}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>8</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>{W}, {T}: You gain 3 life. Play this ability only if you have less life than an opponent.</oracleText>
+  <printedText>{W}, {T}: Gain 3 life. Play this ability only if you have less life than target opponent.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6042</id>
+  <name>Treasure Hunter</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>23</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>When Treasure Hunter comes into play, you may return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>When Treasure Hunter comes into play, you may return target artifact card from your graveyard to your hand.</printedText>
+  <flavorText>"What separates junk from treasure is imagination."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6043</id>
+  <name>Zealots en-Dal</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>26</setNumber>
+  <artist>Brom</artist>
+  <oracleText>At the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.</oracleText>
+  <printedText>During your upkeep, if all nonland permanents you control are white, gain 1 life.</printedText>
+  <flavorText>"Great chains shall free our warriors."&lt;br&gt;--Oracle en-Vec</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6044</id>
+  <name>Pegasus Stampede</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>14</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Buyback-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Put a 1/1 white Pegasus creature token with flying into play.</oracleText>
+  <printedText>Buyback--Sacrifice a land. (You may sacrifice a land in addition to any other costs when you play this spell. If you do, put Pegasus Stampede into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Put a Pegasus token into play. Treat this token as a 1/1 white creature with flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6045</id>
+  <name>Kor Chant</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>9</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</oracleText>
+  <printedText>Redirect to target creature all damage dealt to any one creature you control from any one source.</printedText>
+  <flavorText>The true treasure no thief can touch.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6046</id>
+  <name>Reconnaissance</name>
+  <cost>{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>17</setNumber>
+  <artist>Val Mayerik</artist>
+  <oracleText>{0}: Remove target attacking creature you control from combat and untap it. Prevent all combat damage that would be dealt to and dealt by that creature this turn.</oracleText>
+  <printedText>{0}: Remove target attacking creature you control from combat and untap it. (That creature neither deals nor receives combat damage this turn.)</printedText>
+  <flavorText>War favors the informed.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6047</id>
+  <name>Penance</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>15</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>Choose a card from your hand and put that card on top of your library: Prevent all damage from a black or red source. (Treat further damage from that source normally.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6048</id>
+  <name>Oath of Lieges</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>11</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>At the beginning of each player's upkeep, if that player controls fewer lands than any of his or her opponents, the player may search his or her library for a basic land card and put that card into play. The player then shuffles his or her library.</oracleText>
+  <printedText>During each player's upkeep, if that player controls fewer lands than target opponent, the player may search his or her library for a basic land card and put that land into play. The player shuffles his or her library afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6049</id>
+  <name>Limited Resources</name>
+  <cost>{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>10</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>When Limited Resources comes into play, each player chooses five lands he or she controls and sacrifices the rest. &lt;br&gt; &lt;br&gt;Players can't play lands if there are ten or more lands in play.</oracleText>
+  <printedText>When Limited Resources comes into play, each player chooses five lands he or she controls and sacrifices the rest.&lt;br&gt;As long as there are ten or more lands in play, players cannot play lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6050</id>
+  <name>Cataclysm</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>3</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>Each player chooses from the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</oracleText>
+  <printedText>Each player chooses from the permanents he or she controls an artifact, a creature, an enchantment, and a land and sacrifices the rest.</printedText>
+  <flavorText>The Weatherlight dragged the Predator behind it, the cradle hauling the casket.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6051</id>
+  <name>Convalescence</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>5</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>At the beginning of your upkeep, if you have 10 life or less, you gain 1 life.</oracleText>
+  <printedText>During your upkeep, if you have 10 or less life, gain 1 life.</printedText>
+  <flavorText>Selenia had hurt Mirri terribly, but injuries of the flesh could be treated. The wounds she had torn in Crovax's soul would never close.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6052</id>
+  <name>Wall of Nets</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>7</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>24</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;At end of combat, remove from the game all creatures blocked by Wall of Nets. &lt;br&gt;When Wall of Nets leaves play, return to play under their owners' control all creatures removed from the game with Wall of Nets.</oracleText>
+  <printedText>(Walls cannot attack.)&lt;br&gt;At end of combat, remove from the game all creatures blocked by Wall of Nets.&lt;br&gt;If Wall of Nets leaves play, return to play under their owners' control all creatures removed from the game with Wall of Nets.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6053</id>
+  <name>Exalted Dragon</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature - Dragon</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>6</setNumber>
+  <artist>Matthew Wilson</artist>
+  <oracleText>Flying &lt;br&gt;Exalted Dragon can't attack unless you sacrifice a land.</oracleText>
+  <printedText>Flying&lt;br&gt;Each turn, Exalted Dragon cannot attack unless you sacrifice a land.</printedText>
+  <flavorText>If dragons excel at anything more than vanity, it is greed.</flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6054</id>
+  <name>School of Piranha</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Fish</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>45</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice School of Piranha unless you pay {1}{U}.</oracleText>
+  <printedText>During your upkeep, pay {1}{U} or sacrifice School of Piranha.</printedText>
+  <flavorText>Some schools aren't worth getting into.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6055</id>
+  <name>Rootwater Mystic</name>
+  <cost>{U}</cost>
+  <type>Creature - Merfolk Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>44</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>{1}{U}: Look at the top card of target player's library.</oracleText>
+  <printedText>{1}{U}: Look at the top card of target player's library.</printedText>
+  <flavorText>"Read the roots    tell the tale&lt;br&gt;Future forms    in waving weeds&lt;br&gt;Higher than truth   is hope."&lt;br&gt;--Rootwater Saga</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6056</id>
+  <name>Merfolk Looter</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Merfolk Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>39</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>{T}: Draw a card, then discard a card.</oracleText>
+  <printedText>{T}: Draw a card, then choose and discard a card.</printedText>
+  <flavorText>In the depths of Rootwater, salvage and sewage differ only in texture.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6057</id>
+  <name>Whiptongue Frog</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Frog</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>52</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>{U}: Whiptongue Frog gains flying until end of turn.</oracleText>
+  <printedText>{U}: Whiptongue Frog gains flying until end of turn.</printedText>
+  <flavorText>Their favorite food? Wind dancers.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6058</id>
+  <name>Thalakos Scout</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Thalakos Soldier Scout</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>48</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.) &lt;br&gt;Discard a card: Return Thalakos Scout to its owner's hand.</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)&lt;br&gt;Choose and discard a card: Return Thalakos Scout to owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6059</id>
+  <name>Robe of Mirrors</name>
+  <cost>{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>43</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) &lt;br&gt;Enchanted creature has shroud. (It can't be the target of spells or abilities.)</oracleText>
+  <printedText>Enchanted creature cannot be the target of spells or abilities.</printedText>
+  <flavorText>"Does this make me look fat?"</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6060</id>
+  <name>Curiosity</name>
+  <cost>{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>29</setNumber>
+  <artist>Val Mayerik</artist>
+  <oracleText>Enchant creature &lt;br&gt;Whenever enchanted creature deals damage to an opponent, you may draw a card.</oracleText>
+  <printedText>If enchanted creature damages an opponent, you may draw a card.</printedText>
+  <flavorText>All Mirri wanted to do was rest, but she couldn't ignore a nagging suspicion as she followed Crovax's skulking form.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6061</id>
+  <name>Fade Away</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>For each creature, that creature's controller pays {1} or sacrifices a permanent.</oracleText>
+  <printedText>For each creature, that creature's controller pays {1} or sacrifices a permanent.</printedText>
+  <flavorText>"Consider the fable of the greedy herder. As her flock grew, so did her weariness; she slept, and the sheep wandered off."&lt;br&gt;--Karn, silver golem</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6062</id>
+  <name>Cunning</name>
+  <cost>{1}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>28</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+3. &lt;br&gt;When enchanted creature attacks or blocks, sacrifice Cunning at end of turn.</oracleText>
+  <printedText>Enchanted creature gets +3/+3.&lt;br&gt;If enchanted creature attacks or blocks, sacrifice Cunning at end of turn.</printedText>
+  <flavorText>". . . Dry-walkers die&lt;br&gt;We feed on sweet flesh . . . ."&lt;br&gt;--Rootwater Saga</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6064</id>
+  <name>Keeper of the Mind</name>
+  <cost>{U}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>36</setNumber>
+  <artist>Matthew Wilson</artist>
+  <oracleText>{U}, {T}: Draw a card. Play this ability only if an opponent has at least two more cards in hand than you.</oracleText>
+  <printedText>{U}, {T}: Draw a card. Play this ability only if target opponent has at least two more cards in hand than you.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6065</id>
+  <name>Killer Whale</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Creature - Whale</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>37</setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>{U}: Killer Whale gains flying until end of turn.</oracleText>
+  <printedText>{U}: Killer Whale gains flying until end of turn.</printedText>
+  <flavorText>Hunger is like the sea: deep, endless, and unforgiving.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6067</id>
+  <name>Scrivener</name>
+  <cost>{4}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>46</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>When Scrivener comes into play, you may return target instant card from your graveyard to your hand.</oracleText>
+  <printedText>When Scrivener comes into play, you may return target instant or interrupt card from your graveyard to your hand.</printedText>
+  <flavorText>"History is a potent weapon."&lt;br&gt;--Karn, silver golem</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6068</id>
+  <name>Thalakos Drifters</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Thalakos</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>47</setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Discard a card: Thalakos Drifters gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</oracleText>
+  <printedText>Choose and discard a card: Thalakos Drifters gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</printedText>
+  <flavorText>They drift in and out of shadow and ever on toward madness.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6070</id>
+  <name>Treasure Trove</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>50</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>{2}{U}{U}: Draw a card.</oracleText>
+  <printedText>{2}{U}{U}: Draw a card.</printedText>
+  <flavorText>Karn and Hanna stood over the recovered Legacy artifacts like loving parents over sleeping children.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6071</id>
+  <name>Æther Tide</name>
+  <cost>{X}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>27</setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>As an additional cost to play Æther Tide, discard X creature cards. &lt;br&gt;Return X target creatures to their owners' hands.</oracleText>
+  <printedText>Choose and discard X creature cards: Return X target creatures to their owner's hand.</printedText>
+  <flavorText>The tide of magic brought them here. Now it would take them home.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6072</id>
+  <name>Oath of Scholars</name>
+  <cost>{3}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>42</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>At the beginning of each player's upkeep, if that player has fewer cards in hand than any of his or her opponents, the player may discard his or her hand and draw three cards.</oracleText>
+  <printedText>During each player's upkeep, if that player has fewer cards in hand than target opponent, the player may discard his or her hand and draw three cards.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6073</id>
+  <name>Ephemeron</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Creature - Illusion</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>31</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Flying &lt;br&gt;Discard a card: Return Ephemeron to its owner's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;Choose and discard a card: Return Ephemeron to owner's hand.</printedText>
+  <flavorText>From nothing came teeth.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6075</id>
+  <name>Equilibrium</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>32</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Whenever you play a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.</oracleText>
+  <printedText>Whenever you successfully cast a creature spell, you may pay {1} to return target creature to owner's hand.</printedText>
+  <flavorText>In Rath, there are only so many souls to go around.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6076</id>
+  <name>Mind Over Matter</name>
+  <cost>{2}{U}{U}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>40</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Discard a card: You may tap or untap target artifact, creature, or land.</oracleText>
+  <printedText>Choose and discard a card: Tap or untap target artifact, creature, or land.</printedText>
+  <flavorText>Lyna turned to the figure beside her. "They're gone. What now?"&lt;br&gt;"As ever," said Urza, "we wait."</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6078</id>
+  <name>Mana Breach</name>
+  <cost>{2}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>38</setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Whenever a player plays a spell, that player returns a land he or she controls to its owner's hand.</oracleText>
+  <printedText>Whenever any player plays a spell, that player returns a land he or she controls to owner's hand.</printedText>
+  <flavorText>The wizard had it all--until she tried to use it.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6079</id>
+  <name>Carnophage</name>
+  <cost>{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>53</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>At the beginning of your upkeep, tap Carnophage unless you pay 1 life.</oracleText>
+  <printedText>During your upkeep, pay 1 life or tap Carnophage.</printedText>
+  <flavorText>Eating is all it knows.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6080</id>
+  <name>Cat Burglar</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Kor Rogue Minion</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>54</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>{2}{B}, {T}: Target player discards a card. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>{2}{B}, {T}: Target player chooses and discards a card. Play this ability as a sorcery.</printedText>
+  <flavorText>The il-Kor no longer roam the open plains, but they are still hunters.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6081</id>
+  <name>Dauthi Jackal</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Dauthi Hound</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>58</setNumber>
+  <artist>Adam Rex</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.) &lt;br&gt;{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)&lt;br&gt;{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</printedText>
+  <flavorText>"All Dauthi are jackals, regardless of breed."&lt;br&gt;--Lyna, Soltari emissary</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6082</id>
+  <name>Thrull Surgeon</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Thrull</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>76</setNumber>
+  <artist>rk post</artist>
+  <oracleText>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose one of those cards. That player discards that card. Play this ability as a sorcery.</printedText>
+  <flavorText>"Just take a little off the top."</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6083</id>
+  <name>Grollub</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Beast</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>63</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Whenever Grollub is dealt damage, each opponent gains that much life.</oracleText>
+  <printedText>For each 1 damage dealt to Grollub, each opponent gains 1 life.</printedText>
+  <flavorText>Mogglings caught in a misdeed often blame the grollub. Even though the creature is usually innocent, no taskmaster can resist an excuse to beat it.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6084</id>
+  <name>Vampire Hounds</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Vampire Hound</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>77</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</oracleText>
+  <printedText>Choose and discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</printedText>
+  <flavorText>The hounds' barks are a horrifying chorus of screams, moans, and whispers.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6085</id>
+  <name>Culling the Weak</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>55</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>As an additional cost to play Culling the Weak, sacrifice a creature. &lt;br&gt; &lt;br&gt;Add {B}{B}{B}{B} to your mana pool.</oracleText>
+  <printedText>Sacrifice a creature: Add {B}{B}{B}{B} to your mana pool.</printedText>
+  <flavorText>"The blood of the weak shall be the ink with which we scribe great Yawgmoth's glorious name."&lt;br&gt;--Stronghold architect, journal</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6086</id>
+  <name>Scare Tactics</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>73</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Creatures you control get +1/+0 until end of turn.</oracleText>
+  <printedText>All creatures you control get +1/+0 until end of turn.</printedText>
+  <flavorText>"Fear rules those weak enough to accept it."&lt;br&gt;--Greven il-Vec</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6087</id>
+  <name>Death's Duet</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>60</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Return two target creature cards from your graveyard to your hand.</oracleText>
+  <printedText>Return two target creature cards from your graveyard to your hand.</printedText>
+  <flavorText>Life has always been a dance. It is only fitting that death sing the tune.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6088</id>
+  <name>Nausea</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>67</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>All creatures get -1/-1 until end of turn.</oracleText>
+  <printedText>All creatures get -1/-1 until end of turn.</printedText>
+  <flavorText>Any mogg will tell you there's nothing more nauseating than the smell of cute.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6089</id>
+  <name>Cursed Flesh</name>
+  <cost>{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>56</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -1/-1 and has fear.</oracleText>
+  <printedText>Enchanted creature gets -1/-1 and cannot be blocked except by artifact creatures and black creatures.</printedText>
+  <flavorText>A farewell to arms . . . and feet . . . and legs . . . .</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6090</id>
+  <name>Keeper of the Dead</name>
+  <cost>{B}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>65</setNumber>
+  <artist>Brom</artist>
+  <oracleText>{B}, {T}: Destroy target nonblack creature controlled by an opponent with at least two fewer creature cards in his or her graveyard than you.</oracleText>
+  <printedText>{B}, {T}: Destroy target nonblack creature. Play this ability only if that creature's controller has at least two fewer creature cards in his or her graveyard than you have in yours.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6091</id>
+  <name>Dauthi Cutthroat</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Dauthi Minion</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>57</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.) &lt;br&gt;{1}{B}, {T}: Destroy target creature with shadow.</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)&lt;br&gt;{1}{B}, {T}: Destroy target creature with shadow.</printedText>
+  <flavorText>In their twisted logic, to empty the shadow world is to escape it.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6092</id>
+  <name>Spike Cannibal</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>75</setNumber>
+  <artist>Joel Biske</artist>
+  <oracleText>Spike Cannibal comes into play with a +1/+1 counter on it. &lt;br&gt;When Spike Cannibal comes into play, move all +1/+1 counters from all creatures onto it.</oracleText>
+  <printedText>Spike Cannibal comes into play with one +1/+1 counter on it.&lt;br&gt;When Spike Cannibal comes into play, move all +1/+1 counters from all creatures onto Spike Cannibal.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6093</id>
+  <name>Mind Maggots</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Insect</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>66</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>When Mind Maggots comes into play, discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.</oracleText>
+  <printedText>When Mind Maggots comes into play, choose and discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6094</id>
+  <name>Dauthi Warlord</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Dauthi Soldier</type>
+  <power>*</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>59</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.) &lt;br&gt;Dauthi Warlord's power is equal to the number of creatures with shadow in play.</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)&lt;br&gt;Dauthi Warlord has power equal to the number of creatures with shadow in play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6095</id>
+  <name>Necrologia</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>68</setNumber>
+  <artist>Brom</artist>
+  <oracleText>Play Necrologia only during your end of turn step. &lt;br&gt; &lt;br&gt;As an additional cost to play Necrologia, pay any amount of life. &lt;br&gt; &lt;br&gt;Draw cards equal to the life paid this way.</oracleText>
+  <printedText>Play Necrologia only during your discard phase.&lt;br&gt;Pay X life: Draw X cards.</printedText>
+  <flavorText>"My enemies' death yields threefold benefit: removal, reuse, and research."&lt;br&gt;--Volrath</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6097</id>
+  <name>Slaughter</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>74</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Buyback-Pay 4 life. (You may pay 4 life in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Destroy target nonblack creature. It can't be regenerated.</oracleText>
+  <printedText>Buyback--Pay 4 life. (You may pay 4 life in addition to any other costs when you play this spell. If you do, put it into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Destroy target nonblack creature. That creature cannot be regenerated this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6098</id>
+  <name>Oath of Ghouls</name>
+  <cost>{1}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>69</setNumber>
+  <artist>Brom</artist>
+  <oracleText>At the beginning of each player's upkeep, if there are more creature cards in that player's graveyard than in any of his or her opponents' graveyards, the player may return target creature card of his or her choice from his or her graveyard to his or her hand.</oracleText>
+  <printedText>During each player's upkeep, if there are more creature cards in that player's graveyard than in target opponent's graveyard, the player may return a creature card from his or her graveyard to his or her hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6099</id>
+  <name>Entropic Specter</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Specter Spirit</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>61</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Flying &lt;br&gt;As Entropic Specter comes into play, choose an opponent. &lt;br&gt;Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand. &lt;br&gt;Whenever Entropic Specter deals damage to a player, that player discards a card.</oracleText>
+  <printedText>Flying&lt;br&gt;Entropic Specter has power and toughness each equal to the number of cards in target opponent's hand.&lt;br&gt;If Entropic Specter damages any player, that player chooses and discards a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6100</id>
+  <name>Volrath's Dungeon</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>78</setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Pay 5 life: Destroy Volrath's Dungeon. Any player may play this ability but only during his or her turn. &lt;br&gt;Discard a card: Target player puts a card from his or her hand on top of his or her library. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>Any player may pay 5 life during his or her turn to destroy Volrath's Dungeon.&lt;br&gt;Choose and discard a card: Target player chooses a card in his or her hand and puts that card on top of his or her library. Play this ability as a sorcery.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6103</id>
+  <name>Recurring Nightmare</name>
+  <cost>{2}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>72</setNumber>
+  <artist>Jeff Laubenstein</artist>
+  <oracleText>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to play. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>Sacrifice a creature, Return Recurring Nightmare to owner's hand: Put target creature card from your graveyard into play. Play this ability as a sorcery.</printedText>
+  <flavorText>"I am confined by sleep and defined by nightmare."&lt;br&gt;--Crovax</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6104</id>
+  <name>Hatred</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>64</setNumber>
+  <artist>Brom</artist>
+  <oracleText>As an additional cost to play Hatred, pay any amount of life. &lt;br&gt; &lt;br&gt;Target creature gets +X/+0 until end of turn, where X is the amount of life paid this way.</oracleText>
+  <printedText>Pay X life: Target creature gets +X/+0 until end of turn.</printedText>
+  <flavorText>"I will flay the skin from your flesh and the flesh from your bones and scrape your bones dry. And still you will not have suffered enough."&lt;br&gt;--Greven il-Vec, to Gerrard</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6105</id>
+  <name>Cinder Crawler</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Salamander</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>80</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>{R}: Cinder Crawler gets +1/+0 until end of turn. Play this ability only if Cinder Crawler is blocked.</oracleText>
+  <printedText>{R}: Cinder Crawler gets +1/+0 until end of turn. Use this ability only if Cinder Crawler is blocked.</printedText>
+  <flavorText>The crawler doesn't care what gets in its way. It pushes everything into the boiling muck and waits for the meal to cook.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6106</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>96</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Raging Goblin is unaffected by summoning sickness.</printedText>
+  <flavorText>Volrath has bred them to fear only him. Are they charging into battle, or merely fleeing his wrath?</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6107</id>
+  <name>Furnace Brood</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>84</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>{R}: Target creature can't be regenerated this turn.</oracleText>
+  <printedText>{R}: Target creature cannot be regenerated this turn.</printedText>
+  <flavorText>Furnace air crackles with magmatic cackles.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6108</id>
+  <name>Reckless Ogre</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ogre</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>98</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.</oracleText>
+  <printedText>If Reckless Ogre attacks and no other creatures do, it gets +3/+0 until end of turn.</printedText>
+  <flavorText>There is no such thing as a regiment of ogres.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6109</id>
+  <name>Maniacal Rage</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>87</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.</oracleText>
+  <printedText>Enchanted creature gets +2/+2 and cannot block.</printedText>
+  <flavorText>Only by sacrificing any semblance of defense could Gerrard best Greven.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6110</id>
+  <name>Anarchist</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>79</setNumber>
+  <artist>Brom</artist>
+  <oracleText>When Anarchist comes into play, you may return target sorcery card from your graveyard to your hand.</oracleText>
+  <printedText>When Anarchist comes into play, you may return target sorcery card from your graveyard to your hand.</printedText>
+  <flavorText>"I'll take that. You won't need it when the revolution comes."</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6111</id>
+  <name>Mage il-Vec</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>86</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.</oracleText>
+  <printedText>{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.</printedText>
+  <flavorText>Living below a flowstone foundry produces a disproportionate number of fire mages among the il.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6112</id>
+  <name>Sonic Burst</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>103</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>As an additional cost to play Sonic Burst, discard a card at random. &lt;br&gt;Sonic Burst deals 4 damage to target creature or player.</oracleText>
+  <printedText>Discard a card at random: Sonic Burst deals 4 damage to target creature or player.</printedText>
+  <flavorText>Music scythes the savage beast.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6113</id>
+  <name>Paroxysm</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>94</setNumber>
+  <artist>Scott Kirschner</artist>
+  <oracleText>Enchant creature &lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, reveal the top card of that player's library. If that card is a land card, destroy that creature. Otherwise, it gets +3/+3 until end of turn. (Return the card to the top of the player's library, face down.)</oracleText>
+  <printedText>During the upkeep of enchanted creature's controller, reveal the top card of that player's library to all players. If that card is a land card, destroy enchanted creature. Otherwise, enchanted creature gets +3/+3 until end of turn. (Return the card to the top of the player's library, face down.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6114</id>
+  <name>Dizzying Gaze</name>
+  <cost>{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>81</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Enchant creature you control &lt;br&gt;{R}: Enchanted creature deals 1 damage to target creature with flying.</oracleText>
+  <printedText>Play Dizzying Gaze only on a creature you control.&lt;br&gt;{R}: Enchanted creature deals 1 damage to target creature with flying.</printedText>
+  <flavorText>"When I cut down my angel I only started my fall."&lt;br&gt;--Crovax</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6115</id>
+  <name>Onslaught</name>
+  <cost>{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>92</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Whenever you play a creature spell, tap target creature.</oracleText>
+  <printedText>Whenever you successfully cast a creature spell, tap target creature.</printedText>
+  <flavorText>The last thing to go through the mogg's mind was its teeth.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6116</id>
+  <name>Keeper of the Flame</name>
+  <cost>{R}{R}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>85</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>{R}, {T}: Keeper of the Flame deals 2 damage to target opponent with more life than you.</oracleText>
+  <printedText>{R}, {T}: Keeper of the Flame deals 2 damage to target opponent. Use this ability only if that opponent has more life than you.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6117</id>
+  <name>Scalding Salamander</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Salamander</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>100</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.</oracleText>
+  <printedText>{0}: Scalding Salamander deals 1 damage to each creature without flying defending player controls. Play this ability only if Scalding Salamander is attacking and only once each turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6118</id>
+  <name>Mogg Assassin</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin Assassin</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>88</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>{T}: You and target opponent each choose a target creature the other controls. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.</oracleText>
+  <printedText>{T}: Flip a coin. If you win the flip, destroy target creature an opponent controls. Otherwise, destroy target creature of that opponent's choice.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6120</id>
+  <name>Flowstone Flood</name>
+  <cost>{3}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>83</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Buyback-Pay 3 life, Discard a card at random (You may pay 3 life and discard a card at random in addition to any other costs as you play this spell. If you do, put this card into your hand as it resolves.) &lt;br&gt;Destroy target land.</oracleText>
+  <printedText>Buyback--Pay 3 life, Discard a card at random. (You may pay 3 life and discard a card at random in addition to any other costs when you play this spell. If you do, put Flowstone Flood into your hand instead of your graveyard as part of the spell's effect.)&lt;br&gt;Destroy target land.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6121</id>
+  <name>Spellshock</name>
+  <cost>{2}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>104</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Whenever a player plays a spell, Spellshock deals 2 damage to that player.</oracleText>
+  <printedText>Whenever any player successfully casts a spell, Spellshock deals 2 damage to him or her.</printedText>
+  <flavorText>A snap of fingers, a snap of teeth.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6123</id>
+  <name>Price of Progress</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>95</setNumber>
+  <artist>Richard Kane Ferguson</artist>
+  <oracleText>Price of Progress deals 2 damage to each player for each nonbasic land he or she controls.</oracleText>
+  <printedText>Price of Progress deals 2 damage to each player for each nonbasic land he or she controls.</printedText>
+  <flavorText>Man versus nature is not a fair fight.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6124</id>
+  <name>Oath of Mages</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>90</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>At the beginning of each player's upkeep, that player may have Oath of Mages deal 1 damage to target player of his or her choice who has more life than he or she does and who is his or her opponent.</oracleText>
+  <printedText>During each player's upkeep, if that player has less life than target opponent, he or she may have Oath of Mages deal 1 damage to that opponent.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6126</id>
+  <name>Pandemonium</name>
+  <cost>{3}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>93</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Whenever a creature comes into play, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.</oracleText>
+  <printedText>Whenever any creature comes into play, that creature's controller may choose to have it deal damage equal to its power to target creature or player.</printedText>
+  <flavorText>"If we cannot live proudly, we die so"&lt;br&gt;--Eladamri, Lord of Leaves</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6127</id>
+  <name>Ogre Shaman</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Creature - Ogre Shaman</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>91</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</oracleText>
+  <printedText>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</printedText>
+  <flavorText>Ogre shamans must be bright enough to learn their invocations and dim enough to use them.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6128</id>
+  <name>Monstrous Hound</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Hound</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>89</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Monstrous Hound can't attack unless you control more lands than defending player. &lt;br&gt;Monstrous Hound can't block unless you control more lands than attacking player.</oracleText>
+  <printedText>Monstrous Hound cannot attack unless you control more lands than defending player.&lt;br&gt;Monstrous Hound cannot block unless you control more lands than attacking player.</printedText>
+  <flavorText>"Stay."</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6129</id>
+  <name>Sabertooth Wyvern</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Drake</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>99</setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Flying, first strike</oracleText>
+  <printedText>Flying, first strike</printedText>
+  <flavorText>Most creatures grow out of their baby teeth, but sabertooth wyverns grow into theirs.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6130</id>
+  <name>Seismic Assault</name>
+  <cost>{R}{R}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>101</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>Discard a land card: Seismic Assault deals 2 damage to target creature or player.</oracleText>
+  <printedText>Choose and discard a land card: Seismic Assault deals 2 damage to target creature or player.</printedText>
+  <flavorText>The flowstone seemed for a moment to assume Greven's rage--it lunged like a wild beast at the Weatherlight.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6131</id>
+  <name>Pygmy Troll</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Troll</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>118</setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>Whenever Pygmy Troll becomes blocked, it gets +1/+1 until end of turn for each creature blocking it. &lt;br&gt; &lt;br&gt;{G}: Regenerate Pygmy Troll.</oracleText>
+  <printedText>For each creature that blocks it, Pygmy Troll gets +1/+1 until end of turn.&lt;br&gt;{G}: Regenerate Pygmy Troll.</printedText>
+  <flavorText>"Who you callin' --'shorty'?"</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6133</id>
+  <name>Elvish Berserker</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>110</setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+  <printedText>For each creature that blocks it, Elvish Berserker gets +1/+1 until end of turn.</printedText>
+  <flavorText>Their fury scatters enemies like a pile of dry leaves.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6134</id>
+  <name>Rabid Wolverines</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Wolverine</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>119</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Whenever Rabid Wolverines becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+  <printedText>For each creature that blocks it, Rabid Wolverines gets +1/+1 until end of turn.</printedText>
+  <flavorText>Is there any other kind?</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6135</id>
+  <name>Wood Elves</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Elf Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>130</setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>When Wood Elves comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>When Wood Elves comes into play, search your library for a forest card and put that forest into play. Shuffle your library afterwards.</printedText>
+  <flavorText>Secure in the embrace of wood, they want no part of Eladamri's war.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6136</id>
+  <name>Rootwater Alligator</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Crocodile</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>122</setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Sacrifice a Forest: Regenerate Rootwater Alligator.</oracleText>
+  <printedText>Sacrifice a forest: Regenerate Rootwater Alligator.</printedText>
+  <flavorText>Subduing and skinning an alligator is the first rite of maturity adolescent merfolk must pass.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6137</id>
+  <name>Avenging Druid</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human Druid</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>105</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>Whenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. Put that card into play and put all other cards revealed this way into your graveyard.</oracleText>
+  <printedText>If Avenging Druid damages any opponent, you may reveal cards from your library until you reveal a land card. Put that land into play and put all other revealed cards into your graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6138</id>
+  <name>Jackalope Herd</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Rabbit Beast</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>111</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>When you play a spell, return Jackalope Herd to its owner's hand.</oracleText>
+  <printedText>If you play any spell, return Jackalope Herd to owner's hand.</printedText>
+  <flavorText>There's little more demeaning than getting your butt kicked by a bunch of bunnies.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6139</id>
+  <name>Reclaim</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>120</setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Put target card from your graveyard on top of your library.</oracleText>
+  <printedText>Put target card from your graveyard on top of your library.</printedText>
+  <flavorText>The wise pay as much attention to what they throw away as to what they keep.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6140</id>
+  <name>Resuscitate</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>121</setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Until end of turn, creatures you control gain "{1}: Regenerate this creature."</oracleText>
+  <printedText>Until end of turn, each creature you control gains "{1}: Regenerate this creature."</printedText>
+  <flavorText>"It is the art of convincing someone to live."&lt;br&gt;--Orim, Samite healer</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6141</id>
+  <name>Predatory Hunger</name>
+  <cost>{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>117</setNumber>
+  <artist>Brom</artist>
+  <oracleText>Enchant creature &lt;br&gt;Whenever an opponent plays a creature spell, put a +1/+1 counter on enchanted creature.</oracleText>
+  <printedText>Whenever any opponent successfully casts a creature spell, put a +1/+1 counter on enchanted creature.</printedText>
+  <flavorText>Hunger growls, never purrs.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6142</id>
+  <name>Keeper of the Beasts</name>
+  <cost>{G}{G}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>112</setNumber>
+  <artist>rk post</artist>
+  <oracleText>{G}, {T}: Put a 2/2 green Beast creature token into play. Play this ability only if an opponent controls more creatures than you.</oracleText>
+  <printedText>{G}, {T}: Put a Beast token into play. Treat this token as a 2/2 green creature. Play this ability only if target opponent controls more creatures than you.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6143</id>
+  <name>Spike Rogue</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>127</setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Spike Rogue comes into play with two +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature. &lt;br&gt;{2}, Remove a +1/+1 counter from a creature you control: Put a +1/+1 counter on Spike Rogue.</oracleText>
+  <printedText>Spike Rogue comes into play with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature.&lt;br&gt;{2}, Remove a +1/+1 counter from any creature you control: Put a +1/+1 counter on Spike Rogue.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6144</id>
+  <name>Cartographer</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>107</setNumber>
+  <artist>Jeff Laubenstein</artist>
+  <oracleText>When Cartographer comes into play, you may return target land card from your graveyard to your hand.</oracleText>
+  <printedText>When Cartographer comes into play, you may return target land card from your graveyard to your hand.</printedText>
+  <flavorText>How do you map a world when the land moves beneath your feet?</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6145</id>
+  <name>Crashing Boars</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Boar</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>108</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</oracleText>
+  <printedText>If Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</printedText>
+  <flavorText>Bores ruin a party. Boars are party to ruin.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6146</id>
+  <name>Elven Palisade</name>
+  <cost>{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>109</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Sacrifice a Forest: Target attacking creature gets -3/-0 until end of turn.</oracleText>
+  <printedText>Sacrifice a forest: Target attacking creature gets -3/-0 until end of turn.</printedText>
+  <flavorText>"Volrath is not the only one who can shape this world to serve him."&lt;br&gt;--Eladamri, Lord of Leaves</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6147</id>
+  <name>Bequeathal</name>
+  <cost>{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Common</rarity>
+  <setNumber>106</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, you draw two cards.</oracleText>
+  <printedText>If enchanted creature is put into any graveyard, draw two cards.</printedText>
+  <flavorText>"On my death, I give you this treasure: the knowledge that life is hard, yet too soon past."&lt;br&gt;--Dal funeral rite</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6149</id>
+  <name>Song of Serenity</name>
+  <cost>{1}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>125</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Enchanted creatures can't attack or block.</oracleText>
+  <printedText>Creatures with any enchantments on them cannot attack or block.</printedText>
+  <flavorText>Heartwood brings peace in great symphonies where dryads conduct the trees through every note.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6150</id>
+  <name>Survival of the Fittest</name>
+  <cost>{1}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>129</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+  <printedText>{G}, Choose and discard a creature card: Search your library for a creature card, reveal that card to all players, and put it into your hand. Shuffle your library afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6151</id>
+  <name>Oath of Druids</name>
+  <cost>{1}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>115</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>At the beginning of each player's upkeep, if that player controls fewer creatures than any of his or her opponents, the player may reveal cards from the top of his or her library until he or she reveals a creature card. The player puts that card into play and all other cards revealed this way into his or her graveyard.</oracleText>
+  <printedText>During each player's upkeep, if that player controls fewer creatures than target opponent, the player may reveal cards from his or her library until he or she reveals a creature card. The player puts that creature into play and all other revealed cards into his or her graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6152</id>
+  <name>Spike Weaver</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>128</setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Spike Weaver comes into play with three +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature. &lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</oracleText>
+  <printedText>Spike Weaver comes into play with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Creatures deal no combat damage this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6154</id>
+  <name>Manabond</name>
+  <cost>{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>113</setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>At the end of your turn, you may reveal your hand and put all land cards from it into play. If you do, discard your hand.</oracleText>
+  <printedText>During your discard phase, you may choose to put all land cards from your hand into play. If you do, discard the rest of your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6155</id>
+  <name>Mirri, Cat Warrior</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Legendary Creature - Cat Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>114</setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it's unblockable as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)</oracleText>
+  <printedText>Mirri, Cat Warrior counts as a Cat Warrior.&lt;br&gt;First strike; forestwalk (If defending player controls any forests, this creature is unblockable.)&lt;br&gt;Attacking does not cause Mirri to tap.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6156</id>
+  <name>Workhorse</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Horse</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>142</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Workhorse comes into play with four +1/+1 counters on it. &lt;br&gt;Remove a +1/+1 counter from Workhorse: Add {1} to your mana pool.</oracleText>
+  <printedText>Workhorse comes into play with four +1/+1 counters on it.&lt;br&gt;Remove a +1/+1 counter from Workhorse: Add one colorless mana to your mana pool. Play this ability as a mana source.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6158</id>
+  <name>Spellbook</name>
+  <cost>{0}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>138</setNumber>
+  <artist>Ciruelo</artist>
+  <oracleText>You have no maximum hand size.</oracleText>
+  <printedText>Skip your discard phase.</printedText>
+  <flavorText>"Everything the wise woman learned she wrote in a book, and when the pages were black with ink, she took white ink and began again."&lt;br&gt;--Karn, silver golem</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6159</id>
+  <name>Transmogrifying Licid</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Licid</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>141</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>{1}, {T}: Transmogrifying Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {1} to end this effect. &lt;br&gt;Enchanted creature gets +1/+1 and is an artifact in addition to its other types.</oracleText>
+  <printedText>Transmogrifying Licid counts as a Licid.&lt;br&gt;{1}, {T}: Transmogrifying Licid loses this ability and becomes a creature enchantment that reads "Enchanted creature gets +1/+1 and counts as an artifact" instead of any other type of permanent. Move Transmogrifying Licid onto target creature. You may pay {1} to end this effect.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6160</id>
+  <name>Sphere of Resistance</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>139</setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Spells cost {1} more to play.</oracleText>
+  <printedText>All spells cost an additional {1} to play.</printedText>
+  <flavorText>A sphere pushes equally in all directions.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6162</id>
+  <name>Coat of Arms</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>131</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Each creature gets +1/+1 for each other creature in play that shares a creature type with it. (For example, if a Goblin Warrior, a Goblin Scout, and a Zombie Goblin are in play, each gets +2/+2.)</oracleText>
+  <printedText>Each creature gets +1/+1 for each other creature in play of the same creature type. (For example, if there are three Goblins in play, each of them gets +2/+2.)</printedText>
+  <flavorText>"Hup, two, three, four,&lt;br&gt;Dunno how to count no more."&lt;br&gt;--Mogg march</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6163</id>
+  <name>Erratic Portal</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>132</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</oracleText>
+  <printedText>{1}, {T}: Return target creature to owner's hand unless its controller pays {1}.</printedText>
+  <flavorText>"In Barrin's name" cried Lyna as Hanna's sword passed through her, "Ertai sends word that the portal is open--but not for long"</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6164</id>
+  <name>Thopter Squadron</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Thopter</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>140</setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Flying &lt;br&gt;Thopter Squadron comes into play with three +1/+1 counters on it. &lt;br&gt;{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 Thopter artifact creature token with flying into play. Play this ability only any time you could play a sorcery. &lt;br&gt;{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>Flying&lt;br&gt;Thopter Squadron comes into play with three +1/+1 counters on it.&lt;br&gt;{1}, Remove a +1/+1 counter from Thopter Squadron: Put a Thopter token into play. Treat this token as a 1/1 artifact creature with flying. Play this ability as a sorcery.&lt;br&gt;{1}, Sacrifice a Thopter: Put a +1/+1 counter on Thopter Squadron. Play this ability as a sorcery.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6165</id>
+  <name>Medicine Bag</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>133</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>{1}, {T}, Discard a card: Regenerate target creature.</oracleText>
+  <printedText>{1}, {T}, Choose and discard a card: Regenerate target creature.</printedText>
+  <flavorText>"My medicine bag and I have treated countless wounds and illnesses. But never have I seen so many made so sick for so long. We will never eat Squee's cooking again." &lt;br&gt;--Orim, journal</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6167</id>
+  <name>Memory Crystal</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>134</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Buyback costs are reduced by {2}.</oracleText>
+  <printedText>All buyback costs are reduced by {2}.</printedText>
+  <flavorText>Hues of recollection flicker like facets of a gem.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>6168</id>
+  <name>City of Traitors</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>143</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>When you play another land, sacrifice City of Traitors. &lt;br&gt; &lt;br&gt;{T}: Add {2} to your mana pool.</oracleText>
+  <printedText>If you play a land, sacrifice City of Traitors.&lt;br&gt;{T}: Add two colorless mana to your mana pool.</printedText>
+  <flavorText>"While we fought, the il surrendered."&lt;br&gt;--Oracle en-Vec</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>6169</id>
+  <name>High Ground</name>
+  <cost>{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Exodus</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>7</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Each creature you control can block an additional creature.</oracleText>
+  <printedText>Each creature you control may block one additional creature. (All defense must be legal.)</printedText>
+  <flavorText>In war, as in society, position is everything.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>9842</id>
+  <name>Spike Hatcher</name>
+  <cost>{6}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Exodus</edition>
+  <rarity>Rare</rarity>
+  <setNumber>126</setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Spike Hatcher comes into play with six +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature. &lt;br&gt;{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</oracleText>
+  <printedText>Spike Hatcher comes into play with six +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+</list>
+</cards>

@@ -1,0 +1,703 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>207897</id>
+  <name>Acidic Sliver</name>
+  <cost>{B}{R}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>13</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."</oracleText>
+  <printedText>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."</printedText>
+  <flavorText>The first sliver burst against the cave wall, and others piled in behind to deepen the new tunnel.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>207921</id>
+  <name>Amoeboid Changeling</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Shapeshifter</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>3</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</oracleText>
+  <printedText>Changeling (This card is every creature type at all times.)&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>207930</id>
+  <name>Ancient Ziggurat</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>31</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</oracleText>
+  <printedText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.</printedText>
+  <flavorText>Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207925</id>
+  <name>Aphetto Dredging</name>
+  <cost>{3}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>28</setNumber>
+  <artist>Monte Michael Moore</artist>
+  <oracleText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</oracleText>
+  <printedText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</printedText>
+  <flavorText>Phage became both executioner and savior, helping others to the same rebirth she had found.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>207898</id>
+  <name>Armor Sliver</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>16</setNumber>
+  <artist>Scott Kirschner</artist>
+  <oracleText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</oracleText>
+  <printedText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."</printedText>
+  <flavorText>Hanna: "We must learn how they protect each other."&lt;br&gt;Mirri: "After they're done trying to kill us, all right?"</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>207899</id>
+  <name>Barbed Sliver</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>18</setNumber>
+  <artist>Scott Kirschner</artist>
+  <oracleText>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."</oracleText>
+  <printedText>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."</printedText>
+  <flavorText>Spans of spines leapt from one sliver to the next, forming a deadly hedge around the Weatherlight.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>208039</id>
+  <name>Brood Sliver</name>
+  <cost>{4}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>22</setNumber>
+  <artist>Ron Spears</artist>
+  <oracleText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</oracleText>
+  <printedText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</printedText>
+  <flavorText>Within weeks, more slivers nested in Otaria than ever existed on Rath.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207900</id>
+  <name>Clot Sliver</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>5</setNumber>
+  <artist>Jeff Laubenstein</artist>
+  <oracleText>All Slivers have "{2}: Regenerate this permanent."</oracleText>
+  <printedText>All Slivers have "{2}: Regenerate this permanent."</printedText>
+  <flavorText>"One would think I would be accustomed to unexpected returns."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>207927</id>
+  <name>Coat of Arms</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>29</setNumber>
+  <artist>Scott M. Fischer</artist>
+  <oracleText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</oracleText>
+  <printedText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it.</printedText>
+  <flavorText>"Hup, two, three, four,&lt;br&gt;Dunno how to count no more."&lt;br&gt;--Mogg march</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>207901</id>
+  <name>Crystalline Sliver</name>
+  <cost>{W}{U}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>11</setNumber>
+  <artist>L. A. Williams</artist>
+  <oracleText>All Slivers have shroud. (They can't be the targets of spells or abilities.)</oracleText>
+  <printedText>All Slivers have shroud.</printedText>
+  <flavorText>Bred as living shields, these slivers have proven unruly--they know they cannot be caught.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{W}</color>
+</mc>
+<mc>
+  <id>207926</id>
+  <name>Distant Melody</name>
+  <cost>{3}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>27</setNumber>
+  <artist>Omar Rayyan</artist>
+  <oracleText>Choose a creature type. Draw a card for each permanent you control of that type.</oracleText>
+  <printedText>Choose a creature type. Draw a card for each permanent you control of that type.</printedText>
+  <flavorText>Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts--on the stolen dreams and rumors they serve her.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>207934</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>41</setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207902</id>
+  <name>Frenzy Sliver</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>6</setNumber>
+  <artist>Glen Angus</artist>
+  <oracleText>All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)</oracleText>
+  <printedText>All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)</printedText>
+  <flavorText>The Arturan conjurers took the strange, alien fossil and patterned their own twisted creations in its image.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>207903</id>
+  <name>Fungus Sliver</name>
+  <cost>{3}{G}</cost>
+  <type>Creature  -- Fungus Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>21</setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it." (The damage is dealt before the counter is put on.)</oracleText>
+  <printedText>All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it."</printedText>
+  <flavorText>"When a sliver of this breed enters the hive, the others claw each other in frenzied fits, thereby ensuring their rapid growth."&lt;br&gt;--Rukarumel, field journal</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207904</id>
+  <name>Fury Sliver</name>
+  <cost>{5}{R}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>25</setNumber>
+  <artist>Parente</artist>
+  <oracleText>All Sliver creatures have double strike.</oracleText>
+  <printedText>All Sliver creatures have double strike.</printedText>
+  <flavorText>"A rift opened, and our arrows were abruptly stilled. To move was to push the world. But the sliver's claw still twitched, red wounds appeared in Thed's chest, and ribbons of blood hung in the air."&lt;br&gt;--Adom Capashen, Benalish hero</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>207905</id>
+  <name>Gemhide Sliver</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>8</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>All Slivers have "{T}: Add one mana of any color to your mana pool."</oracleText>
+  <printedText>All Slivers have "{T}: Add one mana of any color to your mana pool."</printedText>
+  <flavorText>"The land is weary. Even Skyshroud is depleted. We must find another source of mana--one that is growing despite our withering world."&lt;br&gt;--Freyalise</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207906</id>
+  <name>Heart Sliver</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>7</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>All Sliver creatures have haste.</oracleText>
+  <printedText>All Sliver creatures have haste.</printedText>
+  <flavorText>Gerrard looked all around for the source of the mysterious pulse, and at that moment the slivers boiled forth from the crevasses.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>207924</id>
+  <name>Heartstone</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>26</setNumber>
+  <artist>John Matson</artist>
+  <oracleText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</oracleText>
+  <printedText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</printedText>
+  <flavorText>"Finding a true heartstone is even harder than finding a true heart."&lt;br&gt;--Hanna, Weatherlight navigator</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>207907</id>
+  <name>Hibernation Sliver</name>
+  <cost>{U}{B}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>12</setNumber>
+  <artist>Scott Kirschner</artist>
+  <oracleText>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."</oracleText>
+  <printedText>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."</printedText>
+  <flavorText>Mogglings have been known to play ball with hibernating slivers, completely unaware of their true nature.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{B}</color>
+</mc>
+<mc>
+  <id>207908</id>
+  <name>Homing Sliver</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>19</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>Each Sliver card in each player's hand has slivercycling {3}.&lt;br&gt;Slivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)</oracleText>
+  <printedText>Each Sliver card in each player's hand has slivercycling {3}.&lt;br&gt;Slivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>207935</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>38</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>208040</id>
+  <name>Metallic Sliver</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>L. A. Williams</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>207910</id>
+  <name>Might Sliver</name>
+  <cost>{4}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>23</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>All Sliver creatures get +2/+2.</oracleText>
+  <printedText>All Sliver creatures get +2/+2.</printedText>
+  <flavorText>"The colossal thing rumbled over the ridge, tree husks crumbling before it. The ones we were already fighting howled as it came, their muscles suddenly surging, and we knew it was time to flee."&lt;br&gt;--Llanach, Skyshroud ranger</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207936</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>40</setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207911</id>
+  <name>Muscle Sliver</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>9</setNumber>
+  <artist>Richard Kane Ferguson</artist>
+  <oracleText>All Sliver creatures get +1/+1.</oracleText>
+  <printedText>All Sliver creatures get +1/+1.</printedText>
+  <flavorText>The air was filled with the cracks and snaps of flesh hardening as the new sliver joined the battle.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207912</id>
+  <name>Necrotic Sliver</name>
+  <cost>{1}{W}{B}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>20</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."</oracleText>
+  <printedText>All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."</printedText>
+  <flavorText>Though Volrath is long dead, the slivers have become everything he wanted them to be: mindless instruments of destruction and despair.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}{W}</color>
+</mc>
+<mc>
+  <id>207937</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>37</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207913</id>
+  <name>Quick Sliver</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>10</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Flash&lt;br&gt;Any player may play Sliver cards as though they had flash.</oracleText>
+  <printedText>Flash&lt;br&gt;Any player may cast Sliver cards as though they had flash.</printedText>
+  <flavorText>The directors of the Riptide Project wanted instant results on the sliver experiments. They got their wish.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>208042</id>
+  <name>Rootbound Crag</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>32</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</oracleText>
+  <printedText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207933</id>
+  <name>Rupture Spire</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>33</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207915</id>
+  <name>Sliver Overlord</name>
+  <cost>{W}{U}{B}{R}{G}</cost>
+  <type>Legendary Creature  -- Sliver Mutant</type>
+  <power>7</power>
+  <toughness>7</toughness>
+  <edition>PDS</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>24</setNumber>
+  <artist>Tony Szczudlo</artist>
+  <oracleText>{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.&lt;br&gt;{3}: Gain control of target Sliver. (This effect lasts indefinitely.)</oracleText>
+  <printedText>{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.&lt;br&gt;{3}: Gain control of target Sliver.</printedText>
+  <flavorText>The end of evolution.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}{B}{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>207916</id>
+  <name>Spectral Sliver</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Sliver Spirit</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>17</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."</oracleText>
+  <printedText>All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."</printedText>
+  <flavorText>"Sure, I've seen agents of the Cabal here and there. Well, not here, and certainly not in any of the sliver labs. Oh dear, I've said too much."&lt;br&gt;--Apprentice researcher</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>208041</id>
+  <name>Spined Sliver</name>
+  <cost>{R}{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>14</setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</oracleText>
+  <printedText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.</printedText>
+  <flavorText>"Slivers are evil and slivers are sly;&lt;br&gt;And if you get eaten, then no one will cry."&lt;br&gt;--Mogg children's rhyme</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>207938</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Land</rarity>
+  <setNumber>39</setNumber>
+  <artist>Brom</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207928</id>
+  <name>Terramorphic Expanse</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207918</id>
+  <name>Victual Sliver</name>
+  <cost>{G}{W}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>15</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."</oracleText>
+  <printedText>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."</printedText>
+  <flavorText>"We are kinfolk," explained Karn to the sliver queen. "Just as you need your progeny to complete you, so do I need the pieces of the Legacy to make me whole."</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>207919</id>
+  <name>Virulent Sliver</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>2</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)</oracleText>
+  <printedText>All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>208043</id>
+  <name>Vivid Creek</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>35</setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207922</id>
+  <name>Vivid Grove</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>36</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>207929</id>
+  <name>Wild Pair</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>PDS</edition>
+  <rarity>Rare</rarity>
+  <setNumber>30</setNumber>
+  <artist>Mark Brill</artist>
+  <oracleText>Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.</oracleText>
+  <printedText>Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>207920</id>
+  <name>Winged Sliver</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Sliver</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>PDS</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>All Sliver creatures have flying.</oracleText>
+  <printedText>All Sliver creatures have flying.</printedText>
+  <flavorText>"Everything around here has cut a deal with gravity."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+</list>
+</cards>

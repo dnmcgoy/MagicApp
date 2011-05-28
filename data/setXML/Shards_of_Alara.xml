@@ -1,0 +1,4239 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>137900</id>
+  <name>Jund Charm</name>
+  <cost>{B}{R}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>175</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>Choose one - Remove target player's graveyard from the game; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.</oracleText>
+  <printedText>Choose one Remove target player's graveyard from the game; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.</printedText>
+  <flavorText>Jund pulses with raw energy, waiting for shamans to shape it into useful form.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>137905</id>
+  <name>Naya Charm</name>
+  <cost>{R}{G}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>180</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Choose one - Naya Charm deals 3 damage to target creature; or return target card in a graveyard to its owner's hand; or tap all creatures target player controls.</oracleText>
+  <printedText>Choose one Naya Charm deals 3 damage to target creature; or return target card in a graveyard to its owner's hand; or tap all creatures target player controls.</printedText>
+  <flavorText>Deep in nature's core lies a potential unsullied by greed or civilization.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>137913</id>
+  <name>Esper Charm</name>
+  <cost>{W}{U}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>167</setNumber>
+  <artist>Michael Bruinsma</artist>
+  <oracleText>Choose one - Destroy target enchantment; or draw two cards; or target player discards two cards.</oracleText>
+  <printedText>Choose one Destroy target enchantment; or draw two cards; or target player discards two cards.</printedText>
+  <flavorText>"Thoughts are commodities. Someone will pay a good price for them. Even ones as simplistic as yours . . ."&lt;br&gt;--Ennor, mentalist</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>137927</id>
+  <name>Grixis Charm</name>
+  <cost>{U}{B}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>171</setNumber>
+  <artist>Lars Grant-West</artist>
+  <oracleText>Choose one - Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.</oracleText>
+  <printedText>Choose one Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.</printedText>
+  <flavorText>"So many choices. Shall I choose loathing, hate, or malice today?"&lt;br&gt;--Eliza of the Keep</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>137931</id>
+  <name>Bant Charm</name>
+  <cost>{G}{W}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>155</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Choose one - Destroy target artifact; or put target creature on the bottom of its owner's library; or counter target instant spell.</oracleText>
+  <printedText>Choose one Destroy target artifact; or put target creature on the bottom of its owner's library; or counter target instant spell.</printedText>
+  <flavorText>Bant is a world where death and chaos hold no sway.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>174787</id>
+  <name>Mosstodon</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Plant Elephant</type>
+  <power>5</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>139</setNumber>
+  <artist>Parente</artist>
+  <oracleText>{1}: Target creature with power 5 or greater gains trample until end of turn.</oracleText>
+  <printedText>{1}: Target creature with power 5 or greater gains trample until end of turn.</printedText>
+  <flavorText>Whether gargantuans are the manifested will of Progenitus or simply the result of overabundant resources is moot when a herd of them is thundering at you.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174789</id>
+  <name>Cradle of Vitality</name>
+  <cost>{3}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>7</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>Whenever you gain life, you may pay {1}{W}. If you do, put a +1/+1 counter on target creature for each 1 life you gained.</oracleText>
+  <printedText>Whenever you gain life, you may pay {1}{W}. If you do, put a +1/+1 counter on target creature for each 1 life you gained.</printedText>
+  <flavorText>Naya's trees grow tall and sturdy. Their foliage intertwines to form dewcups, rainwater pools where the elves gather to celebrate life.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174796</id>
+  <name>Minion Reflector</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>211</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Whenever a nontoken creature comes into play under your control, you may pay {2}. If you do, put a token into play that's a copy of that creature. That token has haste and "At end of turn, sacrifice this permanent."</oracleText>
+  <printedText>Whenever a nontoken creature comes into play under your control, you may pay {2}. If you do, put a token into play that's a copy of that creature. That token has haste and "At end of turn, sacrifice this permanent."</printedText>
+  <flavorText>To crack a mirror is to provide an opening for the reflection to escape.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174800</id>
+  <name>Courier's Capsule</name>
+  <cost>{1}{U}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>37</setNumber>
+  <artist>Andrew Murray</artist>
+  <oracleText>{1}{U}, {T}, Sacrifice Courier's Capsule: Draw two cards.</oracleText>
+  <printedText>{1}{U}, {T}, Sacrifice Courier's Capsule: Draw two cards.</printedText>
+  <flavorText>In ages past, Esper couriers bore messages written on ornate scrolls. The medium has grown more sophisticated, but the principle remains the same.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174805</id>
+  <name>Gustrider Exuberant</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>13</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Flying &lt;br&gt;Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.</printedText>
+  <flavorText>"The elves claim the canopy. The nacatl claim the mountains. I suppose you think we ought to stay on the jungle floor?"</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174806</id>
+  <name>Incurable Ogre</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ogre Mutant</type>
+  <power>5</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>105</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Each mutation causes the incurables to look vastly different from one another. They are left with only one thing in common: their insatiable lust for the slaughter.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174808</id>
+  <name>Soul's Might</name>
+  <cost>{4}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>149</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Put X +1/+1 counters on target creature, where X is that creature's power.</oracleText>
+  <printedText>Put X +1/+1 counters on target creature, where X is that creature's power.</printedText>
+  <flavorText>An avatar he sculpts of instinct and force.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174813</id>
+  <name>Soul's Grace</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>28</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>You gain life equal to target creature's power.</oracleText>
+  <printedText>You gain life equal to target creature's power.</printedText>
+  <flavorText>An avatar he sculpts of fellowship and light.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174814</id>
+  <name>Cloudheath Drake</name>
+  <cost>{4}{U}</cost>
+  <type>Artifact Creature - Drake</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>35</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Flying &lt;br&gt;{1}{W}: Cloudheath Drake gains vigilance until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{1}{W}: Cloudheath Drake gains vigilance until end of turn.</printedText>
+  <flavorText>A permanent storm rages over the plain of Cloudheath, and drakes ride its currents--two reminders that some elements of Esper will not be controlled.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174816</id>
+  <name>Glaze Fiend</name>
+  <cost>{1}{B}</cost>
+  <type>Artifact Creature - Illusion</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>77</setNumber>
+  <artist>Joshua Hagler</artist>
+  <oracleText>Flying &lt;br&gt;Whenever another artifact comes into play under your control, Glaze Fiend gets +2/+2 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever another artifact comes into play under your control, Glaze Fiend gets +2/+2 until end of turn.</printedText>
+  <flavorText>Before the zealots of the Ethersworn came to power, Esper illusionists dreamed up creations to mimic a variety of substances.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174817</id>
+  <name>Banewasp Affliction</name>
+  <cost>{1}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>65</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Enchant creature &lt;br&gt;When enchanted creature is put into a graveyard, that creature's controller loses life equal to its toughness.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;When enchanted creature is put into a graveyard, that creature's controller loses life equal to its toughness.</printedText>
+  <flavorText>The consuming undeath of Grixis terrifies the survivors of Vithia, but its fauna is just as fearsome.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174818</id>
+  <name>Lich's Mirror</name>
+  <cost>{5}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>210</setNumber>
+  <artist>Ash Wood</artist>
+  <oracleText>If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.</oracleText>
+  <printedText>If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.</printedText>
+  <flavorText>It shows not what you are but what you were.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174821</id>
+  <name>Bloodthorn Taunter</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Human Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>94</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Haste &lt;br&gt;{T}: Target creature with power 5 or greater gains haste until end of turn.</oracleText>
+  <printedText>Haste&lt;br&gt;{T}: Target creature with power 5 or greater gains haste until end of turn.</printedText>
+  <flavorText>Naya's celebrants stoke the gargantuans into a rage, loosing a tide of muscle with the precision of an arrow.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174822</id>
+  <name>Godtoucher</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>133</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>{1}{W}, {T}: Prevent all damage that would be dealt to target creature with power 5 or greater this turn.</oracleText>
+  <printedText>{1}{W}, {T}: Prevent all damage that would be dealt to target creature with power 5 or greater this turn.</printedText>
+  <flavorText>"Gargantuans die not in moments but in moons. There is still time to aid this noble ancient."</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174823</id>
+  <name>Ranger of Eos</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>21</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>When Ranger of Eos comes into play, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.</oracleText>
+  <printedText>When Ranger of Eos comes into play, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.</printedText>
+  <flavorText>At his side, humble beasts become weapons more deadly than sharpened steel.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174824</id>
+  <name>Relic of Progenitus</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>218</setNumber>
+  <artist>Jean-Sebastien Rossbach</artist>
+  <oracleText>{T}: Target player removes a card in his or her graveyard from the game. &lt;br&gt;{1}, Remove Relic of Progenitus from the game: Remove all graveyards from the game. Draw a card.</oracleText>
+  <printedText>{T}: Target player removes a card in his or her graveyard from the game.&lt;br&gt;{1}, Remove Relic of Progenitus from the game: Remove all graveyards from the game. Draw a card.</printedText>
+  <flavorText>Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174826</id>
+  <name>Angelic Benediction</name>
+  <cost>{3}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>3</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) &lt;br&gt;Whenever a creature you control attacks alone, you may tap target creature.</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;Whenever a creature you control attacks alone, you may tap target creature.</printedText>
+  <flavorText>"Even in single combat, I am never alone."&lt;br&gt;--Rafiq of the Many</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174828</id>
+  <name>Sacellum Godspeaker</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>146</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>{T}: Reveal any number of creature cards with power 5 or greater from your hand. Add {G} to your mana pool for each card revealed this way.</oracleText>
+  <printedText>{T}: Reveal any number of creature cards with power 5 or greater from your hand. Add {G} to your mana pool for each card revealed this way.</printedText>
+  <flavorText>Her connection to the gargantuans puts her in line to become Anima, a sacred but daunting duty.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174830</id>
+  <name>Dispeller's Capsule</name>
+  <cost>{W}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>8</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.</oracleText>
+  <printedText>{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.</printedText>
+  <flavorText>"I find its symmetry pleasing. It rids our world of offensive refuse while disposing of itself."&lt;br&gt;--Dolomarus, Proctor of the Clean</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174831</id>
+  <name>Onyx Goblet</name>
+  <cost>{2}{B}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>81</setNumber>
+  <artist>rk post</artist>
+  <oracleText>{T}: Target player loses 1 life.</oracleText>
+  <printedText>{T}: Target player loses 1 life.</printedText>
+  <flavorText>The goblet was a gift from the sphinx Gorael, who hoped humans and vedalken would eventually destroy each other to acquire it, leaving all of Esper to her own kind.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174833</id>
+  <name>Protomatter Powder</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>53</setNumber>
+  <artist>Francis Tsai</artist>
+  <oracleText>{4}{W}, {T}, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to play.</oracleText>
+  <printedText>{4}{W}, {T}, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to play.</printedText>
+  <flavorText>"There is no such thing as scrap metal. All such material can be repaired with the proper bonding agent."&lt;br&gt;--Quennus, metallurgeon</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174835</id>
+  <name>Dregscape Zombie</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>74</setNumber>
+  <artist>Lars Grant-West</artist>
+  <oracleText>Unearth {B} ({B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Unearth {B} ({B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText>The undead of Grixis are fueled by their hatred of the living.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174837</id>
+  <name>Kathari Screecher</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Bird Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>47</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying &lt;br&gt;Unearth {2}{U} ({2}{U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Flying&lt;br&gt;Unearth {2}{U} ({2}{U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174838</id>
+  <name>Sedraxis Specter</name>
+  <cost>{U}{B}{R}</cost>
+  <type>Creature - Specter</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>192</setNumber>
+  <artist>Cole Eastburn</artist>
+  <oracleText>Flying &lt;br&gt;Whenever Sedraxis Specter deals combat damage to a player, that player discards a card. &lt;br&gt;Unearth {1}{B} ({1}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.&lt;br&gt;Unearth {1}{B} ({1}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>174839</id>
+  <name>Titanic Ultimatum</name>
+  <cost>{R}{R}{G}{G}{G}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>204</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.</oracleText>
+  <printedText>Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.</printedText>
+  <flavorText>"Retribution is best delivered by claws and rage, with both magnified."&lt;br&gt;--Ajani</flavorText>
+  <cmc>7</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>174842</id>
+  <name>Bant Panorama</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>221</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it into play tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it into play tapped. Then shuffle your library.</printedText>
+  <flavorText>Bant's hearts are as pure as its air and as bright as its skies.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174845</id>
+  <name>Scourge Devil</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Devil</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>113</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>When Scourge Devil comes into play, creatures you control get +1/+0 until end of turn. &lt;br&gt;Unearth {2}{R} ({2}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>When Scourge Devil comes into play, creatures you control get +1/+0 until end of turn.&lt;br&gt;Unearth {2}{R} ({2}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174847</id>
+  <name>Archdemon of Unx</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Creature - Demon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>64</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Flying, trample &lt;br&gt;At the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token into play.</oracleText>
+  <printedText>Flying, trample&lt;br&gt;At the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token into play.</printedText>
+  <flavorText>The necropolis at Unx was once a living city, its streets untrodden by death.</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174848</id>
+  <name>Dreg Reaver</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Zombie Beast</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>73</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"On our thirty-fourth day of digging, we unearthed a chamber that contained the intact remains of several species long extinct from Grixis. One in particular should make a fine siege engine . . . ."&lt;br&gt;--Last notes of Shungus Nod, fleshcrafter</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174852</id>
+  <name>Ajani Vengeant</name>
+  <cost>{2}{R}{W}</cost>
+  <type>Planeswalker - Ajani</type>
+  <power></power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>154</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>+1: Target permanent doesn't untap during its controller's next untap step. &lt;br&gt;-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life. &lt;br&gt;-7: Destroy all lands target player controls.</oracleText>
+  <printedText>+1: Target permanent doesn't untap during its controller's next untap step.&lt;br&gt;-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.&lt;br&gt;-7: Destroy all lands target player controls.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}{W}</color>
+</mc>
+<mc>
+  <id>174853</id>
+  <name>Scourglass</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>25</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>{T}, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Play this ability only during your upkeep.</oracleText>
+  <printedText>{T}, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Play this ability only during your upkeep.</printedText>
+  <flavorText>"Soon I will sleep, eyes closing to a world tarnished with flesh, and then wake to a polished vision."&lt;br&gt;--Sharuum</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174859</id>
+  <name>Elspeth, Knight-Errant</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Planeswalker - Elspeth</type>
+  <power></power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>9</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>+1: Put a 1/1 white Soldier creature token into play. &lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn. &lt;br&gt;-8: For the rest of the game, artifacts, creatures, enchantments, and lands you control are indestructible.</oracleText>
+  <printedText>+1: Put a 1/1 white Soldier creature token into play.&lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn.&lt;br&gt;-8: For the rest of the game, artifacts, creatures, enchantments, and lands you control are indestructible.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174863</id>
+  <name>Sprouting Thrinax</name>
+  <cost>{B}{R}{G}</cost>
+  <type>Creature - Lizard</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>197</setNumber>
+  <artist>Jarreau Wimberly</artist>
+  <oracleText>When Sprouting Thrinax is put into a graveyard from play, put three 1/1 green Saproling creature tokens into play.</oracleText>
+  <printedText>When Sprouting Thrinax is put into a graveyard from play, put three 1/1 green Saproling creature tokens into play.</printedText>
+  <flavorText>The vast network of predation on Jund has actually caused some strange creatures to adapt to being eaten.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>174867</id>
+  <name>Sigil of Distinction</name>
+  <cost>{X}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>219</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Sigil of Distinction comes into play with X charge counters on it. &lt;br&gt;Equipped creature gets +1/+1 for each charge counter on Sigil of Distinction. &lt;br&gt;Equip-Remove a charge counter from Sigil of Distinction.</oracleText>
+  <printedText>Sigil of Distinction comes into play with X charge counters on it.&lt;br&gt;Equipped creature gets +1/+1 for each charge counter on Sigil of Distinction.&lt;br&gt;Equip--Remove a charge counter from Sigil of Distinction.</printedText>
+  <flavorText></flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174868</id>
+  <name>Grixis Battlemage</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>78</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>{U}, {T}: Draw a card, then discard a card. &lt;br&gt;{R}, {T}: Target creature can't block this turn.</oracleText>
+  <printedText>{U}, {T}: Draw a card, then discard a card.&lt;br&gt;{R}, {T}: Target creature can't block this turn.</printedText>
+  <flavorText>Vitals of Grixis who eschew undeath must scrape and scratch to retain their mortality. The result is a breed of inventive mages.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174869</id>
+  <name>Qasali Ambusher</name>
+  <cost>{1}{G}{W}</cost>
+  <type>Creature - Cat Warrior</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>184</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Reach &lt;br&gt;If a creature is attacking you and you control a Forest and a Plains, you may play Qasali Ambusher without paying its mana cost and as though it had flash.</oracleText>
+  <printedText>Reach&lt;br&gt;If a creature is attacking you and you control a Forest and a Plains, you may play Qasali Ambusher without paying its mana cost and as though it had flash.</printedText>
+  <flavorText>The surprise of a battle cry can be as deadly as a blade.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>174870</id>
+  <name>Thunder-Thrash Elder</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Viashino Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>117</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>Devour 3 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with three times that many +1/+1 counters on it.)</oracleText>
+  <printedText>Devour 3 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with three times that many +1/+1 counters on it.)</printedText>
+  <flavorText>Viashino thrashes are led by elders who have survived countless challenges.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174871</id>
+  <name>Fleshbag Marauder</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie Warrior</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>76</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>When Fleshbag Marauder comes into play, each player sacrifices a creature.</oracleText>
+  <printedText>When Fleshbag Marauder comes into play, each player sacrifices a creature.</printedText>
+  <flavorText>Grixis is a world where the only things found in abundance are death and decay. Corpses, whole or in part, are the standard currency among necromancers and demons.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174872</id>
+  <name>Esper Battlemage</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>40</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn. &lt;br&gt;{B}, {T}: Target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn.&lt;br&gt;{B}, {T}: Target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText>She can heal the flesh, or exploit its many weaknesses.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174873</id>
+  <name>Hissing Iguanar</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Lizard</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>104</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>Whenever another creature is put into a graveyard from play, you may have Hissing Iguanar deal 1 damage to target player.</oracleText>
+  <printedText>Whenever another creature is put into a graveyard from play, you may have Hissing Iguanar deal 1 damage to target player.</printedText>
+  <flavorText>Viashino thrashes keep iguanars as hunting companions, giving them wounded captives as playthings.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174876</id>
+  <name>Kresh the Bloodbraided</name>
+  <cost>{2}{B}{R}{G}</cost>
+  <type>Legendary Creature - Human Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>178</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Whenever another creature is put into a graveyard from play, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.</oracleText>
+  <printedText>Whenever another creature is put into a graveyard from play, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.</printedText>
+  <flavorText>Each of his twenty-two braids is bound with bone and leather from a foe.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>174877</id>
+  <name>Savage Lands</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>228</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Savage Lands comes into play tapped. &lt;br&gt;{T}: Add {B}, {R}, or {G} to your mana pool.</oracleText>
+  <printedText>Savage Lands comes into play tapped.&lt;br&gt;{T}: Add {B}, {R}, or {G} to your mana pool.</printedText>
+  <flavorText>Jund is a world as cruel as those who call it home. Their brutal struggles scar the land even as it carves them in its image, a vicious circle spiraling out of control.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174881</id>
+  <name>Sharding Sphinx</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Artifact Creature - Sphinx</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>55</setNumber>
+  <artist>Michael Bruinsma</artist>
+  <oracleText>Flying &lt;br&gt;Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying into play.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying into play.</printedText>
+  <flavorText>Whether mechanical or biological, life finds a way to propagate itself.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174882</id>
+  <name>Kederekt Leviathan</name>
+  <cost>{6}{U}{U}</cost>
+  <type>Creature - Leviathan</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>48</setNumber>
+  <artist>Mark Hyzer</artist>
+  <oracleText>When Kederekt Leviathan comes into play, return all other nonland permanents to their owners' hands. &lt;br&gt;Unearth {6}{U} ({6}{U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>When Kederekt Leviathan comes into play, return all other nonland permanents to their owners' hands.&lt;br&gt;Unearth {6}{U} ({6}{U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174886</id>
+  <name>Ooze Garden</name>
+  <cost>{1}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>143</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>{1}{G}, Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token into play, where X is the sacrificed creature's power. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>{1}{G}, Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token into play, where X is the sacrificed creature's power. Play this ability only any time you could play a sorcery.</printedText>
+  <flavorText>Jund has little necromancy. Instead, the flesh of its dead gives rise to algal fiends.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174887</id>
+  <name>Obelisk of Grixis</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>214</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>{T}: Add {U}, {B}, or {R} to your mana pool.</oracleText>
+  <printedText>{T}: Add {U}, {B}, or {R} to your mana pool.</printedText>
+  <flavorText>Like most features of Grixis, the obelisks that remain from the time of Alara now exist only for dark exploitation.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174888</id>
+  <name>Filigree Sages</name>
+  <cost>{3}{U}</cost>
+  <type>Artifact Creature - Vedalken Wizard</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>44</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{2}{U}: Untap target artifact.</oracleText>
+  <printedText>{2}{U}: Untap target artifact.</printedText>
+  <flavorText>"We of the Sanctum Arcanum have pondered every word on every page of the Filigree Texts. If you can't say the same, don't bother speaking."</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174889</id>
+  <name>Volcanic Submersion</name>
+  <cost>{4}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>121</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>Destroy target artifact or land. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Destroy target artifact or land.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>A dragon's death is almost as feared as its life. Old, dying dragons throw themselves into volcanoes, causing massive upheaval and widespread disaster.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174890</id>
+  <name>Naturalize</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>141</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>Destroy target artifact or enchantment.</oracleText>
+  <printedText>Destroy target artifact or enchantment.</printedText>
+  <flavorText>The idols of old are rich in minerals and magic. They are torn apart when nature aims to eat well.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174892</id>
+  <name>Obelisk of Jund</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>215</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>{T}: Add {B}, {R}, or {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add {B}, {R}, or {G} to your mana pool.</printedText>
+  <flavorText>Volcanic ash-winds batter it, climbing vines overwhelm it, dragonfire roasts it, and yet it still stands as a testament to a forgotten world.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174893</id>
+  <name>Blister Beetle</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Insect</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>66</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>When Blister Beetle comes into play, target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>When Blister Beetle comes into play, target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText>Warriors of the Rip Clan wear their beetle-acid scars proudly, even modifying clothing and armor to better display the trophy.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174895</id>
+  <name>Executioner's Capsule</name>
+  <cost>{B}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>75</setNumber>
+  <artist>Warren Mahy</artist>
+  <oracleText>{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.</oracleText>
+  <printedText>{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.</printedText>
+  <flavorText>There is always a moment of trepidation before opening a message capsule, for fear of the judgment that might be contained within.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174900</id>
+  <name>Salvage Titan</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>6</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>84</setNumber>
+  <artist>Anthony Francisco</artist>
+  <oracleText>You may sacrifice three artifacts rather than pay Salvage Titan's mana cost. &lt;br&gt;Remove three artifact cards in your graveyard from the game: Return Salvage Titan from your graveyard to your hand.</oracleText>
+  <printedText>You may sacrifice three artifacts rather than pay Salvage Titan's mana cost.&lt;br&gt;Remove three artifact cards in your graveyard from the game: Return Salvage Titan from your graveyard to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174901</id>
+  <name>Resounding Roar</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>144</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Target creature gets +3/+3 until end of turn. &lt;br&gt;Cycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.) &lt;br&gt;When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.</oracleText>
+  <printedText>Target creature gets +3/+3 until end of turn.&lt;br&gt;Cycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174903</id>
+  <name>Druid of the Anima</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>128</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>{T}: Add {R}, {G}, or {W} to your mana pool.</oracleText>
+  <printedText>{T}: Add {R}, {G}, or {W} to your mana pool.</printedText>
+  <flavorText>Although the Anima herself remains at the Sacellum, her druids roam Naya, collecting mana bonds with every location in the world.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174906</id>
+  <name>Obelisk of Esper</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>213</setNumber>
+  <artist>Francis Tsai</artist>
+  <oracleText>{T}: Add {W}, {U}, or {B} to your mana pool.</oracleText>
+  <printedText>{T}: Add {W}, {U}, or {B} to your mana pool.</printedText>
+  <flavorText>It is a monument as austere, unyielding, and inscrutable as Esper itself.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>174909</id>
+  <name>Oblivion Ring</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>20</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>When Oblivion Ring comes into play, remove another target nonland permanent from the game.  &lt;br&gt;When Oblivion Ring leaves play, return the removed card to play under its owner's control.</oracleText>
+  <printedText>When Oblivion Ring comes into play, remove another target nonland permanent from the game.&lt;br&gt;When Oblivion Ring leaves play, return the removed card to play under its owner's control.</printedText>
+  <flavorText>A circle of light and a word of confinement.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174912</id>
+  <name>Tezzeret the Seeker</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Planeswalker - Tezzeret</type>
+  <power></power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>60</setNumber>
+  <artist>Anthony Francisco</artist>
+  <oracleText>+1: Untap up to two target artifacts. &lt;br&gt;-X: Search your library for an artifact card with converted mana cost X or less and put it into play. Then shuffle your library. &lt;br&gt;-5: Artifacts you control become 5/5 artifact creatures until end of turn.</oracleText>
+  <printedText>+1: Untap up to two target artifacts.&lt;br&gt;-X: Search your library for an artifact card with converted mana cost X or less and put it into play. Then shuffle your library.&lt;br&gt;-5: Artifacts you control become 5/5 artifact creatures until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>174915</id>
+  <name>Ad Nauseam</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>63</setNumber>
+  <artist>Jeremy Jarvis</artist>
+  <oracleText>Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.</oracleText>
+  <printedText>Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.</printedText>
+  <flavorText>When the task spilled over into undeath, he stopped calling it his life's work.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174916</id>
+  <name>Spearbreaker Behemoth</name>
+  <cost>{5}{G}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>150</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Spearbreaker Behemoth is indestructible. &lt;br&gt;{1}: Target creature with power 5 or greater is indestructible this turn.</oracleText>
+  <printedText>Spearbreaker Behemoth is indestructible.&lt;br&gt;{1}: Target creature with power 5 or greater is indestructible this turn.</printedText>
+  <flavorText>Few Nayans dare hunt the gargantuans. They're regarded not as animals but as forces of nature, like landslides or typhoons.</flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174917</id>
+  <name>Blightning</name>
+  <cost>{1}{B}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>156</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Blightning deals 3 damage to target player. That player discards two cards.</oracleText>
+  <printedText>Blightning deals 3 damage to target player. That player discards two cards.</printedText>
+  <flavorText>While the smell of burning flesh is common in Grixis, the odor of smoldering brain matter is a rare treat.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>174922</id>
+  <name>Vithian Stinger</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>120</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>{T}: Vithian Stinger deals 1 damage to target creature or player. &lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>{T}: Vithian Stinger deals 1 damage to target creature or player.&lt;br&gt;Unearth {1}{R} ({1}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174924</id>
+  <name>Tower Gargoyle</name>
+  <cost>{1}{W}{U}{B}</cost>
+  <type>Artifact Creature - Gargoyle</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>205</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Esper, like any work of art, can be truly appreciated only from a distance."&lt;br&gt;--Tezzeret</flavorText>
+  <cmc>4</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>174925</id>
+  <name>Sanctum Gargoyle</name>
+  <cost>{3}{W}</cost>
+  <type>Artifact Creature - Gargoyle</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>24</setNumber>
+  <artist>Shelly Wan</artist>
+  <oracleText>Flying &lt;br&gt;When Sanctum Gargoyle comes into play, you may return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>Flying&lt;br&gt;When Sanctum Gargoyle comes into play, you may return target artifact card from your graveyard to your hand.</printedText>
+  <flavorText>As their supplies of etherium dwindled, mechanists sent gargoyles farther and farther afield in search of salvage.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174927</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>246</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>[G]</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174928</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>248</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174929</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>247</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174930</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>249</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174931</id>
+  <name>Ethersworn Canonist</name>
+  <cost>{1}{W}</cost>
+  <type>Artifact Creature - Human Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>10</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Each player who has played a nonartifact spell this turn can't play additional nonartifact spells.</oracleText>
+  <printedText>Each player who has played a nonartifact spell this turn can't play additional nonartifact spells.</printedText>
+  <flavorText>"The noble work of our order is to infuse all life on Esper with etherium. Our goal will be reached more rapidly if new life is . . . suppressed."</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174935</id>
+  <name>Cylian Elf</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Elf Scout</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>127</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>From her sunsail tent high above the forest floor, an elf harkener can hear the footfalls of a single creature through the cacophony of Naya's jungle sounds.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174936</id>
+  <name>Dragon Fodder</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>97</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Put two 1/1 red Goblin creature tokens into play.</oracleText>
+  <printedText>Put two 1/1 red Goblin creature tokens into play.</printedText>
+  <flavorText>Goblins journey to the sacrificial peaks in pairs so that the rare survivor might be able to relate the details of the other's grisly demise.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174938</id>
+  <name>Goblin Mountaineer</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>102</setNumber>
+  <artist>Michael Ryan</artist>
+  <oracleText>Mountainwalk</oracleText>
+  <printedText>Mountainwalk</printedText>
+  <flavorText>Goblin lairs sit high in Jund's mountains. This gives the goblins easy access to the sacrificial peaks above and lets them build up a head of steam before attacking prey down below.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174939</id>
+  <name>Goblin Assault</name>
+  <cost>{2}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>101</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste into play. &lt;br&gt;Goblin creatures attack each turn if able.</oracleText>
+  <printedText>At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste into play.&lt;br&gt;Goblin creatures attack each turn if able.</printedText>
+  <flavorText>A goblin raid is a delicate gambit--a blend of stealth, precision, and screaming death.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174941</id>
+  <name>Savage Hunger</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>147</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+0 and has trample. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0 and has trample.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174943</id>
+  <name>Drumhunter</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Human Druid Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>129</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>At the end of your turn, if you control a creature with power 5 or greater, you may draw a card. &lt;br&gt;{T}: Add {1} to your mana pool.</oracleText>
+  <printedText>At the end of your turn, if you control a creature with power 5 or greater, you may draw a card.&lt;br&gt;{T}: Add {1} to your mana pool.</printedText>
+  <flavorText>"I feel the vine-rhythm as my friends drive the beast to me. I will not miss my mark."</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174944</id>
+  <name>Naya Battlemage</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>142</setNumber>
+  <artist>Steve Argyle</artist>
+  <oracleText>{R}, {T}: Target creature gets +2/+0 until end of turn. &lt;br&gt;{W}, {T}: Tap target creature.</oracleText>
+  <printedText>{R}, {T}: Target creature gets +2/+0 until end of turn.&lt;br&gt;{W}, {T}: Tap target creature.</printedText>
+  <flavorText>"I have trained in all three schools of magic."</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174948</id>
+  <name>Rafiq of the Many</name>
+  <cost>{1}{G}{W}{U}</cost>
+  <type>Legendary Creature - Human Knight</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>185</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) &lt;br&gt;Whenever a creature you control attacks alone, it gains double strike until end of turn.</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;Whenever a creature you control attacks alone, it gains double strike until end of turn.</printedText>
+  <flavorText>Many sigils, one purpose.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>174950</id>
+  <name>Seaside Citadel</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>229</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>Seaside Citadel comes into play tapped. &lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.</oracleText>
+  <printedText>Seaside Citadel comes into play tapped.&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.</printedText>
+  <flavorText>For wisdom's sake, it was built high to gaze on all things. For glory's sake, it was built high as a testament of power. For strength's sake, it was built high to repel all attacks.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174951</id>
+  <name>Soul's Fire</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>115</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Target creature you control in play deals damage equal to its power to target creature or player.</oracleText>
+  <printedText>Target creature you control in play deals damage equal to its power to target creature or player.</printedText>
+  <flavorText>An avatar he sculpts of anger and flame.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174952</id>
+  <name>Bull Cerodon</name>
+  <cost>{4}{R}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>161</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Vigilance, haste</oracleText>
+  <printedText>Vigilance, haste</printedText>
+  <flavorText>It holds motionless vigil, watching Naya in silence through the screen of the whitecover. When it senses anything amiss, it launches forward with the uncanny sound of torn fog.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}{W}</color>
+</mc>
+<mc>
+  <id>174955</id>
+  <name>Waveskimmer Aven</name>
+  <cost>{2}{G}{W}{U}</cost>
+  <type>Creature - Bird Soldier</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>207</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Flying &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Flying&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>The greatest gift you can give a sea aven is solitude.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>174956</id>
+  <name>Sighted-Caste Sorcerer</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>26</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) &lt;br&gt;{U}: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't be the target of spells or abilities.)</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;{U}: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't be the target of spells or abilities.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174957</id>
+  <name>Rhox War Monk</name>
+  <cost>{G}{W}{U}</cost>
+  <type>Creature - Rhino Monk</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>188</setNumber>
+  <artist>Dan Dos Santos</artist>
+  <oracleText>Lifelink</oracleText>
+  <printedText>Lifelink</printedText>
+  <flavorText>Rhox monks are dedicated to spiritual growth and learning, and most bear the sigils of many students. However, they do not gladly suffer fools or those who disagree with their carefully wrought dogma.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>174958</id>
+  <name>Sigiled Paladin</name>
+  <cost>{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>27</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>First strike &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>First strike&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>Each sigil marks the recognition of a great deed and signifies a duty owed to the one who granted it.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174959</id>
+  <name>Rhox Charger</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Rhino Soldier</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>145</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>Trample &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Trample&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>"Momentum is a great ally."</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174960</id>
+  <name>Court Archers</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human Archer</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>126</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Reach (This can block creatures with flying.) &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Reach (This can block creatures with flying.)&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>The Sun-Dappled Court of Valeron stands secure behind a wall of steel-tipped arrows.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174963</id>
+  <name>Akrasan Squire</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>1</setNumber>
+  <artist>Todd Lockwood</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>Bant's armies are primarily composed of members of the Mortar caste, loyal commoners who haven't yet earned a sigil.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174967</id>
+  <name>Bone Splinters</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>67</setNumber>
+  <artist>Cole Eastburn</artist>
+  <oracleText>As an additional cost to play Bone Splinters, sacrifice a creature. &lt;br&gt;Destroy target creature.</oracleText>
+  <printedText>As an additional cost to play Bone Splinters, sacrifice a creature.&lt;br&gt;Destroy target creature.</printedText>
+  <flavorText>Witches of the Split-Eye Coven speak of a future when Grixis will overflow with life energy. For now, they must harvest vis from the living to fuel their dark magics.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174968</id>
+  <name>Predator Dragon</name>
+  <cost>{3}{R}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>109</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Flying, haste &lt;br&gt;Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)</oracleText>
+  <printedText>Flying, haste&lt;br&gt;Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)</printedText>
+  <flavorText>Dragons make for spiteful gods.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174973</id>
+  <name>Feral Hydra</name>
+  <cost>{X}{G}</cost>
+  <type>Creature - Hydra Beast</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>131</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Feral Hydra comes into play with X +1/+1 counters on it. &lt;br&gt;{3}: Put a +1/+1 counter on Feral Hydra. Any player may play this ability.</oracleText>
+  <printedText>Feral Hydra comes into play with X +1/+1 counters on it.&lt;br&gt;{3}: Put a +1/+1 counter on Feral Hydra. Any player may play this ability.</printedText>
+  <flavorText>It shreds its prey as each head fights for the choicest bits.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174975</id>
+  <name>Mycoloth</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Fungus</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>140</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) &lt;br&gt;At the beginning of your upkeep, put a 1/1 green Saproling creature token into play for each +1/+1 counter on Mycoloth.</oracleText>
+  <printedText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)&lt;br&gt;At the beginning of your upkeep, put a 1/1 green Saproling creature token into play for each +1/+1 counter on Mycoloth.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174976</id>
+  <name>Kiss of the Amesha</name>
+  <cost>{4}{W}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>177</setNumber>
+  <artist>Todd Lockwood</artist>
+  <oracleText>Target player gains 7 life and draws two cards.</oracleText>
+  <printedText>Target player gains 7 life and draws two cards.</printedText>
+  <flavorText>Once a year, Akrasa holds a joust that draws knights and their leotaus from every nation on Bant. The prize is an Akrasan sigil, but the true reward is the angel's kiss.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}{W}</color>
+</mc>
+<mc>
+  <id>174977</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>234</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174978</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>235</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174979</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>237</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>[U]</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174980</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>236</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>174983</id>
+  <name>Sarkhan Vol</name>
+  <cost>{2}{R}{G}</cost>
+  <type>Planeswalker - Sarkhan</type>
+  <power></power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>191</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>+1: Creatures you control get +1/+1 and gain haste until end of turn. &lt;br&gt;-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;br&gt;-6: Put five 4/4 red Dragon creature tokens with flying into play.</oracleText>
+  <printedText>+1: Creatures you control get +1/+1 and gain haste until end of turn.&lt;br&gt;-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.&lt;br&gt;-6: Put five 4/4 red Dragon creature tokens with flying into play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>174985</id>
+  <name>Resounding Silence</name>
+  <cost>{3}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>22</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Remove target attacking creature from the game. &lt;br&gt;Cycling {5}{G}{W}{U} ({5}{G}{W}{U}, Discard this card: Draw a card.) &lt;br&gt;When you cycle Resounding Silence, remove up to two target attacking creatures from the game.</oracleText>
+  <printedText>Remove target attacking creature from the game.&lt;br&gt;Cycling {5}{G}{W}{U} ({5}{G}{W}{U}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Resounding Silence, remove up to two target attacking creatures from the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>174986</id>
+  <name>Algae Gharial</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Crocodile</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>123</setNumber>
+  <artist>Michael Ryan</artist>
+  <oracleText>Shroud &lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Algae Gharial.</oracleText>
+  <printedText>Shroud&lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Algae Gharial.</printedText>
+  <flavorText>It lurks just under the surface, using the algae-choked tar pits of Jund as both home and hunting blind.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174987</id>
+  <name>Scavenger Drake</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Drake</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>85</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>Flying &lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Scavenger Drake.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Scavenger Drake.</printedText>
+  <flavorText>Dragons consider drakes to be mockeries of their perfection, destroying them on sight.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>174988</id>
+  <name>Rockslide Elemental</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>112</setNumber>
+  <artist>Joshua Hagler</artist>
+  <oracleText>First strike &lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Rockslide Elemental.</oracleText>
+  <printedText>First strike&lt;br&gt;Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Rockslide Elemental.</printedText>
+  <flavorText>On Jund, even the landscape is a deadly hunter. Volcanoes, tar pits, and rock slides seem to prey upon the living.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>174989</id>
+  <name>Wild Nacatl</name>
+  <cost>{G}</cost>
+  <type>Creature - Cat Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>152</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Wild Nacatl gets +1/+1 as long as you control a Mountain. &lt;br&gt;Wild Nacatl gets +1/+1 as long as you control a Plains.</oracleText>
+  <printedText>Wild Nacatl gets +1/+1 as long as you control a Mountain.&lt;br&gt;Wild Nacatl gets +1/+1 as long as you control a Plains.</printedText>
+  <flavorText>"The Cloud Nacatl sit and think, a bunch of soft paws. We are the Claws of Marisi, stalking, pouncing, drawing blood."</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174994</id>
+  <name>Cavern Thoctar</name>
+  <cost>{5}{G}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>125</setNumber>
+  <artist>Jean-Sebastien Rossbach</artist>
+  <oracleText>{1}{R}: Cavern Thoctar gets +1/+0 until end of turn.</oracleText>
+  <printedText>{1}{R}: Cavern Thoctar gets +1/+0 until end of turn.</printedText>
+  <flavorText>Natives of Naya know better than to loiter near the mouth of a cave. Two glowing red eyes and the stench of foul breath are all the warning you're likely to get.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>174999</id>
+  <name>Topan Ascetic</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Human Monk</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>151</setNumber>
+  <artist>Sal Villagran</artist>
+  <oracleText>Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.</printedText>
+  <flavorText>Monks from Topa wander all of Bant, encouraging the Unbeholden to find their place in society through honorable combat.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175000</id>
+  <name>Angelsong</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Sal Villagran</artist>
+  <oracleText>Prevent all combat damage that would be dealt this turn. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Prevent all combat damage that would be dealt this turn.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>Clash of sword and cry of beast fall mute when angels sound the call to prayer.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175004</id>
+  <name>Vein Drinker</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Creature - Vampire</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>91</setNumber>
+  <artist>Lars Grant-West</artist>
+  <oracleText>Flying &lt;br&gt;{R}, {T}: Vein Drinker deals damage equal to its power to target creature. That creature deals damage equal to its power to Vein Drinker. &lt;br&gt;Whenever a creature dealt damage by Vein Drinker this turn is put into a graveyard, put a +1/+1 counter on Vein Drinker.</oracleText>
+  <printedText>Flying&lt;br&gt;{R}, {T}: Vein Drinker deals damage equal to its power to target creature. That creature deals damage equal to its power to Vein Drinker.&lt;br&gt;Whenever a creature dealt damage by Vein Drinker this turn is put into a graveyard, put a +1/+1 counter on Vein Drinker.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175006</id>
+  <name>Manaplasm</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Ooze</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>138</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>Whenever you play a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.</oracleText>
+  <printedText>Whenever you play a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.</printedText>
+  <flavorText>Urak froze when he heard it. That was his first mistake. He turned and cast a dramatic ward spell. That was his last.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175009</id>
+  <name>Steelclad Serpent</name>
+  <cost>{5}{U}</cost>
+  <type>Artifact Creature - Serpent</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>59</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Steelclad Serpent can't attack unless you control another artifact.</oracleText>
+  <printedText>Steelclad Serpent can't attack unless you control another artifact.</printedText>
+  <flavorText>"From the highest towers to the deepest sea, all life must be touched by etherium."&lt;br&gt;--Lodus of the Ethersworn</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175010</id>
+  <name>Swerve</name>
+  <cost>{U}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>200</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Change the target of target spell with a single target.</oracleText>
+  <printedText>Change the target of target spell with a single target.</printedText>
+  <flavorText>"We can't beat the necromancers in numbers or raw power. We must beat them with ingenuity and timing."&lt;br&gt;--Rannon, Vithian holdout</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{R}</color>
+</mc>
+<mc>
+  <id>175011</id>
+  <name>Gather Specimens</name>
+  <cost>{3}{U}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>45</setNumber>
+  <artist>Michael Bruinsma</artist>
+  <oracleText>If a creature would come into play under an opponent's control this turn, it comes into play under your control instead.</oracleText>
+  <printedText>If a creature would come into play under an opponent's control this turn, it comes into play under your control instead.</printedText>
+  <flavorText>"It's free to do whatever it wants. I've merely told it what that is."&lt;br&gt;--Xorin, Architect of Will</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175012</id>
+  <name>Puppet Conjurer</name>
+  <cost>{1}{B}</cost>
+  <type>Artifact Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>82</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>{U}, {T}: Put a 0/1 blue Homunculus artifact creature token into play. &lt;br&gt;At the beginning of your upkeep, sacrifice a Homunculus.</oracleText>
+  <printedText>{U}, {T}: Put a 0/1 blue Homunculus artifact creature token into play.&lt;br&gt;At the beginning of your upkeep, sacrifice a Homunculus.</printedText>
+  <flavorText>He scowls at his imperfect creation, then crushes it to scrap. He salvages the etherium and begins anew.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175014</id>
+  <name>Windwright Mage</name>
+  <cost>{W}{U}{B}</cost>
+  <type>Artifact Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>208</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Lifelink (Whenever this creature deals damage, you gain that much life.) &lt;br&gt;Windwright Mage has flying as long as an artifact card is in your graveyard.</oracleText>
+  <printedText>Lifelink (Whenever this creature deals damage, you gain that much life.)&lt;br&gt;Windwright Mage has flying as long as an artifact card is in your graveyard.</printedText>
+  <flavorText>She knows the names and secrets of each of Esper's twenty-three winds.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>175015</id>
+  <name>Tidehollow Strix</name>
+  <cost>{U}{B}</cost>
+  <type>Artifact Creature - Bird</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>203</setNumber>
+  <artist>Cyril Van Der Haegen</artist>
+  <oracleText>Flying &lt;br&gt;Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)</oracleText>
+  <printedText>Flying&lt;br&gt;Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)</printedText>
+  <flavorText>The scullers beneath Esper keep strixes as trained pets, and set them loose when a fare refuses to pay.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{B}</color>
+</mc>
+<mc>
+  <id>175017</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>244</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175018</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>243</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>[R]</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175019</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>242</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175020</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>245</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175023</id>
+  <name>Necrogenesis</name>
+  <cost>{B}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>181</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>{2}: Remove target creature card in a graveyard from the game. Put a 1/1 green Saproling creature token into play.</oracleText>
+  <printedText>{2}: Remove target creature card in a graveyard from the game. Put a 1/1 green Saproling creature token into play.</printedText>
+  <flavorText>"Those may be the squirms of one life ending or of another beginning. Either way, I'd leave it alone."&lt;br&gt;--Rakka Mar</flavorText>
+  <cmc>2</cmc>
+  <color>{B}{G}</color>
+</mc>
+<mc>
+  <id>175024</id>
+  <name>Rockcaster Platoon</name>
+  <cost>{5}{W}{W}</cost>
+  <type>Creature - Rhino Soldier</type>
+  <power>5</power>
+  <toughness>7</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>23</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>{4}{G}: Rockcaster Platoon deals 2 damage to each creature with flying and each player.</oracleText>
+  <printedText>{4}{G}: Rockcaster Platoon deals 2 damage to each creature with flying and each player.</printedText>
+  <flavorText>"Aven bandits can be sly. You've got to fill the sky with boulders--and then seek cover immediately."&lt;br&gt;--Knight-Captain Wyhorn</flavorText>
+  <cmc>7</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175029</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>230</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>[W]</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175030</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>231</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175031</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>232</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175032</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>233</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175033</id>
+  <name>Keeper of Progenitus</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>135</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.</oracleText>
+  <printedText>Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.</printedText>
+  <flavorText>He watches over the valley where Progenitus sleeps, culling signs from its steaming breaths.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175036</id>
+  <name>Gift of the Gargantuan</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>132</setNumber>
+  <artist>Jean-Sebastien Rossbach</artist>
+  <oracleText>Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.</oracleText>
+  <printedText>Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175038</id>
+  <name>Spell Snip</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>57</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>Counter target spell unless its controller pays {1}. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Counter target spell unless its controller pays {1}.&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>"Magic cast through a hand of flesh is just as weak as the flesh itself."&lt;br&gt;--Lodus of the Ethersworn</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175039</id>
+  <name>Invincible Hymn</name>
+  <cost>{6}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>14</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Count the number of cards in your library. Your life total becomes that number.</oracleText>
+  <printedText>Count the number of cards in your library. Your life total becomes that number.</printedText>
+  <flavorText>Bantians believe those who are born into the highest caste and live a life of discipline and virtue can ascend to become angels.</flavorText>
+  <cmc>8</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175042</id>
+  <name>Coma Veil</name>
+  <cost>{4}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>36</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>Enchant artifact or creature &lt;br&gt;Enchanted permanent doesn't untap during its controller's untap step.</oracleText>
+  <printedText>Enchant artifact or creature&lt;br&gt;Enchanted permanent doesn't untap during its controller's untap step.</printedText>
+  <flavorText>Etherium does not know sleep. Only magic can teach it the resting state of cold steel.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175043</id>
+  <name>Resounding Thunder</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>110</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>Resounding Thunder deals 3 damage to target creature or player. &lt;br&gt;Cycling {5}{B}{R}{G} ({5}{B}{R}{G}, Discard this card: Draw a card.) &lt;br&gt;When you cycle Resounding Thunder, it deals 6 damage to target creature or player.</oracleText>
+  <printedText>Resounding Thunder deals 3 damage to target creature or player.&lt;br&gt;Cycling {5}{B}{R}{G} ({5}{B}{R}{G}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Resounding Thunder, it deals 6 damage to target creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175047</id>
+  <name>Knight of the Skyward Eye</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>15</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Play this ability only once each turn.</oracleText>
+  <printedText>{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Play this ability only once each turn.</printedText>
+  <flavorText>The Order of the Skyward Eye does the bidding of an evil force, unwittingly stirring fear and mistrust across Bant in accordance with his plans.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175048</id>
+  <name>Vicious Shadows</name>
+  <cost>{6}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>119</setNumber>
+  <artist>Joshua Hagler</artist>
+  <oracleText>Whenever a creature is put into a graveyard from play, you may have Vicious Shadows deal damage to target player equal to the number of cards in that player's hand.</oracleText>
+  <printedText>Whenever a creature is put into a graveyard from play, you may have Vicious Shadows deal damage to target player equal to the number of cards in that player's hand.</printedText>
+  <flavorText>"Thrashes of the ancient past still linger in spirit and shadow, desperate to sink their claws into our souls."&lt;br&gt;--Rakka Mar</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175049</id>
+  <name>Exuberant Firestoker</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Druid Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>99</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>At the end of your turn, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player. &lt;br&gt;{T}: Add {1} to your mana pool.</oracleText>
+  <printedText>At the end of your turn, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.&lt;br&gt;{T}: Add {1} to your mana pool.</printedText>
+  <flavorText>The artistry of Etlan's firedancers is more spectacular when behemoths join in.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175050</id>
+  <name>Jund Battlemage</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>106</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>{B}, {T}: Target player loses 1 life. &lt;br&gt;{G}, {T}: Put a 1/1 green Saproling creature token into play.</oracleText>
+  <printedText>{B}, {T}: Target player loses 1 life.&lt;br&gt;{G}, {T}: Put a 1/1 green Saproling creature token into play.</printedText>
+  <flavorText>"Of your blood I will make my mead, an offering to the thirsty jungle."</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175052</id>
+  <name>Agony Warp</name>
+  <cost>{U}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>153</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Target creature gets -3/-0 until end of turn. &lt;br&gt;Target creature gets -0/-3 until end of turn.</oracleText>
+  <printedText>Target creature gets -3/-0 until end of turn.&lt;br&gt;Target creature gets -0/-3 until end of turn.</printedText>
+  <flavorText>Life's circle has become inverted in Grixis. The same energy is endlessly recycled and becomes more stagnant with each pass.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{B}</color>
+</mc>
+<mc>
+  <id>175053</id>
+  <name>Call to Heel</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>32</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Return target creature to its owner's hand. Its controller draws a card.</oracleText>
+  <printedText>Return target creature to its owner's hand. Its controller draws a card.</printedText>
+  <flavorText>On Bant, a sigil is both a prize of honor and a bond of duty. The one who bears it may be called to fulfill that charge at any moment.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175054</id>
+  <name>Tidehollow Sculler</name>
+  <cost>{W}{B}</cost>
+  <type>Artifact Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>202</setNumber>
+  <artist>rk post</artist>
+  <oracleText>When Tidehollow Sculler comes into play, target opponent reveals his or her hand and you choose a nonland card from it. Remove that card from the game. &lt;br&gt;When Tidehollow Sculler leaves play, return the removed card to its owner's hand.</oracleText>
+  <printedText>When Tidehollow Sculler comes into play, target opponent reveals his or her hand and you choose a nonland card from it. Remove that card from the game.&lt;br&gt;When Tidehollow Sculler leaves play, return the removed card to its owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}{W}</color>
+</mc>
+<mc>
+  <id>175057</id>
+  <name>Hellkite Overlord</name>
+  <cost>{4}{B}{R}{R}{G}</cost>
+  <type>Creature - Dragon</type>
+  <power>8</power>
+  <toughness>8</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>172</setNumber>
+  <artist>Justin Sweet</artist>
+  <oracleText>Flying, trample, haste &lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn. &lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</oracleText>
+  <printedText>Flying, trample, haste&lt;br&gt;{R}: Hellkite Overlord gets +1/+0 until end of turn.&lt;br&gt;{B}{G}: Regenerate Hellkite Overlord.</printedText>
+  <flavorText>"The dragon has no pretense of compassion, no false mask of civilization--just hunger, heat, and need."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>8</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>175058</id>
+  <name>Mayael the Anima</name>
+  <cost>{R}{G}{W}</cost>
+  <type>Legendary Creature - Elf Shaman</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>179</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them into play. Put the rest on the bottom of your library in any order.</oracleText>
+  <printedText>{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them into play. Put the rest on the bottom of your library in any order.</printedText>
+  <flavorText>The sacred Anima's eyes are blind to all but the grandest truths.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>175060</id>
+  <name>Jungle Shrine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>226</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Jungle Shrine comes into play tapped. &lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.</oracleText>
+  <printedText>Jungle Shrine comes into play tapped.&lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.</printedText>
+  <flavorText>On Naya, ambition and treachery are scarce, hunted nearly to extinction by the awe owed to terrestrial gods.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175061</id>
+  <name>Obelisk of Naya</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>216</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>{T}: Add {R}, {G}, or {W} to your mana pool.</oracleText>
+  <printedText>{T}: Add {R}, {G}, or {W} to your mana pool.</printedText>
+  <flavorText>Centuries have passed since the plane shattered, yet the obelisks of each shard faithfully serve their long-forgotten purpose.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>175062</id>
+  <name>Woolly Thoctar</name>
+  <cost>{R}{G}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>209</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>One of the most ferocious and deadly gargantuans, the thoctar never sees its worshippers, but it often awakens surrounded by gifts and sacrifices.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>175064</id>
+  <name>Thorn-Thrash Viashino</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Viashino Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>116</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) &lt;br&gt;{G}: Thorn-Thrash Viashino gains trample until end of turn.</oracleText>
+  <printedText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)&lt;br&gt;{G}: Thorn-Thrash Viashino gains trample until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175070</id>
+  <name>Skeletonize</name>
+  <cost>{4}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>114</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Skeletonize deals 3 damage to target creature. When a creature dealt damage this way is put into a graveyard this turn, put a 1/1 black Skeleton creature token into play with "{B}: Regenerate this creature."</oracleText>
+  <printedText>Skeletonize deals 3 damage to target creature. When a creature dealt damage this way is put into a graveyard this turn, put a 1/1 black Skeleton creature token into play with "{B}: Regenerate this creature."</printedText>
+  <flavorText>Fire burns away both flesh and freedom.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175072</id>
+  <name>Caldera Hellion</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Creature - Hellion</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>95</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) &lt;br&gt;When Caldera Hellion comes into play, it deals 3 damage to each creature.</oracleText>
+  <printedText>Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.)&lt;br&gt;When Caldera Hellion comes into play, it deals 3 damage to each creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175073</id>
+  <name>Deathgreeter</name>
+  <cost>{B}</cost>
+  <type>Creature - Human Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>71</setNumber>
+  <artist>Dominick Domingo</artist>
+  <oracleText>Whenever another creature is put into a graveyard from play, you may gain 1 life.</oracleText>
+  <printedText>Whenever another creature is put into a graveyard from play, you may gain 1 life.</printedText>
+  <flavorText>"The bones of allies grant wisdom. The bones of enemies grant strength. The bones of dragons grant life eternal."</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175078</id>
+  <name>Yoked Plowbeast</name>
+  <cost>{5}{W}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>31</setNumber>
+  <artist>Steve Argyle</artist>
+  <oracleText>Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>"It is sacrilege to confine a gargantuan to the grinding of straight lines. I will pray that it remembers who is the master of this land."&lt;br&gt;--Syeena, elvish godtoucher</flavorText>
+  <cmc>7</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175079</id>
+  <name>Cruel Ultimatum</name>
+  <cost>{U}{U}{B}{B}{B}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>164</setNumber>
+  <artist>Ralph Horsley</artist>
+  <oracleText>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.</oracleText>
+  <printedText>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.</printedText>
+  <flavorText>There is always a greater power.</flavorText>
+  <cmc>7</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>175085</id>
+  <name>Dawnray Archer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Archer</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>39</setNumber>
+  <artist>Dan Dos Santos</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) &lt;br&gt;{W}, {T}: Dawnray Archer deals 1 damage to target attacking or blocking creature.</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;{W}, {T}: Dawnray Archer deals 1 damage to target attacking or blocking creature.</printedText>
+  <flavorText>Their shots are fired most often as signals--or at those who didn't get the message.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175088</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>240</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175089</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>239</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>[B]</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175090</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>238</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175091</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Land</rarity>
+  <setNumber>241</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175097</id>
+  <name>Viashino Skeleton</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Viashino Skeleton</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>118</setNumber>
+  <artist>Cole Eastburn</artist>
+  <oracleText>{1}{B}, Discard a card: Regenerate Viashino Skeleton.</oracleText>
+  <printedText>{1}{B}, Discard a card: Regenerate Viashino Skeleton.</printedText>
+  <flavorText>Underneath the Dregscape lay the remains of creatures long extinct from Grixis.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175098</id>
+  <name>Resounding Wave</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>54</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Return target permanent to its owner's hand. &lt;br&gt;Cycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.) &lt;br&gt;When you cycle Resounding Wave, return two target permanents to their owners' hands.</oracleText>
+  <printedText>Return target permanent to its owner's hand.&lt;br&gt;Cycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Resounding Wave, return two target permanents to their owners' hands.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175100</id>
+  <name>Blood Cultist</name>
+  <cost>{1}{B}{R}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>157</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>{T}: Blood Cultist deals 1 damage to target creature. &lt;br&gt;Whenever a creature dealt damage by Blood Cultist this turn is put into a graveyard, put a +1/+1 counter on Blood Cultist.</oracleText>
+  <printedText>{T}: Blood Cultist deals 1 damage to target creature.&lt;br&gt;Whenever a creature dealt damage by Blood Cultist this turn is put into a graveyard, put a +1/+1 counter on Blood Cultist.</printedText>
+  <flavorText>"To immortality."</flavorText>
+  <cmc>3</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>175101</id>
+  <name>Tar Fiend</name>
+  <cost>{5}{B}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>89</setNumber>
+  <artist>Anthony S. Waters</artist>
+  <oracleText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) &lt;br&gt;When Tar Fiend comes into play, target player discards a card for each creature it devoured.</oracleText>
+  <printedText>Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)&lt;br&gt;When Tar Fiend comes into play, target player discards a card for each creature it devoured.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175102</id>
+  <name>Obelisk of Bant</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>212</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>{T}: Add {G}, {W}, or {U} to your mana pool.</oracleText>
+  <printedText>{T}: Add {G}, {W}, or {U} to your mana pool.</printedText>
+  <flavorText>Whether incorporated into the structure of castles or admired as lone symbols, the obelisks stand for Bant's values of loyalty, honor, and truth.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>175103</id>
+  <name>Guardians of Akrasa</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>0</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>12</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Defender &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Defender&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>"Only by the bravery of those who put loyalty above glory is our home kept safe."&lt;br&gt;--Elspeth</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175104</id>
+  <name>Empyrial Archangel</name>
+  <cost>{4}{G}{W}{W}{U}</cost>
+  <type>Creature - Angel</type>
+  <power>5</power>
+  <toughness>8</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>166</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Flying, shroud &lt;br&gt;All damage that would be dealt to you is dealt to Empyrial Archangel instead.</oracleText>
+  <printedText>Flying, shroud&lt;br&gt;All damage that would be dealt to you is dealt to Empyrial Archangel instead.</printedText>
+  <flavorText>Her wings are the prayers of the devoted; her sword, the despair of the vile.</flavorText>
+  <cmc>8</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>175105</id>
+  <name>Godsire</name>
+  <cost>{4}{R}{G}{G}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>8</power>
+  <toughness>8</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>170</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>Vigilance &lt;br&gt;{T}: Put an 8/8 Beast creature token into play that's red, green, and white.</oracleText>
+  <printedText>Vigilance&lt;br&gt;{T}: Put an 8/8 Beast creature token into play that's red, green, and white.</printedText>
+  <flavorText>"Lay sacrifice to the godsire that it may spare us, but save some for his progeny who also will hunger."&lt;br&gt;--Syeena, elvish godtoucher</flavorText>
+  <cmc>8</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>175106</id>
+  <name>Prince of Thralls</name>
+  <cost>{4}{U}{B}{B}{R}</cost>
+  <type>Creature - Demon</type>
+  <power>7</power>
+  <toughness>7</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>182</setNumber>
+  <artist>Paul Bonner</artist>
+  <oracleText>Whenever a permanent an opponent controls is put into a graveyard, put that card into play under your control unless that opponent pays 3 life.</oracleText>
+  <printedText>Whenever a permanent an opponent controls is put into a graveyard, put that card into play under your control unless that opponent pays 3 life.</printedText>
+  <flavorText>"There are none alive that I cannot crush. There are none dead that I do not command."</flavorText>
+  <cmc>8</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>175107</id>
+  <name>Sphinx Sovereign</name>
+  <cost>{4}{W}{U}{U}{B}</cost>
+  <type>Artifact Creature - Sphinx</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>196</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Flying &lt;br&gt;At the end of your turn, you gain 3 life if Sphinx Sovereign is untapped. Otherwise, each opponent loses 3 life.</oracleText>
+  <printedText>Flying&lt;br&gt;At the end of your turn, you gain 3 life if Sphinx Sovereign is untapped. Otherwise, each opponent loses 3 life.</printedText>
+  <flavorText>"What rises without legs, whispers without a voice, bites without teeth, and dies without having life?"</flavorText>
+  <cmc>8</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>175108</id>
+  <name>Memory Erosion</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>50</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Whenever an opponent plays a spell, that player puts the top two cards of his or her library into his or her graveyard.</oracleText>
+  <printedText>Whenever an opponent plays a spell, that player puts the top two cards of his or her library into his or her graveyard.</printedText>
+  <flavorText>"The Filigree Texts do not compel you to act in accordance with their precepts. They only specify the consequences should you fail."&lt;br&gt;--Lodus of the Ethersworn</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175111</id>
+  <name>Sedris, the Traitor King</name>
+  <cost>{3}{U}{B}{R}</cost>
+  <type>Legendary Creature - Zombie Warrior</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>193</setNumber>
+  <artist>Paul Bonner</artist>
+  <oracleText>Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to play. The creature gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to play. The creature gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText>He bids his minions rise from their graves to their knees.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>175112</id>
+  <name>Crumbling Necropolis</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>222</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>Crumbling Necropolis comes into play tapped. &lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.</oracleText>
+  <printedText>Crumbling Necropolis comes into play tapped.&lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.</printedText>
+  <flavorText>"They say the ruins of Sedraxis were once a shining capital in Vithia. Now it is a blight, a place to be avoided by the living."&lt;br&gt;--Olcot, Rider of Joffik</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175113</id>
+  <name>Metallurgeon</name>
+  <cost>{1}{W}</cost>
+  <type>Artifact Creature - Human Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>19</setNumber>
+  <artist>Warren Mahy</artist>
+  <oracleText>{W}, {T}: Regenerate target artifact.</oracleText>
+  <printedText>{W}, {T}: Regenerate target artifact.</printedText>
+  <flavorText>"By the time I got there, the heart had stopped. Fortunately, I was able to replace it with something better."</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175114</id>
+  <name>Master of Etherium</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact Creature - Vedalken Wizard</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>49</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Master of Etherium's power and toughness are each equal to the number of artifacts you control. &lt;br&gt;Other artifact creatures you control get +1/+1.</oracleText>
+  <printedText>Master of Etherium's power and toughness are each equal to the number of artifacts you control.&lt;br&gt;Other artifact creatures you control get +1/+1.</printedText>
+  <flavorText>"Only a mind unfettered with the concerns of the flesh can see the world as it truly is."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175115</id>
+  <name>Where Ancients Tread</name>
+  <cost>{4}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>122</setNumber>
+  <artist>Zoltan Boros & Gabor Szikszai</artist>
+  <oracleText>Whenever a creature with power 5 or greater comes into play under your control, you may have Where Ancients Tread deal 5 damage to target creature or player.</oracleText>
+  <printedText>Whenever a creature with power 5 or greater comes into play under your control, you may have Where Ancients Tread deal 5 damage to target creature or player.</printedText>
+  <flavorText>"Never subtle nor cryptic is the reckoning of the mighty."&lt;br&gt;--Mayael the Anima</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175117</id>
+  <name>Bloodpyre Elemental</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>93</setNumber>
+  <artist>Trevor Claxton</artist>
+  <oracleText>Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Play this ability only any time you could play a sorcery.</oracleText>
+  <printedText>Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Play this ability only any time you could play a sorcery.</printedText>
+  <flavorText>Elementals born of Jund are as cruel and unstable as the plane itself.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175119</id>
+  <name>Skeletal Kathari</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Bird Skeleton</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>88</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Flying &lt;br&gt;{B}, Sacrifice a creature: Regenerate Skeletal Kathari.</oracleText>
+  <printedText>Flying&lt;br&gt;{B}, Sacrifice a creature: Regenerate Skeletal Kathari.</printedText>
+  <flavorText>Undeath doesn't end the kathari's search for carrion; it only removes one corpse from the Dregscape.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175121</id>
+  <name>Deft Duelist</name>
+  <cost>{W}{U}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>165</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>First strike &lt;br&gt;Shroud (This creature can't be the target of spells or abilities.)</oracleText>
+  <printedText>First strike&lt;br&gt;Shroud (This creature can't be the target of spells or abilities.)</printedText>
+  <flavorText>Some Serul Cove rogues traffic in stolen sigils, which fetch a high price from those who would rather pay for honor than earn it.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{W}</color>
+</mc>
+<mc>
+  <id>175122</id>
+  <name>Sunseed Nurturer</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Druid Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>29</setNumber>
+  <artist>Steve Argyle</artist>
+  <oracleText>At the end of your turn, if you control a creature with power 5 or greater, you may gain 2 life. &lt;br&gt;{T}: Add {1} to your mana pool.</oracleText>
+  <printedText>At the end of your turn, if you control a creature with power 5 or greater, you may gain 2 life.&lt;br&gt;{T}: Add {1} to your mana pool.</printedText>
+  <flavorText>Sunseeders quest for areas of open sky. They train plowbeasts to beat back the dense jungle long enough to cultivate a crop.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175123</id>
+  <name>Bant Battlemage</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>5</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>{G}, {T}: Target creature gains trample until end of turn. &lt;br&gt;{U}, {T}: Target creature gains flying until end of turn.</oracleText>
+  <printedText>{G}, {T}: Target creature gains trample until end of turn.&lt;br&gt;{U}, {T}: Target creature gains flying until end of turn.</printedText>
+  <flavorText>"A night attack will be easy. We'll make an air raid over the Akrasan border. Just get me some flint to light the war torches."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175124</id>
+  <name>Elvish Visionary</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Elf Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>130</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>When Elvish Visionary comes into play, draw a card.</oracleText>
+  <printedText>When Elvish Visionary comes into play, draw a card.</printedText>
+  <flavorText>Before any major undertaking, a Cylian elf seeks the guidance of a visionary to learn the will of the gargantuan ancients.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175125</id>
+  <name>Immortal Coil</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>79</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{T}, Remove two cards in your graveyard from the game: Draw a card. &lt;br&gt;If damage would be dealt to you, prevent that damage. Remove a card in your graveyard from the game for each 1 damage prevented this way. &lt;br&gt;When there are no cards in your graveyard, you lose the game.</oracleText>
+  <printedText>{T}, Remove two cards in your graveyard from the game: Draw a card.&lt;br&gt;If damage would be dealt to you, prevent that damage. Remove a card in your graveyard from the game for each 1 damage prevented this way.&lt;br&gt;When there are no cards in your graveyard, you lose the game.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175127</id>
+  <name>Sharuum the Hegemon</name>
+  <cost>{3}{W}{U}{B}</cost>
+  <type>Legendary Artifact Creature - Sphinx</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>194</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Flying &lt;br&gt;When Sharuum the Hegemon comes into play, you may return target artifact card from your graveyard to play.</oracleText>
+  <printedText>Flying&lt;br&gt;When Sharuum the Hegemon comes into play, you may return target artifact card from your graveyard to play.</printedText>
+  <flavorText>To gain audience with the hegemon, one must bring a riddle she has not heard.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>175128</id>
+  <name>Arcane Sanctum</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>220</setNumber>
+  <artist>Anthony Francisco</artist>
+  <oracleText>Arcane Sanctum comes into play tapped. &lt;br&gt;{T}: Add {W}, {U}, or {B} to your mana pool.</oracleText>
+  <printedText>Arcane Sanctum comes into play tapped.&lt;br&gt;{T}: Add {W}, {U}, or {B} to your mana pool.</printedText>
+  <flavorText>"We must rely on our own knowledge, not on the dogma of the seekers or the mutterings of the sphinxes."&lt;br&gt;--Tullus of Palandius</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>175134</id>
+  <name>Steward of Valeron</name>
+  <cost>{G}{W}</cost>
+  <type>Creature - Human Druid Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>198</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Vigilance &lt;br&gt;{T}: Add {G} to your mana pool.</oracleText>
+  <printedText>Vigilance&lt;br&gt;{T}: Add {G} to your mana pool.</printedText>
+  <flavorText>Knight-stewards guard the Sun-Dappled Court, a grove of immense, sculptured olive trees that represent Valeron's twelve noble families.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>175135</id>
+  <name>Violent Ultimatum</name>
+  <cost>{B}{B}{R}{R}{R}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>206</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Destroy three target permanents.</oracleText>
+  <printedText>Destroy three target permanents.</printedText>
+  <flavorText>"Words are a waste of time. Destruction is a language everyone understands."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>7</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>175138</id>
+  <name>Etherium Astrolabe</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>41</setNumber>
+  <artist>Michael Bruinsma</artist>
+  <oracleText>Flash &lt;br&gt;{B}, {T}, Sacrifice an artifact: Draw a card.</oracleText>
+  <printedText>Flash&lt;br&gt;{B}, {T}, Sacrifice an artifact: Draw a card.</printedText>
+  <flavorText>"Speculation is foolish when the tools of certainty are available."&lt;br&gt;--Cinna, vedalken consul</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175141</id>
+  <name>Angel's Herald</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>2</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>{2}{W}, {T}, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it into play. Then shuffle your library.</oracleText>
+  <printedText>{2}{W}, {T}, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it into play. Then shuffle your library.</printedText>
+  <flavorText>Rigorous faith and belief are rewarded on occasion, and richly so.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175142</id>
+  <name>Clarion Ultimatum</name>
+  <cost>{G}{G}{W}{W}{W}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>163</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards into play tapped, then shuffle your library.</oracleText>
+  <printedText>Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards into play tapped, then shuffle your library.</printedText>
+  <flavorText>Be worthy of a single blessing, and many more will follow.</flavorText>
+  <cmc>7</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>175143</id>
+  <name>Brilliant Ultimatum</name>
+  <cost>{W}{W}{U}{U}{U}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>159</setNumber>
+  <artist>Anthony Francisco</artist>
+  <oracleText>Remove the top five cards of your library from the game. An opponent separates those cards into two piles. You may play any number of cards from one of those piles without paying their mana costs.</oracleText>
+  <printedText>Remove the top five cards of your library from the game. An opponent separates those cards into two piles. You may play any number of cards from one of those piles without paying their mana costs.</printedText>
+  <flavorText>Revealing the truth only deepened Tezzeret's curiosity for the secrets still buried.</flavorText>
+  <cmc>7</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>175144</id>
+  <name>Viscera Dragger</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Zombie Ogre Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>92</setNumber>
+  <artist>Ralph Horsley</artist>
+  <oracleText>Cycling {2} ({2}, Discard this card: Draw a card.) &lt;br&gt;Unearth {1}{B} ({1}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Cycling {2} ({2}, Discard this card: Draw a card.)&lt;br&gt;Unearth {1}{B} ({1}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175147</id>
+  <name>Vectis Silencers</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>62</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>{2}{B}: Vectis Silencers gains deathtouch until end of turn. (Whenever it deals damage to a creature, destroy that creature.)</oracleText>
+  <printedText>{2}{B}: Vectis Silencers gains deathtouch until end of turn. (Whenever it deals damage to a creature, destroy that creature.)</printedText>
+  <flavorText>Even on Esper, there are those who eschew the use of magic in favor of simpler methods.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175239</id>
+  <name>Dragon's Herald</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>98</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>{2}{R}, {T}, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it into play. Then shuffle your library.</oracleText>
+  <printedText>{2}{R}, {T}, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it into play. Then shuffle your library.</printedText>
+  <flavorText>The penultimate step of the ritual involves bathing in a delicious glaze.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175242</id>
+  <name>Sphinx's Herald</name>
+  <cost>{U}</cost>
+  <type>Artifact Creature - Vedalken Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>58</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>{2}{U}, {T}, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign and put it into play. Then shuffle your library.</oracleText>
+  <printedText>{2}{U}, {T}, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign and put it into play. Then shuffle your library.</printedText>
+  <flavorText>He calls a riddle through the gaps of cloven clouds, hoping for an answer.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175243</id>
+  <name>Demon's Herald</name>
+  <cost>{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>72</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>{2}{B}, {T}, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it into play. Then shuffle your library.</oracleText>
+  <printedText>{2}{B}, {T}, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it into play. Then shuffle your library.</printedText>
+  <flavorText>"May these deaths be the first of many."</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175245</id>
+  <name>Magma Spray</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>108</setNumber>
+  <artist>Jarreau Wimberly</artist>
+  <oracleText>Magma Spray deals 2 damage to target creature. If that creature would be put into a graveyard this turn, remove it from the game instead.</oracleText>
+  <printedText>Magma Spray deals 2 damage to target creature. If that creature would be put into a graveyard this turn, remove it from the game instead.</printedText>
+  <flavorText>"Jund is a wounded world. Beware its searing blood spilling out onto the surface."&lt;br&gt;--Rakka Mar</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175249</id>
+  <name>Marble Chalice</name>
+  <cost>{2}{W}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>18</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>{T}: You gain 1 life.</oracleText>
+  <printedText>{T}: You gain 1 life.</printedText>
+  <flavorText>The cup was a gift from the sphinx Tameron, who hoped that those who drank from it would live long enough to decrypt the sphinxes' wisdom.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175252</id>
+  <name>Outrider of Jhess</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>52</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</oracleText>
+  <printedText>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</printedText>
+  <flavorText>The island nation of Jhess is under constant siege from Valeron on the mainland. Riders traverse the coastline, always on the lookout for sails or aven.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175253</id>
+  <name>Rakeclaw Gargantuan</name>
+  <cost>{2}{R}{G}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>5</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>186</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>{1}: Target creature with power 5 or greater gains first strike until end of turn.</oracleText>
+  <printedText>{1}: Target creature with power 5 or greater gains first strike until end of turn.</printedText>
+  <flavorText>Naya teems with gargantuans, titanic monsters to whom both nature and civilization defer.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>175257</id>
+  <name>Ridge Rannet</name>
+  <cost>{5}{R}{R}</cost>
+  <type>Creature - Beast</type>
+  <power>6</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>111</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>"Only those with the strength to seize their destiny deserve to have one."&lt;br&gt;--Nacatl scratchforms</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>175262</id>
+  <name>Jungle Weaver</name>
+  <cost>{5}{G}{G}</cost>
+  <type>Creature - Spider</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>134</setNumber>
+  <artist>Trevor Hairsine</artist>
+  <oracleText>Reach (This can block creatures with flying.) &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Reach (This can block creatures with flying.)&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</printedText>
+  <flavorText>Weavers' webs wall off swaths of territory more effectively than any portcullis made of iron.</flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175263</id>
+  <name>Behemoth's Herald</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>124</setNumber>
+  <artist>Parente</artist>
+  <oracleText>{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it into play. Then shuffle your library.</oracleText>
+  <printedText>{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it into play. Then shuffle your library.</printedText>
+  <flavorText>"Mine is an insatiable god, with appetites as magnificent as the jungle itself."</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>175385</id>
+  <name>Mindlock Orb</name>
+  <cost>{3}{U}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>51</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Players can't search libraries.</oracleText>
+  <printedText>Players can't search libraries.</printedText>
+  <flavorText>Rogue mechanists once rummaged through the wastes of the Tidehollow, constructing unauthorized golems to threaten the hegemony of the sphinxes. The orbs put a stop to that.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>175390</id>
+  <name>Shore Snapper</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Beast</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>87</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>{U}: Shore Snapper gains islandwalk until end of turn.</oracleText>
+  <printedText>{U}: Shore Snapper gains islandwalk until end of turn.</printedText>
+  <flavorText>Kathari, the sickly aven of Grixis, have learned that the corpses by the shoreline are more trap than treat.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>175392</id>
+  <name>Jhessian Infiltrator</name>
+  <cost>{G}{U}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>174</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Jhessian Infiltrator is unblockable.</oracleText>
+  <printedText>Jhessian Infiltrator is unblockable.</printedText>
+  <flavorText>The Jhessian navy makes successful raids on Valeron's coastal towns thanks to their spies planted during peacetime.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{G}</color>
+</mc>
+<mc>
+  <id>175394</id>
+  <name>Battlegrace Angel</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>6</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Flying &lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) &lt;br&gt;Whenever a creature you control attacks alone, it gains lifelink until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;br&gt;Whenever a creature you control attacks alone, it gains lifelink until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>175396</id>
+  <name>Stoic Angel</name>
+  <cost>{1}{G}{W}{U}</cost>
+  <type>Creature - Angel</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>199</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>Flying, vigilance &lt;br&gt;Players can't untap more than one creature during their untap steps.</oracleText>
+  <printedText>Flying, vigilance&lt;br&gt;Players can't untap more than one creature during their untap steps.</printedText>
+  <flavorText>Even the most battle-hardened soldiers pause in her presence for a moment of introspection.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}{G}{W}</color>
+</mc>
+<mc>
+  <id>176428</id>
+  <name>Jhessian Lookout</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Scout</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>46</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>She stands ready, always watchful, knowing that weeks of peace and serenity can be overturned by a single distant sail.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>176429</id>
+  <name>Cunning Lethemancer</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>69</setNumber>
+  <artist>Paul Bonner</artist>
+  <oracleText>At the beginning of your upkeep, each player discards a card.</oracleText>
+  <printedText>At the beginning of your upkeep, each player discards a card.</printedText>
+  <flavorText>"Give me your memories, and you will have release from the suffering they bring you."</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>176430</id>
+  <name>Death Baron</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Zombie Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>70</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.</oracleText>
+  <printedText>Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.</printedText>
+  <flavorText>For the necromancer barons, killing and recruitment are one and the same.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>176433</id>
+  <name>Cathartic Adept</name>
+  <cost>{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>{T}: Target player puts the top card of his or her library into his or her graveyard.</oracleText>
+  <printedText>{T}: Target player puts the top card of his or her library into his or her graveyard.</printedText>
+  <flavorText>"Forget. Only then will there be space for hope between the pain and fear."</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>176435</id>
+  <name>Etherium Sculptor</name>
+  <cost>{1}{U}</cost>
+  <type>Artifact Creature - Vedalken Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>42</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Artifact spells you play cost {1} less to play.</oracleText>
+  <printedText>Artifact spells you play cost {1} less to play.</printedText>
+  <flavorText>The greatest masters of the craft abandon tools altogether, shaping metal with hand and mind alone.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>176436</id>
+  <name>Skullmulcher</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Elemental</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>148</setNumber>
+  <artist>Michael Ryan</artist>
+  <oracleText>Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) &lt;br&gt;When Skullmulcher comes into play, draw a card for each creature it devoured.</oracleText>
+  <printedText>Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.)&lt;br&gt;When Skullmulcher comes into play, draw a card for each creature it devoured.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>176438</id>
+  <name>Sangrite Surge</name>
+  <cost>{4}{R}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>190</setNumber>
+  <artist>Jarreau Wimberly</artist>
+  <oracleText>Target creature gets +3/+3 and gains double strike until end of turn.</oracleText>
+  <printedText>Target creature gets +3/+3 and gains double strike until end of turn.</printedText>
+  <flavorText>Some believe the spiky crystal called sangrite is concentrated dragon's breath. Others think it's crystallized life energy. The clans care only about the power it unleashes when crushed.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>176441</id>
+  <name>Lush Growth</name>
+  <cost>{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>136</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Enchant land &lt;br&gt;Enchanted land is a Mountain, Forest, and Plains.</oracleText>
+  <printedText>Enchant land&lt;br&gt;Enchanted land is a Mountain, Forest, and Plains.</printedText>
+  <flavorText>Naya's bounty spills over upon itself. Each leaf and flower struggles against the next with thrashing thorns, acidic pollen, and strangling roots.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>176443</id>
+  <name>Carrion Thrash</name>
+  <cost>{2}{B}{R}{G}</cost>
+  <type>Creature - Viashino Warrior</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>162</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>When Carrion Thrash is put into a graveyard from play, you may pay {2}. If you do, return another target creature card from your graveyard to your hand.</oracleText>
+  <printedText>When Carrion Thrash is put into a graveyard from play, you may pay {2}. If you do, return another target creature card from your graveyard to your hand.</printedText>
+  <flavorText>Viashino hunt in gangs called thrashes. Not all thrashes hunt the freshest game.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>176444</id>
+  <name>Resounding Scream</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>83</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Target player discards a card at random. &lt;br&gt;Cycling {5}{U}{B}{R} ({5}{U}{B}{R}, Discard this card: Draw a card.) &lt;br&gt;When you cycle Resounding Scream, target player discards two cards at random.</oracleText>
+  <printedText>Target player discards a card at random.&lt;br&gt;Cycling {5}{U}{B}{R} ({5}{U}{B}{R}, Discard this card: Draw a card.)&lt;br&gt;When you cycle Resounding Scream, target player discards two cards at random.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>176446</id>
+  <name>Lightning Talons</name>
+  <cost>{2}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>107</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +3/+0 and has first strike.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and has first strike.</printedText>
+  <flavorText>"This is going to hurt a lot, but on the bright side, you'll be dead soon."&lt;br&gt;--Sedris, the Traitor King</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>176447</id>
+  <name>Fire-Field Ogre</name>
+  <cost>{1}{U}{B}{R}</cost>
+  <type>Creature - Ogre Mutant</type>
+  <power>4</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>168</setNumber>
+  <artist>Mitch Cotie</artist>
+  <oracleText>First strike &lt;br&gt;Unearth {U}{B}{R} ({U}{B}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>First strike&lt;br&gt;Unearth {U}{B}{R} ({U}{B}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>176448</id>
+  <name>Corpse Connoisseur</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Zombie Wizard</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>68</setNumber>
+  <artist>Mark Hyzer</artist>
+  <oracleText>When Corpse Connoisseur comes into play, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library. &lt;br&gt;Unearth {3}{B} ({3}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>When Corpse Connoisseur comes into play, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.&lt;br&gt;Unearth {3}{B} ({3}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>176450</id>
+  <name>Punish Ignorance</name>
+  <cost>{W}{U}{U}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>183</setNumber>
+  <artist>Shelly Wan</artist>
+  <oracleText>Counter target spell. Its controller loses 3 life and you gain 3 life.</oracleText>
+  <printedText>Counter target spell. Its controller loses 3 life and you gain 3 life.</printedText>
+  <flavorText>"Amateurish. Nearsighted. A waste of my time and everyone else's."&lt;br&gt;--Indra, nullmage of Vectis</flavorText>
+  <cmc>4</cmc>
+  <color>{U}{B}{W}</color>
+</mc>
+<mc>
+  <id>176452</id>
+  <name>Undead Leotau</name>
+  <cost>{5}{B}</cost>
+  <type>Creature - Zombie Cat</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>90</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>{R}: Undead Leotau gets +1/-1 until end of turn. &lt;br&gt;Unearth {2}{B} ({2}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>{R}: Undead Leotau gets +1/-1 until end of turn.&lt;br&gt;Unearth {2}{B} ({2}{B}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>176455</id>
+  <name>Hell's Thunder</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>103</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Flying, haste &lt;br&gt;At end of turn, sacrifice Hell's Thunder. &lt;br&gt;Unearth {4}{R} ({4}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>Flying, haste&lt;br&gt;At end of turn, sacrifice Hell's Thunder.&lt;br&gt;Unearth {4}{R} ({4}{R}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>176456</id>
+  <name>Fatestitcher</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Zombie Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>43</setNumber>
+  <artist>E. M. Gist</artist>
+  <oracleText>{T}: You may tap or untap another target permanent. &lt;br&gt;Unearth {U} ({U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</oracleText>
+  <printedText>{T}: You may tap or untap another target permanent.&lt;br&gt;Unearth {U} ({U}: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>177473</id>
+  <name>Shadowfeed</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>86</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>Remove target card in a graveyard from the game. You gain 3 life.</oracleText>
+  <printedText>Remove target card in a graveyard from the game. You gain 3 life.</printedText>
+  <flavorText>"The future is a snake, devouring your life backwards through time. And when you die, believe me, it doesn't stop feeding."&lt;br&gt;--Sedris, the Traitor King</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>177476</id>
+  <name>Flameblast Dragon</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>100</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Flying &lt;br&gt;Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.</printedText>
+  <flavorText>Dragon lords of Jund rule by edicts of flame.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>177596</id>
+  <name>Goblin Deathraiders</name>
+  <cost>{B}{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>169</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Trample</oracleText>
+  <printedText>Trample</printedText>
+  <flavorText>Every once in a while, when they aren't getting incinerated in lava, crushed under rock slides, or devoured by dragons, goblins experience moments of unmitigated glory in battle.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}{R}</color>
+</mc>
+<mc>
+  <id>177597</id>
+  <name>Sigil Blessing</name>
+  <cost>{G}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>195</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.</oracleText>
+  <printedText>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.</printedText>
+  <flavorText>"For unwavering commitment and unflinching strength, the Order of the White Orchid confers its sigil. Rise, knight-captain, and do your duty."</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{W}</color>
+</mc>
+<mc>
+  <id>177598</id>
+  <name>Hindering Light</name>
+  <cost>{W}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>173</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>Counter target spell that targets you or a permanent you control. &lt;br&gt;Draw a card.</oracleText>
+  <printedText>Counter target spell that targets you or a permanent you control.&lt;br&gt;Draw a card.</printedText>
+  <flavorText>Centuries of careful practice have elevated the casting of protective spells to an art form. What little offensive magic remains on Bant stands little chance of breaching them.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{W}</color>
+</mc>
+<mc>
+  <id>177600</id>
+  <name>Rip-Clan Crasher</name>
+  <cost>{R}{G}</cost>
+  <type>Creature - Human Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>189</setNumber>
+  <artist>Justin Sweet</artist>
+  <oracleText>Haste</oracleText>
+  <printedText>Haste</printedText>
+  <flavorText>If you breathe, she will fight you. If you breathe fire, she must fight you.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>177601</id>
+  <name>Thoughtcutter Agent</name>
+  <cost>{U}{B}</cost>
+  <type>Artifact Creature - Human Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>201</setNumber>
+  <artist>Cyril Van Der Haegen</artist>
+  <oracleText>{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.</oracleText>
+  <printedText>{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.</printedText>
+  <flavorText>Agents of the Architects of Will mark their victims as a reminder that their secrets are secret no longer.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}{B}</color>
+</mc>
+<mc>
+  <id>177602</id>
+  <name>Branching Bolt</name>
+  <cost>{1}{R}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>158</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Choose one or both - Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.</oracleText>
+  <printedText>Choose one or both Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.</printedText>
+  <flavorText>"Lightning lives in everything, in living flesh and growing things. It must be set free."&lt;br&gt;--Rakka Mar</flavorText>
+  <cmc>3</cmc>
+  <color>{G}{R}</color>
+</mc>
+<mc>
+  <id>178091</id>
+  <name>Covenant of Minds</name>
+  <cost>{4}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>38</setNumber>
+  <artist>Dan Seagrave</artist>
+  <oracleText>Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.</oracleText>
+  <printedText>Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.</printedText>
+  <flavorText>Before signing anything on Grixis, always read the fine print.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>178092</id>
+  <name>Cancel</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>33</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>Counter target spell.</oracleText>
+  <printedText>Counter target spell.</printedText>
+  <flavorText>"What you are attempting is not against the law. It is, however, extremely foolish."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>178094</id>
+  <name>Knight of the White Orchid</name>
+  <cost>{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>16</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>First strike &lt;br&gt;When Knight of the White Orchid comes into play, if an opponent controls more lands than you, you may search your library for a Plains card, put it into play, then shuffle your library.</oracleText>
+  <printedText>First strike&lt;br&gt;When Knight of the White Orchid comes into play, if an opponent controls more lands than you, you may search your library for a Plains card, put it into play, then shuffle your library.</printedText>
+  <flavorText>Both guide and guard on open plain.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>178096</id>
+  <name>Welkin Guide</name>
+  <cost>{4}{W}</cost>
+  <type>Creature - Bird Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>30</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>Flying &lt;br&gt;When Welkin Guide comes into play, target creature gets +2/+2 and gains flying until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;When Welkin Guide comes into play, target creature gets +2/+2 and gains flying until end of turn.</printedText>
+  <flavorText>"Those talons really dig into your skin, but it's better than being dropped."&lt;br&gt;--Rafiq of the Many</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>178097</id>
+  <name>Mighty Emergence</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>137</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Whenever a creature with power 5 or greater comes into play under your control, you may put two +1/+1 counters on it.</oracleText>
+  <printedText>Whenever a creature with power 5 or greater comes into play under your control, you may put two +1/+1 counters on it.</printedText>
+  <flavorText>Why settle for mere enormity?</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>178101</id>
+  <name>Broodmate Dragon</name>
+  <cost>{3}{B}{R}{G}</cost>
+  <type>Creature - Dragon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>160</setNumber>
+  <artist>Vance Kovacs</artist>
+  <oracleText>Flying &lt;br&gt;When Broodmate Dragon comes into play, put a 4/4 red Dragon creature token with flying into play.</oracleText>
+  <printedText>Flying&lt;br&gt;When Broodmate Dragon comes into play, put a 4/4 red Dragon creature token with flying into play.</printedText>
+  <flavorText>Frozen in fear, the goblins stared upward at the circling hunter--and were promptly eaten by its diving mate.</flavorText>
+  <cmc>6</cmc>
+  <color>{B}{G}{R}</color>
+</mc>
+<mc>
+  <id>179421</id>
+  <name>Knight-Captain of Eos</name>
+  <cost>{4}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>17</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>When Knight-Captain of Eos comes into play, put two 1/1 white Soldier creature tokens into play. &lt;br&gt;{W}, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.</oracleText>
+  <printedText>When Knight-Captain of Eos comes into play, put two 1/1 white Soldier creature tokens into play.&lt;br&gt;{W}, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.</printedText>
+  <flavorText>The strength of Bant's caste system is the unfailing loyalty of its meekest members.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>179422</id>
+  <name>Realm Razer</name>
+  <cost>{3}{R}{G}{W}</cost>
+  <type>Creature - Beast</type>
+  <power>4</power>
+  <toughness>2</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>187</setNumber>
+  <artist>Hideaki Takamura</artist>
+  <oracleText>When Realm Razer comes into play, remove all lands from the game. &lt;br&gt;When Realm Razer leaves play, return the removed cards to play tapped under their owners' control.</oracleText>
+  <printedText>When Realm Razer comes into play, remove all lands from the game.&lt;br&gt;When Realm Razer leaves play, return the removed cards to play tapped under their owners' control.</printedText>
+  <flavorText>The behemoth roared, and the world was blasted free of empires and tyrants.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}{R}{W}</color>
+</mc>
+<mc>
+  <id>179423</id>
+  <name>Naya Panorama</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>227</setNumber>
+  <artist>Hideaki Takamura</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it into play tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it into play tapped. Then shuffle your library.</printedText>
+  <flavorText>Between the thunderous footfalls of Naya's behemoths lie moments of perfect quiet.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>179424</id>
+  <name>Infest</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>80</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>All creatures get -2/-2 until end of turn.</oracleText>
+  <printedText>All creatures get -2/-2 until end of turn.</printedText>
+  <flavorText>"This is why we don't go out in banewasp weather."&lt;br&gt;--Rannon, Vithian holdout</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>179425</id>
+  <name>Jund Panorama</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>225</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it into play tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it into play tapped. Then shuffle your library.</printedText>
+  <flavorText>The sky is the dragon's throne, the seat from which it issues its fiery decrees.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>179426</id>
+  <name>Crucible of Fire</name>
+  <cost>{3}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>96</setNumber>
+  <artist>Dominick Domingo</artist>
+  <oracleText>Dragon creatures you control get +3/+3.</oracleText>
+  <printedText>Dragon creatures you control get +3/+3.</printedText>
+  <flavorText>"The dragon is a perfect marriage of power and the will to use it."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>179428</id>
+  <name>Skill Borrower</name>
+  <cost>{2}{U}</cost>
+  <type>Artifact Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>56</setNumber>
+  <artist>Shelly Wan</artist>
+  <oracleText>Play with the top card of your library revealed. &lt;br&gt;As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)</oracleText>
+  <printedText>Play with the top card of your library revealed.&lt;br&gt;As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>179430</id>
+  <name>Kederekt Creeper</name>
+  <cost>{U}{B}{R}</cost>
+  <type>Creature - Horror</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>176</setNumber>
+  <artist>Mark Hyzer</artist>
+  <oracleText>Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.) &lt;br&gt;Kederekt Creeper can't be blocked except by two or more creatures.</oracleText>
+  <printedText>Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)&lt;br&gt;Kederekt Creeper can't be blocked except by two or more creatures.</printedText>
+  <flavorText>Bloated with venom, it crawls Grixis looking for victims to ooze onto.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}{B}{R}</color>
+</mc>
+<mc>
+  <id>179431</id>
+  <name>Esper Panorama</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>223</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it into play tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it into play tapped. Then shuffle your library.</printedText>
+  <flavorText>Esper is an expansive canvas painted by precise, controlling hands.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>179432</id>
+  <name>Tortoise Formation</name>
+  <cost>{3}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>61</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)</oracleText>
+  <printedText>Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)</printedText>
+  <flavorText>At sea, the Jhessian fleet strikes swiftly and decisively. On land, facing the elite cavalry of Valeron, its marines must rely on more cautious strategies.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>179433</id>
+  <name>Grixis Panorama</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>224</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}, {T}, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it into play tapped. Then shuffle your library.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it into play tapped. Then shuffle your library.</printedText>
+  <flavorText>There is no height above Grixis that is free from the stench of death.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>180144</id>
+  <name>Excommunicate</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Common</rarity>
+  <setNumber>11</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Put target creature on top of its owner's library.</oracleText>
+  <printedText>Put target creature on top of its owner's library.</printedText>
+  <flavorText>Rebels and other malcontents forced into the ritual awake lost in Topa's vast savannahs. Those who find their way back return humble and repentant.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>185774</id>
+  <name>Quietus Spike</name>
+  <cost>{3}</cost>
+  <type>Artifact - Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Shards of Alara</edition>
+  <rarity>Rare</rarity>
+  <setNumber>217</setNumber>
+  <artist>Mark Brill</artist>
+  <oracleText>Equipped creature has deathtouch. &lt;br&gt;Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up. &lt;br&gt;Equip {3}</oracleText>
+  <printedText>Equipped creature has deathtouch.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.&lt;br&gt;Equip {3}</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+</list>
+</cards>

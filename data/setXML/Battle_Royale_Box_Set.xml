@@ -1,0 +1,2318 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>11177</id>
+  <name>Blinking Spirit</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Spirit</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>L. A. Williams</artist>
+  <oracleText>{0}: Return Blinking Spirit to its owner's hand.</oracleText>
+  <printedText>{0}: Return Blinking Spirit to its owner's hand.</printedText>
+  <flavorText>"Don't look at it Maybe it'll go away"&lt;br&gt;--Ib Halfheart, goblin tactician</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>11380</id>
+  <name>Lhurgoyf</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Lhurgoyf</type>
+  <power>*</power>
+  <toughness>1+*</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</oracleText>
+  <printedText>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</printedText>
+  <flavorText>"Ach Hans, run It's the lhurgoyf"&lt;br&gt;--Saffi Eriksdotter, last words</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>15391</id>
+  <name>Nekrataal</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Human Assassin</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Adrian Smith</artist>
+  <oracleText>First strike (This creature deals combat damage before creatures without first strike.) &lt;br&gt;When Nekrataal comes into play, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</oracleText>
+  <printedText>First strike&lt;br&gt;When Nekrataal comes into play, destroy target nonartifact, nonblack creature. It can't be regenerated.</printedText>
+  <flavorText>"I have seen the horrors Kaervek has freed. My Betrayal is certain--but of Kaervek or of Jamuraa, I cannot say."&lt;br&gt;--Jolrael</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21097</id>
+  <name>Maniacal Rage</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +2/+2 and can't block.</oracleText>
+  <printedText>Enchanted creature gets +2/+2 and can't block.</printedText>
+  <flavorText>Only by sacrificing any semblance of defense could Gerrard best Greven.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21098</id>
+  <name>Village Elder</name>
+  <cost>{G}</cost>
+  <type>Creature - Human Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</oracleText>
+  <printedText>{G}, {T}, Sacrifice a forest: Regenerate target creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21099</id>
+  <name>Broken Fall</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Return Broken Fall to its owner's hand: Regenerate target creature.</oracleText>
+  <printedText>Return Broken Fall to its owner's hand: Regenerate target creature.</printedText>
+  <flavorText>"I think I used up all my good luck and all my bad luck in the same fall."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21100</id>
+  <name>Tranquility</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Destroy all enchantments.</oracleText>
+  <printedText>Destroy all enchantments.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21101</id>
+  <name>Symbiosis</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Two target creatures each get +2/+2 until end of turn.</oracleText>
+  <printedText>Two target creatures each get +2/+2 until end of turn.</printedText>
+  <flavorText>Although the elves of Argoth always considered them a nuisance, the pixies made fine allies during the war against the machines.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21102</id>
+  <name>Arc Lightning</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Goldhawk</artist>
+  <oracleText>Arc Lightning deals 3 damage divided as you choose among any number of target creatures and/or players.</oracleText>
+  <printedText>Arc Lightning deals 3 damage divided as you choose among any number of target creatures and/or players.</printedText>
+  <flavorText>Rainclouds don't last long in Shiv, but that doesn't stop the lightning.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21104</id>
+  <name>Shower of Sparks</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.</oracleText>
+  <printedText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.</printedText>
+  <flavorText>The viashino had learned how to operate the rig through trial and error--mostly error.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21105</id>
+  <name>Scryb Sprites</name>
+  <cost>{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>The only sound was the gentle clicking of the faeries' wings. Then those intruders who were still standing turned and fled. One thing was certain: they didn't think the Scryb were very funny anymore.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21106</id>
+  <name>Skyshroud Elite</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</oracleText>
+  <printedText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</printedText>
+  <flavorText>"Civilization is a conspiracy to disguise the mutilation of nature."&lt;br&gt;--Skyshroud elite creed</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21107</id>
+  <name>Llanowar Elves</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add {G} to your mana pool.</printedText>
+  <flavorText>One bone broken for every twig snapped underfoot.&lt;br&gt;--Llanowar penalty for trespassing</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21108</id>
+  <name>Seeker of Skybreak</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Elf</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Daren Bader</artist>
+  <oracleText>{T}: Untap target creature.</oracleText>
+  <printedText>{T}: Untap target creature.</printedText>
+  <flavorText>"We shun them not for their dream but for their refusal to let such a noble dream die a noble death."&lt;br&gt;--Eladamri, Lord of Leaves</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21109</id>
+  <name>River Boa</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Snake</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Steve White</artist>
+  <oracleText>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.</oracleText>
+  <printedText>Islandwalk (This creature is unblockable as long as defending player controls an island.)&lt;br&gt;{G}: Regenerate River Boa.</printedText>
+  <flavorText>"But no one heard the snake's gentle hiss for peace over the elephant's trumpeting of war."&lt;br&gt;--Afari, Tales</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21110</id>
+  <name>Pincher Beetles</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Insect</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Shroud (This creature can't be the target of spells or abilities.)</oracleText>
+  <printedText>Pincher Beetles can't be the target of spells or abilities.</printedText>
+  <flavorText>"No fair Since when does a bug get ta munch on me?"&lt;br&gt;--Squee, goblin cabin hand</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21112</id>
+  <name>Uthden Troll</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Troll</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{R}: Regenerate Uthden Troll.</oracleText>
+  <printedText>{R}: Regenerate Uthden Troll.</printedText>
+  <flavorText>"Oi oi oi, me gotta hurt in 'ere,&lt;br&gt;Oi oi oi, me smell a ting is near,&lt;br&gt;Gonna bosh 'n gonna nosh&lt;br&gt;'n da hurt'll disappear."&lt;br&gt;--Troll chant</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21113</id>
+  <name>Spike Feeder</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Spike Feeder comes into play with two +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature. &lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</oracleText>
+  <printedText>Spike Feeder comes into play with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.&lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21114</id>
+  <name>Trumpeting Armodon</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elephant</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Gary Leach</artist>
+  <oracleText>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.</oracleText>
+  <printedText>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.</printedText>
+  <flavorText>These are its last days. But it will not go quietly.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21115</id>
+  <name>Wildfire Emissary</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Efreet</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Richard Kane Ferguson</artist>
+  <oracleText>Protection from white &lt;br&gt;{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.</oracleText>
+  <printedText>Protection from white&lt;br&gt;{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.</printedText>
+  <flavorText>"The efreet is a striding storm with a voice that crackles like fire."&lt;br&gt;--Qhattib, vizier of Amiqat</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21116</id>
+  <name>Plated Rootwalla</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Lizard</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Elliott</artist>
+  <oracleText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Play this ability only once each turn.</oracleText>
+  <printedText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Play this ability only once each turn.</printedText>
+  <flavorText>" . . . And the third little boar built his house out of rootwalla plates . . . ."&lt;br&gt;--Skyshroud children's story</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21117</id>
+  <name>Mogg Hollows</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Laubenstein</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21118</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21119</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>David O'Connor</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21120</id>
+  <name>Armored Pegasus</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Pegasus</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits."&lt;br&gt;--Tahlil en-Dal, bounty hunter</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21121</id>
+  <name>Air Elemental</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21122</id>
+  <name>Azure Drake</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Janine Johnston</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Little dreamt could seem so cruel&lt;br&gt;As waiting for the wings outspread,&lt;br&gt;The jagged teeth, the burning eyes,&lt;br&gt;And dagger-claws that clench to nerves.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21123</id>
+  <name>Disruptive Student</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>{T}: Counter target spell unless its controller pays {1}.</oracleText>
+  <printedText>{T}: Counter target spell unless its controller pays {1}.</printedText>
+  <flavorText>"Teferi is a problem student. Always late for class. No appreciation for constructive use of time."&lt;br&gt;--Barrin, progress report</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21124</id>
+  <name>Wind Drake</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"No bird soars too high, if he soars with his own wings."&lt;br&gt;--William Blake,&lt;br&gt;The Marriage of Heaven and Hell</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21125</id>
+  <name>Manta Riders</name>
+  <cost>{U}</cost>
+  <type>Creature - Merfolk</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{U}: Manta Riders gains flying until end of turn.</oracleText>
+  <printedText>{U}: Manta Riders gains flying until end of turn.</printedText>
+  <flavorText>"Water is firmament to the finned."&lt;br&gt;--Oracle en-Vec</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21126</id>
+  <name>Mana Leak</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Counter target spell unless its controller pays {3}.</oracleText>
+  <printedText>Counter target spell unless its controller pays {3}.</printedText>
+  <flavorText>"The fatal flaw in every plan is the assumption that you know more than your enemy."&lt;br&gt;--Volrath</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21127</id>
+  <name>Counterspell</name>
+  <cost>{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Hannibal King</artist>
+  <oracleText>Counter target spell.</oracleText>
+  <printedText>Counter target spell.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21128</id>
+  <name>Opportunity</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spears</artist>
+  <oracleText>Target player draws four cards.</oracleText>
+  <printedText>Target player draws four cards.</printedText>
+  <flavorText>"He cocooned himself alone in his workshop for months. When he finally emerged, all broad grins and excited chatter, I knew he'd found his answer."&lt;br&gt;--Barrin, master wizard</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21129</id>
+  <name>Prodigal Sorcerer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</oracleText>
+  <printedText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</printedText>
+  <flavorText>Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21130</id>
+  <name>Healing Salve</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Zina Saunders</artist>
+  <oracleText>Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</oracleText>
+  <printedText>Choose one Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21131</id>
+  <name>Infantry Veteran</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{T}: Target attacking creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>{T}: Target attacking creature gets +1/+1 until end of turn.</printedText>
+  <flavorText>"The true dishonor for a soldier is surviving the war."&lt;br&gt;--Telim'Tor</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21132</id>
+  <name>Soul Warden</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Whenever another creature comes into play, you gain 1 life.</oracleText>
+  <printedText>Whenever another creature comes into play, you gain 1 life.</printedText>
+  <flavorText>Count carefully the souls and see that none are lost.&lt;br&gt;--Vec teaching</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21133</id>
+  <name>Disenchant</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Destroy target artifact or enchantment.</oracleText>
+  <printedText>Destroy target artifact or enchantment.</printedText>
+  <flavorText>"I implore you not to forget the horrors of the past. You would have us start the Brothers' War anew"&lt;br&gt;--Sorine Relicbane, Soldevi heretic</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21134</id>
+  <name>Songstitcher</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Berry</artist>
+  <oracleText>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.</oracleText>
+  <printedText>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.</printedText>
+  <flavorText>The true names of birds are songs woven into their souls.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21135</id>
+  <name>Windfall</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Each player discards his or her hand, then draws cards equal to the greatest number a player discarded this way.</oracleText>
+  <printedText>Each player discards his or her hand and draws cards equal to the greatest number a player discarded this way.</printedText>
+  <flavorText>"To fill your mind with knowledge, we must start by emptying it."&lt;br&gt;--Barrin, master wizard</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21137</id>
+  <name>Curfew</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Each player returns a creature he or she controls to its owner's hand.</oracleText>
+  <printedText>Each player returns a creature he or she controls to its owner's hand.</printedText>
+  <flavorText>". . . But I'm not tired"</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21138</id>
+  <name>Man-o'-War</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Jellyfish</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jon J Muth</artist>
+  <oracleText>When Man-o'-War comes into play, return target creature to its owner's hand.</oracleText>
+  <printedText>When Man-o'-War comes into play, return target creature to its owner's hand.</printedText>
+  <flavorText>"Beauty to the eye does not always translate to the touch."&lt;br&gt;--Naimah, Femeref philosopher</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21139</id>
+  <name>Flood</name>
+  <cost>{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>{U}{U}: Tap target creature without flying.</oracleText>
+  <printedText>{U}{U}: Tap target creature without flying.</printedText>
+  <flavorText>"A dash of cool water does wonders to clear a cluttered battlefield."&lt;br&gt;--Vibekke Ragnild, Witches and War</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21141</id>
+  <name>Control Magic</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dameon Willich</artist>
+  <oracleText>Enchant creature &lt;br&gt;You control enchanted creature.</oracleText>
+  <printedText>You control enchanted creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21142</id>
+  <name>Ray of Command</name>
+  <cost>{3}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. &lt;br&gt; &lt;br&gt;When you lose control of the creature, tap it.</oracleText>
+  <printedText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. (It may attack and {T} the turn it comes under your control.)</printedText>
+  <flavorText>"Heel."</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>21143</id>
+  <name>Catastrophe</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.</oracleText>
+  <printedText>Destroy all creatures or all lands. Creatures destroyed this way can't be regenerated.</printedText>
+  <flavorText>Radiant's eyes flashed. "Go, then," the angel spat at Serra, "and leave this world to those who truly care."</flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21144</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21145</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21146</id>
+  <name>Thalakos Lowlands</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21147</id>
+  <name>Wall of Heat</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Wall</type>
+  <power>2</power>
+  <toughness>6</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Richard Thomas</artist>
+  <oracleText>Defender (This creature can't attack.)</oracleText>
+  <printedText>(Walls can't attack.)</printedText>
+  <flavorText>At a distance, we mistook the sound for a waterfall . . . .</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21148</id>
+  <name>Subversion</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</oracleText>
+  <printedText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</printedText>
+  <flavorText>Kerrick's corrupt domain swelled like a blister on Tolaria's skin.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21149</id>
+  <name>Pestilence</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>At end of turn, if no creatures are in play, sacrifice Pestilence. &lt;br&gt; &lt;br&gt;{B}: Pestilence deals 1 damage to each creature and each player.</oracleText>
+  <printedText>At end of turn, if there are no creatures in play, sacrifice Pestilence.&lt;br&gt;{B}: Pestilence deals 1 damage to each creature and each player.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21150</id>
+  <name>Sadistic Glee</name>
+  <cost>{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Enchant creature &lt;br&gt;Whenever a creature is put into a graveyard from play, put a +1/+1 counter on enchanted creature.</oracleText>
+  <printedText>Whenever a creature is put into a graveyard from play, put a +1/+1 counter on enchanted creature.</printedText>
+  <flavorText>"First blood isn't as important as last blood."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21151</id>
+  <name>Terror</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</oracleText>
+  <printedText>Destroy target nonartifact, nonblack creature. It can't be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21152</id>
+  <name>Syphon Soul</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</oracleText>
+  <printedText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21153</id>
+  <name>Exhume</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Each player puts a creature card from his or her graveyard into play.</oracleText>
+  <printedText>Each player puts a creature card from his or her graveyard into play.</printedText>
+  <flavorText>"Death--an outmoded concept. We sleep, and we change."&lt;br&gt;--Sitrik, birth priest</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21154</id>
+  <name>Dark Ritual</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Clint Langley</artist>
+  <oracleText>Add {B}{B}{B} to your mana pool.</oracleText>
+  <printedText>Add {B}{B}{B} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21155</id>
+  <name>Living Death</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Charles Gillespie</artist>
+  <oracleText>Each player removes all creature cards in his or her graveyard from the game, then sacrifices all creatures he or she controls, then puts into play all cards he or she removed this way.</oracleText>
+  <printedText>Set aside all creature cards in all graveyards. Then put each creature that's in play into its owner's graveyard. Then put each creature card set aside this way into play under its owner's control.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21156</id>
+  <name>Unnerve</name>
+  <cost>{3}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Each opponent discards two cards.</oracleText>
+  <printedText>Each opponent discards two cards from his or her hand.</printedText>
+  <flavorText>"If fear is the only tool you have left, then you'll never control me."&lt;br&gt;--Xantcha, to Gix</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21157</id>
+  <name>Weakness</name>
+  <cost>{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-1.</oracleText>
+  <printedText>Enchanted creature gets -2/-1.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21158</id>
+  <name>Rolling Thunder</name>
+  <cost>{X}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Richard Thomas</artist>
+  <oracleText>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</oracleText>
+  <printedText>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</printedText>
+  <flavorText>"Such rage," thought Vhati, gazing up at the thunderhead from the Predator. "It is Greven's mind manifest."</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21159</id>
+  <name>Heat Ray</name>
+  <cost>{X}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Heat Ray deals X damage to target creature.</oracleText>
+  <printedText>Heat Ray deals X damage to target creature.</printedText>
+  <flavorText>It's not known whether the Thran built the device to forge their wonders or to defend them.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21160</id>
+  <name>Reanimate</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Robert Bliss</artist>
+  <oracleText>Put target creature card from a graveyard into play under your control. You lose life equal to its converted mana cost.</oracleText>
+  <printedText>Put target creature card from a graveyard into play under your control. You lose life equal to that creature's converted mana cost.</printedText>
+  <flavorText>"You will learn to earn death."&lt;br&gt;--Volrath</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21161</id>
+  <name>Sewer Rats</name>
+  <cost>{B}</cost>
+  <type>Creature - Rat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Martin McKenna</artist>
+  <oracleText>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Play this ability no more than three times each turn.</oracleText>
+  <printedText>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. No more than {B}{B}{B} may be spent this way each turn.</printedText>
+  <flavorText>You lie down with rats, and the rats run away.&lt;br&gt;--Suq'Ata insult</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21162</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Haste (This creature may attack and {T} the turn it comes under your control.)</printedText>
+  <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21163</id>
+  <name>Fire Ants</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Insect</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Fleming</artist>
+  <oracleText>{T}: Fire Ants deals 1 damage to each other creature without flying.</oracleText>
+  <printedText>{T}: Fire Ants deals 1 damage to each other creature without flying.</printedText>
+  <flavorText>Visitors to Shiv fear the dragons, the goblins, or the viashino. Natives fear the ants.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21164</id>
+  <name>Phyrexian Ghoul</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.</oracleText>
+  <printedText>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.</printedText>
+  <flavorText>Phyrexia wastes nothing. Its food chain is a spiraling cycle.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21165</id>
+  <name>Crazed Skirge</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Imp</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Flying, haste</oracleText>
+  <printedText>Flying; haste (This creature may attack and {T} the turn it comes under your control.)</printedText>
+  <flavorText>They are Phyrexia's couriers; the messages they carry are inscribed on their slick hides.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21166</id>
+  <name>Lightning Elemental</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Haste (This creature may attack and {T} the turn it comes under your control.)</printedText>
+  <flavorText>A lightning elemental once killed an entire tribe of merfolk--simply by going for a swim.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21167</id>
+  <name>Abyssal Specter</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Specter</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>George Pratt</artist>
+  <oracleText>Flying &lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21168</id>
+  <name>Cackling Fiend</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Zombie</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Despain</artist>
+  <oracleText>When Cackling Fiend comes into play, each opponent discards a card.</oracleText>
+  <printedText>When Cackling Fiend comes into play, each opponent discards a card from his or her hand.</printedText>
+  <flavorText>Its windpipe is only the first to amplify its maddening laughter.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21169</id>
+  <name>Sengir Vampire</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Vampire</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.) &lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a creature is put into a graveyard from play, if Sengir Vampire dealt damage to it this turn, put a +1/+1 counter on Sengir Vampire.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>21170</id>
+  <name>Cinder Marsh</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21171</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21172</id>
+  <name>Swords to Plowshares</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Remove target creature from the game. Its controller gains life equal to its power.</oracleText>
+  <printedText>Remove target creature from the game. Its controller gains life equal to its power.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21174</id>
+  <name>Scaled Wurm</name>
+  <cost>{7}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>7</power>
+  <toughness>6</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares--they embodied the worst of the Ice Age."&lt;br&gt;--Kjeldor: Ice Civilization</flavorText>
+  <cmc>8</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21175</id>
+  <name>Fertile Ground</name>
+  <cost>{1}{G}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).</oracleText>
+  <printedText>Whenever enchanted land is tapped for mana, it produces an additional one mana of any color.</printedText>
+  <flavorText>The forest was too lush for the brothers to despoil--almost.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21176</id>
+  <name>Master Decoy</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>{W}, {T}: Tap target creature.</oracleText>
+  <printedText>{W}, {T}: Tap target creature.</printedText>
+  <flavorText>"A skilled decoy can throw your enemies off your trail. A master decoy can survive to do it again."&lt;br&gt;--Gerrard of the Weatherlight</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21177</id>
+  <name>Angelic Page</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Angel Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Flying &lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</printedText>
+  <flavorText>If only every message were as perfect as its bearer.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21178</id>
+  <name>Vec Townships</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Eric David Anderson</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21179</id>
+  <name>Spike Weaver</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Spike Weaver comes into play with three +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature. &lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</oracleText>
+  <printedText>Spike Weaver comes into play with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21180</id>
+  <name>Wrath of God</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>Destroy all creatures. They can't be regenerated.</oracleText>
+  <printedText>Destroy all creatures. They can't be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21181</id>
+  <name>Spike Colony</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Spike Colony comes into play with four +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</oracleText>
+  <printedText>Spike Colony comes into play with four +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21182</id>
+  <name>Argothian Elder</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>{T}: Untap two target lands.</oracleText>
+  <printedText>{T}: Untap two target lands.</printedText>
+  <flavorText>Sharpen your ears&lt;br&gt;--Elvish expression meaning&lt;br&gt;"grow wiser"</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21183</id>
+  <name>Seasoned Marshal</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Matthew D. Wilson</artist>
+  <oracleText>Whenever Seasoned Marshal attacks, you may tap target creature.</oracleText>
+  <printedText>Whenever Seasoned Marshal attacks, you may tap target creature.</printedText>
+  <flavorText>There are only two rules of tactics: never be without a plan, and never rely on it.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21184</id>
+  <name>Sanctum Custodian</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Paolo Parente</artist>
+  <oracleText>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</oracleText>
+  <printedText>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</printedText>
+  <flavorText>Serra told them to guard Urza as he healed. Five years they stood.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21185</id>
+  <name>Sanctum Guardian</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.</oracleText>
+  <printedText>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.</printedText>
+  <flavorText>"Protect our mother in her womb."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21186</id>
+  <name>Advance Scout</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Soldier Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>First strike &lt;br&gt;{W}: Target creature gains first strike until end of turn.</oracleText>
+  <printedText>First strike&lt;br&gt;{W}: Target creature gains first strike until end of turn.</printedText>
+  <flavorText>"The soldier's path is worn smooth by the tread of many feet--all in one direction, none returning."&lt;br&gt;--Oracle en-Vec</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21187</id>
+  <name>Soltari Foot Soldier</name>
+  <cost>{W}</cost>
+  <type>Creature - Soltari Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Janet Aulisio</artist>
+  <oracleText>Shadow (This creature can block or be blocked by only creatures with shadow.)</oracleText>
+  <printedText>Shadow (This creature can block or be blocked by only creatures with shadow.)</printedText>
+  <flavorText>"Children of the Ruins, raised to be warriors, know that life begins when another speaks their names."&lt;br&gt;--Soltari Tales of Life</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21188</id>
+  <name>Elvish Lyrist</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</oracleText>
+  <printedText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</printedText>
+  <flavorText>Bring the spear of ancient briar;&lt;br&gt;Bring the torch to light the pyre.&lt;br&gt;Bring the one who trod our ground;&lt;br&gt;Bring the spade to dig his mound.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21190</id>
+  <name>Sun Clasp</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Coulthart</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +1/+3. &lt;br&gt;{W}: Return enchanted creature to its owner's hand.</oracleText>
+  <printedText>Enchanted creature gets +1/+3.&lt;br&gt;{W}: Return enchanted creature to its owner's hand.</printedText>
+  <flavorText>"And darkness shall be cast from me&lt;br&gt;For my soul resides in the Sun."&lt;br&gt;--Femeref dirge</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21191</id>
+  <name>Pacifism</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Robert Bliss</artist>
+  <oracleText>Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) &lt;br&gt;Enchanted creature can't attack or block.</oracleText>
+  <printedText>Enchanted creature can't attack or block.</printedText>
+  <flavorText>For the first time in his life, Grakk felt a little warm and fuzzy inside.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21192</id>
+  <name>Fecundity</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Whenever a creature is put into a graveyard from play, that creature's controller may draw a card.</oracleText>
+  <printedText>Whenever a creature is put into a graveyard from play, that creature's controller may draw a card.</printedText>
+  <flavorText>Life is eternal. A lifetime is ephemeral.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21193</id>
+  <name>Sandstorm</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Sandstorm deals 1 damage to each attacking creature.</oracleText>
+  <printedText>Sandstorm deals 1 damage to each attacking creature.</printedText>
+  <flavorText>Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21194</id>
+  <name>Giant Growth</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Target creature gets +3/+3 until end of turn.</oracleText>
+  <printedText>Target creature gets +3/+3 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21195</id>
+  <name>Hurricane</name>
+  <cost>{X}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Hurricane deals X damage to each creature with flying and each player.</oracleText>
+  <printedText>Hurricane deals X damage to each creature with flying and each player.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21196</id>
+  <name>Dirtcowl Wurm</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.</oracleText>
+  <printedText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.</printedText>
+  <flavorText>Few of Rath's rivers follow a steady course, so many new channels are carved for them.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21197</id>
+  <name>Land Tax</name>
+  <cost>{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.</oracleText>
+  <printedText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, then put them into your hand. If you do, shuffle your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>21198</id>
+  <name>Spike Worker</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Spike</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>Spike Worker comes into play with two +1/+1 counters on it. &lt;br&gt;{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.</oracleText>
+  <printedText>Spike Worker comes into play with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>21199</id>
+  <name>Slippery Karst</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Slippery Karst comes into play tapped. &lt;br&gt;{T}: Add {G} to your mana pool. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} (You may pay {2} and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)&lt;br&gt;Slippery Karst comes into play tapped.&lt;br&gt;{T}: Add {G} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21200</id>
+  <name>Remote Isle</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ciruelo</artist>
+  <oracleText>Remote Isle comes into play tapped. &lt;br&gt;{T}: Add {U} to your mana pool. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} (You may pay {2} and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)&lt;br&gt;Remote Isle comes into play tapped.&lt;br&gt;{T}: Add {U} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21202</id>
+  <name>Polluted Mire</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Stephen Daniele</artist>
+  <oracleText>Polluted Mire comes into play tapped. &lt;br&gt;{T}: Add {B} to your mana pool. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} (You may pay {2} and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)&lt;br&gt;Polluted Mire comes into play tapped.&lt;br&gt;{T}: Add {B} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21203</id>
+  <name>Drifting Meadow</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Bob Eggleton</artist>
+  <oracleText>Drifting Meadow comes into play tapped. &lt;br&gt;{T}: Add {W} to your mana pool. &lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)</oracleText>
+  <printedText>Cycling {2} (You may pay {2} and discard this card from your hand to draw a card. Play this ability any time you could play an instant.)&lt;br&gt;Drifting Meadow comes into play tapped.&lt;br&gt;{T}: Add {W} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>21204</id>
+  <name>Steam Blast</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Raabe</artist>
+  <oracleText>Steam Blast deals 2 damage to each creature and each player.</oracleText>
+  <printedText>Steam Blast deals 2 damage to each creature and each player.</printedText>
+  <flavorText>The viashino knew of the cracked pipes but deliberately left them unmended to bolster the rig's defenses.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>21205</id>
+  <name>Gorilla Warrior</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Ape Warrior</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>John Matson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>They were formidable even before they learned the use of weapons.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>22334</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22335</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22336</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22339</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22340</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22342</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22343</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22344</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>[R]</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22347</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>David O'Connor</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22348</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22349</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22351</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22352</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22353</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ji Yong</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22354</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ji Yong</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22355</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ji Yong</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22356</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22357</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22358</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>He Jiancheng</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22359</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>He Jiancheng</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22360</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>He Jiancheng</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22361</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22362</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22363</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22364</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22365</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ku Xueming</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22366</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ku Xueming</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22367</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Ku Xueming</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22368</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22369</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>22370</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Battle Royale Box Set</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>

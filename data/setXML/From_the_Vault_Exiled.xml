@@ -1,0 +1,261 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>194966</id>
+  <name>Balance</name>
+  <cost>{1}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>1</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.</oracleText>
+  <printedText>Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>194969</id>
+  <name>Berserk</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>2</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Cast Berserk only before the combat damage step.&lt;br&gt;Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.</oracleText>
+  <printedText>Cast Berserk only before the combat damage step.&lt;br&gt;Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the end step, destroy that creature if it attacked this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>194967</id>
+  <name>Channel</name>
+  <cost>{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>3</setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.</oracleText>
+  <printedText>Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.</printedText>
+  <flavorText>To some mages, the meaning of life is less important than how much is left.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>194971</id>
+  <name>Gifts Ungiven</name>
+  <cost>{3}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>4</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Search your library for four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.</oracleText>
+  <printedText>Search your library for four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>194973</id>
+  <name>Goblin Lackey</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>5</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.</oracleText>
+  <printedText>Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.</printedText>
+  <flavorText>At the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>194974</id>
+  <name>Kird Ape</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Ape</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>6</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Kird Ape gets +1/+2 as long as you control a Forest.</oracleText>
+  <printedText>Kird Ape gets +1/+2 as long as you control a Forest.</printedText>
+  <flavorText>Apes can be gentle, contemplative beasts--but context is everything.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>194975</id>
+  <name>Lotus Petal</name>
+  <cost>{0}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>7</setNumber>
+  <artist>April Lee</artist>
+  <oracleText>{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.</printedText>
+  <flavorText>"Hard to imagine," mused Hanna, stroking the petal, "such a lovely flower inspiring such greed."</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>194976</id>
+  <name>Mystical Tutor</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>8</setNumber>
+  <artist>David O'Connor</artist>
+  <oracleText>Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</oracleText>
+  <printedText>Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</printedText>
+  <flavorText>The student searches the world for meaning. The master finds worlds of meaning in the search.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>194977</id>
+  <name>Necropotence</name>
+  <cost>{B}{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>9</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>Skip your draw step.&lt;br&gt;Whenever you discard a card, exile that card from your graveyard.&lt;br&gt;Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.</oracleText>
+  <printedText>Skip your draw step.&lt;br&gt;Whenever you discard a card, exile that card from your graveyard.&lt;br&gt;Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>194972</id>
+  <name>Sensei's Divining Top</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>10</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>{1}: Look at the top three cards of your library, then put them back in any order.&lt;br&gt;{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.</oracleText>
+  <printedText>{1}: Look at the top three cards of your library, then put them back in any order.&lt;br&gt;{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>194970</id>
+  <name>Serendib Efreet</name>
+  <cost>{2}{U}</cost>
+  <type>Creature  -- Efreet</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>11</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.</oracleText>
+  <printedText>Flying&lt;br&gt;At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.</printedText>
+  <flavorText>Summoners of efreeti remember only the power of command, never the sting of regret.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>194978</id>
+  <name>Skullclamp</name>
+  <cost>{1}</cost>
+  <type>Artifact  -- Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>12</setNumber>
+  <artist>Luca Zontini</artist>
+  <oracleText>Equipped creature gets +1/-1.&lt;br&gt;Whenever equipped creature is put into a graveyard, draw two cards.&lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</oracleText>
+  <printedText>Equipped creature gets +1/-1.&lt;br&gt;When equipped creature is put into a graveyard, draw two cards.&lt;br&gt;Equip {1}</printedText>
+  <flavorText>The mind is a beautiful bounty encased in an annoying bone container.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>194968</id>
+  <name>Strip Mine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>13</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;&lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</printedText>
+  <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>194980</id>
+  <name>Tinker</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>14</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>As an additional cost to cast Tinker, sacrifice an artifact.&lt;br&gt;Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.</oracleText>
+  <printedText>As an additional cost to cast Tinker, sacrifice an artifact.&lt;br&gt;Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.</printedText>
+  <flavorText>"What separates us from mere beasts is the capacity for self-improvement."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>194979</id>
+  <name>Trinisphere</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>FVE</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>15</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)</oracleText>
+  <printedText>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast.</printedText>
+  <flavorText>Designed to restrain petty thoughts, but used to repress entire empires.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+</list>
+</cards>

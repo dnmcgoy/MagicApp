@@ -1,0 +1,2811 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>6491</id>
+  <name>Volunteer Militia</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>People fight hardest on their own soil.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6492</id>
+  <name>Alaborn Zealot</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>David Horne</artist>
+  <oracleText>When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.</oracleText>
+  <printedText>If Alaborn Zealot blocks, destroy both Alaborn Zealot and the creature it blocks. (Destroy both creatures before you deal damage.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6493</id>
+  <name>Alaborn Trooper</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Lubov</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"I dedicate my body to my country&lt;br&gt;And my life to my King."&lt;br&gt;--Alaborn Soldier's Oath</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6494</id>
+  <name>Town Sentry</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brad Williams</artist>
+  <oracleText>Whenever Town Sentry blocks, it gets +0/+2 until end of turn.</oracleText>
+  <printedText>If Town Sentry blocks, it gets +0/+2 until the end of the turn.</printedText>
+  <flavorText>"So he gots a sword. Big deal."&lt;br&gt;"Yeah, it's a big deal--it's a big sword"&lt;br&gt;--Two goblins outside the gates of Trokin</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6495</id>
+  <name>Temple Acolyte</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Lubov</artist>
+  <oracleText>When Temple Acolyte comes into play, you gain 3 life.</oracleText>
+  <printedText>When Temple Acolyte comes into play from your hand, you gain 3 life.</printedText>
+  <flavorText>Young, yes. Inexperienced, yes. Weak? Don't count on it.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6496</id>
+  <name>Trokin High Guard</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Battle tempers soldiers as fire tempers steel.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6497</id>
+  <name>Wild Griffin</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Griffin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Two little goblins, out in the sun. Down came a griffin, and then there was one.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6498</id>
+  <name>Angelic Wall</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Defender, flying (This creature can't attack, and it can block creatures with flying.)</oracleText>
+  <printedText>Flying&lt;br&gt;Walls can't attack.</printedText>
+  <flavorText>Be at peace, and observe its beauty. Be at war, and feel its justice.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6499</id>
+  <name>Alaborn Musketeer</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Alaborn Musketeer can block creatures with flying.</printedText>
+  <flavorText>Muskets gave the Alaborn army an advantage it had long lacked--air defense.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6500</id>
+  <name>Angelic Blessing</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Henry Van Der Linde</artist>
+  <oracleText>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Any one creature gets +3/+3 and gains flying until the end of the turn.</printedText>
+  <flavorText>The man who rose up to fight was not the same man knocked down.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6501</id>
+  <name>Breath of Life</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Lubov</artist>
+  <oracleText>Return target creature card from your graveyard to play.</oracleText>
+  <printedText>Take any one creature card from your graveyard and put that creature into play. Treat it as though you just played it from your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6502</id>
+  <name>Path of Peace</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Destroy target creature. Its owner gains 4 life.</oracleText>
+  <printedText>Destroy any one creature. That creature's owner gains 4 life.</printedText>
+  <flavorText>"You could die famous or you could die old. I chose old."&lt;br&gt;--Former soldier</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6503</id>
+  <name>Righteous Charge</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Creatures you control get +2/+2 until end of turn.</oracleText>
+  <printedText>All your creatures get +2/+2 until the end of the turn.</printedText>
+  <flavorText>"Bravery shines brightest in a pure soul."&lt;br&gt;--Restela, Alaborn marshal</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6504</id>
+  <name>Festival of Trokin</name>
+  <cost>{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>You gain 2 life for each creature you control.</oracleText>
+  <printedText>For each creature you have in play, you gain 2 life.</printedText>
+  <flavorText>Everyone loves a good sale.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6505</id>
+  <name>Angel of Mercy</name>
+  <cost>{4}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.) &lt;br&gt;When Angel of Mercy comes into play, you gain 3 life.</oracleText>
+  <printedText>Flying&lt;br&gt;When Angel of Mercy comes into play from your hand, you gain 3 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6506</id>
+  <name>Alaborn Cavalier</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Whenever Alaborn Cavalier attacks, you may tap target creature.</oracleText>
+  <printedText>If Alaborn Cavalier attacks, you may choose to tap any one creature. (Tapped creatures can't block.)</printedText>
+  <flavorText>"Course he ran I wouldn't want to stare down that barrel, either"&lt;br&gt;--Alaborn soldier</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6507</id>
+  <name>Temple Elder</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>David Horne</artist>
+  <oracleText>{T}: You gain 1 life. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Temple Elder to gain 1 life.</printedText>
+  <flavorText>"Give us breath. Give us life. Prepare us for the day we make."&lt;br&gt;--The Alaborn "Rite of Battle"</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6508</id>
+  <name>Alaborn Grenadier</name>
+  <cost>{W}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Vigilance</oracleText>
+  <printedText>Attacking doesn't cause Alaborn Grenadier to tap.</printedText>
+  <flavorText>"Ever proud, ever vigilant."&lt;br&gt;--Grenadier motto</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6509</id>
+  <name>Armored Griffin</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Griffin</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brad Williams</artist>
+  <oracleText>Flying, vigilance</oracleText>
+  <printedText>Flying&lt;br&gt;Attacking doesn't cause Armored Griffin to tap.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6510</id>
+  <name>Bargain</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Target opponent draws a card. &lt;br&gt;You gain 7 life.</oracleText>
+  <printedText>Your opponent draws a card.&lt;br&gt;You gain 7 life.</printedText>
+  <flavorText>Bargaining with a goblin is like trading with a child; both believe they already own everything.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6511</id>
+  <name>Rally the Troops</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Play Rally the Troops only during the declare attackers step and only if you are the defending player. &lt;br&gt;Untap all creatures you control.</oracleText>
+  <printedText>Play Rally the Troops only after you're attacked, before you declare blockers.&lt;br&gt;Untap all your creatures.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6512</id>
+  <name>Warrior's Stand</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Play Warrior's Stand only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Creatures you control get +2/+2 until end of turn.</oracleText>
+  <printedText>Play Warrior's Stand only after you're attacked, before you declare blockers.&lt;br&gt;All your creatures get +2/+2 until the end of the turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6513</id>
+  <name>Vengeance</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Destroy target tapped creature.</oracleText>
+  <printedText>Destroy any one tapped creature.</printedText>
+  <flavorText>A bullet renders all sizes equal.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6514</id>
+  <name>Archangel</name>
+  <cost>{5}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>rk post</artist>
+  <oracleText>Flying, vigilance</oracleText>
+  <printedText>Flying&lt;br&gt;Attacking doesn't cause Archangel to tap.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6515</id>
+  <name>Angel of Fury</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature - Angel</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Flying &lt;br&gt;When Angel of Fury is put into your graveyard from play, you may shuffle it into your library.</oracleText>
+  <printedText>Flying&lt;br&gt;If Angel of Fury is put into your graveyard from play, you may choose to shuffle Angel of Fury into your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6516</id>
+  <name>Alaborn Veteran</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Henry Van Der Linde</artist>
+  <oracleText>{T}: Target creature gets +2/+2 until end of turn. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Alaborn Veteran to give any one creature +2/+2 until the end of the turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6517</id>
+  <name>Steam Catapult</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Human Soldier</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}: Destroy target tapped creature. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Steam Catapult to destroy any one tapped creature.</printedText>
+  <flavorText>"You idiots Turn it around Turn it around"</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6518</id>
+  <name>Righteous Fury</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.</oracleText>
+  <printedText>Destroy all tapped creatures. For each creature destroyed this way, you gain 2 life. (This includes your creatures.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6519</id>
+  <name>Just Fate</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Brad Williams</artist>
+  <oracleText>Play Just Fate only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Destroy target attacking creature.</oracleText>
+  <printedText>Play Just Fate only after you're attacked, before you declare blockers.&lt;br&gt;Destroy any one attacking creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6520</id>
+  <name>Armageddon</name>
+  <cost>{3}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Destroy all lands.</oracleText>
+  <printedText>Destroy all lands. (This includes your lands.)</printedText>
+  <flavorText>War destroys more than just the land. War destroys hope.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>6521</id>
+  <name>Talas Scout</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Pirate Scout</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Scouting a battle before you fight it is just good business."&lt;br&gt;--Jefan, Talas ship captain</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6522</id>
+  <name>Talas Explorer</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Pirate Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Flying &lt;br&gt;When Talas Explorer comes into play, look at target opponent's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;When Talas Explorer comes into play from your hand, look at your opponent's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6523</id>
+  <name>Screeching Drake</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying &lt;br&gt;When Screeching Drake comes into play, draw a card, then discard a card.</oracleText>
+  <printedText>Flying&lt;br&gt;When Screeching Drake comes into play from your hand, draw a card, then choose and discard a card from your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6524</id>
+  <name>Talas Air Ship</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Human Pirate</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Their ships pollute our air as they themselves pollute our forest."&lt;br&gt;--Arathel, elvish queen</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6525</id>
+  <name>Talas Merchant</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Pirate</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Lubov</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The trader let loose a laugh that made all around him check their purses.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6526</id>
+  <name>Steam Frigate</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Pirate</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Steam Frigate can't attack unless defending player controls an Island.</oracleText>
+  <printedText>Steam Frigate can't attack unless the defending player has an island in play.</printedText>
+  <flavorText>"Is it merchants or is it pirates?"&lt;br&gt;"It's Talas--there's no difference."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6527</id>
+  <name>Touch of Brilliance</name>
+  <cost>{3}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Draw two cards.</oracleText>
+  <printedText>Draw two cards.</printedText>
+  <flavorText>"I don't want what I don't have. I want more of what I do have."</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6528</id>
+  <name>Déjà Vu</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David Horne</artist>
+  <oracleText>Return target sorcery card from your graveyard to your hand.</oracleText>
+  <printedText>Return any one sorcery card from your graveyard to your hand.</printedText>
+  <flavorText>History is the study of repetition.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6529</id>
+  <name>Sleight of Hand</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</oracleText>
+  <printedText>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6530</id>
+  <name>Wind Sail</name>
+  <cost>{1}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Matt Stawicki</artist>
+  <oracleText>One or two target creatures gain flying until end of turn.</oracleText>
+  <printedText>Any one or two creatures gain flying until the end of the turn.</printedText>
+  <flavorText>It pays to be at home both on the sea and in the sky.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6531</id>
+  <name>Tidal Surge</name>
+  <cost>{1}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Phil Foglio</artist>
+  <oracleText>Tap up to three target creatures without flying.</oracleText>
+  <printedText>Tap any one, two, or three creatures without flying. (Tapped creatures can't block.)</printedText>
+  <flavorText>Four little goblins, trapped by the sea. One teased a serpent, and then there were three.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6532</id>
+  <name>Time Ebb</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Sam Woods</artist>
+  <oracleText>Put target creature on top of its owner's library.</oracleText>
+  <printedText>Return any one creature from play to the top of its owner's library.</printedText>
+  <flavorText>"The ogre had come from out of the blue, so that's where I sent it back."&lt;br&gt;--Talas wizard</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6533</id>
+  <name>False Summoning</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Counter target creature spell.</oracleText>
+  <printedText>Play False Summoning only in response to another player playing a creature. That creature card has no effect, and that player puts it into his or her graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6534</id>
+  <name>Extinguish</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Counter target sorcery spell.</oracleText>
+  <printedText>Play Extinguish only in response to another player playing a sorcery. That sorcery has no effect, and that player puts it into his or her graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6535</id>
+  <name>Apprentice Sorcerer</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{T}: Apprentice Sorcerer deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Apprentice Sorcerer to have it deal 1 damage to any one creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6536</id>
+  <name>Air Elemental</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Creature - Elemental</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>As insubstantial, and as powerful, as the wind that carries it.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6537</id>
+  <name>Armored Galleon</name>
+  <cost>{4}{U}</cost>
+  <type>Creature - Human Pirate</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Armored Galleon can't attack unless defending player controls an Island.</oracleText>
+  <printedText>Armored Galleon can't attack unless the defending player has an island in play.</printedText>
+  <flavorText>"Information equals profits. Our merchants sell it, or our pirates use it." &lt;br&gt;--Jefan, Talas ship captain</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6538</id>
+  <name>Eye Spy</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Look at the top card of target player's library. You may put that card into his or her graveyard.</oracleText>
+  <printedText>Look at the top card of any player's library. You may choose to put that card back on top of that library or into that player's graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6539</id>
+  <name>Sea Drake</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Drake</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Flying &lt;br&gt;When Sea Drake comes into play, return two target lands you control to their owner's hand.</oracleText>
+  <printedText>Flying&lt;br&gt;When Sea Drake comes into play from your hand, return any two of your lands from play to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6540</id>
+  <name>Undo</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Henry Van Der Linde</artist>
+  <oracleText>Return two target creatures to their owners' hands.</oracleText>
+  <printedText>Return any two creatures from play to their owner's hand. (You can't play Undo unless you can choose two creatures to return.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6541</id>
+  <name>Remove</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Play Remove only during the declare attackers step and only if you are the defending player. &lt;br&gt; &lt;br&gt;Return target attacking creature to its owner's hand.</oracleText>
+  <printedText>Play Remove only after you're attacked, before you declare blockers.&lt;br&gt;Return any one attacking creature to its owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6542</id>
+  <name>Mystic Denial</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Counter target creature or sorcery spell.</oracleText>
+  <printedText>Play Mystic Denial only in response to another player playing a creature or a sorcery. That card has no effect, and that player puts it into his or her graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6543</id>
+  <name>Theft of Dreams</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Draw a card for each tapped creature target opponent controls.</oracleText>
+  <printedText>For each tapped creature your opponent has in play, you draw a card.</printedText>
+  <flavorText>"First they fight, then they sleep, then they dream. And finally I receive my reward."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6544</id>
+  <name>Coastal Wizard</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>{T}: Return Coastal Wizard and another target creature to their owners' hands. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Coastal Wizard to return it and any one other creature to their owners' hands.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6545</id>
+  <name>Talas Warrior</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Human Pirate Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Talas Warrior is unblockable.</oracleText>
+  <printedText>Talas Warrior can't be blocked.</printedText>
+  <flavorText>The sea is in their blood. Literally.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6546</id>
+  <name>Denizen of the Deep</name>
+  <cost>{6}{U}{U}</cost>
+  <type>Creature - Serpent</type>
+  <power>11</power>
+  <toughness>11</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>When Denizen of the Deep comes into play, return each other creature you control to its owner's hand.</oracleText>
+  <printedText>When Denizen of the Deep comes into play from your hand, return all your other creatures from play to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6547</id>
+  <name>Talas Researcher</name>
+  <cost>{4}{U}</cost>
+  <type>Creature - Human Pirate Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{T}: Draw a card. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Talas Researcher to draw a card.</printedText>
+  <flavorText>From time, knowledge.&lt;br&gt;From knowledge, power.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6548</id>
+  <name>Temporal Manipulation</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Take an extra turn after this one.</oracleText>
+  <printedText>You take another turn after this one.</printedText>
+  <flavorText>Doing something at the last minute isn't so bad when you can make that minute last.</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6549</id>
+  <name>Exhaustion</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Creatures and lands target opponent controls don't untap during his or her next untap step.</oracleText>
+  <printedText>At the beginning of your opponent's next turn, he or she skips untapping creatures and lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6550</id>
+  <name>Piracy</name>
+  <cost>{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Brad Williams</artist>
+  <oracleText>Until end of turn, you may play mana abilities of lands you don't control, putting the mana they generate into your mana pool. Use mana produced this way only to play spells.</oracleText>
+  <printedText>This turn, you may tap your opponent's lands to help pay for your spells.</printedText>
+  <flavorText>The sea gives, and the sea takes. Some just help with the taking.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>6551</id>
+  <name>Muck Rats</name>
+  <cost>{B}</cost>
+  <type>Creature - Rat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"Just as some fool said it couldn't get worse, the rats began to show up."&lt;br&gt;--Alaborn soldier</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6552</id>
+  <name>Dakmor Scorpion</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Scorpion</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>A scorpion this big you won't find curled up in your boot. Maybe around your boot, but not in it.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6553</id>
+  <name>Dakmor Bat</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Bat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>The bat thrives on what underestimates it.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6554</id>
+  <name>Moaning Spirit</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>The dead sing their own lullabies.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6555</id>
+  <name>Swarm of Rats</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Rat</type>
+  <power>*</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Swarm of Rats's power is equal to the number of Rats you control.</oracleText>
+  <printedText>Swarm of Rats has power equal to the number of Rat cards you have in play. (This includes both tapped and untapped Rat cards.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6556</id>
+  <name>Prowling Nightstalker</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Prowling Nightstalker can't be blocked except by black creatures.</oracleText>
+  <printedText>Prowling Nightstalker can't be blocked except by other black creatures.</printedText>
+  <flavorText>Silent as a serpent, twisted as a lone bog tree, evil as Tojira's heart.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6557</id>
+  <name>Lurking Nightstalker</name>
+  <cost>{B}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.</oracleText>
+  <printedText>If Lurking Nightstalker attacks, it gets +2/+0 until the end of the turn.</printedText>
+  <flavorText>The shadows know.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6558</id>
+  <name>Raiding Nightstalker</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Swampwalk</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Raiding Nightstalker can't be blocked.)</printedText>
+  <flavorText>"Our steeds need food, water, stabling. Theirs just need prey."&lt;br&gt;--Restela, Alaborn marshal</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6559</id>
+  <name>Ravenous Rats</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Rat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>When Ravenous Rats comes into play, target opponent discards a card.</oracleText>
+  <printedText>When Ravenous Rats comes into play from your hand, your opponent chooses and discards a card from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6560</id>
+  <name>Raise Dead</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Return target creature card from your graveyard to your hand.</oracleText>
+  <printedText>Return any one creature from your graveyard to your hand.</printedText>
+  <flavorText>"Life from death is part of the natural cycle. This is merely a shortcut."&lt;br&gt;--Tojira, swamp queen</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6561</id>
+  <name>Cruel Edict</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Target opponent sacrifices a creature.</oracleText>
+  <printedText>Your opponent chooses one of his or her creatures. Destroy that creature.</printedText>
+  <flavorText>"Such a fragile organ, the brain."&lt;br&gt;--Tojira, swamp queen</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6562</id>
+  <name>Mind Rot</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Target player discards two cards.</oracleText>
+  <printedText>Your opponent chooses and discards two cards from his or her hand. (If your opponent has only one card, he or she discards it.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6563</id>
+  <name>Hand of Death</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Destroy target nonblack creature.</oracleText>
+  <printedText>Destroy any one creature that isn't black.</printedText>
+  <flavorText>The touch of death is never gentle.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6564</id>
+  <name>Chorus of Woe</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Creatures you control get +1/+0 until end of turn.</oracleText>
+  <printedText>All your creatures get +1/+0 until the end of the turn.</printedText>
+  <flavorText>When nightstalkers sing, nothing in creation sleeps.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6565</id>
+  <name>Predatory Nightstalker</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>When Predatory Nightstalker comes into play, you may have target opponent sacrifice a creature.</oracleText>
+  <printedText>When Predatory Nightstalker comes into play from your hand, you may force your opponent to destroy any one of his or her creatures. (Your opponent chooses the creature.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6566</id>
+  <name>Brutal Nightstalker</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brom</artist>
+  <oracleText>When Brutal Nightstalker comes into play, you may have target opponent discard a card.</oracleText>
+  <printedText>When Brutal Nightstalker comes into play from your hand, you may force your opponent to choose and discard a card from his or her hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6567</id>
+  <name>Abyssal Nightstalker</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Sam Woods</artist>
+  <oracleText>Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.</oracleText>
+  <printedText>If Abyssal Nightstalker attacks and isn't blocked, your opponent chooses and discards a card from his or her hand. (Ignore this effect if your opponent doesn't have any cards.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6568</id>
+  <name>Foul Spirit</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>rk post</artist>
+  <oracleText>Flying &lt;br&gt; &lt;br&gt;When Foul Spirit comes into play, sacrifice a land.</oracleText>
+  <printedText>Flying&lt;br&gt;When Foul Spirit comes into play from your hand, destroy one of your lands.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6569</id>
+  <name>Dark Offering</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Destroy target nonblack creature. You gain 3 life.</oracleText>
+  <printedText>Destroy any one creature that isn't black. You gain 3 life.</printedText>
+  <flavorText>"Our greatest hope has become our enemy's greatest triumph."&lt;br&gt;--Restela, Alaborn marshal</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6570</id>
+  <name>Coercion</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Target opponent reveals his or her hand. Choose a card from it. That player discards that card.</oracleText>
+  <printedText>Look at your opponent's hand and choose a card. Your opponent discards that card.</printedText>
+  <flavorText>"Human tenderness is simply weakness in a pretty package."&lt;br&gt;--Tojira, swamp queen</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6571</id>
+  <name>Dakmor Plague</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Dakmor Plague deals 3 damage to each creature and each player.</oracleText>
+  <printedText>Dakmor Plague deals 3 damage to each creature and player. (This includes your creatures and you.)</printedText>
+  <flavorText>The tiniest cough can be deadlier than the fiercest dragon.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6572</id>
+  <name>Kiss of Death</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>Kiss of Death deals 4 damage to target opponent. You gain 4 life.</oracleText>
+  <printedText>Kiss of Death deals 4 damage to your opponent. You gain 4 life.</printedText>
+  <flavorText>"I'd sooner lock lips with a viper. At least I might walk away from that."&lt;br&gt;--Elvish scout</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6573</id>
+  <name>Bloodcurdling Scream</name>
+  <cost>{X}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Target creature gets +X/+0 until end of turn.</oracleText>
+  <printedText>Any one creature gets +X/+0 until the end of the turn.</printedText>
+  <flavorText>"I have all the weapons my enemies have--and far deeper rage."&lt;br&gt;--Tojira, swamp queen</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6574</id>
+  <name>Hidden Horror</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Horror</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Brom</artist>
+  <oracleText>When Hidden Horror comes into play, sacrifice it unless you discard a creature card.</oracleText>
+  <printedText>When Hidden Horror comes into play from your hand, choose and discard a creature card from your hand or destroy Hidden Horror.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6575</id>
+  <name>Vampiric Spirit</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Flying &lt;br&gt;When Vampiric Spirit comes into play, you lose 4 life.</oracleText>
+  <printedText>Flying&lt;br&gt;When Vampiric Spirit comes into play from your hand, you lose 4 life. (The person who plays Vampiric Spirit loses the life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6576</id>
+  <name>Dakmor Sorceress</name>
+  <cost>{5}{B}</cost>
+  <type>Creature - Human Wizard</type>
+  <power>*</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Matthew Wilson</artist>
+  <oracleText>Dakmor Sorceress's power is equal to the number of Swamps you control.</oracleText>
+  <printedText>Dakmor Sorceress has power equal to the number of swamp cards you have in play. (This includes both tapped and untapped swamp cards.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6577</id>
+  <name>Nightstalker Engine</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Nightstalker</type>
+  <power>*</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Nightstalker Engine's power is equal to the number of creature cards in your graveyard.</oracleText>
+  <printedText>Nightstalker Engine has power equal to the number of creature cards in your graveyard.</printedText>
+  <flavorText>Part metal, part bone, and all death.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6578</id>
+  <name>Return of the Nightstalkers</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Return all Nightstalker permanent cards from your graveyard to play. Then destroy all Swamps you control.</oracleText>
+  <printedText>Return all the Nightstalker cards from your graveyard to play. Then destroy all your swamps. (Treat these Nightstalkers as though they just came into play from your hand.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6579</id>
+  <name>Ancient Craving</name>
+  <cost>{3}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>You draw three cards and you lose 3 life.</oracleText>
+  <printedText>Draw 3 cards. You lose 3 life.</printedText>
+  <flavorText>"Knowledge demands sacrifice."&lt;br&gt;--Tojira, swamp queen</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6580</id>
+  <name>Rain of Daggers</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.</oracleText>
+  <printedText>Destroy all your opponent's creatures. For each creature destroyed this way, you lose 2 life.</printedText>
+  <flavorText>Knives in the sky, cries in the air, and blood on the ground.</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>6581</id>
+  <name>Raging Goblin</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Raging Goblin is unaffected by summoning sickness.</printedText>
+  <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6582</id>
+  <name>Goblin Piker</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Once he'd worked out which end of the thing was sharp, he was promoted to guard duty.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6583</id>
+  <name>Goblin Raider</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Matt Stawicki</artist>
+  <oracleText>Goblin Raider can't block.</oracleText>
+  <printedText>Goblin Raider can't block.</printedText>
+  <flavorText>"I seen lots o' fights. To win ya gotta bash hard and not get bashed back."&lt;br&gt;--Goblin grunt</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6584</id>
+  <name>Goblin Glider</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying &lt;br&gt;Goblin Glider can't block.</oracleText>
+  <printedText>Flying&lt;br&gt;Goblin Glider can't block.</printedText>
+  <flavorText>The goblins call the gliders "death from above." Everyone else calls them "clods in the clouds."</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6585</id>
+  <name>Goblin Mountaineer</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText>Mountainwalk</oracleText>
+  <printedText>Mountainwalk (If defending player has any mountains in play, Goblin Mountaineer can't be blocked.)</printedText>
+  <flavorText>Goblin mountaineer, barely keeps his family fed.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6586</id>
+  <name>Ogre Berserker</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Ogre Berserker</type>
+  <power>4</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Haste</oracleText>
+  <printedText>Ogre Berserker is unaffected by summoning sickness.</printedText>
+  <flavorText>The machine does the growling, so the ogre's free to smile.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6587</id>
+  <name>Goblin Cavaliers</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>They get along so well with their goats because they're practically goats themselves.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6588</id>
+  <name>Ogre Taskmaster</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ogre</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Ogre Taskmaster can't block.</oracleText>
+  <printedText>Ogre Taskmaster can't block.</printedText>
+  <flavorText>Three little goblins, enjoying their brew. One bumped an ogre, and then there were two.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6589</id>
+  <name>Spitting Earth</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David Horne</artist>
+  <oracleText>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</oracleText>
+  <printedText>Spitting Earth deals to any one creature damage equal to the number of mountains you have in play. (This includes both tapped and untapped mountains.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6590</id>
+  <name>Stone Rain</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Doug Chaffee</artist>
+  <oracleText>Destroy target land.</oracleText>
+  <printedText>Destroy any one land.</printedText>
+  <flavorText>There goes the neighborhood</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6591</id>
+  <name>Lava Axe</name>
+  <cost>{4}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Lava Axe deals 5 damage to target player.</oracleText>
+  <printedText>Lava Axe deals 5 damage to your opponent.</printedText>
+  <flavorText>Meant to cut through the body and burn straight to the soul.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6592</id>
+  <name>Tremor</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Tremor deals 1 damage to each creature without flying.</oracleText>
+  <printedText>Tremor deals 1 damage to each creature without flying. (This includes your creatures without flying.)</printedText>
+  <flavorText>One little goblin shook up the ground. When the dust cleared, no one was found.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6593</id>
+  <name>Volcanic Hammer</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Edward P. Beard, Jr.</artist>
+  <oracleText>Volcanic Hammer deals 3 damage to target creature or player.</oracleText>
+  <printedText>Volcanic Hammer deals 3 damage to any one creature or player.</printedText>
+  <flavorText>Fire finds its form in the heat of the forge.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6594</id>
+  <name>Goblin War Strike</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Michael Weaver</artist>
+  <oracleText>Goblin War Strike deals damage equal to the number of Goblins you control to target player.</oracleText>
+  <printedText>Goblin War Strike deals to your opponent damage equal to the number of Goblin cards you have in play. (This includes both tapped and untapped Goblin cards.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6595</id>
+  <name>Ogre Arsonist</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Ogre</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>When Ogre Arsonist comes into play, destroy target land.</oracleText>
+  <printedText>When Ogre Arsonist comes into play from your hand, destroy any one land. (If you're the only one with lands, destroy one of them.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6596</id>
+  <name>Goblin Matron</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.</oracleText>
+  <printedText>When Goblin Matron comes into play from your hand, search your library for a Goblin card and put that card into your hand. Shuffle your library afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6597</id>
+  <name>Ogre Warrior</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Ogre Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Assault and battery included.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6598</id>
+  <name>Goblin Firestarter</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Sacrifice Goblin Firestarter: Goblin Firestarter deals 1 damage to target creature or player. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may destroy Goblin Firestarter to have it deal 1 damage to any one creature or player.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6599</id>
+  <name>Obsidian Giant</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>After a while, ships stopped sailing within his reach.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6600</id>
+  <name>Blaze</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Blaze deals X damage to target creature or player.</oracleText>
+  <printedText>Blaze deals X damage to any one creature or player.</printedText>
+  <flavorText>"This isn't what I meant by --'facing the heat of battle'"&lt;br&gt;--Jefan, Talas ship captain</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6601</id>
+  <name>Jagged Lightning</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Michael Weaver</artist>
+  <oracleText>Jagged Lightning deals 3 damage to target creature and 3 damage to another target creature.</oracleText>
+  <printedText>Choose any two creatures. Jagged Lightning deals 3 damage to each of them. (You can't play Jagged Lightning unless you can choose two creatures to damage.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6602</id>
+  <name>Goblin Lore</name>
+  <cost>{1}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Draw four cards, then discard three cards at random.</oracleText>
+  <printedText>Draw four cards and put them into your hand. Then discard three cards at random from your hand.</printedText>
+  <flavorText>"I done forgot more than you'll ever know, pipsqueak."&lt;br&gt;"Yeah--that's your problem."</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6603</id>
+  <name>Goblin War Cry</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Michael Weaver</artist>
+  <oracleText>Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.</oracleText>
+  <printedText>Your opponent chooses one of his or her creatures. Only that creature can block this turn.</printedText>
+  <flavorText>"Goblins cry, soldiers fly.&lt;br&gt;Stones fly, soldiers die"</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6604</id>
+  <name>Goblin General</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature - Goblin Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.</oracleText>
+  <printedText>When Goblin General attacks, all your Goblins get +1/+1 until the end of the turn.</printedText>
+  <flavorText>Lead, follow, or run around like crazy.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6605</id>
+  <name>Brimstone Dragon</name>
+  <cost>{6}{R}{R}</cost>
+  <type>Creature - Dragon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Flying, haste</oracleText>
+  <printedText>Flying&lt;br&gt;Brimstone Dragon is unaffected by summoning sickness.</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6606</id>
+  <name>Cunning Giant</name>
+  <cost>{5}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>If Cunning Giant is unblocked, you may have it deal its combat damage to any creature the defending player controls.</oracleText>
+  <printedText>If Cunning Giant attacks and isn't blocked, you may choose to have it deal its damage to any one of your opponent's creatures instead of to him or her.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6607</id>
+  <name>Magma Giant</name>
+  <cost>{5}{R}{R}</cost>
+  <type>Creature - Giant</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Michael Weaver</artist>
+  <oracleText>When Magma Giant comes into play, it deals 2 damage to each creature and each player.</oracleText>
+  <printedText>When Magma Giant comes into play from your hand, it deals 2 damage to each creature and player. (This includes you and your creatures, including Magma Giant.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6608</id>
+  <name>Relentless Assault</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</oracleText>
+  <printedText>Untap all your creatures that attacked this turn. You may declare an additional attack this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6609</id>
+  <name>Earthquake</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Earthquake deals X damage to each creature without flying and each player.</oracleText>
+  <printedText>Earthquake deals X damage to each player and each creature without flying. (This includes you and your creatures without flying.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6610</id>
+  <name>Wildfire</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.</oracleText>
+  <printedText>You destroy four of your lands and your opponent destroys four of his or her lands. Then Wildfire deals 4 damage to each creature. (This includes your creatures.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>6611</id>
+  <name>Lynx</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Cat</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Forestwalk</oracleText>
+  <printedText>Forestwalk (If defending player has any forests in play, Lynx can't be blocked.)</printedText>
+  <flavorText>Rarely seen, hardly heard, never caught.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6613</id>
+  <name>Bear Cub</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Bear</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Every little cub has its mother's teeth to guard it.&lt;br&gt;--Elvish saying</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6614</id>
+  <name>Lone Wolf</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Wolf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Michael Weaver</artist>
+  <oracleText>You may have Lone Wolf assign its combat damage as though it weren't blocked.</oracleText>
+  <printedText>If Lone Wolf attacks and is blocked, you may choose to have it deal its damage to the defending player instead of to the creatures blocking it.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6615</id>
+  <name>Norwood Riders</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Norwood Riders can't be blocked by more than one creature.</oracleText>
+  <printedText>Norwood Riders can't be blocked by more than one creature.</printedText>
+  <flavorText>"Trade my moose? Sure--when I find a horse that can spear ten goblins at a time"</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6616</id>
+  <name>Golden Bear</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Bear</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The elvish scout was scrupulous about the truth. She told the traders that gold lay nearby.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6617</id>
+  <name>Plated Wurm</name>
+  <cost>{4}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"I'd hate to see the bird that could get this wurm"&lt;br&gt;--Alaborn soldier</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6618</id>
+  <name>Norwood Archers</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Elf Archer</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Norwood Archers can block creatures with flying.</printedText>
+  <flavorText>"--'Air superiority?' Not while our archers scan the skies."&lt;br&gt;--Elvish scout</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6619</id>
+  <name>Tree Monkey</name>
+  <cost>{G}</cost>
+  <type>Creature - Ape</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Tree Monkey can block creatures with flying.</printedText>
+  <flavorText>"They serve the world best on a platter with shallots and onions."&lt;br&gt;--Talas sailor</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6620</id>
+  <name>Norwood Warrior</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Elf Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.</oracleText>
+  <printedText>If Norwood Warrior attacks and is blocked, it gets +1/+1 until the end of the turn.</printedText>
+  <flavorText>"The woods hold peace for those who desire it, but those who seek battle will find me."</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6621</id>
+  <name>Monstrous Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+  <printedText>Any one creature gets +4/+4 until the end of the turn.</printedText>
+  <flavorText>The nightstalkers' little game of tease-the-squirrel suddenly took an unexpected turn.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6622</id>
+  <name>Salvage</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Keith Parkinson</artist>
+  <oracleText>Put target card from your graveyard on top of your library.</oracleText>
+  <printedText>Take any one card from your graveyard and put that card on the top of your library.</printedText>
+  <flavorText>"What was taken shall be restored."&lt;br&gt;--Arathel, elvish queen</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6623</id>
+  <name>Nature's Lore</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Lubov</artist>
+  <oracleText>Search your library for a Forest card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a forest card and put that forest into play. Shuffle your library afterwards.</printedText>
+  <flavorText>"Every seed planted is another lesson the forest can teach us."&lt;br&gt;--Arathel, elvish queen</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6624</id>
+  <name>Natural Spring</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Target player gains 8 life.</oracleText>
+  <printedText>You gain 8 life.</printedText>
+  <flavorText>The dying ask for water because they know it contains life.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6625</id>
+  <name>Wild Ox</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Ox</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Swampwalk</oracleText>
+  <printedText>Swampwalk (If defending player has any swamps in play, Wild Ox can't be blocked.)</printedText>
+  <flavorText>It has the run of the swamps, and it knows it.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6626</id>
+  <name>River Bear</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Bear</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Islandwalk (This creature is unblockable as long as defending player controls an Island.)</oracleText>
+  <printedText>Islandwalk (If defending player has any islands in play, River Bear can't be blocked.)</printedText>
+  <flavorText>The bears had been isolated on an island for hundreds of years, until the island sank and the bears didn't.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6627</id>
+  <name>Barbtooth Wurm</name>
+  <cost>{5}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>6</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>In its lair lies a carpet of bones.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6628</id>
+  <name>Ironhoof Ox</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Ox</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Una Fricker</artist>
+  <oracleText>Ironhoof Ox can't be blocked by more than one creature.</oracleText>
+  <printedText>Ironhoof Ox can't be blocked by more than one creature.</printedText>
+  <flavorText>The good news is it's vegetarian. The bad news is it just doesn't like you.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6629</id>
+  <name>Renewing Touch</name>
+  <cost>{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>Shuffle any number of target creature cards from your graveyard into your library.</oracleText>
+  <printedText>Choose any number of creature cards in your graveyard and shuffle them into your library.</printedText>
+  <flavorText>Death just encourages life the more.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6630</id>
+  <name>Untamed Wilds</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeffrey R. Busch</artist>
+  <oracleText>Search your library for a basic land card and put that card into play. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a plains, island, swamp, mountain, or forest card and put that land into play. Shuffle your library afterwards.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6631</id>
+  <name>Deep Wood</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Play Deep Wood only during the declare attackers step and only if you are the defending player. &lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.</oracleText>
+  <printedText>Play Deep Wood only after you're attacked, before you declare blockers.&lt;br&gt;This turn, all damage dealt to you by attacking creatures is reduced to 0.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6632</id>
+  <name>Harmony of Nature</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.</oracleText>
+  <printedText>Tap any number of your creatures. You gain 4 life for each creature tapped this way. (Tapped creatures can't block.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6633</id>
+  <name>Bee Sting</name>
+  <cost>{3}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Cris Dornaus</artist>
+  <oracleText>Bee Sting deals 2 damage to target creature or player.</oracleText>
+  <printedText>Bee Sting deals 2 damage to any one creature or player.</printedText>
+  <flavorText>Busy as a bumblebee, blistered as a goblin.&lt;br&gt;--Alaborn saying</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6634</id>
+  <name>Norwood Priestess</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>{T}: You may put a green creature card from your hand into play. Play this ability only during your turn, before the combat phase.</oracleText>
+  <printedText>On your turn, before you attack, you may tap Norwood Priestess to put any green creature from your hand into play without paying for it.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6635</id>
+  <name>Sylvan Yeti</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Yeti</type>
+  <power>*</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Brom</artist>
+  <oracleText>Sylvan Yeti's power is equal to the number of cards in your hand.</oracleText>
+  <printedText>Sylvan Yeti has power equal to the number of cards you have in your hand.</printedText>
+  <flavorText>The deeper the wood, the greater its strength.</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6636</id>
+  <name>Norwood Ranger</name>
+  <cost>{G}</cost>
+  <type>Creature - Elf Scout</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Some trees bear deadly fruit.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6637</id>
+  <name>Deathcoil Wurm</name>
+  <cost>{6}{G}{G}</cost>
+  <type>Creature - Wurm</type>
+  <power>7</power>
+  <toughness>6</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.</oracleText>
+  <printedText>If Deathcoil Wurm attacks and is blocked, you may choose to have it deal its damage to the defending player instead of to the creatures blocking it.</printedText>
+  <flavorText></flavorText>
+  <cmc>8</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6638</id>
+  <name>Razorclaw Bear</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Bear</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.</oracleText>
+  <printedText>If Razorclaw Bear attacks and is blocked, it gets +2/+2 until the end of the turn.</printedText>
+  <flavorText>One razorclaw is three bears too many.&lt;br&gt;--Elvish saying</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6639</id>
+  <name>Alluring Scent</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa A. Benson</artist>
+  <oracleText>All creatures able to block target creature this turn do so.</oracleText>
+  <printedText>Choose any one creature. This turn, all creatures able to block it do so.</printedText>
+  <flavorText>No earthly armor is protection against this sweetness.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>6640</id>
+  <name>Hurricane</name>
+  <cost>{X}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Hurricane deals X damage to each creature with flying and each player.</oracleText>
+  <printedText>Hurricane deals X damage to each player and each creature with flying. (This includes you and your creatures with flying.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>8354</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8374</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8380</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land - Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Fred Fields</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8387</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8390</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8391</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land - Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>John Avon</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8392</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8393</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8394</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land - Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8395</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8406</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8407</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land - Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8408</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8409</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8410</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land - Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Land</rarity>
+  <setNumber></setNumber>
+  <artist>Quinton Hoover</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>8905</id>
+  <name>Sylvan Basilisk</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Basilisk</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Portal Second Age</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Ron Spencer</artist>
+  <oracleText>Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.</oracleText>
+  <printedText>If Sylvan Basilisk attacks and is blocked, destroy all creatures blocking it. (Destroy the creatures before they deal damage. The Basilisk doesn't damage your opponent.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+</list>
+</cards>

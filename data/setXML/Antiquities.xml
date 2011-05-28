@@ -1,0 +1,1706 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>992</id>
+  <name>Amulet of Kroog</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</oracleText>
+  <printedText>{2}: Prevent 1 damage to any target.</printedText>
+  <flavorText>Among the first allies Urza gained were the people of Kroog. As a sign of friendship, Urza gave the healers of the city potent amulets; afterwards, thousands journeyed to Kroog in hope of healing, greatly adding to the city's glory.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>993</id>
+  <name>Armageddon Clock</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>At the beginning of your upkeep, put a doom counter on Armageddon Clock. &lt;br&gt;At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. &lt;br&gt;{4}: Remove a doom counter from Armageddon Clock. Any player may play this ability but only during any upkeep step.</oracleText>
+  <printedText>Put one counter on Armageddon Clock during each of your upkeeps. At the end of your upkeep, each player takes damage equal to the number of counters on the Clock. Any player may spend {4} during any upkeep to remove a counter.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>994</id>
+  <name>Ashnod's Altar</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Sacrifice a creature: Add {2} to your mana pool.</oracleText>
+  <printedText>{0}: Sacrifice one of your creatures to add 2 colorless mana to your mana pool. This effect is played as an interrupt. You may not sacrifice a creature that is already on its way to the graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>995</id>
+  <name>Ashnod's Battle Gear</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>You may choose not to untap Ashnod's Battle Gear during your untap step. &lt;br&gt; &lt;br&gt;{2}, {T}: Target creature you control gets +2/-2 as long as Ashnod's Battle Gear remains tapped.</oracleText>
+  <printedText>{2}: Give a creature of yours +2/-2 as long as Ashnod's Battle Gear is tapped. You may choose not to untap Ashnod's Battle Gear during untap phase.</printedText>
+  <flavorText>This horrid invention clearly illustrates why Mishra's lieutenant was feared as much by her troops as by her foes.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>996</id>
+  <name>Ashnod's Transmogrant</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.</oracleText>
+  <printedText>Target non-artifact creature gains +1/+1 and is now considered an artifact creature, though it retains its original color. Discard Ashnod's Transmogrant after it is used.</printedText>
+  <flavorText>Ashnod found few willing to trade their humanity for the power she offered them.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>997</id>
+  <name>Battering Ram</name>
+  <cost>{2}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>At the beginning of your combat phase, Battering Ram gains banding until end of combat. &lt;br&gt;Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.</oracleText>
+  <printedText>Bands, but only when attacking. Any wall blocking Battering Ram is destroyed. Walls destroyed this way deal their damage before dying.</printedText>
+  <flavorText>By the time Mishra was defeated, no mage was foolish enough to rely heavily on walls.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>998</id>
+  <name>Bronze Tablet</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Remove Bronze Tablet from your deck before playing if you're not playing for ante. &lt;br&gt; &lt;br&gt;Bronze Tablet comes into play tapped. &lt;br&gt; &lt;br&gt;{4}, {T}: Target nontoken permanent's controller may pay 10 life. If he or she does, remove Bronze Tablet from the game. If he or she doesn't and Bronze Tablet is in play, you own that permanent and that player owns Bronze Tablet, then remove Bronze Tablet and that permanent from the game.</oracleText>
+  <printedText>{4}: Target any card opponent has in play; remove it and Bronze Tablet from game. You become owner of that card, and your opponent becomes owner of Bronze Tablet. Exchange is permanent; play as interrupt. Opponent can prevent exchange by spending 10 life; this discards Bronze Tablet. Damage-preventing effects cannot counter such loss of life. Bronze Tablet comes into play tapped. Remove this card from deck if not playing for ante.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>999</id>
+  <name>Candelabra of Tawnos</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{X}, {T}: Untap X target lands.</oracleText>
+  <printedText>{X}: Untap X separate lands.</printedText>
+  <flavorText>Tawnos learned quickly from Urza that utter simplicity often led to wondrous, yet subtle utility.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1000</id>
+  <name>Clay Statue</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>{2}: Regenerate Clay Statue.</oracleText>
+  <printedText>{2}: Regenerates</printedText>
+  <flavorText>Tawnos won fame as Urza's greatest assistant. After he created these warriors, Urza ended his apprenticeship, promoting him directly to the rank of master.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1001</id>
+  <name>Clockwork Avian</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature - Bird</type>
+  <power>0</power>
+  <toughness>4</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>Flying &lt;br&gt;Clockwork Avian comes into play with four +1/+0 counters on it. &lt;br&gt;Clockwork Avian can't have more than four +1/+0 counters on it. &lt;br&gt;At end of combat, if Clockwork Avian attacked or blocked this turn, remove a +1/+0 counter from it. &lt;br&gt;{X}, {T}: Put X +1/+0 counters on Clockwork Avian. Play this ability only during your upkeep.</oracleText>
+  <printedText>Flying&lt;br&gt;Put four +1/+0 counters on Avian. After Avian attacks or blocks a creature, discard a counter.&lt;br&gt;During his or her upkeep, controller may buy back lost counters for {1} per counter; this taps Avian.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1002</id>
+  <name>Colossus of Sardia</name>
+  <cost>{9}</cost>
+  <type>Artifact Creature - Golem</type>
+  <power>9</power>
+  <toughness>9</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>Trample (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) &lt;br&gt;Colossus of Sardia doesn't untap during your untap step. &lt;br&gt;{9}: Untap Colossus of Sardia. Play this ability only during your upkeep.</oracleText>
+  <printedText>Trample&lt;br&gt;Colossus does not untap normally during untap phase; you may spend {9} during your upkeep phase to untap Colossus.</printedText>
+  <flavorText>From the Sardian mountains wakes ancient doom:&lt;br&gt;Warrior born from a rocky womb.</flavorText>
+  <cmc>9</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1003</id>
+  <name>Coral Helm</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.</oracleText>
+  <printedText>{3}: Give target creature +2/+2 until end of turn. Each time you use this ability, you must discard one card at random from your hand. Coral Helm cannot be used if you have no cards in your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1004</id>
+  <name>Cursed Rack</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Richard Thomas</artist>
+  <oracleText>As Cursed Rack comes into play, choose an opponent. &lt;br&gt;The chosen player's maximum hand size is four.</oracleText>
+  <printedText>Opponent must discard down to four cards during his or her discard phase.</printedText>
+  <flavorText>Ashnod invented several torture techniques that could make victims even miles away beg for mercy as if the End had come.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1005</id>
+  <name>Dragon Engine</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{2}: Dragon Engine gets +1/+0 until end of turn.</oracleText>
+  <printedText>{2}: +1/+0 until end of turn.</printedText>
+  <flavorText>Those who believed the city of Kroog would never fall to Mishra's forces severely underestimated the might of his war machines.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1006</id>
+  <name>Feldon's Cane</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}, Remove Feldon's Cane from the game: Shuffle your graveyard into your library.</oracleText>
+  <printedText>{0}: Reshuffle your graveyard into your library. If Feldon's Cane is used, remove it from the game, returning it to its owner's deck only when the game is over.</printedText>
+  <flavorText>Feldon found the first of these canes frozen in the Ronom Glacier</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1007</id>
+  <name>Golgothian Sylex</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kerstin Kaman</artist>
+  <oracleText>{1}, {T}: Destroy all cards from the Antiquities expansion.</oracleText>
+  <printedText>{1}: All cards from the Antiquities expansion, including Golgothian Sylex, must be discarded from play.</printedText>
+  <flavorText>From their earliest educations, the brothers had known that no human contrivance could stand against the true masters of Dominia.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1008</id>
+  <name>Grapeshot Catapult</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{T}: Grapeshot Catapult deals 1 damage to target creature with flying.</oracleText>
+  <printedText>Tap to deal 1 damage to target flying creature.</printedText>
+  <flavorText>For years scholars debated whether these were Urza's or Mishra's creations. Recent research suggests they were invented by the brothers' original master, Tocasia, and that both used these devices.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1009</id>
+  <name>Ivory Tower</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.</oracleText>
+  <printedText>During your upkeep phase, gain 1 life for each card in your hand above four.</printedText>
+  <flavorText>Valuing scholarship above all else, the inhabitants of the Ivory Tower reward those who sacrifice power for knowledge.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1010</id>
+  <name>Jalum Tome</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{2}, {T}: Draw a card, then discard a card.</oracleText>
+  <printedText>{2}: Draw a card from your library, then immediately discard a card of your choice to your graveyard.</printedText>
+  <flavorText>This timeworn relic was responsible for many of Urza's victories, though he never fully comprehended its mystical runes.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1011</id>
+  <name>Mightstone</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Whenever a creature attacks, it gets +1/+0 as long as it's attacking.</oracleText>
+  <printedText>All attacking creatures gain +1/+0.</printedText>
+  <flavorText>While exploring the sacred cave of Koilos with his brother Mishra and their master Tocasia, Urza fell behind in the Hall of Tagsin, where he discovered the remarkable Mightstone.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1012</id>
+  <name>Millstone</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</oracleText>
+  <printedText>{2}: Take the top two cards from target player's library and put them in target player's graveyard.</printedText>
+  <flavorText>More than one mage was driven insane by the sound of the Millstone relentlessly grinding away.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1013</id>
+  <name>Mishra's War Machine</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Juggernaut</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Banding &lt;br&gt;At the beginning of your upkeep, unless you discard a card, tap Mishra's War Machine and it deals 3 damage to you.</oracleText>
+  <printedText>Bands&lt;br&gt;During your upkeep, discard one card of your choice from your hand, or Mishra's War Machine becomes tapped and does 3 points of damage to you.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1014</id>
+  <name>Obelisk of Undoing</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{6}, {T}: Return target permanent you own and control to your hand.</oracleText>
+  <printedText>{6}: Return any of your permanents in play to your hand; enchantments on that permanent are discarded. Can be used only on permanents you cast.</printedText>
+  <flavorText>The Battle of Tomakul taught Urza not to rely on fickle reinforcements.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1015</id>
+  <name>Onulet</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>When Onulet is put into a graveyard from play, you gain 2 life.</oracleText>
+  <printedText>If Onulet goes to the graveyard, its controller gains 2 life.</printedText>
+  <flavorText>An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1016</id>
+  <name>Ornithopter</name>
+  <cost>{0}</cost>
+  <type>Artifact Creature - Thopter</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Many scholars believe that these creatures were the result of Urza's first attempt at mechanical life, perhaps created in his early days as an apprentice to Tocasia.</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1017</id>
+  <name>Primal Clay</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Shapeshifter</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Primal Clay comes into play as your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Shapeshifter Wall artifact creature with defender.</oracleText>
+  <printedText>When you cast Primal Clay, you must choose whether to make it a 1/6 wall, a 3/3 creature, or a 2/2 flying creature. Primal Clay then remains in this form until altered by another card or removed from play.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1018</id>
+  <name>Rakalite</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at end of turn.</oracleText>
+  <printedText>{2}: Prevent 1 damage to any target. If Rakalite is used, it returns to its owner's hand at end of turn; all enchantments on Rakalite are then discarded.</printedText>
+  <flavorText>Urza was the first to understand that the war would not be lost for lack of power, but for lack of troops.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1019</id>
+  <name>Rocket Launcher</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{2}: Rocket Launcher deals 1 damage to target creature or player. Sacrifice Rocket Launcher at end of turn. Play this ability only if you've controlled Rocket Launcher continuously since the most recent beginning of your turn.</oracleText>
+  <printedText>{2}: Do 1 damage to any target. Rocket Launcher may not be used until it begins a turn in play on your side. If it is used, Rocket Launcher is destroyed at end of turn.</printedText>
+  <flavorText>What these devices lacked in subtlety, they made up in strength.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1020</id>
+  <name>Shapeshifter</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Shapeshifter</type>
+  <power>*</power>
+  <toughness>7-*</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>As Shapeshifter comes into play, choose a number between 0 and 7. &lt;br&gt;At the beginning of your upkeep, you may choose a number between 0 and 7. &lt;br&gt;Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.</oracleText>
+  <printedText>The *s below represent any number from 0 to 6. You set * when Shapeshifter is cast, and you may change it during your upkeep.</printedText>
+  <flavorText>Born like a Phoenix from the Flame,&lt;br&gt;But neither Bulk nor Shape the same.&lt;br&gt;--Jonathan Swift, "Vanbrug's House"</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1021</id>
+  <name>Staff of Zegon</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{3}, {T}: Target creature gets -2/-0 until end of turn.</oracleText>
+  <printedText>{3}: Target creature loses -2/-0 until end of turn. Creatures with power less than 1 deal no damage.</printedText>
+  <flavorText>Though Mishra was impressed by the staves Ashnod had created for Zegon's defense, he understood they only hinted at her full potential.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1022</id>
+  <name>Su-Chi</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>When Su-Chi is put into a graveyard from play, add {4} to your mana pool.</oracleText>
+  <printedText>If Su-Chi goes to the graveyard, its controller gains 4 colorless mana.</printedText>
+  <flavorText>Flawed copies of relics from the Thran Empire, the Su-Chi were inherently unstable but provided useful knowledge for Tocasia's students.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1023</id>
+  <name>Tablet of Epityr</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Whenever an artifact you control is put into a graveyard from play, you may pay {1}. If you do, you gain 1 life.</oracleText>
+  <printedText>{1}: You gain 1 life every time one of your artifacts goes to the graveyard. Can only give 1 life each time an artifact reaches the graveyard.</printedText>
+  <flavorText>Originally considered the work of Urza, this tablet was created by forgers seeking to imitate Urza's masterpieces.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1024</id>
+  <name>Tawnos's Coffin</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>You may choose not to untap Tawnos's Coffin during your untap step. &lt;br&gt;{3}, {T}: Remove target creature and all Auras attached to it from the game. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves play or becomes untapped, return the removed card to play under its owner's control tapped with the noted number and kind of counters on it, and if you do, return the removed Aura cards to play under their owner's control attached to that permanent.</oracleText>
+  <printedText>{3}: Select a creature in play; that creature is considered out of play as long as Coffin remains tapped. Hence the creature cannot be the target of spells and cannot receive damage, use special powers, attack, or defend. All counters and enchantments on the creature remain but are also out of play. If Coffin is untapped or removed, creature returns to play tapped. You may choose not to untap Coffin during the untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1025</id>
+  <name>Tawnos's Wand</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{2}, {T}: Target creature with power 2 or less is unblockable this turn.</oracleText>
+  <printedText>{2}: Make a creature of power no greater than 2 unblockable by all creatures except artifact creatures until end of turn. Other cards may be used to increase target creature's power beyond 2 after defense is chosen.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1026</id>
+  <name>Tawnos's Weaponry</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>You may choose not to untap Tawnos's Weaponry during your untap step. &lt;br&gt; &lt;br&gt;{2}, {T}: Target creature gets +1/+1 as long as Tawnos's Weaponry remains tapped.</oracleText>
+  <printedText>{2}: Target creature gains +1/+1 as long as Tawnos's Weaponry remains tapped. You may choose not to untap Tawnos's Weaponry during untap phase.</printedText>
+  <flavorText>When Urza's war machines became too costly, Tawnos's weaponry replaced them.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1027</id>
+  <name>Tetravus</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Flying &lt;br&gt;Tetravus comes into play with three +1/+1 counters on it. &lt;br&gt;At the beginning of your upkeep, you may remove any number of Tetravites created with Tetravus from the game. For each Tetravite removed this way, put a +1/+1 counter on Tetravus. Then you may remove any number of +1/+1 counters from Tetravus. For each +1/+1 counter removed this way, put into play a 1/1 Tetravite artifact creature token with flying and with "Tetravite can't be enchanted."</oracleText>
+  <printedText>Flying&lt;br&gt;Tetravus gets three +1/+1 counters when cast. During your upkeep, you may move each of these counters on or off Tetravus.  Counters moved off of Tetravus become independent 1/1 flying artifact creatures.  If such a creature dies, the counter is removed from play.  Such creatures may not have enchantments cast on them, and they do not share any enchantments on Tetravus.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1028</id>
+  <name>The Rack</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Richard Thomas</artist>
+  <oracleText>As The Rack comes into play, choose an opponent. &lt;br&gt;At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.</oracleText>
+  <printedText>If opponent has fewer than three cards in hand during his or her upkeep, the Rack does 1 damage to opponent for each card fewer than three.</printedText>
+  <flavorText>Invented in Mishra's earlier days, the Rack was once his most feared creation.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1029</id>
+  <name>Triskelion</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Construct</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Triskelion enters the battlefield with three +1/+1 counters on it.&lt;br&gt;Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.</oracleText>
+  <printedText>Triskelion gets three +1/+1 counters when cast. Controller may discard a +1/+1 counter at any time to do 1 damage to any target.</printedText>
+  <flavorText>A brainchild of Tawnos, the Triskelion proved its versatility ans usefulness in many of the later battles between the brothers.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1030</id>
+  <name>Urza's Avenger</name>
+  <cost>{6}</cost>
+  <type>Artifact Creature - Shapeshifter</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn.</oracleText>
+  <printedText>{0}: Avenger loses -1/-1 and gains one of your choice of flying, banding, first strike, or trample until end of turn. Attribute losses and ability gains are cumulative.</printedText>
+  <flavorText>Unable to settle on just one design, Urza decided to create one versatile being.</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1031</id>
+  <name>Urza's Chalice</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Whenever a player plays an artifact spell, you may pay {1}. If you do, you gain 1 life.</oracleText>
+  <printedText>{1}: Any artifact cast by any player gives you 1 life. Can only give 1 life each time an artifact is cast.</printedText>
+  <flavorText>When sorely wounded or tired, Urza would often retreat to the workshops of his apprentices. They were greatly amazed at how much better he looked each time he took a sip of water.</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1032</id>
+  <name>Urza's Miter</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>Whenever an artifact you control is put into a graveyard from play, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.</oracleText>
+  <printedText>{3}: Draw one card from your library every time an artifact of yours goes to the graveyard. Can only let you draw one card per artifact destruction. May not be used when you destroy an artifact to gain benefits from another card.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1033</id>
+  <name>Wall of Spears</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Wall</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;First strike</oracleText>
+  <printedText>First strike, counts as a wall.</printedText>
+  <flavorText>Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging Craw Wurms.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1034</id>
+  <name>Weakstone</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Justin Hampton</artist>
+  <oracleText>Whenever a creature attacks, it gets -1/-0 until end of combat.</oracleText>
+  <printedText>All attacking creatures lose -1/-0. Creatures with power less than 1 deal no damage.</printedText>
+  <flavorText>During the brothers' childhood, Tocasia took them to explore the sacred cave of Koilos. There, in the Hall of Tagsin, Mishra discovered the mysterious weakstone.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1035</id>
+  <name>Yotian Soldier</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature - Soldier</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Vigilance</oracleText>
+  <printedText>Attacking does not cause Yotian Soldier to tap.</printedText>
+  <flavorText>After Kroog was destroyed while most of its defenders were at his side, Urza vowed that none of his allies would ever need to fear for their own defense again, even while laying siege to a city far from their homes.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>1036</id>
+  <name>Artifact Possession</name>
+  <cost>{2}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Enchant artifact &lt;br&gt;Whenever enchanted artifact becomes tapped or a player plays an activated ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.</oracleText>
+  <printedText>Artifact Possession does 2 damage to target artifact's controller each time target artifact is tapped or its activation cost is paid. Has no effect if cast on a continuous artifact.</printedText>
+  <flavorText>Any black mage could coax a Thraxodemon to inhabit a magical device.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1037</id>
+  <name>Drafna's Restoration</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.</oracleText>
+  <printedText>Take any number of artifacts of your choice from target player's graveyard and place them on top of that player's library, in any order.</printedText>
+  <flavorText>Drafna, founder of the College of Lat-Nam, could create a working model from even the smallest remnants of a newly unearthed artifact.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1038</id>
+  <name>Energy Flux</name>
+  <cost>{2}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."</oracleText>
+  <printedText>All artifacts in play now require an upkeep cost of {2} in addition to any other upkeep costs they may have. If the upkeep cost for an artifact is not paid, the artifact must be discarded.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1039</id>
+  <name>Gate to Phyrexia</name>
+  <cost>{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>Sacrifice a creature: Destroy target artifact. Play this ability only during your upkeep and only once each turn.</oracleText>
+  <printedText>Sacrifice one of your creatures during your upkeep to destroy any one artifact. You may not sacrifice a creature that is already on its way to the graveyard.</printedText>
+  <flavorText>"The warm rain of grease on my face immediately made it clear I had entered Phyrexia."Jarsyl, Diary</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1040</id>
+  <name>Haunting Wind</name>
+  <cost>{3}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Whenever an artifact becomes tapped or a player plays an artifact's activated ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.</oracleText>
+  <printedText>Each time an artifact in play is tapped or its activation cost is paid, Haunting Wind does 1 damage to that artifact's controller. Is not triggered by continuous artifacts.</printedText>
+  <flavorText>These devices lured so many spirits that sometimes entire battlefields would become haunted at once.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1041</id>
+  <name>Hurkyl's Recall</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>NeNe Thomas</artist>
+  <oracleText>Return all artifacts target player owns to his or her hand.</oracleText>
+  <printedText>All artifacts in play owned by target player are returned to target player's hand. Any enchantments on those artifacts are discarded. Cannot be played during the damage-dealing phase of an attack.</printedText>
+  <flavorText>This spell, attributed to Drafna, was actually the work of his wife Hurkyl.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1042</id>
+  <name>Phyrexian Gremlins</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Ouphe</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>You may choose not to untap Phyrexian Gremlins during your untap step. &lt;br&gt;{T}: Tap target artifact. As long as Phyrexian Gremlins remains tapped, that artifact doesn't untap during its controller's untap step.</oracleText>
+  <printedText>Tap Gremlins to tap an artifact. As long as Gremlins remain tapped and in play, that artifact does not untap as normal during its controller's untap phase. You may choose not to untap Gremlins during your untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1043</id>
+  <name>Power Artifact</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Enchant artifact &lt;br&gt;Enchanted artifact's activated abilities cost up to {2} less to play. If this would make an ability cost 0 or less mana to play, it costs {1}, plus any nonmana costs.</oracleText>
+  <printedText>The activation cost of target artifact is reduced by {2}. If this would reduce target artifact's activation cost below {1}, target artifact's activation cost becomes {1}. Power Artifact has no effect on artifacts that have no activation cost or whose activation cost is {0}.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1044</id>
+  <name>Priest of Yawgmoth</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}, Sacrifice an artifact: Add to your mana pool an amount of black mana equal to the sacrificed artifact's converted mana cost.</oracleText>
+  <printedText>Tap to add an amount of black mana equal to target artifact's casting cost to your mana pool. This effect is played as an interrupt. Target artifact, which must belong to you, is discarded. This artifact cannot be one that is already on its way to the graveyard, and artifact creatures killed this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1045</id>
+  <name>Reconstruction</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>Bring one artifact from your graveyard to your hand.</printedText>
+  <flavorText>Tedious research made the Sages of the College of Lat-Nam adept in repairing broken artifacts.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1046</id>
+  <name>Sage of Lat-Nam</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Human Artificer</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}, Sacrifice an artifact: Draw a card.</oracleText>
+  <printedText>Tap to draw a card from your library. Each time you use this ability, you must choose one of your artifacts in play and place it in the graveyard. This artifact cannot be one that is already on its way to the graveyard, and artifact creatures killed this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1047</id>
+  <name>Transmute Artifact</name>
+  <cost>{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>As an additional cost to play Transmute Artifact, sacrifice an artifact. &lt;br&gt; &lt;br&gt;Search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it into play. If it's greater, you may pay the cost difference. If you do, put it into play. If you don't, put it into its owner's graveyard. Then shuffle your library.</oracleText>
+  <printedText>Search through your library for one artifact and immediately place it into play; also, choose any artifact in play that you control and place it in its owner's graveyard. If the new artifact has a casting cost greater than that of the discarded one, you must pay the difference or Transmute Artifact fails and both artifacts are discarded. Shuffle your library after playing this card.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>1048</id>
+  <name>Xenic Poltergeist</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.</oracleText>
+  <printedText>Tap to turn target non-creature artifact into an artifact creature with both power and toughness equal to its casting cost. This transformation lasts until your next upkeep; target retains all its original abilities as well.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1049</id>
+  <name>Yawgmoth Demon</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Creature - Demon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Sandra Everingham</artist>
+  <oracleText>Flying (This creature can't be blocked except by creatures with flying.) &lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.) &lt;br&gt;At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.</oracleText>
+  <printedText>Flying, first strike&lt;br&gt;During your upkeep, choose one of your artifacts in play and place it in the graveyard, or Yawgmoth Demon becomes tapped and deals 2 points of damage to you. Artifact creatures destroyed this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>1050</id>
+  <name>Argothian Pixies</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Argothian Pixies can't be blocked by artifact creatures. &lt;br&gt;Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.</oracleText>
+  <printedText>Cannot be blocked by artifact creatures. Any damage Argothian Pixies take from artifact creatures is reduced to 0.</printedText>
+  <flavorText>After the rape of Argoth Forest during the rule of the artificers, the Pixies of Argoth bent their magic to more practical ends.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1051</id>
+  <name>Argothian Treefolk</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature - Treefolk</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Prevent all damage that would be dealt to Argothian Treefolk by artifacts.</oracleText>
+  <printedText>Any damage Argothian Treefolk take from an artifact source is reduced to 0.</printedText>
+  <flavorText>Haunting cries we hear in our dreams&lt;br&gt;As the forest dies, a death from&lt;br&gt;machines.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1052</id>
+  <name>Citanul Druid</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Human Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Whenever an opponent plays an artifact spell, put a +1/+1 counter on Citanul Druid.</oracleText>
+  <printedText>Druid gains a +1/+1 counter each time opponent casts an artifact.</printedText>
+  <flavorText>Driven mad by the fall of Argoth, the Citanul Druids found peace only in battle.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1053</id>
+  <name>Crumble</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.</oracleText>
+  <printedText>Destroy target artifact; artifact creatures may not regenerate. Artifact's controller gains life points equal to target artifact's casting cost.</printedText>
+  <flavorText>The spirits of Argoth grant new life to those who repent the folly of enslaving their labors to devices.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1054</id>
+  <name>Gaea's Avenger</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Treefolk</type>
+  <power>1+*</power>
+  <toughness>1+*</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.</oracleText>
+  <printedText>The *s below are the number of artifacts opponent has in play.</printedText>
+  <flavorText>After the destruction of Argoth, Gaea was willing to instill a portion of her own powers into some of her more vengeful followers.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1055</id>
+  <name>Powerleech</name>
+  <cost>{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Whenever an artifact an opponent controls becomes tapped or an opponent plays an artifact's activated ability without {T} in its activation cost, you gain 1 life.</oracleText>
+  <printedText>Gain 1 life whenever one of opponent's artifacts becomes tapped, or whenever the activation cost of one of opponent's artifacts is paid. Is not triggered by continuous artifacts.</printedText>
+  <flavorText>The Forest of Argoth has developed a resistance to mechanical intrusion.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1056</id>
+  <name>Titania's Song</name>
+  <cost>{3}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kerstin Kaman</artist>
+  <oracleText>Each noncreature artifact loses its abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves play, this effect continues until end of turn.</oracleText>
+  <printedText>All non-creature artifacts in play lose all their usual abilities and become artifact creatures with toughness and power both equal to their casting costs. If Titania's Song leaves play, artifacts return to normal just before the untap phase of the next turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>1057</id>
+  <name>Artifact Blast</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Counter target artifact spell.</oracleText>
+  <printedText>Counters any artifact as it is being cast.</printedText>
+  <flavorText>The first line of defense against Urza and Mishra, the Artifact Blast achieved widespread fame until an unlucky mage discovered it was useless on the devices the brothers had already created.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1058</id>
+  <name>Atog</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Atog</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jesper Myrfors</artist>
+  <oracleText>Sacrifice an artifact: Atog gets +2/+2 until end of turn.</oracleText>
+  <printedText>{0}: +2/+2 until end of turn. Each time you use this ability, you must choose one of your artifacts in play and place it in the graveyard. This artifact cannot be one that is already on its way to the graveyard, and artifact creatures killed this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1059</id>
+  <name>Detonate</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Randy Asplund-Faith</artist>
+  <oracleText>Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.</oracleText>
+  <printedText>Targets any artifact; X is the casting cost of target artifact. Target artifact is destroyed, and Detonate does X points of damage to artifact's controller. Artifact creatures destroyed in this manner may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1060</id>
+  <name>Dwarven Weaponsmith</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Dwarf Artificer</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Play this ability only during your upkeep.</oracleText>
+  <printedText>Tap during your upkeep to add a permanent +1/+1 counter to any creature. Each time you use this ability, you must choose one of your artifacts in play and place it in the graveyard. This artifact cannot be one that is already on its way to the graveyard, and artifact creatures killed in this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1061</id>
+  <name>Goblin Artisans</name>
+  <cost>{R}</cost>
+  <type>Creature - Goblin Artificer</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>{T}: Flip a coin. If you win the flip, draw a card. Otherwise, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.</oracleText>
+  <printedText>You may tap Goblin Artisans as you cast an artifact. Then flip a coin; opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, your artifact is countered. Otherwise, draw another card from your library. You can only use this ability once for each time you cast an artifact.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1062</id>
+  <name>Orcish Mechanics</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Orc</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.</oracleText>
+  <printedText>Tap to do 2 points of damage to any target. Each time you use this ability, you must choose one of your artifacts in play and place it in the graveyard. This artifact cannot be one already on its way to the graveyard, and artifact creatures killed this way may not be regenerated.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1063</id>
+  <name>Shatterstorm</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Destroy all artifacts. They can't be regenerated.</oracleText>
+  <printedText>All artifacts in play are discarded.&lt;br&gt;Artifact creatures cannot be regenerated.</printedText>
+  <flavorText>Chains of leaping fire and sizzling lightning laid waste the artificers' handiwork, sparing not a single device.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>1064</id>
+  <name>Argivian Archaeologist</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Artificer</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{W}{W}, {T}: Return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>{W}{W}: Tap to bring one artifact from your graveyard to your hand.</printedText>
+  <flavorText>Fascinated by the lore of ancient struggles, the Archaeologist searches incessantly for remnants of an earlier, more powerful era.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1065</id>
+  <name>Argivian Blacksmith</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Artificer</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kerstin Kaman</artist>
+  <oracleText>{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.</oracleText>
+  <printedText>Tap to prevent up to 2 damage to target artifact creature.</printedText>
+  <flavorText>Through years of study and training, the Blacksmiths of Argive became adept at reassembling the mangled remains of the strange, mechanical creatures abounding in their native land.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1066</id>
+  <name>Artifact Ward</name>
+  <cost>{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature has protection from artifacts. This effect doesn't remove Artifact Ward.</oracleText>
+  <printedText>Target creature cannot be blocked by artifact creatures, and any damage taken from an artifact source is reduced to 0. Target creature is unaffected by any artifact effects that target it.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1067</id>
+  <name>Circle of Protection: Artifacts</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</oracleText>
+  <printedText>{2}: Prevents all damage against you from any one artifact source. If a source does damage to you more than once in a turn, you must pay {2} each time you want to prevent the damage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1068</id>
+  <name>Damping Field</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Justin Hampton</artist>
+  <oracleText>Players can't untap more than one artifact during their untap steps.</oracleText>
+  <printedText>Players may not untap more than one artifact during each of their own untap phases.</printedText>
+  <flavorText>Eventually, mages learned to harness the power of natural damping fields and use it for their own ends.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1069</id>
+  <name>Martyrs of Korlis</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>6</toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.</oracleText>
+  <printedText>Unless Martyrs of Korlis is tapped, any damage done to you by artifacts is instead applied to Martyrs of Korlis. You may not take this damage yourself, though you may prevent it if possible. No more than one Bodyguard of your choice can take damage for you in this manner each turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1070</id>
+  <name>Reverse Polarity</name>
+  <cost>{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Justin Hampton</artist>
+  <oracleText>You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.</oracleText>
+  <printedText>All damage done to you so far this turn by artifacts is retroactively added to your life total instead of subtracted. Further damage this turn is treated normally.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>1071</id>
+  <name>Mishra's Factory</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja & Phil Foglio</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. &lt;br&gt;{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or give any Assembly Worker +1/+1 until end of turn.&lt;br&gt;{1}: Mishra's Factory becomes an Assembly Worker, a 2/2 artifact creature, until end of turn. Assembly Worker is still considered a land as well.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1072</id>
+  <name>Mishra's Factory</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja & Phil Foglio</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. &lt;br&gt;{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or give any Assembly Worker +1/+1 until end of turn.&lt;br&gt;{1}: Mishra's Factory becomes an Assembly Worker, a 2/2 artifact creature, until end of turn. Assembly Worker is still considered a land as well.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1073</id>
+  <name>Mishra's Factory</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja & Phil Foglio</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. &lt;br&gt;{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or give any Assembly Worker +1/+1 until end of turn.&lt;br&gt;{1}: Mishra's Factory becomes an Assembly Worker, a 2/2 artifact creature, until end of turn. Assembly Worker is still considered a land as well.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1074</id>
+  <name>Mishra's Factory</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja & Phil Foglio</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt;{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. &lt;br&gt;{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or give any Assembly Worker +1/+1 until end of turn.&lt;br&gt;{1}: Mishra's Factory becomes an Assembly Worker, a 2/2 artifact creature, until end of turn. Assembly Worker is still considered a land as well.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1075</id>
+  <name>Mishra's Workshop</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>{T}: Add {3} to your mana pool. Spend this mana only to play artifact spells.</oracleText>
+  <printedText>Tap to add 3 colorless mana to your mana pool. This mana may only be used to cast artifacts.</printedText>
+  <flavorText>Though he eventually came to despise Tocasia, Mishra listened well to her lessons on clarity of purpose. Unlike his brother, he focused his mind on a single goal.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1076</id>
+  <name>Strip Mine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or place Strip Mine in your graveyard and destroy one land of your choice.</printedText>
+  <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1077</id>
+  <name>Strip Mine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or place Strip Mine in your graveyard and destroy one land of your choice.</printedText>
+  <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1078</id>
+  <name>Strip Mine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or place Strip Mine in your graveyard and destroy one land of your choice.</printedText>
+  <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1079</id>
+  <name>Strip Mine</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool or place Strip Mine in your graveyard and destroy one land of your choice.</printedText>
+  <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1080</id>
+  <name>Urza's Mine</name>
+  <cost></cost>
+  <type>Land - Urza's Mine</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1081</id>
+  <name>Urza's Mine</name>
+  <cost></cost>
+  <type>Land - Urza's Mine</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1082</id>
+  <name>Urza's Mine</name>
+  <cost></cost>
+  <type>Land - Urza's Mine</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1083</id>
+  <name>Urza's Mine</name>
+  <cost></cost>
+  <type>Land - Urza's Mine</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1084</id>
+  <name>Urza's Power Plant</name>
+  <cost></cost>
+  <type>Land - Urza's Power-Plant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Artifact construction requires immense resources.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1085</id>
+  <name>Urza's Power Plant</name>
+  <cost></cost>
+  <type>Land - Urza's Power-Plant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Artifact construction requires immense resources.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1086</id>
+  <name>Urza's Power Plant</name>
+  <cost></cost>
+  <type>Land - Urza's Power-Plant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Artifact construction requires immense resources.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1087</id>
+  <name>Urza's Power Plant</name>
+  <cost></cost>
+  <type>Land - Urza's Power-Plant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 2 colorless mana to your mana pool.</printedText>
+  <flavorText>Artifact construction requires immense resources.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1088</id>
+  <name>Urza's Tower</name>
+  <cost></cost>
+  <type>Land - Urza's Tower</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 3 colorless mana to your mana pool.</printedText>
+  <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1089</id>
+  <name>Urza's Tower</name>
+  <cost></cost>
+  <type>Land - Urza's Tower</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 3 colorless mana to your mana pool.</printedText>
+  <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1090</id>
+  <name>Urza's Tower</name>
+  <cost></cost>
+  <type>Land - Urza's Tower</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 3 colorless mana to your mana pool.</printedText>
+  <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>1091</id>
+  <name>Urza's Tower</name>
+  <cost></cost>
+  <type>Land - Urza's Tower</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Antiquities</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</oracleText>
+  <printedText>Tap to add 1 colorless mana to your mana pool. If you have Urza's Mine, Urza's Tower, and Urza's Power Plant in play at the same time, tap to add 3 colorless mana to your mana pool.</printedText>
+  <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>

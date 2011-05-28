@@ -1,0 +1,2386 @@
+<cards>
+<name></name>
+<key></key>
+<list>
+<mc>
+  <id>2900</id>
+  <name>Apocalypse Chime</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>{2}, {T}, Sacrifice Apocalypse Chime: Destroy all cards from the Homelands expansion. They can't be regenerated.</oracleText>
+  <printedText>{2}, {T}: Sacrifice Apocalypse Chime to bury all cards from the Homelands expansion.</printedText>
+  <flavorText>"One day, or another, perhaps I shall ring my pretty chime . . . loudly, so that all may hear."&lt;br&gt;--Grandmother Sengir</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2901</id>
+  <name>Clockwork Gnomes</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Gnome</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{3}, {T}: Regenerate target artifact creature.</oracleText>
+  <printedText>{3}, {T}: Regenerate target artifact creature.</printedText>
+  <flavorText>"Until I came to the Floating Isle, I never had to oil the servants."&lt;br&gt;--Baki, Wizard Attendant</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2902</id>
+  <name>Clockwork Steed</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Horse</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Clockwork Steed comes into play with four +1/+0 counters on it. &lt;br&gt;Clockwork Steed can't be blocked by artifact creatures. &lt;br&gt;At end of combat, if Clockwork Steed attacked or blocked this turn, remove a +1/+0 counter from it. &lt;br&gt;{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Play this ability only during your upkeep.</oracleText>
+  <printedText>Cannot be blocked by artifact creatures.&lt;br&gt;When Clockwork Steed comes into play, put four +1/+0 counters on it. At the end of any combat in which Clockwork Steed attacked or blocked, remove one of these counters.&lt;br&gt;{X}, {T}: Put X +1/+0 counters on Clockwork Steed. You may have no more than four of these counters on Clockwork Steed. Use this ability only during your upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2903</id>
+  <name>Clockwork Swarm</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature - Insect</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Clockwork Swarm comes into play with four +1/+0 counters on it. &lt;br&gt;Clockwork Swarm can't be blocked by Walls. &lt;br&gt;At end of combat, if Clockwork Swarm attacked or blocked this turn, remove a +1/+0 counter from it. &lt;br&gt;{X}, {T}: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Play this ability only during your upkeep.</oracleText>
+  <printedText>Cannot be blocked by walls.&lt;br&gt;When Clockwork Swarm comes into play, put four +1/+0 counters on it. At the end of any combat in which Clockwork Swarm attacked or blocked, remove one of these counters.&lt;br&gt;{X}, {T}: Put X +1/+0 counters on Clockwork Swarm. You may have no more than four of these counters on Clockwork Swarm. Use this ability only during your upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2904</id>
+  <name>Didgeridoo</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>{3}: You may put a Minotaur permanent card from your hand into play.</oracleText>
+  <printedText>{3}: Take a Minotaur from your hand and put it directly into play as though it were just summoned.</printedText>
+  <flavorText>"Play the song of he who delivered us. Play the song of Feroz."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2905</id>
+  <name>Ebony Rhino</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature - Rhino</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Trample</oracleText>
+  <printedText>Trample</printedText>
+  <flavorText>"That Rhino would fetch us a tidy sum, Joven. Perhaps it's time to make it ours."&lt;br&gt;--Chandler</flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2906</id>
+  <name>Feroz's Ban</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Creature spells cost {2} more to play.</oracleText>
+  <printedText>Summon spells each cost an additional {2} to cast.</printedText>
+  <flavorText>"Without the protection of Feroz's Ban, I fear the Homelands are lost."&lt;br&gt;--Daria</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2907</id>
+  <name>Joven's Tools</name>
+  <cost>{6}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Nicola Leonard</artist>
+  <oracleText>{4}, {T}: Target creature can't be blocked this turn except by Walls.</oracleText>
+  <printedText>{4}, {T}: Target creature cannot be blocked except by walls until end of turn.</printedText>
+  <flavorText>"If that thief Joven ever shows his head around here again, make sure he leaves without it."&lt;br&gt;--Eron the Relentless</flavorText>
+  <cmc>6</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2908</id>
+  <name>Roterothopter</name>
+  <cost>{1}</cost>
+  <type>Artifact Creature - Thopter</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Flying &lt;br&gt;{2}: Roterothopter gets +1/+0 until end of turn. Play this ability no more than twice each turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{2}: +1/+0 until end of turn. You cannot spend more than {4} in this way each turn.</printedText>
+  <flavorText>"The Roterothoper is as insidious as it is ingenious. It is one of the few creations of our school that I take no pride in."&lt;br&gt;--Baki, Wizard Attendant</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2909</id>
+  <name>Serrated Arrows</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Serrated Arrows comes into play with three arrowhead counters on it. &lt;br&gt;At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it. &lt;br&gt;{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.</oracleText>
+  <printedText>When Serrated Arrows comes into play, put three arrowhead counters on it.&lt;br&gt;During your upkeep, bury Serrated Arrows if there are no arrowhead counters on it.&lt;br&gt;{T}: Remove an arrowhead counter from Serrated Arrows to put a -1/-1 counter on target creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>2910</id>
+  <name>Baron Sengir</name>
+  <cost>{5}{B}{B}{B}</cost>
+  <type>Legendary Creature - Vampire</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Flying &lt;br&gt;Whenever a creature dealt damage by Baron Sengir this turn is put into a graveyard, put a +2/+2 counter on Baron Sengir. &lt;br&gt;{T}: Regenerate another target Vampire.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a creature is put into the graveyard the same turn Baron Sengir damaged it, put a +2/+2 counter on Baron Sengir.&lt;br&gt;{T}: Regenerate target Vampire.</printedText>
+  <flavorText>"Beast. Defiler. The source of all my pain."Ihsan's Shade</flavorText>
+  <cmc>8</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2911</id>
+  <name>Black Carriage</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature - Horse</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Trample &lt;br&gt;Black Carriage doesn't untap during your untap step. &lt;br&gt;Sacrifice a creature: Untap Black Carriage. Play this ability only during your upkeep.</oracleText>
+  <printedText>Trample&lt;br&gt;Does not untap during your untap phase.&lt;br&gt;{0}: Sacrifice a creature to untap Black Carriage. Use this ability only during your upkeep.</printedText>
+  <flavorText>"The Baron's drivers are also driven."&lt;br&gt;--Chandler</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2912</id>
+  <name>Broken Visage</name>
+  <cost>{4}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Destroy target attacking nonartifact creature. It can't be regenerated. Put a black Spirit creature token into play with power and toughness equal to the power and toughness of that creature. Sacrifice the Spirit token at end of turn.</oracleText>
+  <printedText>Bury target non-artifact attacking creature and put a Shadow token into play.&lt;br&gt;Treat this token as a black creature with power and toughness equal to the power and toughness of that attacking creature. Bury Shadow token at end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2913</id>
+  <name>Cemetery Gate</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;Protection from black</oracleText>
+  <printedText>Protection from black</printedText>
+  <flavorText>"Just the place for a picnic."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2914</id>
+  <name>Cemetery Gate</name>
+  <cost>{2}{B}</cost>
+  <type>Creature - Wall</type>
+  <power>0</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;Protection from black</oracleText>
+  <printedText>Protection from black</printedText>
+  <flavorText>"Just the place for a picnic."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2915</id>
+  <name>Drudge Spell</name>
+  <cost>{B}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>NeNe Thomas</artist>
+  <oracleText>{B}, Remove two creature cards in your graveyard from the game: Put a 1/1 black Skeleton creature token into play. It has "{B}: Regenerate this creature." &lt;br&gt; &lt;br&gt;When Drudge Spell leaves play, destroy all Skeleton tokens. They can't be regenerated.</oracleText>
+  <printedText>{B}: Remove from the game two target creatures in your graveyard to put a Skeleton token into play. Treat this token as a 1/1 black creature with "{B}: Regenerate". If Drudge Spell leaves play, bury all Skeleton tokens.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2916</id>
+  <name>Dry Spell</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Dry Spell deals 1 damage to each creature and each player.</oracleText>
+  <printedText>Dry Spell deals 1 damage to each creature and player.</printedText>
+  <flavorText>"My soul thirsts for Serra's salvation, as does my body for life's breath."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2917</id>
+  <name>Dry Spell</name>
+  <cost>{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Dry Spell deals 1 damage to each creature and each player.</oracleText>
+  <printedText>Dry Spell deals 1 damage to each creature and player.</printedText>
+  <flavorText>"My soul thirsts for Serra's salvation, as does my body for life's breath."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2918</id>
+  <name>Feast of the Unicorn</name>
+  <cost>{3}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +4/+0.</oracleText>
+  <printedText>Target creature gets +4/+0.</printedText>
+  <flavorText>"Could there be a fouler act? No doubt the Baron knows of one."&lt;br&gt;--Autumn Willow</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2919</id>
+  <name>Feast of the Unicorn</name>
+  <cost>{3}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +4/+0.</oracleText>
+  <printedText>Target creature gets +4/+0.</printedText>
+  <flavorText>"Could there be a fouler act? No doubt the Baron knows of one."&lt;br&gt;--Autumn Willow</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2920</id>
+  <name>Funeral March</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>Enchant creature &lt;br&gt;When enchanted creature leaves play, its controller sacrifices a creature.</oracleText>
+  <printedText>When target creature leaves play, that creature's controller sacrifices a creature he or she controls. Ignore this effect if that player controls no creatures.</printedText>
+  <flavorText>"This party is such fun--but it's a shame to mourn just one."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2921</id>
+  <name>Ghost Hounds</name>
+  <cost>{1}{B}</cost>
+  <type>Creature - Hound Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Vigilance &lt;br&gt;Whenever Ghost Hounds blocks or becomes blocked by a white creature, Ghost Hounds gains first strike until end of turn.</oracleText>
+  <printedText>Attacking does not cause Ghost Hounds to tap.&lt;br&gt;If assigned to block any white creatures or any white creatures are assigned to block it, Ghost Hounds gains first strike until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2922</id>
+  <name>Grandmother Sengir</name>
+  <cost>{4}{B}</cost>
+  <type>Legendary Creature - Human Wizard</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.</oracleText>
+  <printedText>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.</printedText>
+  <flavorText>"Rarely have power and madness been so delightfully wed as they have in our dear Grandmother."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2923</id>
+  <name>Greater Werewolf</name>
+  <cost>{4}{B}</cost>
+  <type>Creature - Human Wolf</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>At end of combat, put a -0/-2 counter on all creatures blocking or blocked by Greater Werewolf.</oracleText>
+  <printedText>At end of combat, put a -0/-2 counter on all creatures blocking or blocked by Greater Werewolf.</printedText>
+  <flavorText>"The wolf-things are no mere beasts, but the lieutenants of the Baron."&lt;br&gt;--Taysir</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2924</id>
+  <name>Headstone</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Remove target card in a graveyard from the game. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn's upkeep.</oracleText>
+  <printedText>Remove from the game target card in any graveyard.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.</printedText>
+  <flavorText>"Your headstone is the last page in the book of your life."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2925</id>
+  <name>Ihsan's Shade</name>
+  <cost>{3}{B}{B}{B}</cost>
+  <type>Legendary Creature - Shade Knight</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Protection from white</oracleText>
+  <printedText>Protection from white</printedText>
+  <flavorText>"Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He has brought shame to the Serra Paladins where none existed before. May his suffering equal his betrayal."&lt;br&gt;--Baris, Serra Inquisitor</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2926</id>
+  <name>Irini Sengir</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Legendary Creature - Vampire Dwarf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>White enchantment spells and green enchantment spells cost {2} more to play.</oracleText>
+  <printedText>White enchantments and green enchantments each cost an additional {2} to cast.</printedText>
+  <flavorText>"That cruel being brings shame to all her fellow Dwarves and misery to all the land. She is Sengir's daughter in spirit if not in blood."&lt;br&gt;--Reveka, Wizard Savant</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2927</id>
+  <name>Koskun Falls</name>
+  <cost>{2}{B}{B}</cost>
+  <type>World Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Koskun Falls unless you tap an untapped creature you control. &lt;br&gt;Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</oracleText>
+  <printedText>During your upkeep, tap target untapped creature you control or bury Koskun Falls.&lt;br&gt;No creature can attack you unless its controller pays an additional {2} whenever that creature attacks.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2928</id>
+  <name>Sengir Autocrat</name>
+  <cost>{3}{B}</cost>
+  <type>Creature - Human</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>When Sengir Autocrat comes into play, put three 0/1 black Serf creature tokens into play. &lt;br&gt;When Sengir Autocrat leaves play, remove all Serf tokens from the game.</oracleText>
+  <printedText>When Sengir Autocrat comes into play, put three Serf tokens into play. Treat these tokens as 0/1 black creatures. If Sengir Autocrat leaves play, bury all Serf tokens.</printedText>
+  <flavorText>"A thankless job, and a death sentence besides."&lt;br&gt;--Eron the Relentless</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2929</id>
+  <name>Sengir Bats</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Bat</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Flying &lt;br&gt;Whenever a creature dealt damage by Sengir Bats this turn is put into a graveyard, put a +1/+1 counter on Sengir Bats.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a creature is put into the graveyard the same turn Sengir Bats damaged it, put a +1/+1 counter on Sengir Bats.</printedText>
+  <flavorText>"They are the eyes of the Baron, and they know your fears."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2930</id>
+  <name>Sengir Bats</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Bat</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>Flying &lt;br&gt;Whenever a creature dealt damage by Sengir Bats this turn is put into a graveyard, put a +1/+1 counter on Sengir Bats.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a creature is put into the graveyard the same turn Sengir Bats damaged it, put a +1/+1 counter on Sengir Bats.</printedText>
+  <flavorText>"They are the eyes of the Baron, and they know your fears."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2931</id>
+  <name>Timmerian Fiends</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature - Horror</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Remove Timmerian Fiends from your deck before playing if you're not playing for ante. &lt;br&gt;{B}{B}{B}, Sacrifice Timmerian Fiends: The owner of target artifact may ante the top card of his or her library. If that player doesn't, exchange ownership of that artifact and Timmerian Fiends. Put the artifact card into your graveyard and Timmerian Fiends from anywhere into that player's graveyard. This change in ownership is permanent.</oracleText>
+  <printedText>Remove Timmerian Fiends from your deck before playing if not playing for ante.&lt;br&gt;{B}{B}{B}: Sacrifice Timmerian Fiends to bury target artifact that any opponent owns in your graveyard. Put Timmerian Fiends into that opponent's graveyard. This change in ownership is permanent. The opponent may ante an additional card to counter this effect.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2932</id>
+  <name>Torture</name>
+  <cost>{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Enchant creature &lt;br&gt;{1}{B}: Put a -1/-1 counter on enchanted creature.</oracleText>
+  <printedText>Choose target creature.&lt;br&gt;{1}{B}: Put a -1/-1 counter on creature Torture enchants.</printedText>
+  <flavorText>"It helps you pass the time until you die."&lt;br&gt;--Grandmother Sengir</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2933</id>
+  <name>Torture</name>
+  <cost>{B}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Enchant creature &lt;br&gt;{1}{B}: Put a -1/-1 counter on enchanted creature.</oracleText>
+  <printedText>Choose target creature.&lt;br&gt;{1}{B}: Put a -1/-1 counter on creature Torture enchants.</printedText>
+  <flavorText>"It helps you pass the time until you die."&lt;br&gt;--Grandmother Sengir</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2934</id>
+  <name>Veldrane of Sengir</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Legendary Creature - Human Rogue</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>{1}{B}{B}: Veldrane of Sengir gets -3/-0 and gains forestwalk until end of turn.</oracleText>
+  <printedText>{1}{B}{B}: Forestwalk and -3/-0 until end of turn</printedText>
+  <flavorText>"Poor, foolish Veldrane. He goes wherever the Baron wills him. One day, he'll go to die."&lt;br&gt;--Halina, Dwarven Trader</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>2935</id>
+  <name>Æther Storm</name>
+  <cost>{3}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Creature cards can't be played. &lt;br&gt; &lt;br&gt;Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may play this ability.</oracleText>
+  <printedText>No summon spells may be cast. Any player may pay 4 life to bury Aether Storm. Effects that prevent or redirect damage cannot be used to counter this loss of life.</printedText>
+  <flavorText>"I do love the rain . . . but this storm feels somehow wrong, Taysir."&lt;br&gt;--Daria</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2936</id>
+  <name>Baki's Curse</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Nicola Leonard</artist>
+  <oracleText>Baki's Curse deals 2 damage to each creature for each Aura attached to that creature.</oracleText>
+  <printedText>Baki's Curse deals 2 damage to each creature for each creature enchantment on that creature.</printedText>
+  <flavorText>"Those who fling spells too quickly should have reason to regret it."&lt;br&gt;--Baki, Wizard Attendant</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2937</id>
+  <name>Chain Stasis</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>You may tap or untap target creature. Then that creature's controller may pay {2}{U}. If the player does, he or she may copy this spell and may choose a new target for that copy.</oracleText>
+  <printedText>Tap or untap target creature. Whenever any player uses Chain Stasis to tap or untap a creature, that creature's controller may pay {2}{U} to use Chain Stasis to tap or untap any target creature.</printedText>
+  <flavorText>"Here we go again."&lt;br&gt;--Kakra, Sea Troll</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2938</id>
+  <name>Coral Reef</name>
+  <cost>{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Coral Reef comes into play with four polyp counters on it. &lt;br&gt; &lt;br&gt;Sacrifice an Island: Put two polyp counters on Coral Reef. &lt;br&gt; &lt;br&gt;{U}, Tap an untapped blue creature you control, Remove a polyp counter from Coral Reef: Put a +0/+1 counter on target creature.</oracleText>
+  <printedText>When Coral Reef comes into play, put four polyp counters on it.&lt;br&gt;{0}: Sacrifice an island to put two polyp counters on Coral Reef.&lt;br&gt;{U}: Tap target blue creature you control and remove a polyp counter from Coral Reef to put a +0/+1 counter on any target creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2939</id>
+  <name>Dark Maze</name>
+  <cost>{4}{U}</cost>
+  <type>Creature - Wall</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;{0}: Dark Maze can attack this turn as though it didn't have defender.  Remove it from the game at end of turn.</oracleText>
+  <printedText>{0}: Dark Maze can attack this turn. At end of turn, remove Dark Maze from the game. Dark Maze cannot attack the turn it comes under your control.</printedText>
+  <flavorText>"The path of faith is fortunately fraught with failure."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2940</id>
+  <name>Dark Maze</name>
+  <cost>{4}{U}</cost>
+  <type>Creature - Wall</type>
+  <power>4</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;{0}: Dark Maze can attack this turn as though it didn't have defender.  Remove it from the game at end of turn.</oracleText>
+  <printedText>{0}: Dark Maze can attack this turn. At end of turn, remove Dark Maze from the game. Dark Maze cannot attack the turn it comes under your control.</printedText>
+  <flavorText>"The path of faith is fortunately fraught with failure."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2941</id>
+  <name>Forget</name>
+  <cost>{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Target player discards two cards, then draws as many cards as he or she discarded this way.</oracleText>
+  <printedText>Target player chooses and discards 2 cards from his or her hand. If that player does not have enough cards in hand, his or her entire hand is discarded. The player then draws as many cards as he or she discarded in this way.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2942</id>
+  <name>Giant Albatross</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Flying &lt;br&gt;When Giant Albatross is put into a graveyard from play, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</oracleText>
+  <printedText>Flying&lt;br&gt;{1}{U}: Bury all creatures that damaged Giant Albatross this turn. The controller of any of those creatures may pay 2 life to prevent that creature from being buried. Effects that prevent or redirect damage cannot be used to counter this loss of life. Use this ability only when Giant Albatross is put into the graveyard from play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2943</id>
+  <name>Giant Albatross</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>Flying &lt;br&gt;When Giant Albatross is put into a graveyard from play, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</oracleText>
+  <printedText>Flying&lt;br&gt;{1}{U}: Bury all creatures that damaged Giant Albatross this turn. The controller of any of those creatures may pay 2 life to prevent that creature from being buried. Effects that prevent or redirect damage cannot be used to counter this loss of life. Use this ability only when Giant Albatross is put into the graveyard from play.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2944</id>
+  <name>Giant Oyster</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Oyster</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Nicola Leonard</artist>
+  <oracleText>You may choose not to untap Giant Oyster during your untap step. &lt;br&gt;{T}: As long as Giant Oyster remains tapped, target tapped creature doesn't untap during its controller's untap step, and at the beginning of each of your draw steps, put a -1/-1 counter on that creature. When Giant Oyster leaves play or becomes untapped, remove all -1/-1 counters from the creature.</oracleText>
+  <printedText>You may choose not to untap Giant Oyster during your untap phase.&lt;br&gt;{T}: Target tapped creature does not untap during its controller's untap phase as long as Giant Oyster remains tapped. During your upkeep, put a -1/-1 counter on that creature. If Giant Oyster becomes untapped or leaves play, remove all these counters from the creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2945</id>
+  <name>Jinx</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Target land becomes the basic land type of your choice until end of turn. &lt;br&gt;Draw a card at the beginning of the next turn's upkeep.</oracleText>
+  <printedText>Target land becomes a basic land type of your choice until end of turn. Draw a card at the beginning of the next turn's upkeep.</printedText>
+  <flavorText>"What wizards upset, the land soon rights."&lt;br&gt;--Gemma, Willow Priestess</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2946</id>
+  <name>Labyrinth Minotaur</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Minotaur</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</oracleText>
+  <printedText>Creatures Labyrinth Minotaur is assigned to block do not untap during their controller's next untap phase.</printedText>
+  <flavorText>"I doubt any Labyrinth Minotaurs still live--but then again, we Minotaurs are stubborn beings."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2947</id>
+  <name>Labyrinth Minotaur</name>
+  <cost>{3}{U}</cost>
+  <type>Creature - Minotaur</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</oracleText>
+  <printedText>Creatures Labyrinth Minotaur is assigned to block do not untap during their controller's next untap phase.</printedText>
+  <flavorText>"I doubt any Labyrinth Minotaurs still live--but then again, we Minotaurs are stubborn beings."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2948</id>
+  <name>Marjhan</name>
+  <cost>{5}{U}{U}</cost>
+  <type>Creature - Leviathan</type>
+  <power>8</power>
+  <toughness>8</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>Marjhan doesn't untap during your untap step. &lt;br&gt;Marjhan can't attack unless defending player controls an Island. &lt;br&gt;When you control no Islands, sacrifice Marjhan. &lt;br&gt;{U}{U}, Sacrifice a creature: Untap Marjhan. Play this ability only during your upkeep. &lt;br&gt;{U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.</oracleText>
+  <printedText>Does not untap during your untap phase.&lt;br&gt;Marjhan cannot attack if defending player controls no islands. If at any time you control no islands, bury Marjhan.&lt;br&gt;{U}{U}: Sacrifice a creature to untap Marjhan. Use this ability only during your upkeep.&lt;br&gt;{U}{U}: -1/-0 until end of turn. Marjhan deals 1 damage to target attacking creature without flying.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2949</id>
+  <name>Memory Lapse</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</oracleText>
+  <printedText>Counter target spell. Put that spell on top of its owner's library.</printedText>
+  <flavorText>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."&lt;br&gt;--Chandler</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2950</id>
+  <name>Memory Lapse</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</oracleText>
+  <printedText>Counter target spell. Put that spell on top of its owner's library.</printedText>
+  <flavorText>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."&lt;br&gt;--Chandler</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2951</id>
+  <name>Merchant Scroll</name>
+  <cost>{1}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a blue instant or interrupt. Reveal that card to all players and put it into your hand. Reshuffle your library afterwards.</printedText>
+  <flavorText>"There's no trade without trust."&lt;br&gt;--Eron, the Relentless</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2952</id>
+  <name>Mystic Decree</name>
+  <cost>{2}{U}{U}</cost>
+  <type>World Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>All creatures lose flying and islandwalk.</oracleText>
+  <printedText>All creatures lose flying and islandwalk.</printedText>
+  <flavorText>"Curse Reveka, and curse her coddled conjurers. Their sorcerers' school shall yet be ours."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2953</id>
+  <name>Narwhal</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature - Whale</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>David A. Cherry</artist>
+  <oracleText>First strike, protection from red</oracleText>
+  <printedText>First strike, protection from red</printedText>
+  <flavorText>"Who needs a spear? Ya break off the horn, and ya stab the fish with it. Easy"&lt;br&gt;--Kakra, Sea Troll</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2954</id>
+  <name>Reef Pirates</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Zombie Pirate</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.</oracleText>
+  <printedText>Whenever Reef Pirates damages any opponent, take the top card of his or her library and put it into his or her graveyard.</printedText>
+  <flavorText>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2955</id>
+  <name>Reef Pirates</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature - Zombie Pirate</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.</oracleText>
+  <printedText>Whenever Reef Pirates damages any opponent, take the top card of his or her library and put it into his or her graveyard.</printedText>
+  <flavorText>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2956</id>
+  <name>Reveka, Wizard Savant</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Legendary Creature - Dwarf Wizard</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>{T}: Reveka, Wizard Savant deals 2 damage to target creature or player and doesn't untap during your next untap step.</oracleText>
+  <printedText>{T}: Reveka deals 2 damage to target creature or player and does not untap during your next untap phase.</printedText>
+  <flavorText>"It's nice to see a sister Dwarf in a position of such power, but why'd it have to be one of those seafaring muleheads?"&lt;br&gt;--Halina, Dwarven Trader</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2957</id>
+  <name>Sea Sprite</name>
+  <cost>{1}{U}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Flying, protection from red</oracleText>
+  <printedText>Flying, protection from red</printedText>
+  <flavorText>"No one can catch what won't be caught."&lt;br&gt;--Kakra, Sea Troll</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2958</id>
+  <name>Sea Troll</name>
+  <cost>{2}{U}</cost>
+  <type>Creature - Troll</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Daniel Gelon</artist>
+  <oracleText>{U}: Regenerate Sea Troll. Play this ability only if Sea Troll blocked or was blocked by a blue creature this turn.</oracleText>
+  <printedText>{U}: Regenerate. Use this ability only during a turn in which Sea Troll blocked a blue creature or a blue creature blocked Sea Troll.</printedText>
+  <flavorText>"I've seen those Trolls devour a drowning sailor faster than his lungs could fill with water."&lt;br&gt;--Zeki, Reef Pirate</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2959</id>
+  <name>Wall of Kelp</name>
+  <cost>{U}{U}</cost>
+  <type>Creature - Plant Wall</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Defender (This creature can't attack.) &lt;br&gt;{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp into play.</oracleText>
+  <printedText>{U}{U}, {T}: Put a Kelp token into play. Treat this token as a 0/1 blue wall.</printedText>
+  <flavorText>"Ya can eat it or ya can weave it, but ya can't fight in it."&lt;br&gt;--Zeki, Reef Pirate</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>2960</id>
+  <name>An-Havva Constable</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Human</type>
+  <power>2</power>
+  <toughness>1+*</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>An-Havva Constable's toughness is equal to 1 plus the number of green creatures in play.</oracleText>
+  <printedText>An-Havva Constable has toughness equal to 1 plus the total number of green creatures in play.</printedText>
+  <flavorText>"Joskun and the other Constables serve with passion, if not with grace."&lt;br&gt;--Devin, Faerie Noble</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2961</id>
+  <name>An-Havva Inn</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Gain X+1 life, where X is the number of green creatures in play.</oracleText>
+  <printedText>Gain 1+* life, where * is equal to the total number of green creatures in play.</printedText>
+  <flavorText>"The Inn was ever a steady source of good cheer and kindness. Greatly do I miss it, now that I am gone."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2962</id>
+  <name>Autumn Willow</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Legendary Creature - Avatar</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>Shroud &lt;br&gt;{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.</oracleText>
+  <printedText>Cannot be the target of spells or effects.&lt;br&gt;{G}: Target player may target Autumn Willow with spells or effects until end of turn.</printedText>
+  <flavorText>"We must shake her limbs and rattle her brains."&lt;br&gt;--Grandmother Sengir</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2963</id>
+  <name>Carapace</name>
+  <cost>{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2. &lt;br&gt;Sacrifice Carapace: Regenerate enchanted creature.</oracleText>
+  <printedText>Target creature gets +0/+2.&lt;br&gt;{0}: Sacrifice Carapace to regenerate creature Carapace enchants.</printedText>
+  <flavorText>"Now, that's a fashion statement."&lt;br&gt;--Devin, Faerie Noble</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2964</id>
+  <name>Carapace</name>
+  <cost>{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets +0/+2. &lt;br&gt;Sacrifice Carapace: Regenerate enchanted creature.</oracleText>
+  <printedText>Target creature gets +0/+2.&lt;br&gt;{0}: Sacrifice Carapace to regenerate creature Carapace enchants.</printedText>
+  <flavorText>"Now, that's a fashion statement."&lt;br&gt;--Devin, Faerie Noble</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2965</id>
+  <name>Daughter of Autumn</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Legendary Creature - Avatar</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>{W}: The next 1 damage that would be dealt to target white creature this turn is dealt to Daughter of Autumn instead.</oracleText>
+  <printedText>{W}: Redirect to Daughter of Autumn 1 damage dealt to a white creature.</printedText>
+  <flavorText>"Those who say that Serra is dead have never met the Autumn Willow's daughters. They are as kind and as generous as Serra would wish us to be."&lt;br&gt;--Gulsen, Abbey Matron</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2966</id>
+  <name>Faerie Noble</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Flying &lt;br&gt;Other Faerie creatures you control get +0/+1. &lt;br&gt;{T}: Other Faerie creatures you control get +1/+0 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;All Faeries you control get +0/+1.&lt;br&gt;{T}: All Faeries you control get +1/+0 until end of turn.</printedText>
+  <flavorText>"Faeries talk all in riddles and tricky bits, --'cept the Nobles. Now, there's some straight talkers."&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2967</id>
+  <name>Folk of An-Havva</name>
+  <cost>{G}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</oracleText>
+  <printedText>If assigned as a blocker, Folk of An-Havva gets +2/+0 until end of turn.</printedText>
+  <flavorText>"This town's only for good folk. The rest can go to the city."&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2968</id>
+  <name>Folk of An-Havva</name>
+  <cost>{G}</cost>
+  <type>Creature - Human</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Julie Baroh</artist>
+  <oracleText>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</oracleText>
+  <printedText>If assigned as a blocker, Folk of An-Havva gets +2/+0 until end of turn.</printedText>
+  <flavorText>"This town's only for good folk. The rest can go to the city."&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2969</id>
+  <name>Hungry Mist</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Elemental</type>
+  <power>6</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</oracleText>
+  <printedText>During your upkeep, pay {G}{G} or bury Hungry Mist.</printedText>
+  <flavorText>"If the air must feed, let it take the self-righteous."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2970</id>
+  <name>Hungry Mist</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Elemental</type>
+  <power>6</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</oracleText>
+  <printedText>During your upkeep, pay {G}{G} or bury Hungry Mist.</printedText>
+  <flavorText>"If the air must feed, let it take the self-righteous."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2971</id>
+  <name>Joven's Ferrets</name>
+  <cost>{G}</cost>
+  <type>Creature - Ferret</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn. &lt;br&gt;At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.</oracleText>
+  <printedText>If declared as an attacker, Joven's Ferrets gets +0/+2 until end of turn. At end of combat, tap any creatures that blocked Joven's Ferrets. Those creatures do not untap during their controller's next untap phase.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2972</id>
+  <name>Leaping Lizard</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature - Lizard</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{1}{G}: Leaping Lizard gains flying and gets -0/-1 until end of turn.</oracleText>
+  <printedText>{1}{G}: Flying and -0/-1 until end of turn</printedText>
+  <flavorText>"I never question the Autumn Willow about her motives, not even when she turns people into Lizards. It's her way."&lt;br&gt;--Devin, Faerie Noble</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2973</id>
+  <name>Mammoth Harness</name>
+  <cost>{3}{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature loses flying. &lt;br&gt;Whenever enchanted creature blocks or becomes blocked by a creature, the other creature gains first strike until end of turn.</oracleText>
+  <printedText>Target creature loses flying. If any creature is assigned to block the creature Mammoth Harness enchants or has the creature Mammoth Harness enchants assigned to block it, that creature gains first strike until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2974</id>
+  <name>Primal Order</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>At the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.</oracleText>
+  <printedText>During each player's upkeep, Primal Order deals 1 damage to that player for each non-basic land he or she controls.</printedText>
+  <flavorText>"It's strange, but I can feel it when the land is corrupted. I understand why the Autumn Willow is so protective."&lt;br&gt;--Daria</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2975</id>
+  <name>Renewal</name>
+  <cost>{2}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>As an additional cost to play Renewal, sacrifice a land. &lt;br&gt; &lt;br&gt;Search your library for a basic land card and put that card into play. Then shuffle your library. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn's upkeep.</oracleText>
+  <printedText>Sacrifice a land to search your library for a basic land and put it directly into play. This does not count towards your one land per turn limit. Reshuffle your library afterwards. Draw a card at the beginning of the next turn's upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2976</id>
+  <name>Root Spider</name>
+  <cost>{3}{G}</cost>
+  <type>Creature - Spider</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Whenever Root Spider blocks, it gets +1/+0 and gains first strike until end of turn.</oracleText>
+  <printedText>If assigned as a blocker, Root Spider gains first strike and gets +1/+0 until end of turn.</printedText>
+  <flavorText>"They're not half as fierce if they don't see you coming."&lt;br&gt;--Devin, Faerie Noble</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2977</id>
+  <name>Roots</name>
+  <cost>{3}{G}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Nicola Leonard</artist>
+  <oracleText>Enchant creature without flying &lt;br&gt;When Roots comes into play, tap enchanted creature. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.</oracleText>
+  <printedText>Tap target creature without flying. That creature does not untap during its controller's untap phase.</printedText>
+  <flavorText>"That which nourishes can also bind."&lt;br&gt;--Gemma, Willow Priestess</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2978</id>
+  <name>Rysorian Badger</name>
+  <cost>{2}{G}</cost>
+  <type>Creature - Badger</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>Whenever Rysorian Badger attacks and isn't blocked, you may remove up to two target creature cards in defending player's graveyard from the game. If you do, you gain 1 life for each card removed this way and Rysorian Badger deals no combat damage this turn.</oracleText>
+  <printedText>If Rysorian Badger attacks and is not blocked, you may choose to have it deal no damage to defending player this turn. If you do so, remove from the game up to two target creatures from that player's graveyard. Gain 1 life for each creature removed in this way.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2979</id>
+  <name>Shrink</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>Target creature gets -5/-0 until end of turn.</oracleText>
+  <printedText>Target creature gets -5/-0 until end of turn.</printedText>
+  <flavorText>"Do not fear adversity. Let your courage be your strength."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2980</id>
+  <name>Shrink</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>Target creature gets -5/-0 until end of turn.</oracleText>
+  <printedText>Target creature gets -5/-0 until end of turn.</printedText>
+  <flavorText>"Do not fear adversity. Let your courage be your strength."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2981</id>
+  <name>Spectral Bears</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Bear Spirit</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.</oracleText>
+  <printedText>If Spectral Bears is declared as an attacker and defending player controls no black cards, it does not untap during your next untap phase.</printedText>
+  <flavorText>"I hear there are Bears--or spirits--that guard caravans passing through the forest."Gulsen, Abbey Matron</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2982</id>
+  <name>Willow Faerie</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Swift as the wind and harder to catch-- that's the Faeries for you."&lt;br&gt;--Daria</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2983</id>
+  <name>Willow Faerie</name>
+  <cost>{1}{G}</cost>
+  <type>Creature - Faerie</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Swift as the wind and harder to catch-- that's the Faeries for you."&lt;br&gt;--Daria</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2984</id>
+  <name>Willow Priestess</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature - Faerie Druid</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Susan Van Camp</artist>
+  <oracleText>{T}: You may put a Faerie permanent card from your hand into play. &lt;br&gt;{2}{G}: Target green creature gains protection from black until end of turn.</oracleText>
+  <printedText>{T}: Take a Faerie from your hand and put it directly into play as though it were just summoned.&lt;br&gt;{2}{G}: Target green creature gains protection from black until end of turn.</printedText>
+  <flavorText>"Those of faith are those of strength."&lt;br&gt;--Autumn Willow</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>2985</id>
+  <name>Aliban's Tower</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Target blocking creature gets +3/+1 until end of turn.</oracleText>
+  <printedText>Target blocking creature gets +3/+1 until end of turn.</printedText>
+  <flavorText>"Those who hide in hollow towers would do well to remember the rain."&lt;br&gt;--Reyhan, Samite Alchemist</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2986</id>
+  <name>Aliban's Tower</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Jeff A. Menges</artist>
+  <oracleText>Target blocking creature gets +3/+1 until end of turn.</oracleText>
+  <printedText>Target blocking creature gets +3/+1 until end of turn.</printedText>
+  <flavorText>"Those who hide in hollow towers would do well to remember the rain."&lt;br&gt;--Reyhan, Samite Alchemist</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2987</id>
+  <name>Ambush</name>
+  <cost>{3}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Blocking creatures gain first strike until end of turn.</oracleText>
+  <printedText>All blocking creatures gain first strike until end of turn.</printedText>
+  <flavorText>"Don't these goons have anything better to do?"&lt;br&gt;--Joskun, An-Havva Constable</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2988</id>
+  <name>Ambush Party</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>First strike, haste</oracleText>
+  <printedText>First strike&lt;br&gt;Ambush Party can attack the turn it comes into play on your side.</printedText>
+  <flavorText>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."&lt;br&gt;--Eron the Relentless</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2989</id>
+  <name>Ambush Party</name>
+  <cost>{4}{R}</cost>
+  <type>Creature - Human Rogue</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>First strike, haste</oracleText>
+  <printedText>First strike&lt;br&gt;Ambush Party can attack the turn it comes into play on your side.</printedText>
+  <flavorText>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."&lt;br&gt;--Eron the Relentless</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2990</id>
+  <name>An-Zerrin Ruins</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>As An-Zerrin Ruins comes into play, choose a creature type. &lt;br&gt;Creatures of the chosen type don't untap during their controllers' untap steps.</oracleText>
+  <printedText>Choose a creature type. Creatures of that type do not untap during their controller's untap phase.</printedText>
+  <flavorText>"The An-Zerrins have served me well, ever since I first killed them."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2991</id>
+  <name>Anaba Ancestor</name>
+  <cost>{1}{R}</cost>
+  <type>Creature - Minotaur Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{T}: Another target Minotaur creature gets +1/+1 until end of turn.</oracleText>
+  <printedText>{T}: Target Minotaur gets +1/+1 until end of turn.</printedText>
+  <flavorText>"The Ancestors are the wisdom of the tribe and the soul of the Homelands. I am eternally in their debt."&lt;br&gt;--Taysir</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2992</id>
+  <name>Anaba Bodyguard</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Minotaur</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>First strike (This creature deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>First strike</printedText>
+  <flavorText>"Not someone to pick a fight with, unless you're fond of pain."&lt;br&gt;--Halina, Dwarven Trader</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2993</id>
+  <name>Anaba Bodyguard</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Minotaur</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>First strike (This creature deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>First strike</printedText>
+  <flavorText>"Not someone to pick a fight with, unless you're fond of pain."&lt;br&gt;--Halina, Dwarven Trader</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2994</id>
+  <name>Anaba Shaman</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Minotaur Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</oracleText>
+  <printedText>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</printedText>
+  <flavorText>"The Shamans? Ha They are mere craven cows not capable of true magic."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2995</id>
+  <name>Anaba Shaman</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Minotaur Shaman</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</oracleText>
+  <printedText>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</printedText>
+  <flavorText>"The Shamans? Ha They are mere craven cows not capable of true magic."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2996</id>
+  <name>Anaba Spirit Crafter</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature - Minotaur Shaman</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Minotaur creatures get +1/+0.</oracleText>
+  <printedText>All Minotaurs get +1/+0.</printedText>
+  <flavorText>"The Spirit Crafters sing of all our people. They sing of those lost, of those found, and of those who are yet to be."&lt;br&gt;--Onatah, Anaba Shaman</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2997</id>
+  <name>Chandler</name>
+  <cost>{4}{R}</cost>
+  <type>Legendary Creature - Human Rogue</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{R}{R}{R}, {T}: Destroy target artifact creature.</oracleText>
+  <printedText>{R}{R}{R}, {T}: Destroy target artifact creature.</printedText>
+  <flavorText>"Never brag about the latest wonder you've created, students. Chandler might be listening."&lt;br&gt;--Reveka, Wizard Savant</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2998</id>
+  <name>Dwarven Pony</name>
+  <cost>{R}</cost>
+  <type>Creature - Horse</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>{1}{R}, {T}: Target Dwarf creature gains mountainwalk until end of turn.</oracleText>
+  <printedText>{1}{R}, {T}: Target Dwarf gains mountainwalk until end of turn.</printedText>
+  <flavorText>"I hear Halina's got a pony that can count to six--and likes to eat meat."&lt;br&gt;--Chandler</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>2999</id>
+  <name>Dwarven Sea Clan</name>
+  <cost>{2}{R}</cost>
+  <type>Creature - Dwarf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Amy Weber</artist>
+  <oracleText>{T}: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Play this ability only before the end of combat step.</oracleText>
+  <printedText>{T}: At end of combat, Dwarven Sea Clan deals 2 damage to target attacking or blocking creature. Use this ability only if that creature's controller controls any islands.</printedText>
+  <flavorText>"No dwarf alive can best one of my crew dead."&lt;br&gt;--Zeki, Reef Pirate</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3000</id>
+  <name>Dwarven Trader</name>
+  <cost>{R}</cost>
+  <type>Creature - Dwarf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"They wouldn't sell their own families--at least, not for cheap."&lt;br&gt;--Zeki, Reef Pirate</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3001</id>
+  <name>Dwarven Trader</name>
+  <cost>{R}</cost>
+  <type>Creature - Dwarf</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"They wouldn't sell their own families--at least, not for cheap."&lt;br&gt;--Zeki, Reef Pirate</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3002</id>
+  <name>Eron the Relentless</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Legendary Creature - Human Rogue</type>
+  <power>5</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Haste &lt;br&gt;{R}{R}{R}: Regenerate Eron the Relentless.</oracleText>
+  <printedText>Eron the Relentless can attack the turn it comes into play on your side.&lt;br&gt;{R}{R}{R}: Regenerate</printedText>
+  <flavorText>"Eron would be much less of a hassle if only he were mortal."&lt;br&gt;--Reyhan, Samite Alchemist</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3003</id>
+  <name>Evaporate</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Evaporate deals 1 damage to each creature that's white or blue.</oracleText>
+  <printedText>Evaporate deals 1 damage to each blue creature and white creature.</printedText>
+  <flavorText>"The body is a temple with a foundation of sand."&lt;br&gt;--Autumn Willow</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3004</id>
+  <name>Heart Wolf</name>
+  <cost>{3}{R}</cost>
+  <type>Creature - Wolf</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Margaret Organ-Kean</artist>
+  <oracleText>First strike &lt;br&gt;{T}: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves play this turn, sacrifice Heart Wolf. Play this ability only during combat.</oracleText>
+  <printedText>First strike&lt;br&gt;{T}: Target Dwarf gains first strike and gets +2/+0 until end of turn. If that Dwarf leaves play this turn, bury Heart Wolf. Use this ability only when attack or defense is announced.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3005</id>
+  <name>Ironclaw Curse</name>
+  <cost>{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>Enchant creature &lt;br&gt;Enchanted creature gets -0/-1. &lt;br&gt;Enchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.</oracleText>
+  <printedText>Target creature gets -0/-1. That creature cannot be assigned to block any creature with power greater than or equal to the toughness of the creature Ironclaw Curse enchants.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3006</id>
+  <name>Joven</name>
+  <cost>{3}{R}{R}</cost>
+  <type>Legendary Creature - Human Rogue</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>{R}{R}{R}, {T}: Destroy target noncreature artifact.</oracleText>
+  <printedText>{R}{R}{R}, {T}: Destroy target non-creature artifact.</printedText>
+  <flavorText>"Joven, you're almost as good a thief as I. But Eron hates you even more."&lt;br&gt;--Chandler</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3007</id>
+  <name>Orcish Mine</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>Enchant land &lt;br&gt;Orcish Mine comes into play with three ore counters on it. &lt;br&gt;At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine. If there are no ore counters on Orcish Mine, destroy that land and Orcish Mine deals 2 damage to its controller.</oracleText>
+  <printedText>When Orcish Mine comes into play, put three ore counters on it. During your upkeep and whenever target land becomes tapped, remove an ore counter from Orcish Mine. When the last ore counter is removed from Orcish Mine, destroy the land Orcish Mine enchants; Orcish Mine deals 2 damage to that land's controller.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3008</id>
+  <name>Retribution</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText>Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.</oracleText>
+  <printedText>Choose two target creatures controlled by an opponent. Bury one of those creatures, and put a -1/-1 counter on the other. That opponent chooses which creature is buried.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3009</id>
+  <name>Winter Sky</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>Flip a coin. If you win the flip, Winter Sky deals 1 damage to each creature and each player. If you lose the flip, each player draws a card.</oracleText>
+  <printedText>Flip a coin; target opponent calls heads or tails while coin is in the air. If the flip ends up in your favor, Winter Sky deals 1 damage to each creature and player. Otherwise, each player draws a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>3010</id>
+  <name>Abbey Gargoyles</name>
+  <cost>{2}{W}{W}{W}</cost>
+  <type>Creature - Gargoyle</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Flying, protection from red</oracleText>
+  <printedText>Flying, protection from red</printedText>
+  <flavorText>"Though Serra has not been seen for twenty years, her Gargoyles still watch over our city and punish the guilty."&lt;br&gt;--Gulsen, Abbey Matron</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3011</id>
+  <name>Abbey Matron</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</oracleText>
+  <printedText>{W}, {T}: +0/+3 until end of turn</printedText>
+  <flavorText>"The Matrons still say Serra is coming back. I bet she never even existed."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3012</id>
+  <name>Abbey Matron</name>
+  <cost>{2}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mike Kimble</artist>
+  <oracleText>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</oracleText>
+  <printedText>{W}, {T}: +0/+3 until end of turn</printedText>
+  <flavorText>"The Matrons still say Serra is coming back. I bet she never even existed."&lt;br&gt;--Murat, Death Speaker</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3013</id>
+  <name>Aysen Bureaucrats</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Advisor</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>{T}: Tap target creature with power 2 or less.</oracleText>
+  <printedText>{T}: Tap target creature with power no greater than 2.</printedText>
+  <flavorText>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3014</id>
+  <name>Aysen Bureaucrats</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Human Advisor</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>{T}: Tap target creature with power 2 or less.</oracleText>
+  <printedText>{T}: Tap target creature with power no greater than 2.</printedText>
+  <flavorText>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3015</id>
+  <name>Aysen Crusader</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2+*</power>
+  <toughness>2+*</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>NeNe Thomas</artist>
+  <oracleText>Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.</oracleText>
+  <printedText>Aysen Crusader has power and toughness each equal to 2 plus the number of Heroes you control.</printedText>
+  <flavorText>"A renegade rallying the rabble does not a true Crusader make."&lt;br&gt;--Irini Sengir</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3016</id>
+  <name>Aysen Highway</name>
+  <cost>{3}{W}{W}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>NeNe Thomas</artist>
+  <oracleText>White creatures have plainswalk.</oracleText>
+  <printedText>All white creatures gain plainswalk.</printedText>
+  <flavorText>"Tread the roads of righteousness, Murat, lest you lose your way and be consumed."&lt;br&gt;--Baris, Serra Inquisitor</flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3017</id>
+  <name>Beast Walkers</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature - Human Beast Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Heather Hudson</artist>
+  <oracleText>{G}: Beast Walkers gains banding until end of turn.</oracleText>
+  <printedText>{G}: Banding until end of turn</printedText>
+  <flavorText>"The Beast Walkers do a great service to Aysen. As humans or as beasts, their heart is yet to Serra true."&lt;br&gt;--Baris, Serra Inquisitor</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3018</id>
+  <name>Death Speakers</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Douglas Shuler</artist>
+  <oracleText>Protection from black</oracleText>
+  <printedText>Protection from black</printedText>
+  <flavorText>"Such innocent little birds. They sing a sweet song, sitting on their fragile branch."&lt;br&gt;--Grandmother Sengir</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3019</id>
+  <name>Hazduhr the Abbot</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Legendary Creature - Human Cleric</type>
+  <power>2</power>
+  <toughness>5</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dan Frazier</artist>
+  <oracleText>{X}, {T}: The next X damage that would be dealt this turn to target white creature you control is dealt to Hazduhr the Abbot instead.</oracleText>
+  <printedText>{X}, {T}: Redirect to Hazduhr the Abbot X damage dealt to any white creature you control.</printedText>
+  <flavorText>"Soon, Serra will return and choose the Abbot's successor, else we are lost."&lt;br&gt;--Gulsen, Abbey Matron</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3020</id>
+  <name>Leeches</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Alan Rabinowitz</artist>
+  <oracleText>Target player loses all poison counters. Leeches deals 1 damage to that player for each poison counter removed this way.</oracleText>
+  <printedText>Target player loses all poison counters. Leeches deals 1 damage to that player for each poison counter removed in this way.</printedText>
+  <flavorText>"Where our potions and powders fail, perhaps nature will succeed."&lt;br&gt;--Reyhan, Samite Alchemist</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3021</id>
+  <name>Mesa Falcon</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Flying &lt;br&gt;{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{1}{W}: +0/+1 until end of turn</printedText>
+  <flavorText>"The faith of Serra is borne on wings of hope."&lt;br&gt;--Gulsen, Abbey Matron</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3022</id>
+  <name>Mesa Falcon</name>
+  <cost>{1}{W}</cost>
+  <type>Creature - Bird</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Mark Poole</artist>
+  <oracleText>Flying &lt;br&gt;{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{1}{W}: +0/+1 until end of turn</printedText>
+  <flavorText>"The faith of Serra is borne on wings of hope."&lt;br&gt;--Gulsen, Abbey Matron</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3023</id>
+  <name>Prophecy</name>
+  <cost>{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Reveal the top card of target opponent's library. If it's a land, you gain 1 life. That player then shuffles his or her library. &lt;br&gt; &lt;br&gt;Draw a card at the beginning of the next turn's upkeep.</oracleText>
+  <printedText>Reveal the top card of target opponent's library to all players. If it is a land, gain 1 life. That opponent then shuffles his or her library. Draw a card at the beginning of the next turn's upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3024</id>
+  <name>Rashka the Slayer</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Legendary Creature - Human Archer</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Christopher Rush</artist>
+  <oracleText>Reach (This creature can block creatures with flying.) &lt;br&gt;Whenever Rashka blocks one or more black creatures, Rashka gets +1/+2 until end of turn.</oracleText>
+  <printedText>Can block creatures with flying.&lt;br&gt;If assigned to block any black creatures, Rashka the Slayer gets +1/+2 until end of turn.</printedText>
+  <flavorText>"Rarely be the prey so haughty as to hunt the hunter."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3025</id>
+  <name>Samite Alchemist</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</oracleText>
+  <printedText>{W}{W}, {T}: Prevent up to 4 damage to a creature you control. Tap that creature. The creature does not untap during your next untap phase.</printedText>
+  <flavorText>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."&lt;br&gt;--Taysir</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3026</id>
+  <name>Samite Alchemist</name>
+  <cost>{3}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Tom Wanerstrand</artist>
+  <oracleText>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</oracleText>
+  <printedText>{W}{W}, {T}: Prevent up to 4 damage to a creature you control. Tap that creature. The creature does not untap during your next untap phase.</printedText>
+  <flavorText>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."&lt;br&gt;--Taysir</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3027</id>
+  <name>Serra Aviary</name>
+  <cost>{3}{W}</cost>
+  <type>World Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Nicola Leonard</artist>
+  <oracleText>Creatures with flying get +1/+1.</oracleText>
+  <printedText>All creatures with flying get +1/+1.</printedText>
+  <flavorText>"Serra, like Feroz, is long since dead. But remember, Daria: her spirit shall survive so long as the Homelands do."&lt;br&gt;--Taysir</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3028</id>
+  <name>Serra Bestiary</name>
+  <cost>{W}{W}</cost>
+  <type>Enchantment - Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Anson Maddocks</artist>
+  <oracleText>Enchant creature &lt;br&gt;At the beginning of your upkeep, sacrifice Serra Bestiary unless you pay {W}{W}. &lt;br&gt;Enchanted creature can't attack or block and its activated abilities with {T} in their costs can't be played.</oracleText>
+  <printedText>During your upkeep, pay {W}{W} or bury Serra Bestiary.&lt;br&gt;Target creature cannot attack, block, or use any ability that includes {T} in the activation cost.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3029</id>
+  <name>Serra Inquisitors</name>
+  <cost>{4}{W}</cost>
+  <type>Creature - Human Cleric</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>When Serra Inquisitors blocks or becomes blocked by one or more black creatures, Serra Inquisitors gets +2/+0 until end of turn.</oracleText>
+  <printedText>If assigned to block any black creatures or any black creatures are assigned to block it, Serra Inquisitors gets +2/+0 until end of turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3030</id>
+  <name>Serra Paladin</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature - Human Knight</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. &lt;br&gt;{1}{W}{W}, {T}: Target creature gains vigilance until end of turn.</oracleText>
+  <printedText>{T}: Prevent 1 damage to any creature or player.&lt;br&gt;{1}{W}{W}, {T}: Attacking does not cause target creature to tap this turn.</printedText>
+  <flavorText>"Would that I could be a Paladin again, but the dead hold no place among their ranks."&lt;br&gt;--Ihsan's Shade</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3031</id>
+  <name>Soraya the Falconer</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Legendary Creature - Human</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Dennis Detwiller</artist>
+  <oracleText>Bird creatures get +1/+1. &lt;br&gt;{1}{W}: Target Bird creature gains banding until end of turn.</oracleText>
+  <printedText>All Falcons get +1/+1.&lt;br&gt;{1}{W}: Target Falcon gains banding until end of turn.</printedText>
+  <flavorText>"Soraya speaks with the hunters of the air, as do all of her family line."&lt;br&gt;--Autumn Willow</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3032</id>
+  <name>Trade Caravan</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Nomad</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>At the beginning of your upkeep, put a currency counter on Trade Caravan. &lt;br&gt;Remove two currency counters from Trade Caravan: Untap target basic land. Play this ability only during an opponent's upkeep.</oracleText>
+  <printedText>During your upkeep, put a currency counter on Trade Caravan.&lt;br&gt;{0}: Remove two currency counters from Trade Caravan to untap target basic land. Use this ability only during any opponent's upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3033</id>
+  <name>Trade Caravan</name>
+  <cost>{W}</cost>
+  <type>Creature - Human Nomad</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>Homelands</edition>
+  <rarity>Common</rarity>
+  <setNumber></setNumber>
+  <artist>Kaja Foglio</artist>
+  <oracleText>At the beginning of your upkeep, put a currency counter on Trade Caravan. &lt;br&gt;Remove two currency counters from Trade Caravan: Untap target basic land. Play this ability only during an opponent's upkeep.</oracleText>
+  <printedText>During your upkeep, put a currency counter on Trade Caravan.&lt;br&gt;{0}: Remove two currency counters from Trade Caravan to untap target basic land. Use this ability only during any opponent's upkeep.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3034</id>
+  <name>Truce</name>
+  <cost>{2}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Rare</rarity>
+  <setNumber></setNumber>
+  <artist>Melissa Benson</artist>
+  <oracleText>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.</oracleText>
+  <printedText>Each player may draw up to two cards. For each card less than two any player draws, that player gains 2 life.</printedText>
+  <flavorText>"The people of Aysen feed us, and we don't kill them. That's my kind of truce."&lt;br&gt;--Eron the Relentless</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>3035</id>
+  <name>An-Havva Township</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add {G} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}: Add {R} or {W} to your mana pool.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{1}, {T}: Add {G} to your mana pool.&lt;br&gt;{2}, {T}: Add {W} to your mana pool.&lt;br&gt;{2}, {T}: Add {R} to your mana pool.</printedText>
+  <flavorText>Folk of good heart will always find a home.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>3036</id>
+  <name>Aysen Abbey</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Liz Danforth</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add {W} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}: Add {G} or {U} to your mana pool.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{1}, {T}: Add {W} to your mana pool.&lt;br&gt;{2}, {T}: Add {U} to your mana pool.&lt;br&gt;{2}, {T}: Add {G} to your mana pool.</printedText>
+  <flavorText>Serra's gift to her people: a symbol of faith and hope.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>3037</id>
+  <name>Castle Sengir</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add {B} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}: Add {U} or {R} to your mana pool.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{1}, {T}: Add {B} to your mana pool.&lt;br&gt;{2}, {T}: Add {U} to your mana pool.&lt;br&gt;{2}, {T}: Add {R} to your mana pool.</printedText>
+  <flavorText>Where hope has no champion, evil rules all.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>3038</id>
+  <name>Koskun Keep</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add {R} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}: Add {B} or {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{1}, {T}: Add {R} to your mana pool.&lt;br&gt;{2}, {T}: Add {B} to your mana pool.&lt;br&gt;{2}, {T}: Add {G} to your mana pool.</printedText>
+  <flavorText>Treachery and anarchy make poor partners.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>3039</id>
+  <name>Wizards' School</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>Homelands</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber></setNumber>
+  <artist>Pat Morrissey</artist>
+  <oracleText>{T}: Add {1} to your mana pool. &lt;br&gt; &lt;br&gt;{1}, {T}: Add {U} to your mana pool. &lt;br&gt; &lt;br&gt;{2}, {T}: Add {W} or {B} to your mana pool.</oracleText>
+  <printedText>{T}: Add one colorless mana to your mana pool.&lt;br&gt;{1}, {T}: Add {U} to your mana pool.&lt;br&gt;{2}, {T}: Add {W} to your mana pool.&lt;br&gt;{2}, {T}: Add {B} to your mana pool.</printedText>
+  <flavorText>The legacy of Feroz lives on.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+</list>
+</cards>
