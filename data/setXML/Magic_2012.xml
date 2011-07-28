@@ -1,0 +1,4239 @@
+<cards>
+<name>Magic 2012</name>
+<releaseDate>2011-07-15</releaseDate>
+<shortname>M12</shortname><list>
+<mc>
+  <id>220068</id>
+  <name>Phantasmal Dragon</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature  -- Dragon Illusion</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>71</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Flying&lt;br&gt;When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.</oracleText>
+  <printedText>Flying&lt;br&gt;When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.</printedText>
+  <flavorText>Its hunger and ire are no less for being wrought of lies and mist.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220069</id>
+  <name>Crimson Mage</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Human Shaman</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>129</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>{R}: Target creature you control gains haste until end of turn. (It can attack and {T} this turn.)</oracleText>
+  <printedText>{R}: Target creature you control gains haste until end of turn. (It can attack and {T} this turn.)</printedText>
+  <flavorText>"We wield the fires of rage. War is our blood and destruction our birthright."&lt;br&gt;--Crimson creed</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220072</id>
+  <name>Onyx Mage</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>103</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>{1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</oracleText>
+  <printedText>{1}{B}: Target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</printedText>
+  <flavorText>"We wield death and darkness, powers that make lesser mages tremble in fear."&lt;br&gt;--Onyx creed</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220073</id>
+  <name>Pride Guardian</name>
+  <cost>{W}</cost>
+  <type>Creature  -- Cat Monk</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>31</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>Defender (This creature can't attack.)&lt;br&gt;Whenever Pride Guardian blocks, you gain 3 life.</oracleText>
+  <printedText>Defender (This creature can't attack.)&lt;br&gt;Whenever Pride Guardian blocks, you gain 3 life.</printedText>
+  <flavorText>"Any hotheaded cub can raise a sword in anger."</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220074</id>
+  <name>Timely Reinforcements</name>
+  <cost>{2}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>40</setNumber>
+  <artist>Tomasz Jedruszek</artist>
+  <oracleText>If you have less life than an opponent, you gain 6 life. If you control fewer creatures than an opponent, put three 1/1 white Soldier creature tokens onto the battlefield.</oracleText>
+  <printedText>If you have less life than an opponent, you gain 6 life. If you control fewer creatures than an opponent, put three 1/1 white Soldier creature tokens onto the battlefield.</printedText>
+  <flavorText>The gods are not always kind, but they do have a soft spot for plucky underdogs.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220075</id>
+  <name>Stingerfling Spider</name>
+  <cost>{4}{G}</cost>
+  <type>Creature  -- Spider</type>
+  <power>2</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>197</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)&lt;br&gt;When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.</oracleText>
+  <printedText>Reach (This creature can block creatures with flying.)&lt;br&gt;When Stingerfling Spider enters the battlefield, you may destroy target creature with flying.</printedText>
+  <flavorText>The juiciest prey is that which grows lazy, thinking itself beyond the reach of danger.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220077</id>
+  <name>Garruk's Horde</name>
+  <cost>{5}{G}{G}</cost>
+  <type>Creature  -- Beast</type>
+  <power>7</power>
+  <toughness>7</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>176</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Trample&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)</oracleText>
+  <printedText>Trample&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220078</id>
+  <name>Arbalest Elite</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Creature  -- Human Archer</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>5</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>{2}{W}, {T}: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.</oracleText>
+  <printedText>{2}{W}, {T}: Arbalest Elite deals 3 damage to target attacking or blocking creature. Arbalest Elite doesn't untap during your next untap step.</printedText>
+  <flavorText>There are few things as satisfying as a good, healthy thunk.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220082</id>
+  <name>Gladecover Scout</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Elf Scout</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>178</setNumber>
+  <artist>Allen Williams</artist>
+  <oracleText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</oracleText>
+  <printedText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</printedText>
+  <flavorText>"The forest is my cover and I hold it close. In such a tight embrace, there is no room for wickedness."</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220086</id>
+  <name>Aegis Angel</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>1</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>Flying&lt;br&gt;When Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)</oracleText>
+  <printedText>Flying&lt;br&gt;When Aegis Angel enters the battlefield, another target permanent is indestructible for as long as you control Aegis Angel. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220088</id>
+  <name>Drifting Shade</name>
+  <cost>{3}{B}</cost>
+  <type>Creature  -- Shade</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>96</setNumber>
+  <artist>Tomasz Jedruszek</artist>
+  <oracleText>Flying&lt;br&gt;{B}: Drifting Shade gets +1/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;{B}: Drifting Shade gets +1/+1 until end of turn.</printedText>
+  <flavorText>It stalks the fens by the light of the full moon, gathering shadows as it floats among them.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220090</id>
+  <name>Sphinx of Uthuun</name>
+  <cost>{5}{U}{U}</cost>
+  <type>Creature  -- Sphinx</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>76</setNumber>
+  <artist>Kekai Kotaki</artist>
+  <oracleText>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</oracleText>
+  <printedText>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220095</id>
+  <name>Guardians' Pledge</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>22</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>White creatures you control get +2/+2 until end of turn.</oracleText>
+  <printedText>White creatures you control get +2/+2 until end of turn.</printedText>
+  <flavorText>A dozen fighting for each other are worth a thousand fighting for themselves.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220098</id>
+  <name>Druidic Satchel</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>207</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>{2}, {T}: Reveal the top card of your library. If it's a creature card, put a 1/1 green Saproling creature token onto the battlefield. If it's a land card, put that card onto the battlefield under your control. If it's a noncreature, nonland card, you gain 2 life.</oracleText>
+  <printedText>{2}, {T}: Reveal the top card of your library. If it's a creature card, put a 1/1 green Saproling creature token onto the battlefield. If it's a land card, put that card onto the battlefield under your control. If it's a noncreature, nonland card, you gain 2 life.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220099</id>
+  <name>Phantasmal Image</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Illusion</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>72</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>You may have Phantasmal Image enter the battlefield as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it gains "When this creature becomes the target of a spell or ability, sacrifice it."</oracleText>
+  <printedText>You may have Phantasmal Image enter the battlefield as a copy of any creature on the battlefield, except it's an Illusion in addition to its other types and it gains "When this creature becomes the target of a spell or ability, sacrifice it."</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220100</id>
+  <name>Garruk, Primal Hunter</name>
+  <cost>{2}{G}{G}{G}</cost>
+  <type>Planeswalker  -- Garruk</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>174</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>+1: Put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;-3: Draw cards equal to the greatest power among creatures you control.&lt;br&gt;-6: Put a 6/6 green Wurm creature token onto the battlefield for each land you control.</oracleText>
+  <printedText>+1: Put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;-3: Draw cards equal to the greatest power among creatures you control.&lt;br&gt;-6: Put a 6/6 green Wurm creature token onto the battlefield for each land you control.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220103</id>
+  <name>Furyborn Hellkite</name>
+  <cost>{4}{R}{R}{R}</cost>
+  <type>Creature  -- Dragon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>135</setNumber>
+  <artist>Brad Rigney</artist>
+  <oracleText>Bloodthirst 6 (If an opponent was dealt damage this turn, this creature enters the battlefield with six +1/+1 counters on it.)&lt;br&gt;Flying</oracleText>
+  <printedText>Bloodthirst 6 (If an opponent was dealt damage this turn, this creature enters the battlefield with six +1/+1 counters on it.)&lt;br&gt;Flying</printedText>
+  <flavorText>"Careful. A drop of blood here means death for us all."&lt;br&gt;--Kalek, mountain guide</flavorText>
+  <cmc>7</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220106</id>
+  <name>Merfolk Mesmerist</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Merfolk Wizard</type>
+  <power>1</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>66</setNumber>
+  <artist>Jana Schirmer &amp; Johannes Voss</artist>
+  <oracleText>{U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</oracleText>
+  <printedText>{U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</printedText>
+  <flavorText>"Don't you think if I saw a half-woman, half-fish with three glowing eyes, I'd have remembered?"&lt;br&gt;--Drugo, town guard</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220113</id>
+  <name>Crumbling Colossus</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature  -- Golem</type>
+  <power>7</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>204</setNumber>
+  <artist>Michael C. Hayes</artist>
+  <oracleText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)brWhen Crumbling Colossus attacks, sacrifice it at end of combat.</oracleText>
+  <printedText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;br&gt;When Crumbling Colossus attacks, sacrifice it at end of combat.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220116</id>
+  <name>Mesa Enchantress</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature  -- Human Druid</type>
+  <power>0</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>25</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Whenever you cast an enchantment spell, you may draw a card.</oracleText>
+  <printedText>Whenever you cast an enchantment spell, you may draw a card.</printedText>
+  <flavorText>"Scholars seek to understand the way the world is. I wish to shape the world into what it should be."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220122</id>
+  <name>Tormented Soul</name>
+  <cost>{B}</cost>
+  <type>Creature  -- Spirit</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>114</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Tormented Soul can't block and is unblockable.</oracleText>
+  <printedText>Tormented Soul can't block and is unblockable.</printedText>
+  <flavorText>Those who raged most bitterly at the world in life are cursed to roam the nether realms in death.</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220125</id>
+  <name>Bloodrage Vampire</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Vampire</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>83</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</oracleText>
+  <printedText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</printedText>
+  <flavorText>The most genteel facades hide the most abominable desires.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220127</id>
+  <name>Vampire Outcasts</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Creature  -- Vampire</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>115</setNumber>
+  <artist>Clint Cearley</artist>
+  <oracleText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)brLifelink (Damage dealt by this creature also causes you to gain that much life.)</oracleText>
+  <printedText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;br&gt;Lifelink (Damage dealt by this creature also causes you to gain that much life.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220130</id>
+  <name>Rune-Scarred Demon</name>
+  <cost>{5}{B}{B}</cost>
+  <type>Creature  -- Demon</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>106</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>FlyingbrWhen Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.</oracleText>
+  <printedText>Flying&lt;br&gt;When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library.</printedText>
+  <flavorText>The litany of the infernal on his flesh pulses to the beating of his dark heart.</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220131</id>
+  <name>Lord of the Unreal</name>
+  <cost>{U}{U}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>62</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)</oracleText>
+  <printedText>Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)</printedText>
+  <flavorText>"The dream does not end until I say so."</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220139</id>
+  <name>Day of Judgment</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>12</setNumber>
+  <artist>Vincent Proce</artist>
+  <oracleText>Destroy all creatures.</oracleText>
+  <printedText>Destroy all creatures.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220143</id>
+  <name>Monomania</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>102</setNumber>
+  <artist>James Ryman</artist>
+  <oracleText>Target player chooses a card in his or her hand and discards the rest.</oracleText>
+  <printedText>Target player chooses a card in his or her hand and discards the rest.</printedText>
+  <flavorText>"What do vermin cling to when all hope is lost?"&lt;br&gt;--Sorin Markov</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220145</id>
+  <name>Aven Fleetwing</name>
+  <cost>{3}{U}</cost>
+  <type>Creature  -- Bird Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>44</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>FlyingbrHexproof (This creature can't be the target of spells or abilities your opponents control.)</oracleText>
+  <printedText>Flying&lt;br&gt;Hexproof (This creature can't be the target of spells or abilities your opponents control.)</printedText>
+  <flavorText>"It was too fast, even for our veteran archers. They might as well have been blowing it kisses."&lt;br&gt;--Vulok, elvish archer</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220146</id>
+  <name>Chandra, the Firebrand</name>
+  <cost>{3}{R}</cost>
+  <type>Planeswalker  -- Chandra</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>124</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>+1: Chandra, the Firebrand deals 1 damage to target creature or player.br-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.br-6: Chandra, the Firebrand deals 6 damage to each of up to six target creatures and/or players.</oracleText>
+  <printedText>+1: Chandra, the Firebrand deals 1 damage to target creature or player.&lt;br&gt;-2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.&lt;br&gt;-6: Chandra, the Firebrand deals 6 damage to each of up to six target creatures and/or players.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220147</id>
+  <name>Adaptive Automaton</name>
+  <cost>{3}</cost>
+  <type>Artifact Creature  -- Construct</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>201</setNumber>
+  <artist>Igor Kieryluk</artist>
+  <oracleText>As Adaptive Automaton enters the battlefield, choose a creature type.brAdaptive Automaton is the chosen type in addition to its other types.brOther creatures you control of the chosen type get +1/+1.</oracleText>
+  <printedText>As Adaptive Automaton enters the battlefield, choose a creature type.&lt;br&gt;Adaptive Automaton is the chosen type in addition to its other types.&lt;br&gt;Other creatures you control of the chosen type get +1/+1.</printedText>
+  <flavorText>Such loyalty can only be made.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220151</id>
+  <name>Skinshifter</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Human Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>195</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>{G}: Choose one -- Until end of turn, Skinshifter becomes a 4/4 Rhino and gains trample; or until end of turn, Skinshifter becomes a 2/2 Bird and gains flying; or until end of turn, Skinshifter becomes a 0/8 Plant. Activate this ability only once each turn.</oracleText>
+  <printedText>{G}: Choose one -- Until end of turn, Skinshifter becomes a 4/4 Rhino and gains trample; or until end of turn, Skinshifter becomes a 2/2 Bird and gains flying; or until end of turn, Skinshifter becomes a 0/8 Plant. Activate this ability only once each turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220152</id>
+  <name>Doubling Chant</name>
+  <cost>{5}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>170</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.</oracleText>
+  <printedText>For each creature you control, you may search your library for a creature card with the same name as that creature. Put those cards onto the battlefield, then shuffle your library.</printedText>
+  <flavorText>What's scarier than one of every beast in the forest?</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220153</id>
+  <name>Skywinder Drake</name>
+  <cost>{2}{U}</cost>
+  <type>Creature  -- Drake</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>75</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>FlyingbrSkywinder Drake can block only creatures with flying.</oracleText>
+  <printedText>Flying&lt;br&gt;Skywinder Drake can block only creatures with flying.</printedText>
+  <flavorText>It's so light and fragile that it can glide where the air is thinnest.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220154</id>
+  <name>Spirit Mantle</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>35</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Enchant creaturebrEnchanted creature gets +1/+1 and has protection from creatures. (It can't be blocked, targeted, or dealt damage by creatures.)</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has protection from creatures. (It can't be blocked, targeted, or dealt damage by creatures.)</printedText>
+  <flavorText>The shield of unimpeachable purity is as strong as any wrought on the anvil.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220157</id>
+  <name>Sutured Ghoul</name>
+  <cost>{4}{B}{B}{B}</cost>
+  <type>Creature  -- Zombie</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>112</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>TramplebrAs Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.brSutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.</oracleText>
+  <printedText>Trample&lt;br&gt;As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.&lt;br&gt;Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220160</id>
+  <name>Stonehorn Dignitary</name>
+  <cost>{3}{W}</cost>
+  <type>Creature -- Rhino Soldier</type>
+  <power>1</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>37</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.</oracleText>
+  <printedText>When Stonehorn Dignitary enters the battlefield, target opponent skips his or her next combat phase.</printedText>
+  <flavorText>It did not escape the ambassador's notice that the sound of war drums could also marshal the city to attention.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220162</id>
+  <name>Manalith</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>212</setNumber>
+  <artist>Charles Urbach</artist>
+  <oracleText>{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText>Planeswalkers seek out great monuments throughout the Multiverse, knowing that their builders were unknowingly drawn by the convergence of mana in the area.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220170</id>
+  <name>Vengeful Pharaoh</name>
+  <cost>{2}{B}{B}{B}</cost>
+  <type>Creature  -- Zombie</type>
+  <power>5</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>116</setNumber>
+  <artist>Igor Kieryluk</artist>
+  <oracleText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)brWhenever combat damage is dealt to you or a planeswalker you control, if Vengeful Pharaoh is in your graveyard, destroy target attacking creature, then put Vengeful Pharaoh on top of your library.</oracleText>
+  <printedText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)&lt;br&gt;Whenever combat damage is dealt to you or a planeswalker you control, if Vengeful Pharaoh is in your graveyard, destroy target attacking creature, then put Vengeful Pharaoh on top of your library.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220172</id>
+  <name>Primordial Hydra</name>
+  <cost>{X}{G}{G}</cost>
+  <type>Creature  -- Hydra</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>189</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>Primordial Hydra enters the battlefield with X +1/+1 counters on it.brAt the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.brPrimordial Hydra has trample as long as it has ten or more +1/+1 counters on it.</oracleText>
+  <printedText>Primordial Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, double the number of +1/+1 counters on Primordial Hydra.&lt;br&gt;Primordial Hydra has trample as long as it has ten or more +1/+1 counters on it.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220176</id>
+  <name>Serra Angel</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature  -- Angel</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>33</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>FlyingbrVigilance (Attacking doesn't cause this creature to tap.)</oracleText>
+  <printedText>FlyingbrVigilance (Attacking doesn't cause this creature to tap.)</printedText>
+  <flavorText>Follow the light. In its absence, follow her.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220179</id>
+  <name>Merfolk Looter</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Merfolk Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>65</setNumber>
+  <artist>Austin Hsu</artist>
+  <oracleText>{T}: Draw a card, then discard a card.</oracleText>
+  <printedText>{T}: Draw a card, then discard a card.</printedText>
+  <flavorText>Merfolk don't always know what they're looking for, but they're certain once they find it.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220182</id>
+  <name>Lifelink</name>
+  <cost>{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>24</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Enchant creaturebrEnchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)</printedText>
+  <flavorText>The spoils of war are not measured only in gold and silver.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220189</id>
+  <name>Wall of Torches</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Wall</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>159</setNumber>
+  <artist>Mike Bierek</artist>
+  <oracleText>Defender (This creature can't attack.)</oracleText>
+  <printedText>Defender (This creature can't attack.)</printedText>
+  <flavorText>The foolish try to leap through the unlit spaces. The arrogant believe the fires harmless. The wise find a different door.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220190</id>
+  <name>Trollhide</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>199</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Enchant creaturebrEnchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220194</id>
+  <name>Divination</name>
+  <cost>{2}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>50</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Draw two cards.</oracleText>
+  <printedText>Draw two cards.</printedText>
+  <flavorText>"The key to unlocking this puzzle is within you."&lt;br&gt;--Doriel, mentor of Mistral Isle</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220195</id>
+  <name>Celestial Purge</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>11</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>Exile target black or red permanent.</oracleText>
+  <printedText>Exile target black or red permanent.</printedText>
+  <flavorText>"A world without evil? Boring. Give me vile fiends to smite and banish any day."&lt;br&gt;--Sarlena, paladin of the Northern Verge</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220199</id>
+  <name>Lurking Crocodile</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Crocodile</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>184</setNumber>
+  <artist>Donato Giancola</artist>
+  <oracleText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)brIslandwalk (This creature is unblockable as long as defending player controls an Island.)</oracleText>
+  <printedText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;br&gt;Islandwalk (This creature is unblockable as long as defending player controls an Island.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220209</id>
+  <name>Scepter of Empires</name>
+  <cost>{3}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>216</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{T}: Scepter of Empires deals 1 damage to target player. It deals 3 damage to that player instead if you control artifacts named Crown of Empires and Throne of Empires.</oracleText>
+  <printedText>{T}: Scepter of Empires deals 1 damage to target player. It deals 3 damage to that player instead if you control artifacts named Crown of Empires and Throne of Empires.</printedText>
+  <flavorText>"With this scepter, smite your enemies."&lt;br&gt;--Scepter inscription</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220210</id>
+  <name>Dungrove Elder</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Treefolk</type>
+  <power>*</power>
+  <toughness>*</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>171</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)brDungrove Elder's power and toughness are each equal to the number of Forests you control.</oracleText>
+  <printedText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)&lt;br&gt;Dungrove Elder's power and toughness are each equal to the number of Forests you control.</printedText>
+  <flavorText>All the trees of the forest are his army, and every leaf his shield.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220218</id>
+  <name>Amphin Cutthroat</name>
+  <cost>{3}{U}</cost>
+  <type>Creature  -- Salamander Rogue</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>43</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"The amphin have long built their society in secret. While surface dwellers squabbled over trivial borders, they patiently expanded, building their ammonite temple-caves. Now amphin priests eye the shore, and amphin hunters gird for war."&lt;br&gt;--Gor Muldrak, Cryptohistories</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220219</id>
+  <name>Divine Favor</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>14</setNumber>
+  <artist>Allen Williams</artist>
+  <oracleText>Enchant creaturebrWhen Divine Favor enters the battlefield, you gain 3 life.brEnchanted creature gets +1/+3.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;When Divine Favor enters the battlefield, you gain 3 life.&lt;br&gt;Enchanted creature gets +1/+3.</printedText>
+  <flavorText>With an armory of light, even the squire may champion her people.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220220</id>
+  <name>Carnage Wurm</name>
+  <cost>{6}{G}</cost>
+  <type>Creature  -- Wurm</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>168</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)brTrample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</oracleText>
+  <printedText>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;br&gt;Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220225</id>
+  <name>Chasm Drake</name>
+  <cost>{4}{U}</cost>
+  <type>Creature  -- Drake</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>48</setNumber>
+  <artist>Anthony Francisco</artist>
+  <oracleText>FlyingbrWhenever Chasm Drake attacks, target creature you control gains flying until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Chasm Drake attacks, target creature you control gains flying until end of turn.</printedText>
+  <flavorText>"Once he's got you, hold on. Fall from a drake and you'll suffer much worse than a bruise."&lt;br&gt;--Garl, drake trainer</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220226</id>
+  <name>Visions of Beyond</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>80</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead.</oracleText>
+  <printedText>Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead.</printedText>
+  <flavorText>"The past is the foundation for all that exists in the present. We merely reconstruct what our ancestors have already discovered."&lt;br&gt;--Sachimir, Sage of Memories</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220227</id>
+  <name>Blood Ogre</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Ogre Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>122</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)brFirst strike (This creature deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220230</id>
+  <name>Angelic Destiny</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>3</setNumber>
+  <artist>Jana Schirmer &amp; Johannes Voss</artist>
+  <oracleText>Enchant creaturebrEnchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.brWhen enchanted creature dies, return Angelic Destiny to its owner's hand.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +4/+4, has flying and first strike, and is an Angel in addition to its other types.&lt;br&gt;When enchanted creature dies, return Angelic Destiny to its owner's hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220232</id>
+  <name>Throne of Empires</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>221</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{1}, {T}: Put a 1/1 white Soldier creature token onto the battlefield. Put five of those tokens onto the battlefield instead if you control artifacts named Crown of Empires and Scepter of Empires.</oracleText>
+  <printedText>{1}, {T}: Put a 1/1 white Soldier creature token onto the battlefield. Put five of those tokens onto the battlefield instead if you control artifacts named Crown of Empires and Scepter of Empires.</printedText>
+  <flavorText>"With this throne, unite your nation."&lt;br&gt;--Throne inscription</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220235</id>
+  <name>Personal Sanctuary</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>30</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>During your turn, prevent all damage that would be dealt to you.</oracleText>
+  <printedText>During your turn, prevent all damage that would be dealt to you.</printedText>
+  <flavorText>"There is a place deep within my soul where no foe can intrude and no tyrant can conquer."&lt;br&gt;--Sarlena, paladin of the Northern Verge</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220239</id>
+  <name>Gideon's Avenger</name>
+  <cost>{1}{W}{W}</cost>
+  <type>Creature  -- Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>17</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.</oracleText>
+  <printedText>Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on Gideon's Avenger.</printedText>
+  <flavorText>"The good don't sit and wait for the evil to act. They prepare to defend. They prepare to punish."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220240</id>
+  <name>Lightning Elemental</name>
+  <cost>{3}{R}</cost>
+  <type>Creature  -- Elemental</type>
+  <power>4</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>149</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Haste (This creature can attack and {T} as soon as it comes under your control.)</printedText>
+  <flavorText>"Oh, it's easy enough to kill, but I'm not going anywhere near it."&lt;br&gt;--Norin the Wary</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220241</id>
+  <name>Rusted Sentinel</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature  -- Golem</type>
+  <power>3</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>215</setNumber>
+  <artist>Jason Felix</artist>
+  <oracleText>Rusted Sentinel enters the battlefield tapped.</oracleText>
+  <printedText>Rusted Sentinel enters the battlefield tapped.</printedText>
+  <flavorText>It has to deliberate a moment on the best way to break your face.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220242</id>
+  <name>Arachnus Spinner</name>
+  <cost>{5}{G}</cost>
+  <type>Creature  -- Spider</type>
+  <power>5</power>
+  <toughness>7</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>162</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)brTap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.</oracleText>
+  <printedText>Reach (This creature can block creatures with flying.)&lt;br&gt;Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220244</id>
+  <name>Jace's Archivist</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature  -- Vedalken Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>59</setNumber>
+  <artist>James Ryman</artist>
+  <oracleText>{U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.</oracleText>
+  <printedText>{U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.</printedText>
+  <flavorText>"This is a sacred duty. Master Beleren's trust has bought an eternity of my loyalty."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220249</id>
+  <name>Flashfreeze</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>52</setNumber>
+  <artist>Brian Despain</artist>
+  <oracleText>Counter target red or green spell.</oracleText>
+  <printedText>Counter target red or green spell.</printedText>
+  <flavorText>"Is cold merely the absence of heat, or a force unto itself? Would a display of its power help you decide?"&lt;br&gt;--Zubarek, Icewinder Magus</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220251</id>
+  <name>Phantasmal Bear</name>
+  <cost>{U}</cost>
+  <type>Creature  -- Bear Illusion</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>70</setNumber>
+  <artist>Ryan Yee</artist>
+  <oracleText>When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.</oracleText>
+  <printedText>When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.</printedText>
+  <flavorText>"You know it to be false, but when its claws find you, what you know won't matter much at all."&lt;br&gt;--Pol Jamaar, illusionist</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220259</id>
+  <name>Duskhunter Bat</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Bat</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>97</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)brFlying</oracleText>
+  <printedText>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;br&gt;Flying</printedText>
+  <flavorText>The swamps go silent at its approach, but it still hears the heartbeat of the prey within.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220261</id>
+  <name>Swiftfoot Boots</name>
+  <cost>{2}</cost>
+  <type>Artifact  -- Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>219</setNumber>
+  <artist>Svetlin Velinov</artist>
+  <oracleText>Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control, and it can attack and {T} as soon as it comes under your control.)brEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control, and it can attack and {T} as soon as it comes under your control.)&lt;br&gt;Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220264</id>
+  <name>Alabaster Mage</name>
+  <cost>{1}{W}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>2</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>{1}{W}: Target creature you control gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)</oracleText>
+  <printedText>{1}{W}: Target creature you control gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)</printedText>
+  <flavorText>"We hold sacred the powers of light and life. Truth and honor are our greatest weapons."&lt;br&gt;--Alabaster creed</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220265</id>
+  <name>Turn to Frog</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>78</setNumber>
+  <artist>Warren Mahy</artist>
+  <oracleText>Target creature loses all abilities and becomes a 1/1 blue Frog until end of turn.</oracleText>
+  <printedText>Target creature loses all abilities and becomes a 1/1 blue Frog until end of turn.</printedText>
+  <flavorText>"Ribbit."</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220268</id>
+  <name>Azure Mage</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>45</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>{3}{U}: Draw a card.</oracleText>
+  <printedText>{3}{U}: Draw a card.</printedText>
+  <flavorText>"We draw our power from the infinite ocean of the mind, where all manner of things can be conceived."&lt;br&gt;--Azure creed</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220273</id>
+  <name>Circle of Flame</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>127</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.</oracleText>
+  <printedText>Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.</printedText>
+  <flavorText>"Which do you think is a better deterrent: a moat of water or one of fire?"&lt;br&gt;--Chandra Nalaar</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220277</id>
+  <name>Stormblood Berserker</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Human Berserker</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>156</setNumber>
+  <artist>Min Yum</artist>
+  <oracleText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)brStormblood Berserker can't be blocked except by two or more creatures.</oracleText>
+  <printedText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;br&gt;Stormblood Berserker can't be blocked except by two or more creatures.</printedText>
+  <flavorText>Blood is holy to those whose god is War.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220279</id>
+  <name>Jade Mage</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Human Shaman</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>181</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.</oracleText>
+  <printedText>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.</printedText>
+  <flavorText>"We are one with the wild things. Life blooms from our fingertips and nature responds to our summons."&lt;br&gt;--Jade creed</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220282</id>
+  <name>Griffin Rider</name>
+  <cost>{1}{W}</cost>
+  <type>Creature  -- Human Knight</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>20</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.</oracleText>
+  <printedText>As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.</printedText>
+  <flavorText>After fighting alongside the griffin riders, older knights of Thune learned to admire a mount that could rip an enemy to shreds in seconds.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220283</id>
+  <name>Arachnus Web</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>163</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Enchant creaturebrEnchanted creature can't attack or block, and its activated abilities can't be activated.brAt the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220284</id>
+  <name>Frost Breath</name>
+  <cost>{2}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>54</setNumber>
+  <artist>Mike Bierek</artist>
+  <oracleText>Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.</oracleText>
+  <printedText>Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.</printedText>
+  <flavorText>If you have to be stuck somewhere for a while, it's better to be stuck there with a friend.</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220291</id>
+  <name>Hunter's Insight</name>
+  <cost>{2}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>180</setNumber>
+  <artist>Terese Nielsen</artist>
+  <oracleText>Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.</oracleText>
+  <printedText>Choose target creature you control. Whenever that creature deals combat damage to a player or planeswalker this turn, draw that many cards.</printedText>
+  <flavorText>"The predator knows the true way of the world. Life is conflict. Only the strong survive."&lt;br&gt;--Garruk Wildspeaker</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>220293</id>
+  <name>Dark Favor</name>
+  <cost>{1}{B}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>89</setNumber>
+  <artist>Allen Williams</artist>
+  <oracleText>Enchant creaturebrWhen Dark Favor enters the battlefield, you lose 1 life.brEnchanted creature gets +3/+1.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;When Dark Favor enters the battlefield, you lose 1 life.&lt;br&gt;Enchanted creature gets +3/+1.</printedText>
+  <flavorText>When he began to curse what he held holy, his strength grew unrivaled.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220294</id>
+  <name>Gorehorn Minotaurs</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature  -- Minotaur Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>144</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</oracleText>
+  <printedText>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)</printedText>
+  <flavorText>Some of the eleven minotaur clans of Mirtiin are expert crafters and learned philosophers. Others just like to hit stuff.</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220295</id>
+  <name>Stave Off</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>36</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Target creature gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)</oracleText>
+  <printedText>Target creature gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>220296</id>
+  <name>Greatsword</name>
+  <cost>{3}</cost>
+  <type>Artifact  -- Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>209</setNumber>
+  <artist>Nic Klein</artist>
+  <oracleText>Equipped creature gets +3/+0.brEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature gets +3/+0.&lt;br&gt;Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
+  <flavorText>The only blow that matters is the killing blow.</flavorText>
+  <cmc>3</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220297</id>
+  <name>Crown of Empires</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>203</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>{3}, {T}: Tap target creature. Gain control of that creature instead if you control artifacts named Scepter of Empires and Throne of Empires.</oracleText>
+  <printedText>{3}, {T}: Tap target creature. Gain control of that creature instead if you control artifacts named Scepter of Empires and Throne of Empires.</printedText>
+  <flavorText>"With this crown, assert your authority."&lt;br&gt;--Crown inscription</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>220298</id>
+  <name>Chandra's Phoenix</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Phoenix</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>126</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>FlyingbrHaste (This creature can attack and {T} as soon as it comes under your control.)brWhenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.</oracleText>
+  <printedText>Flying&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220300</id>
+  <name>Scrambleverse</name>
+  <cost>{6}{R}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>153</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which he or she was chosen. Untap those permanents.</oracleText>
+  <printedText>For each nonland permanent, choose a player at random. Then each player gains control of each permanent for which he or she was chosen. Untap those permanents.</printedText>
+  <flavorText>Sometimes a little chaos is in order.</flavorText>
+  <cmc>8</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>220301</id>
+  <name>Unsummon</name>
+  <cost>{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>79</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Return target creature to its owner's hand.</oracleText>
+  <printedText>Return target creature to its owner's hand.</printedText>
+  <flavorText>"It's nothing personal. I'd just prefer if you weren't."&lt;br&gt;--Ashurel, voidmage</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>220302</id>
+  <name>Buried Ruin</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>224</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>{T}: Add {1} to your mana pool.br{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.</oracleText>
+  <printedText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.</printedText>
+  <flavorText>History has buried its treasures deep.</flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>220304</id>
+  <name>Hideous Visage</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>100</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)</oracleText>
+  <printedText>Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)</printedText>
+  <flavorText>"Seeing you cower before me is its own reward."</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220306</id>
+  <name>Bloodlord of Vaasgoth</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature  -- Vampire Warrior</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>82</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)brFlyingbrWhenever you cast a Vampire creature spell, it gains bloodthirst 3.</oracleText>
+  <printedText>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;br&gt;Flying&lt;br&gt;Whenever you cast a Vampire creature spell, it gains bloodthirst 3.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>220435</id>
+  <name>Goblin Grenade</name>
+  <cost>{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>140</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.brGoblin Grenade deals 5 damage to target creature or player.</oracleText>
+  <printedText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.</printedText>
+  <flavorText>Don't underestimate the aerodynamic qualities of the common goblin.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>221199</id>
+  <name>Goblin Piker</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>141</setNumber>
+  <artist>DiTerlizzi</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Once he'd worked out which end of the thing was sharp, he was promoted to guard duty.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>221201</id>
+  <name>Goblin Chieftain</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Goblin</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>138</setNumber>
+  <artist>Sam Wood</artist>
+  <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)brOther Goblin creatures you control get +1/+1 and have haste.</oracleText>
+  <printedText>Haste (This creature can attack and {T} as soon as it comes under your control.)&lt;br&gt;Other Goblin creatures you control get +1/+1 and have haste.</printedText>
+  <flavorText>"It's time for the 'Smash, Smash' song!"</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>221203</id>
+  <name>Titanic Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>198</setNumber>
+  <artist>Ryan Pancoast</artist>
+  <oracleText>Target creature gets +4/+4 until end of turn.</oracleText>
+  <printedText>Target creature gets +4/+4 until end of turn.</printedText>
+  <flavorText>The pup looked over the treetops, eyeing the man who just yesterday had kicked her. Suddenly, her hunger was infused with pure delight.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221484</id>
+  <name>Redirect</name>
+  <cost>{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>74</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>You may choose new targets for target spell.</oracleText>
+  <printedText>You may choose new targets for target spell.</printedText>
+  <flavorText>"It's actually quite simple, but since you've only recently begun to walk upright, it may take some time to explain."&lt;br&gt;--Jace Beleren, to Garruk Wildspeaker</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>221516</id>
+  <name>Deathmark</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>90</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Destroy target green or white creature.</oracleText>
+  <printedText>Destroy target green or white creature.</printedText>
+  <flavorText>"Let the final vision of doom be etched upon their unblinking eyes."&lt;br&gt;--Zul Ashur, lich lord</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>221519</id>
+  <name>Diabolic Tutor</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>92</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Search your library for a card and put that card into your hand. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a card and put that card into your hand. Then shuffle your library.</printedText>
+  <flavorText>The wise always keep an ear open to the whispers of power.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>221520</id>
+  <name>Angel's Feather</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>202</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a white spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player casts a white spell, you may gain 1 life.</printedText>
+  <flavorText>The angel represents divine perfection; even the smallest feather is imbued with beauty and benevolence.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221521</id>
+  <name>Kraken's Eye</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>211</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a blue spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player casts a blue spell, you may gain 1 life.</printedText>
+  <flavorText>It's seen the wonders of entire worlds trapped in the depths of a bottomless ocean.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221522</id>
+  <name>Demon's Horn</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>205</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a black spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player casts a black spell, you may gain 1 life.</printedText>
+  <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221523</id>
+  <name>Dragon's Claw</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>206</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a red spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player casts a red spell, you may gain 1 life.</printedText>
+  <flavorText>"If there is a fire that never ceases to burn, it surely lies in the maw of a dragon."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221524</id>
+  <name>Wurm's Tooth</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>223</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>Whenever a player casts a green spell, you may gain 1 life.</oracleText>
+  <printedText>Whenever a player casts a green spell, you may gain 1 life.</printedText>
+  <flavorText>Jevna Nor lugged it around, bragging of his triumph over the wurm. Luckily, the tavern regulars didn't notice it was only a baby tooth.</flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221525</id>
+  <name>Elixir of Immortality</name>
+  <cost>{1}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>208</setNumber>
+  <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+  <oracleText>{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.</oracleText>
+  <printedText>{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.</printedText>
+  <flavorText>"Bottled life. Not as tasty as I'm used to, rather stale, but it has the same effect."&lt;br&gt;--Baron Sengir</flavorText>
+  <cmc>1</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>221526</id>
+  <name>Gravedigger</name>
+  <cost>{3}{B}</cost>
+  <type>Creature  -- Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>99</setNumber>
+  <artist>Dermot Power</artist>
+  <oracleText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</oracleText>
+  <printedText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</printedText>
+  <flavorText>His grim ritual ushers the dead to their new life.</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>221550</id>
+  <name>Fireball</name>
+  <cost>{X}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>131</setNumber>
+  <artist>Dave Dorman</artist>
+  <oracleText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.brFireball costs {1} more to cast for each target beyond the first.</oracleText>
+  <printedText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.</printedText>
+  <flavorText></flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>221891</id>
+  <name>Lava Axe</name>
+  <cost>{4}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>148</setNumber>
+  <artist>Brian Snoddy</artist>
+  <oracleText>Lava Axe deals 5 damage to target player.</oracleText>
+  <printedText>Lava Axe deals 5 damage to target player.</printedText>
+  <flavorText>It can chop down a redwood in a single stroke. Your sternum isn't going to fare any better.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>221892</id>
+  <name>Llanowar Elves</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Elf Druid</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>182</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>{T}: Add {G} to your mana pool.</oracleText>
+  <printedText>{T}: Add {G} to your mana pool.</printedText>
+  <flavorText>One bone broken for every twig snapped underfoot.&lt;br&gt;--Llanowar penalty for trespassing</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221893</id>
+  <name>Runeclaw Bear</name>
+  <cost>{1}{G}</cost>
+  <type>Creature  -- Bear</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>193</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The only honey it wants is the sweet nectar flowing through your veins.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221894</id>
+  <name>Naturalize</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>185</setNumber>
+  <artist>Tim Hildebrandt</artist>
+  <oracleText>Destroy target artifact or enchantment.</oracleText>
+  <printedText>Destroy target artifact or enchantment.</printedText>
+  <flavorText>"When your cities and trinkets crumble, only nature will remain."&lt;br&gt;--Garruk Wildspeaker</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221895</id>
+  <name>Cudgel Troll</name>
+  <cost>{2}{G}{G}</cost>
+  <type>Creature  -- Troll</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>169</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</oracleText>
+  <printedText>{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221896</id>
+  <name>Birds of Paradise</name>
+  <cost>{G}</cost>
+  <type>Creature  -- Bird</type>
+  <power>0</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>165</setNumber>
+  <artist>Marcelo Vignali</artist>
+  <oracleText>Flyingbr{T}: Add one mana of any color to your mana pool.</oracleText>
+  <printedText>Flying&lt;br&gt;{T}: Add one mana of any color to your mana pool.</printedText>
+  <flavorText>"The gods used their feathers to paint all the colors of the world."&lt;br&gt;--Yare-Tiva, warden of Gramur forest</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>221898</id>
+  <name>Grand Abolisher</name>
+  <cost>{W}{W}</cost>
+  <type>Creature -- Human Cleric</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>19</setNumber>
+  <artist>Eric Deschamps</artist>
+  <oracleText>During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.</oracleText>
+  <printedText>During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.</printedText>
+  <flavorText>"Your superstitions and mumblings are useless chaff before my righteousness."</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>221919</id>
+  <name>Glacial Fortress</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>227</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.br{T}: Add {W} or {U} to your mana pool.</oracleText>
+  <printedText>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>221920</id>
+  <name>Drowned Catacomb</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>226</setNumber>
+  <artist>Dave Kendall</artist>
+  <oracleText>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.br{T}: Add {U} or {B} to your mana pool.</oracleText>
+  <printedText>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>221921</id>
+  <name>Dragonskull Summit</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>225</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.br{T}: Add {B} or {R} to your mana pool.</oracleText>
+  <printedText>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>221922</id>
+  <name>Rootbound Crag</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>228</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.br{T}: Add {R} or {G} to your mana pool.</oracleText>
+  <printedText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>221923</id>
+  <name>Sunpetal Grove</name>
+  <cost></cost>
+  <type>Land</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>229</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.br{T}: Add {G} or {W} to your mana pool.</oracleText>
+  <printedText>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>222633</id>
+  <name>Stormfront Pegasus</name>
+  <cost>{1}{W}</cost>
+  <type>Creature  -- Pegasus</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>38</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>Its hooves touch the earth only when a hero must rise.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>222634</id>
+  <name>Armored Warhorse</name>
+  <cost>{W}{W}</cost>
+  <type>Creature  -- Horse</type>
+  <power>2</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>7</setNumber>
+  <artist>rk post</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"When we of the Northern Verge claim a mount, no peasant's nag will do. It must be as strong as our virtue, and must join us of its own will."&lt;br&gt;--Sarlena, paladin of the Northern Verge</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>222635</id>
+  <name>Siege Mastodon</name>
+  <cost>{4}{W}</cost>
+  <type>Creature  -- Elephant</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>34</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"The walls of the wicked will fall before us. Ready the siege engines. We proceed to war!"&lt;br&gt;--General Avitora</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>222650</id>
+  <name>Griffin Sentinel</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Griffin</type>
+  <power>1</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>21</setNumber>
+  <artist>Warren Mahy</artist>
+  <oracleText>FlyingbrVigilance (Attacking doesn't cause this creature to tap.)</oracleText>
+  <printedText>Flying&lt;br&gt;Vigilance (Attacking doesn't cause this creature to tap.)</printedText>
+  <flavorText>Once a griffin sentinel adopts a territory as its own, only death can force it to betray its post.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>226558</id>
+  <name>Zombie Goliath</name>
+  <cost>{4}{B}</cost>
+  <type>Creature  -- Zombie Giant</type>
+  <power>4</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>119</setNumber>
+  <artist>E. M. Gist</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>"Removing the encumbrance of useless brain tissue grants several advantages: a slight increase in mobility, a response of revulsion and horror from the enemy, and, in the case of large specimens, room for passengers."&lt;br&gt;--Zul Ashur, lich lord</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>226560</id>
+  <name>Doom Blade</name>
+  <cost>{1}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>95</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>Destroy target nonblack creature.</oracleText>
+  <printedText>Destroy target nonblack creature.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>226561</id>
+  <name>Taste of Blood</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>113</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Taste of Blood deals 1 damage to target player and you gain 1 life.</oracleText>
+  <printedText>Taste of Blood deals 1 damage to target player and you gain 1 life.</printedText>
+  <flavorText>"How blessed are some people, whose lives have no fears, no dreads, to whom sleep is a blessing that comes nightly, and brings nothing but sweet dreams."&lt;br&gt;--Bram Stoker, Dracula</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>226563</id>
+  <name>Devouring Swarm</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature  -- Insect</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>91</setNumber>
+  <artist>Wayne England</artist>
+  <oracleText>FlyingbrSacrifice a creature: Devouring Swarm gets +1/+1 until end of turn.</oracleText>
+  <printedText>Flying&lt;br&gt;Sacrifice a creature: Devouring Swarm gets +1/+1 until end of turn.</printedText>
+  <flavorText>Their arrival is heralded by the deafening hum of ten thousand wings. Their departure is marked by the silence of the dead.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>226565</id>
+  <name>Reassembling Skeleton</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Skeleton Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>104</setNumber>
+  <artist>Austin Hsu</artist>
+  <oracleText>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.</oracleText>
+  <printedText>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.</printedText>
+  <flavorText>"They may show up with the wrong thigh bone or mandible, but they always show up."&lt;br&gt;--Zul Ashur, lich lord</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>226582</id>
+  <name>Bonebreaker Giant</name>
+  <cost>{4}{R}</cost>
+  <type>Creature  -- Giant</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>123</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>One thing's for sure--his fists are harder than your skull.</flavorText>
+  <cmc>5</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>226585</id>
+  <name>Chandra's Outrage</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>125</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.</oracleText>
+  <printedText>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.</printedText>
+  <flavorText>Chandra never believed in using her "inside voice."</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>226588</id>
+  <name>Firebreathing</name>
+  <cost>{R}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>132</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>Enchant creaturebr{R}: Enchanted creature gets +1/+0 until end of turn.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.</printedText>
+  <flavorText>The mage breathed in life-giving air and breathed out death-bringing fire.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>226589</id>
+  <name>Act of Treason</name>
+  <cost>{2}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>121</setNumber>
+  <artist>Eric Deschamps</artist>
+  <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</oracleText>
+  <printedText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</printedText>
+  <flavorText>"Rage courses in every heart, yearning to betray its rational prison."&lt;br&gt;--Sarkhan Vol</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>226591</id>
+  <name>Combust</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>128</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Combust can't be countered by spells or abilities.brCombust deals 5 damage to target white or blue creature. The damage can't be prevented.</oracleText>
+  <printedText>Combust can't be countered by spells or abilities.&lt;br&gt;Combust deals 5 damage to target white or blue creature. The damage can't be prevented.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>226896</id>
+  <name>Garruk's Companion</name>
+  <cost>{G}{G}</cost>
+  <type>Creature  -- Beast</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>175</setNumber>
+  <artist>Efrem Palacios</artist>
+  <oracleText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</oracleText>
+  <printedText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>226900</id>
+  <name>Fog</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>173</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>Prevent all combat damage that would be dealt this turn.</oracleText>
+  <printedText>Prevent all combat damage that would be dealt this turn.</printedText>
+  <flavorText>It's hard enough to find your way through uncharted wilderness when you can see the tip of your nose.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>226901</id>
+  <name>Bountiful Harvest</name>
+  <cost>{4}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>166</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>You gain 1 life for each land you control.</oracleText>
+  <printedText>You gain 1 life for each land you control.</printedText>
+  <flavorText>"When we fail to see the beauty in every tree, we are no better than humans."&lt;br&gt;--Saelia, elvish scout</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>226903</id>
+  <name>Reclaim</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>191</setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>Put target card from your graveyard on top of your library.</oracleText>
+  <printedText>Put target card from your graveyard on top of your library.</printedText>
+  <flavorText>The wise pay as much attention to what they throw away as to what they keep.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>226905</id>
+  <name>Lure</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>183</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>Enchant creaturebrAll creatures able to block enchanted creature do so.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;All creatures able to block enchanted creature do so.</printedText>
+  <flavorText>It makes the insignificant conspicuous, the repulsive alluring, and the deadly irresistible.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>226906</id>
+  <name>Acidic Slime</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature  -- Ooze</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>161</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)brWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</oracleText>
+  <printedText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)brWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>227222</id>
+  <name>Aether Adept</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>41</setNumber>
+  <artist>Eric Deschamps</artist>
+  <oracleText>When Aether Adept enters the battlefield, return target creature to its owner's hand.</oracleText>
+  <printedText>When Aether Adept enters the battlefield, return target creature to its owner's hand.</printedText>
+  <flavorText>"The universe is my instrument, and the song I play upon it is one you are forbidden to hear."</flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>227223</id>
+  <name>Coral Merfolk</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Merfolk</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>49</setNumber>
+  <artist>rk post</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Merfolk are best known for their subtle magic. But those who try to fight them in their own territory quickly realize that merfolk are hardly defenseless on the field of battle.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>227225</id>
+  <name>Cancel</name>
+  <cost>{1}{U}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>47</setNumber>
+  <artist>David Palumbo</artist>
+  <oracleText>Counter target spell.</oracleText>
+  <printedText>Counter target spell.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>227227</id>
+  <name>Jace's Erasure</name>
+  <cost>{1}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>60</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.</oracleText>
+  <printedText>Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.</printedText>
+  <flavorText>"You should try to clear your mind of idle thoughts. And if you can't, I will."</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>227302</id>
+  <name>Worldslayer</name>
+  <cost>{5}</cost>
+  <type>Artifact  -- Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>222</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.brEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.&lt;br&gt;Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
+  <flavorText>"If that is what you seek, try looking in craters."&lt;br&gt;--Fodrus, mastersmith</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>227305</id>
+  <name>Djinn of Wishes</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Creature  -- Djinn</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>51</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>FlyingbrDjinn of Wishes enters the battlefield with three wish counters on it.br{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.</oracleText>
+  <printedText>Flying&lt;br&gt;Djinn of Wishes enters the battlefield with three wish counters on it.&lt;br&gt;{2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>228117</id>
+  <name>Benalish Veteran</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Human Soldier</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>10</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn.</oracleText>
+  <printedText>Whenever Benalish Veteran attacks, it gets +1/+1 until end of turn.</printedText>
+  <flavorText>"One day I will rest and join my comrades in the afterlife, but not while scum like you still sully this world."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>228118</id>
+  <name>Sundial of the Infinite</name>
+  <cost>{2}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>218</setNumber>
+  <artist>Vincent Proce</artist>
+  <oracleText>{1}, {T}: End the turn. Activate this ability only during your turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)</oracleText>
+  <printedText>{1}, {T}: End the turn. Activate this ability only during your turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>228119</id>
+  <name>Master Thief</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Creature  -- Human Rogue</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>64</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.</oracleText>
+  <printedText>When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief.</printedText>
+  <flavorText>Possession is ten-tenths of the law.</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>228122</id>
+  <name>Gideon's Lawkeeper</name>
+  <cost>{W}</cost>
+  <type>Creature  -- Human Soldier</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>18</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>{W}, {T}: Tap target creature.</oracleText>
+  <printedText>{W}, {T}: Tap target creature.</printedText>
+  <flavorText>"The essence of a lawful society is swift deterrence."</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>228796</id>
+  <name>Warstorm Surge</name>
+  <cost>{5}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>160</setNumber>
+  <artist>Raymond Swanland</artist>
+  <oracleText>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to target creature or player.</oracleText>
+  <printedText>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to target creature or player.</printedText>
+  <flavorText>"Listen to the roar! Feel the thunder! The Immersturm shouts its approval with every bolt of lightning!"</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>228956</id>
+  <name>Pacifism</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>28</setNumber>
+  <artist>Robert Bliss</artist>
+  <oracleText>Enchant creaturebrEnchanted creature can't attack or block.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.</printedText>
+  <flavorText>For the first time in his life, Grakk felt a little warm and fuzzy inside.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>228959</id>
+  <name>Goblin Fireslinger</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>139</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>{T}: Goblin Fireslinger deals 1 damage to target player.</oracleText>
+  <printedText>{T}: Goblin Fireslinger deals 1 damage to target player.</printedText>
+  <flavorText>A rock between your eyes hurts. A burning rock between your eyes ruins your whole day.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>229952</id>
+  <name>Goblin Bangchuckers</name>
+  <cost>{2}{R}{R}</cost>
+  <type>Creature  -- Goblin Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>137</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>{T}: Flip a coin. If you win the flip, Goblin Bangchuckers deals 2 damage to target creature or player. If you lose the flip, Goblin Bangchuckers deals 2 damage to itself.</oracleText>
+  <printedText>{T}: Flip a coin. If you win the flip, Goblin Bangchuckers deals 2 damage to target creature or player. If you lose the flip, Goblin Bangchuckers deals 2 damage to itself.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>230756</id>
+  <name>Harbor Serpent</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Creature  -- Serpent</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>56</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>Islandwalk (This creature is unblockable as long as defending player controls an Island.)brHarbor Serpent can't attack unless there are five or more Islands on the battlefield.</oracleText>
+  <printedText>Islandwalk (This creature is unblockable as long as defending player controls an Island.)&lt;br&gt;Harbor Serpent can't attack unless there are five or more Islands on the battlefield.</printedText>
+  <flavorText>Like most giant monsters villagers worship as gods, it proves a fickle master.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>230757</id>
+  <name>Negate</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>69</setNumber>
+  <artist>Jeremy Jarvis</artist>
+  <oracleText>Counter target noncreature spell.</oracleText>
+  <printedText>Counter target noncreature spell.</printedText>
+  <flavorText>Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>230758</id>
+  <name>Wring Flesh</name>
+  <cost>{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>118</setNumber>
+  <artist>Izzy</artist>
+  <oracleText>Target creature gets -3/-1 until end of turn.</oracleText>
+  <printedText>Target creature gets -3/-1 until end of turn.</printedText>
+  <flavorText>"Don't blame me. You're the one walking around with skin."&lt;br&gt;--Zul Ashur, lich lord</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>230762</id>
+  <name>Slaughter Cry</name>
+  <cost>{2}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>155</setNumber>
+  <artist>Matt Cavotta</artist>
+  <oracleText>Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</printedText>
+  <flavorText>It's rather embarrassing to end up with your head mounted over his hearth.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>230764</id>
+  <name>Manic Vandal</name>
+  <cost>{2}{R}</cost>
+  <type>Creature  -- Human Warrior</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>151</setNumber>
+  <artist>Christopher Moeller</artist>
+  <oracleText>When Manic Vandal enters the battlefield, destroy target artifact.</oracleText>
+  <printedText>When Manic Vandal enters the battlefield, destroy target artifact.</printedText>
+  <flavorText>It's fun. He doesn't need another reason.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>233231</id>
+  <name>Rampant Growth</name>
+  <cost>{1}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>190</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</oracleText>
+  <printedText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</printedText>
+  <flavorText>Nature grows solutions to its problems.</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>233232</id>
+  <name>Giant Spider</name>
+  <cost>{3}{G}</cost>
+  <type>Creature  -- Spider</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>177</setNumber>
+  <artist>Randy Gallegos</artist>
+  <oracleText>Reach (This creature can block creatures with flying.)</oracleText>
+  <printedText>Reach (This creature can block creatures with flying.)</printedText>
+  <flavorText>"The wild is always changing, but it does have a few constants."&lt;br&gt;--Garruk Wildspeaker</flavorText>
+  <cmc>4</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>233233</id>
+  <name>Greater Basilisk</name>
+  <cost>{3}{G}{G}</cost>
+  <type>Creature  -- Basilisk</type>
+  <power>3</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>179</setNumber>
+  <artist>James Ryman</artist>
+  <oracleText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</oracleText>
+  <printedText>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</printedText>
+  <flavorText>Bone, stone . . . both taste the same to a hungry basilisk.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>233235</id>
+  <name>Plummet</name>
+  <cost>{1}{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>187</setNumber>
+  <artist>Pete Venters</artist>
+  <oracleText>Destroy target creature with flying.</oracleText>
+  <printedText>Destroy target creature with flying.</printedText>
+  <flavorText>"Let nothing own the skies but the wind."&lt;br&gt;--Dejara, Giltwood druid</flavorText>
+  <cmc>2</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>233237</id>
+  <name>Honor of the Pure</name>
+  <cost>{1}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>23</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>White creatures you control get +1/+1.</oracleText>
+  <printedText>White creatures you control get +1/+1.</printedText>
+  <flavorText>Together the soldiers were like a golden blade, cutting down their enemies and scarring the darkness.</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>233722</id>
+  <name>Reverberate</name>
+  <cost>{R}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>152</setNumber>
+  <artist>jD</artist>
+  <oracleText>Copy target instant or sorcery spell. You may choose new targets for the copy.</oracleText>
+  <printedText>Copy target instant or sorcery spell. You may choose new targets for the copy.</printedText>
+  <flavorText>For every action, there is a swifter and more violent reaction.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>233728</id>
+  <name>Levitation</name>
+  <cost>{2}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>61</setNumber>
+  <artist>Jim Murray</artist>
+  <oracleText>Creatures you control have flying.</oracleText>
+  <printedText>Creatures you control have flying.</printedText>
+  <flavorText>"Why fight over scraps of land when there's so much sky waiting to be claimed?"</flavorText>
+  <cmc>4</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>234070</id>
+  <name>Cemetery Reaper</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature  -- Zombie</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>86</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Other Zombie creatures you control get +1/+1.br{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.</oracleText>
+  <printedText>Other Zombie creatures you control get +1/+1.&lt;br&gt;{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.</printedText>
+  <flavorText>Every grave cradles a recruit.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>234072</id>
+  <name>Thran Golem</name>
+  <cost>{5}</cost>
+  <type>Artifact Creature  -- Golem</type>
+  <power>3</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>220</setNumber>
+  <artist>Ron Spears</artist>
+  <oracleText>As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.</oracleText>
+  <printedText>As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.</printedText>
+  <flavorText>The golems of the ancient Thran still draw power in ways that baffle the artificers of today.</flavorText>
+  <cmc>5</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>234075</id>
+  <name>Incinerate</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>146</setNumber>
+  <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+  <oracleText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</oracleText>
+  <printedText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</printedText>
+  <flavorText>"Spontaneous combustion is a myth. If you burst into flame, someone wanted you to."&lt;br&gt;--Chandra Nalaar</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234428</id>
+  <name>Grim Lavamancer</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>145</setNumber>
+  <artist>Michael Sutfin</artist>
+  <oracleText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.</oracleText>
+  <printedText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.</printedText>
+  <flavorText>"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper."</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>234436</id>
+  <name>Sorin's Vengeance</name>
+  <cost>{4}{B}{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>111</setNumber>
+  <artist>Jana Schirmer &amp; Johannes Voss</artist>
+  <oracleText>Sorin's Vengeance deals 10 damage to target player and you gain 10 life.</oracleText>
+  <printedText>Sorin's Vengeance deals 10 damage to target player and you gain 10 life.</printedText>
+  <flavorText>"Cherish these last moments. Though your miserable life has come to nothing, I have given it a magnificent end."</flavorText>
+  <cmc>7</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>234560</id>
+  <name>Child of Night</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Vampire</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>87</setNumber>
+  <artist>Ash Wood</artist>
+  <oracleText>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</oracleText>
+  <printedText>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</printedText>
+  <flavorText>Sins that would be too gruesome in the light of day are made more pleasing in the dark of night.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>234561</id>
+  <name>Mind Rot</name>
+  <cost>{2}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>101</setNumber>
+  <artist>Steve Luke</artist>
+  <oracleText>Target player discards two cards.</oracleText>
+  <printedText>Target player discards two cards.</printedText>
+  <flavorText>Not every thought is a good one.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>234567</id>
+  <name>Oblivion Ring</name>
+  <cost>{2}{W}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>27</setNumber>
+  <artist>Franz Vohwinkel</artist>
+  <oracleText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.brWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</oracleText>
+  <printedText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.brWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.</printedText>
+  <flavorText></flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>234568</id>
+  <name>Tectonic Rift</name>
+  <cost>{3}{R}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>157</setNumber>
+  <artist>John Avon</artist>
+  <oracleText>Destroy target land. Creatures without flying can't block this turn.</oracleText>
+  <printedText>Destroy target land. Creatures without flying can't block this turn.</printedText>
+  <flavorText>"You will kneel before me, even if I have to split the earth under your feet!"&lt;br&gt;--Ash Kronor, Keldon warlord</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>235188</id>
+  <name>Rites of Flourishing</name>
+  <cost>{2}{G}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>192</setNumber>
+  <artist>Brandon Kitkouski</artist>
+  <oracleText>At the beginning of each player's draw step, that player draws an additional card.brEach player may play an additional land on each of his or her turns.</oracleText>
+  <printedText>At the beginning of each player's draw step, that player draws an additional card.&lt;br&gt;Each player may play an additional land on each of his or her turns.</printedText>
+  <flavorText>"Dance, and bring forth the coil! It is an umbilical to Gaea herself, fattening us with the earth's rich bounty."</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>235191</id>
+  <name>Frost Titan</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Creature  -- Giant</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>55</setNumber>
+  <artist>Mike Bierek</artist>
+  <oracleText>Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.brWhenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.</oracleText>
+  <printedText>Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.&lt;br&gt;Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>235192</id>
+  <name>Inferno Titan</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Creature  -- Giant</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>147</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>{R}: Inferno Titan gets +1/+0 until end of turn.brWhenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</oracleText>
+  <printedText>{R}: Inferno Titan gets +1/+0 until end of turn.&lt;br&gt;Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>235193</id>
+  <name>Manabarbs</name>
+  <cost>{3}{R}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>150</setNumber>
+  <artist>Jeff Miracola</artist>
+  <oracleText>Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.</oracleText>
+  <printedText>Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.</printedText>
+  <flavorText>"I don't know why people say a double-edged sword is bad. It's a sword. With two edges."&lt;br&gt;--Kamahl, pit fighter</flavorText>
+  <cmc>4</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>236449</id>
+  <name>Assault Griffin</name>
+  <cost>{3}{W}</cost>
+  <type>Creature  -- Griffin</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>8</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>Flying</oracleText>
+  <printedText>Flying</printedText>
+  <flavorText>"Griffins do not serve. They give freely to those they trust."&lt;br&gt;--Amira, skycaptain of Thune</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>236457</id>
+  <name>Belltower Sphinx</name>
+  <cost>{4}{U}</cost>
+  <type>Creature  -- Sphinx</type>
+  <power>2</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>46</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>FlyingbrWhenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>236459</id>
+  <name>Mind Unbound</name>
+  <cost>{4}{U}{U}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>68</setNumber>
+  <artist>Jason Felix</artist>
+  <oracleText>At the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.</oracleText>
+  <printedText>At the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.</printedText>
+  <flavorText>The creations of the hand are confined by reality. The creations of the mind know no such limits.</flavorText>
+  <cmc>6</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>236460</id>
+  <name>Call to the Grave</name>
+  <cost>{4}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>85</setNumber>
+  <artist>Daarken</artist>
+  <oracleText>At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.brAt the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.</oracleText>
+  <printedText>At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature.&lt;br&gt;At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>236461</id>
+  <name>Goblin War Paint</name>
+  <cost>{1}{R}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>143</setNumber>
+  <artist>Austin Hsu</artist>
+  <oracleText>Enchant creaturebrEnchanted creature gets +2/+2 and has haste. (It can attack and {T} no matter when it came under its controller's control.)</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has haste. (It can attack and {T} no matter when it came under its controller's control.)</printedText>
+  <flavorText>"The secret to our war paint is hot peppers and stinkbugs. Lots of stinkbugs."&lt;br&gt;--Skab, goblin secretkeeper</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>236464</id>
+  <name>Royal Assassin</name>
+  <cost>{1}{B}{B}</cost>
+  <type>Creature  -- Human Assassin</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>105</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>{T}: Destroy target tapped creature.</oracleText>
+  <printedText>{T}: Destroy target tapped creature.</printedText>
+  <flavorText>An assassin is a king's most trusted courier, ensuring his messages are heard by even the most unwilling recipients.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>236907</id>
+  <name>Solemn Simulacrum</name>
+  <cost>{4}</cost>
+  <type>Artifact Creature  -- Golem</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>217</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.brWhen Solemn Simulacrum dies, you may draw a card.</oracleText>
+  <printedText>When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.brWhen Solemn Simulacrum dies, you may draw a card.</printedText>
+  <flavorText></flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>236908</id>
+  <name>Distress</name>
+  <cost>{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>94</setNumber>
+  <artist>Michael C. Hayes</artist>
+  <oracleText>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.</oracleText>
+  <printedText>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.</printedText>
+  <flavorText>"Of course I'm sure I've gone mad. The little man who crawled out of my eye was quite clear on this."</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>237006</id>
+  <name>Quicksilver Amulet</name>
+  <cost>{4}</cost>
+  <type>Artifact</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>214</setNumber>
+  <artist>Brad Rigney</artist>
+  <oracleText>{4}, {T}: You may put a creature card from your hand onto the battlefield.</oracleText>
+  <printedText>{4}, {T}: You may put a creature card from your hand onto the battlefield.</printedText>
+  <flavorText>Those who examine the amulet too closely have been known to become part of its ornate carvings.</flavorText>
+  <cmc>4</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>237007</id>
+  <name>Elvish Archdruid</name>
+  <cost>{1}{G}{G}</cost>
+  <type>Creature  -- Elf Druid</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>172</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Other Elf creatures you control get +1/+1.br{T}: Add {G} to your mana pool for each Elf you control.</oracleText>
+  <printedText>Other Elf creatures you control get +1/+1.&lt;br&gt;{T}: Add {G} to your mana pool for each Elf you control.</printedText>
+  <flavorText>He knows the name of every elf born in the last four centuries. More importantly, they all know his.</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>237010</id>
+  <name>Smallpox</name>
+  <cost>{B}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>108</setNumber>
+  <artist>Ryan Pancoast</artist>
+  <oracleText>Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.</oracleText>
+  <printedText>Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.</printedText>
+  <flavorText>Take away a few things, and a rebellion may ensue. Take away everything, and the oppression will be accepted as fate.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>237366</id>
+  <name>Flight</name>
+  <cost>{U}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>53</setNumber>
+  <artist>Mark Zug</artist>
+  <oracleText>Enchant creaturebrEnchanted creature has flying.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature has flying.</printedText>
+  <flavorText>"Those who claim to know the world in its entirety rarely have the requisite perspective."&lt;br&gt;--Ulmarus the Wise</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>238263</id>
+  <name>Jace, Memory Adept</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Planeswalker  -- Jace</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>58</setNumber>
+  <artist>D. Alexander Gregory</artist>
+  <oracleText>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.br0: Target player puts the top ten cards of his or her library into his or her graveyard.br-7: Any number of target players each draw twenty cards.</oracleText>
+  <printedText>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.&lt;br&gt;0: Target player puts the top ten cards of his or her library into his or her graveyard.&lt;br&gt;-7: Any number of target players each draw twenty cards.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>238327</id>
+  <name>Peregrine Griffin</name>
+  <cost>{4}{W}</cost>
+  <type>Creature  -- Griffin</type>
+  <power>2</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>29</setNumber>
+  <artist>Steve Prescott</artist>
+  <oracleText>FlyingbrFirst strike (This creature deals combat damage before creatures without first strike.)</oracleText>
+  <printedText>Flying&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)</printedText>
+  <flavorText>A griffin is not just an eagle's wings and a lion's claws. It is also the fiercest of hearts.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>238328</id>
+  <name>Demystify</name>
+  <cost>{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>13</setNumber>
+  <artist>Veronique Meignaud</artist>
+  <oracleText>Destroy target enchantment.</oracleText>
+  <printedText>Destroy target enchantment.</printedText>
+  <flavorText>Behind every mage is a trail of shattered lies.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>238329</id>
+  <name>Gideon Jura</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Planeswalker  -- Gideon</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>16</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.br-2: Destroy target tapped creature.br0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</oracleText>
+  <printedText>+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.&lt;br&gt;-2: Destroy target tapped creature.&lt;br&gt;0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>238330</id>
+  <name>Sorin Markov</name>
+  <cost>{3}{B}{B}{B}</cost>
+  <type>Planeswalker  -- Sorin</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>109</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.br-3: Target opponent's life total becomes 10.br-7: You control target player during that player's next turn.</oracleText>
+  <printedText>+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.&lt;br&gt;-3: Target opponent's life total becomes 10.&lt;br&gt;-7: You control target player during that player's next turn.</printedText>
+  <flavorText></flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>238331</id>
+  <name>Fiery Hellhound</name>
+  <cost>{1}{R}{R}</cost>
+  <type>Creature  -- Elemental Hound</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>130</setNumber>
+  <artist>Ted Galaday</artist>
+  <oracleText>{R}: Fiery Hellhound gets +1/+0 until end of turn.</oracleText>
+  <printedText>{R}: Fiery Hellhound gets +1/+0 until end of turn.</printedText>
+  <flavorText>There's nothing more exciting than a game of fetch the still-beating heart.</flavorText>
+  <cmc>3</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>238569</id>
+  <name>Angel's Mercy</name>
+  <cost>{2}{W}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>4</setNumber>
+  <artist>Andrew Robinson</artist>
+  <oracleText>You gain 7 life.</oracleText>
+  <printedText>You gain 7 life.</printedText>
+  <flavorText>Angels appear before both the blessed and the cursed, though most don't know which they are until they feel either the angel's kiss or her sword.</flavorText>
+  <cmc>4</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>238570</id>
+  <name>Roc Egg</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Bird</type>
+  <power>0</power>
+  <toughness>3</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>32</setNumber>
+  <artist>Paul Bonner</artist>
+  <oracleText>Defender (This creature can't attack.)brWhen Roc Egg dies, put a 3/3 white Bird creature token with flying onto the battlefield.</oracleText>
+  <printedText>Defender (This creature can't attack.)&lt;br&gt;When Roc Egg dies, put a 3/3 white Bird creature token with flying onto the battlefield.</printedText>
+  <flavorText>A thin shell lies between the roc and a world of bite-sized treats.</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>238572</id>
+  <name>Mind Control</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>67</setNumber>
+  <artist>Ryan Pancoast</artist>
+  <oracleText>Enchant creaturebrYou control enchanted creature.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;You control enchanted creature.</printedText>
+  <flavorText>"Every primitive mind has a motive. Easy to find, and eminently exploitable."&lt;br&gt;--Noyan Dar, Tazeem lullmage</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>238574</id>
+  <name>Overrun</name>
+  <cost>{2}{G}{G}{G}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>186</setNumber>
+  <artist>Carl Critchlow</artist>
+  <oracleText>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</oracleText>
+  <printedText>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</printedText>
+  <flavorText></flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>240308</id>
+  <name>Auramancer</name>
+  <cost>{2}{W}</cost>
+  <type>Creature  -- Human Wizard</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>9</setNumber>
+  <artist>Rebecca Guay</artist>
+  <oracleText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</oracleText>
+  <printedText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</printedText>
+  <flavorText>"In memories, we can find our deepest reserves of strength."</flavorText>
+  <cmc>3</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>240315</id>
+  <name>Elite Vanguard</name>
+  <cost>{W}</cost>
+  <type>Creature  -- Human Soldier</type>
+  <power>2</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>15</setNumber>
+  <artist>Mark Tedin</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The vanguard is skilled at waging war alone. The enemy is often defeated before its reinforcements reach the front.</flavorText>
+  <cmc>1</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>241830</id>
+  <name>Grave Titan</name>
+  <cost>{4}{B}{B}</cost>
+  <type>Creature  -- Giant</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>98</setNumber>
+  <artist>Nils Hamm</artist>
+  <oracleText>DeathtouchbrWhenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.</oracleText>
+  <printedText>Deathtouch&lt;br&gt;Whenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.</printedText>
+  <flavorText>Death in form and function.</flavorText>
+  <cmc>6</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>241831</id>
+  <name>Mana Leak</name>
+  <cost>{1}{U}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>63</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Counter target spell unless its controller pays {3}.</oracleText>
+  <printedText>Counter target spell unless its controller pays {3}.</printedText>
+  <flavorText>The fatal flaw in every plan is the assumption that you know more than your enemy.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>241832</id>
+  <name>Primeval Titan</name>
+  <cost>{4}{G}{G}</cost>
+  <type>Creature  -- Giant</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>188</setNumber>
+  <artist>Aleksi Briclot</artist>
+  <oracleText>TramplebrWhenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.</oracleText>
+  <printedText>Trample&lt;br&gt;Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.</printedText>
+  <flavorText>When nature calls, run.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>241833</id>
+  <name>Sun Titan</name>
+  <cost>{4}{W}{W}</cost>
+  <type>Creature  -- Giant</type>
+  <power>6</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>39</setNumber>
+  <artist>Todd Lockwood</artist>
+  <oracleText>VigilancebrWhenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.</oracleText>
+  <printedText>Vigilance&lt;br&gt;Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.</printedText>
+  <flavorText>A blazing sun that never sets.</flavorText>
+  <cmc>6</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>241858</id>
+  <name>Fling</name>
+  <cost>{1}{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>134</setNumber>
+  <artist>Parente</artist>
+  <oracleText>As an additional cost to cast Fling, sacrifice a creature.brFling deals damage equal to the sacrificed creature's power to target creature or player.</oracleText>
+  <printedText>As an additional cost to cast Fling, sacrifice a creature.&lt;br&gt;Fling deals damage equal to the sacrificed creature's power to target creature or player.</printedText>
+  <flavorText>About halfway to the target, Snukk vowed that he had been tricked for the last time.</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>241859</id>
+  <name>Sacred Wolf</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Wolf</type>
+  <power>3</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>194</setNumber>
+  <artist>Matt Stewart</artist>
+  <oracleText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</oracleText>
+  <printedText>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</printedText>
+  <flavorText>"I raised my bow, and the wolf stared at me. Under its gaze, my finger would not release the string."&lt;br&gt;--Aref the Hunter</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>241860</id>
+  <name>Zombie Infestation</name>
+  <cost>{1}{B}</cost>
+  <type>Enchantment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>120</setNumber>
+  <artist>Thomas M. Baxa</artist>
+  <oracleText>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.</oracleText>
+  <printedText>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.</printedText>
+  <flavorText>The nomads' funeral pyres are more practical than ceremonial.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>241989</id>
+  <name>Mighty Leap</name>
+  <cost>{1}{W}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>26</setNumber>
+  <artist>rk post</artist>
+  <oracleText>Target creature gets +2/+2 and gains flying until end of turn.</oracleText>
+  <printedText>Target creature gets +2/+2 and gains flying until end of turn.</printedText>
+  <flavorText>"The southern fortress taken by invaders? Heh, sure . . . when elephants fly."&lt;br&gt;--Brezard Skeinbow, captain of the guard</flavorText>
+  <cmc>2</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>241990</id>
+  <name>Autumn's Veil</name>
+  <cost>{G}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>164</setNumber>
+  <artist>Kekai Kotaki</artist>
+  <oracleText>Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.</oracleText>
+  <printedText>Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.</printedText>
+  <flavorText>The rustling of leaves and a passing shadow are a dryad's only trace.</flavorText>
+  <cmc>1</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>241994</id>
+  <name>Sorin's Thirst</name>
+  <cost>{B}{B}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>110</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>Sorin's Thirst deals 2 damage to target creature and you gain 2 life.</oracleText>
+  <printedText>Sorin's Thirst deals 2 damage to target creature and you gain 2 life.</printedText>
+  <flavorText>"All your steel won't protect you if your will is weak."</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>241995</id>
+  <name>Warpath Ghoul</name>
+  <cost>{2}{B}</cost>
+  <type>Creature  -- Zombie</type>
+  <power>3</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>117</setNumber>
+  <artist>rk post</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>Ghouls are often found skulking on the fringes of great battles, showing themselves only to snatch the wounded and weak, dragging their victims screaming into the shadows.</flavorText>
+  <cmc>3</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>242485</id>
+  <name>Goblin Arsonist</name>
+  <cost>{R}</cost>
+  <type>Creature  -- Goblin Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>136</setNumber>
+  <artist>Wayne Reynolds</artist>
+  <oracleText>When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.</oracleText>
+  <printedText>When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.</printedText>
+  <flavorText>With great power comes great risk of getting yourself killed.</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>244245</id>
+  <name>Disentomb</name>
+  <cost>{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>93</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Return target creature card from your graveyard to your hand.</oracleText>
+  <printedText>Return target creature card from your graveyard to your hand.</printedText>
+  <flavorText>"Stop complaining. You can rest when you're dead. Oh--sorry."&lt;br&gt;--Liliana Vess</flavorText>
+  <cmc>1</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>244246</id>
+  <name>Brink of Disaster</name>
+  <cost>{2}{B}{B}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>84</setNumber>
+  <artist>Alex Horley-Orlandelli</artist>
+  <oracleText>Enchant creature or landbrWhen enchanted permanent becomes tapped, destroy it.</oracleText>
+  <printedText>Enchant creature or land&lt;br&gt;When enchanted permanent becomes tapped, destroy it.</printedText>
+  <flavorText>"When you find yourself teetering on the edge of oblivion, mine will be the hands taking pleasure in giving you the final push."&lt;br&gt;--Liliana Vess</flavorText>
+  <cmc>4</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>244249</id>
+  <name>Consume Spirit</name>
+  <cost>{X}{1}{B}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>88</setNumber>
+  <artist>Justin Sweet</artist>
+  <oracleText>Spend only black mana on X.brConsume Spirit deals X damage to target creature or player and you gain X life.</oracleText>
+  <printedText>Spend only black mana on X.&lt;br&gt;Consume Spirit deals X damage to target creature or player and you gain X life.</printedText>
+  <flavorText>"You clerics brag about your strength of spirit, yet I take away the tiniest fragment, and you crumple like a rag doll."&lt;br&gt;--Sorin Markov</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>244250</id>
+  <name>Kite Shield</name>
+  <cost>{0}</cost>
+  <type>Artifact  -- Equipment</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>210</setNumber>
+  <artist>Jim Pavelec</artist>
+  <oracleText>Equipped creature gets +0/+3.brEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</oracleText>
+  <printedText>Equipped creature gets +0/+3.&lt;br&gt;Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</printedText>
+  <flavorText>"To my sword I owe my glory, but to my shield I owe my life."&lt;br&gt;--Sarlena, paladin of the Northern Verge</flavorText>
+  <cmc>0</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>244251</id>
+  <name>Pentavus</name>
+  <cost>{7}</cost>
+  <type>Artifact Creature  -- Construct</type>
+  <power>0</power>
+  <toughness>0</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>213</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Pentavus enters the battlefield with five +1/+1 counters on it.br{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.br{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.</oracleText>
+  <printedText>Pentavus enters the battlefield with five +1/+1 counters on it.&lt;br&gt;{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.&lt;br&gt;{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.</printedText>
+  <flavorText></flavorText>
+  <cmc>7</cmc>
+  <color>{_}</color>
+</mc>
+<mc>
+  <id>244252</id>
+  <name>Blood Seeker</name>
+  <cost>{1}{B}</cost>
+  <type>Creature  -- Vampire Shaman</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>81</setNumber>
+  <artist>Greg Staples</artist>
+  <oracleText>Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</oracleText>
+  <printedText>Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</printedText>
+  <flavorText>A drop now is all he needs to find you later.</flavorText>
+  <cmc>2</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>244253</id>
+  <name>Sengir Vampire</name>
+  <cost>{3}{B}{B}</cost>
+  <type>Creature  -- Vampire</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>107</setNumber>
+  <artist>Kev Walker</artist>
+  <oracleText>FlyingbrWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.</printedText>
+  <flavorText>Empires rise and fall, but evil is eternal.</flavorText>
+  <cmc>5</cmc>
+  <color>{B}</color>
+</mc>
+<mc>
+  <id>244313</id>
+  <name>Ponder</name>
+  <cost>{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>73</setNumber>
+  <artist>Dan Scott</artist>
+  <oracleText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library.brDraw a card.</oracleText>
+  <printedText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library.&lt;br&gt;Draw a card.</printedText>
+  <flavorText>Tomorrow belongs to those who prepare for it today.</flavorText>
+  <cmc>1</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>244319</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>247</setNumber>
+  <artist>Volkan Baga</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244320</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>246</setNumber>
+  <artist>Glen Angus</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244321</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>248</setNumber>
+  <artist>Jim Nelson</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244322</id>
+  <name>Forest</name>
+  <cost></cost>
+  <type>Basic Land  -- Forest</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>249</setNumber>
+  <artist>Ryan Pancoast</artist>
+  <oracleText>G</oracleText>
+  <printedText>G</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244323</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>235</setNumber>
+  <artist>Cliff Childs</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244324</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>236</setNumber>
+  <artist>Michael Komarck</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244325</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>234</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244326</id>
+  <name>Island</name>
+  <cost></cost>
+  <type>Basic Land  -- Island</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>237</setNumber>
+  <artist>Peter Mohrbacher</artist>
+  <oracleText>U</oracleText>
+  <printedText>U</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244327</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>245</setNumber>
+  <artist>Sam Wood</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244328</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>242</setNumber>
+  <artist>Cliff Childs</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244329</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>244</setNumber>
+  <artist>Robh Ruppel</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244330</id>
+  <name>Mountain</name>
+  <cost></cost>
+  <type>Basic Land  -- Mountain</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>243</setNumber>
+  <artist>Karl Kopinski</artist>
+  <oracleText>R</oracleText>
+  <printedText>R</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244331</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>231</setNumber>
+  <artist>D. J. Cleland-Hura</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244332</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>233</setNumber>
+  <artist>Charles Urbach</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244333</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>230</setNumber>
+  <artist>Rob Alexander</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244334</id>
+  <name>Plains</name>
+  <cost></cost>
+  <type>Basic Land  -- Plains</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>232</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>W</oracleText>
+  <printedText>W</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244335</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>240</setNumber>
+  <artist>Jung Park</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244336</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>241</setNumber>
+  <artist>Alan Pollack</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244337</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>239</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244338</id>
+  <name>Swamp</name>
+  <cost></cost>
+  <type>Basic Land  -- Swamp</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Land</rarity>
+  <setNumber>238</setNumber>
+  <artist>Cliff Childs</artist>
+  <oracleText>B</oracleText>
+  <printedText>B</printedText>
+  <flavorText></flavorText>
+  <cmc></cmc>
+  <color></color>
+</mc>
+<mc>
+  <id>244719</id>
+  <name>Volcanic Dragon</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Creature  -- Dragon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>158</setNumber>
+  <artist>Chris Rahn</artist>
+  <oracleText>FlyingbrHaste (This creature can attack and {T} as soon as it comes under your control.)</oracleText>
+  <printedText>Flying&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)</printedText>
+  <flavorText>Sometimes an eruption in Shiv produces something more dangerous than a mere river of molten rock.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>244720</id>
+  <name>Flameblast Dragon</name>
+  <cost>{4}{R}{R}</cost>
+  <type>Creature  -- Dragon</type>
+  <power>5</power>
+  <toughness>5</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>133</setNumber>
+  <artist>Jaime Jones</artist>
+  <oracleText>FlyingbrWhenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.</oracleText>
+  <printedText>Flying&lt;br&gt;Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.</printedText>
+  <flavorText>He marks his territory with fire and wrath, etching the mountainside with his charring breath.</flavorText>
+  <cmc>6</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>244824</id>
+  <name>Brindle Boar</name>
+  <cost>{2}{G}</cost>
+  <type>Creature  -- Boar</type>
+  <power>2</power>
+  <toughness>2</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>167</setNumber>
+  <artist>Dave Allsop</artist>
+  <oracleText>Sacrifice Brindle Boar: You gain 4 life.</oracleText>
+  <printedText>Sacrifice Brindle Boar: You gain 4 life.</printedText>
+  <flavorText>"Tell the cooks to prepare the fires. Tonight we feast!"&lt;br&gt;--Tolar Wolfbrother, Krosan tracker</flavorText>
+  <cmc>3</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>244825</id>
+  <name>Stampeding Rhino</name>
+  <cost>{4}{G}</cost>
+  <type>Creature  -- Rhino</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>196</setNumber>
+  <artist>Steven Belledin</artist>
+  <oracleText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</oracleText>
+  <printedText>Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</printedText>
+  <flavorText>The quickest way to get through the jungle is to agitate a rhino and run in its wake.</flavorText>
+  <cmc>5</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>244827</id>
+  <name>Vastwood Gorger</name>
+  <cost>{5}{G}</cost>
+  <type>Creature  -- Wurm</type>
+  <power>5</power>
+  <toughness>6</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>200</setNumber>
+  <artist>Kieran Yanner</artist>
+  <oracleText></oracleText>
+  <printedText></printedText>
+  <flavorText>The gorger's insect-like eyes pick up the slightest movement in any direction. Its body then whips toward its prey with startling speed, swallowing it in one engulfing gulp.</flavorText>
+  <cmc>6</cmc>
+  <color>{G}</color>
+</mc>
+<mc>
+  <id>244828</id>
+  <name>Archon of Justice</name>
+  <cost>{3}{W}{W}</cost>
+  <type>Creature  -- Archon</type>
+  <power>4</power>
+  <toughness>4</toughness>
+  <edition>M12</edition>
+  <rarity>Rare</rarity>
+  <setNumber>6</setNumber>
+  <artist>Jason Chan</artist>
+  <oracleText>FlyingbrWhen Archon of Justice dies, exile target permanent.</oracleText>
+  <printedText>Flying&lt;br&gt;When Archon of Justice dies, exile target permanent.</printedText>
+  <flavorText>In dark times, Truth bears a blade.</flavorText>
+  <cmc>5</cmc>
+  <color>{W}</color>
+</mc>
+<mc>
+  <id>245184</id>
+  <name>Shock</name>
+  <cost>{R}</cost>
+  <type>Instant</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>154</setNumber>
+  <artist>Jon Foster</artist>
+  <oracleText>Shock deals 2 damage to target creature or player.</oracleText>
+  <printedText>Shock deals 2 damage to target creature or player.</printedText>
+  <flavorText>"The beauty of it is they never see it coming. Ever."&lt;br&gt;--Razzix, sparkmage</flavorText>
+  <cmc>1</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>245185</id>
+  <name>Goblin Tunneler</name>
+  <cost>{1}{R}</cost>
+  <type>Creature  -- Goblin Rogue</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>142</setNumber>
+  <artist>Jesper Ejsing</artist>
+  <oracleText>{T}: Target creature with power 2 or less is unblockable this turn.</oracleText>
+  <printedText>{T}: Target creature with power 2 or less is unblockable this turn.</printedText>
+  <flavorText>"The best way over the mountain is through."</flavorText>
+  <cmc>2</cmc>
+  <color>{R}</color>
+</mc>
+<mc>
+  <id>245187</id>
+  <name>Time Reversal</name>
+  <cost>{3}{U}{U}</cost>
+  <type>Sorcery</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Mythic Rare</rarity>
+  <setNumber>77</setNumber>
+  <artist>Howard Lyon</artist>
+  <oracleText>Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.</oracleText>
+  <printedText>Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.</printedText>
+  <flavorText>"Any oaf can conquer a kingdom. It takes true power to conquer time."&lt;br&gt;--Shai Fusan, archmage</flavorText>
+  <cmc>5</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>245188</id>
+  <name>Alluring Siren</name>
+  <cost>{1}{U}</cost>
+  <type>Creature  -- Siren</type>
+  <power>1</power>
+  <toughness>1</toughness>
+  <edition>M12</edition>
+  <rarity>Uncommon</rarity>
+  <setNumber>42</setNumber>
+  <artist>Chippy</artist>
+  <oracleText>{T}: Target creature an opponent controls attacks you this turn if able.</oracleText>
+  <printedText>{T}: Target creature an opponent controls attacks you this turn if able.</printedText>
+  <flavorText>She lures victims with promises of flesh, captures them in a net of deceit, and destroys them in the embrace of the sea.</flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+<mc>
+  <id>245283</id>
+  <name>Ice Cage</name>
+  <cost>{1}{U}</cost>
+  <type>Enchantment  -- Aura</type>
+  <power></power>
+  <toughness></toughness>
+  <edition>M12</edition>
+  <rarity>Common</rarity>
+  <setNumber>57</setNumber>
+  <artist>Mike Bierek</artist>
+  <oracleText>Enchant creaturebrEnchanted creature can't attack or block, and its activated abilities can't be activated.brWhen enchanted creature becomes the target of a spell or ability, destroy Ice Cage.</oracleText>
+  <printedText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.</printedText>
+  <flavorText></flavorText>
+  <cmc>2</cmc>
+  <color>{U}</color>
+</mc>
+</list>
+</cards>
