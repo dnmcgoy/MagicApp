@@ -1,8 +1,6 @@
-var DecksWindow = {};
-
 (function(){
 
-DecksWindow.createDecksWindow = function() {
+MD.createDecksWindow = function() {
 	var decksWindow = Titanium.UI.createWindow({
     		title:'My Decks',
     		backgroundColor:'#fff',

@@ -260,7 +260,7 @@ def singleCardTest():
         magicParser.reset()
         redirectURL = "/Pages/Card/Details.aspx?multiverseid=" + magicParser.redirectId
         conn.request("GET", redirectURL)
-        magicParser.feed(conn.getresponse().read().decode("UTF-8"))
+        Magicparser.feed(conn.getresponse().read().decode("UTF-8"))
         card = magicParser.cardList[0]
         if(card):
             f.write(' '.join(card["name"]).encode("utf-8").strip())

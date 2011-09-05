@@ -40,15 +40,15 @@ end
 
 def costToCMC(cost)
   if (cost)
-    symbols = cost.scan(/{.*?}/)
+    symbols = cost.scan(/\{.*?\}/)
     if (symbols.size == 0)
       return nil
     end
     cmc = 0
     for symbol in symbols
-      if (symbol =~ /{([0-9]+).*}/)
+      if (symbol =~ /\{([0-9]+).*\}/)
         cmc = cmc + $1.to_i
-      elsif (symbol =~ /{X}/)
+      elsif (symbol =~ /\{X\}/)
         cmc = cmc + 0
       else
         cmc = cmc + 1
@@ -115,7 +115,7 @@ def costToColorBitField(cost)
     if (cost =~ /W/)
       hasWhite = true
     end
-    if (!hasBlue && !hasBlack && !hasGreen && !hasRed && !hasWhite && cost.scan(/{.*?}/).size > 0)
+    if (!hasBlue && !hasBlack && !hasGreen && !hasRed && !hasWhite && cost.scan(/\{.*?\}/).size > 0)
       hasColorless = true
     end
   end
@@ -167,4 +167,8 @@ for csvCard in csvCards
   if !hasCard
     cards << csvCard
   end
+end
+
+for card in cards
+  card.print
 end

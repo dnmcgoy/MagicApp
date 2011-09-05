@@ -28,13 +28,14 @@ var CardTableRow = {};
 
       	var cardImage = Ti.UI.createImageView({
 	        defaultImage:"CardBack.jpg",
-			image: "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
-		        	cardData.mtg_id +
-					"&type=card",
+			image: "http://www.logic-by-design.com/magic_images/low_res/" +
+           			cardData.mtg_id +
+	   		 	".jpg",
 			top: 0,
 			left: 0,
 			width:107,
-            height:150
+                        height:150,
+                        hires: true
        	});
       	row.add(cardImage);
 

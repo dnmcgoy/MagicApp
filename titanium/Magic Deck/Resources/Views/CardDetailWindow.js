@@ -1,17 +1,14 @@
-var CardDetailWindow = {};
-
 (function() {
-
-var cardImage = Ti.UI.createImageView({
+MD.createDetailWindow = function(cardData) {
+	var cardImage = Ti.UI.createImageView({
     		defaultImage:"CardBack.jpg",
     		image: "CardBack.jpg",
     		top: 0,
     		left: 0,
-		width:250,
+			width:250,
     		height:350
   		});
-
-CardDetailWindow.createDetailWindow = function(cardData) {
+  		
 	var detailWindow = Ti.UI.createWindow({
 		title:cardData.name,
     	        backgroundColor:'#fff',
@@ -19,9 +16,9 @@ CardDetailWindow.createDetailWindow = function(cardData) {
                 barColor:'#000'
 	});
 
-	cardImage.image = "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=" +
+	cardImage.image = "http://www.logic-by-design.com/magic_images/low_res/" +
            			   cardData.mtg_id +
-	   		 		   "&type=card";
+	   		 		   ".jpg";
 
 	detailWindow.add(cardImage);
 
