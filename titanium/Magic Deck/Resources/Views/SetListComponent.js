@@ -6,12 +6,36 @@
      var scrollView = Titanium.UI.createScrollView({
         contentWidth:500,
 	contentHeight:75,
-	top:10,
+	bottom:65,
 	height:75,
-	width:230,
+	width:280,
 	borderRadius:10,
-	backgroundColor:'#13386c'
+	backgroundColor:'#161616'
      });
+
+
+     var formatView = Titanium.UI.createView({
+                                               top:0,
+                                               height:30
+                                             });
+     var formatLabel = Titanium.UI.createLabel({
+                                                 top:0,
+                                                 left:0,
+                                                 text:"Format:",
+                                                 width:80
+                                               });
+     var formatValue = Titanium.UI.createLabel({
+                                                 text:"",
+                                                 width:80,
+                                                 left:80
+                                               });
+     formatView.add(formatLabel);
+     formatView.add(formatValue);
+     var magicSetView = Titanium.UI.createView({
+                                                 height:110
+                                               });
+     //magicSetView.add(formatView);
+     magicSetView.add(scrollView);
 
      scrollView.addEventListener('scroll', function(e)
      {
@@ -36,37 +60,51 @@
 
      });
 
-     var magicSets = Database.getMagicSets();
      var blocks = Database.getMagicBlocks();
-
      var i = 0;
-     for(setInfo in magicSets) {
-       var myView = Ti.UI.createView({
-         backgroundColor:'#FFFFFF',
-         borderWidth:1,
-         borderRadius:20,
-         borderColor:'#336699',
-         width:40,
-	 height:40,
-         bottom:3,
-	 left:(i*50)
-       });
-       scrollView.add(myView);
+     for(block in blocks) {
+       var magicSets = blocks[block]['magic_sets'];
+       var blockLabel = Ti.UI.createLabel({
+	                        text:block,
+                            backgroundColor:'#cccccc',
+                            borderWidth:3,
+                            borderColor:'#222222',
+	                        font:{fontSize:13},
+	                        color:'#222222',
+	                        width:magicSets.length * 50,
+	                        textAlign:'center',
+                            height:30,
+                            left:i*50,
+                            top:0
+                        });
+       scrollView.add(blockLabel);
 
-       var setImageUrl = 'http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&set=' +
+       for(setInfo in magicSets) {
+         var myView = Ti.UI.createView({
+           backgroundColor:'#FFFFFF',
+           borderWidth:3,
+           borderRadius:20,
+           borderColor:'#FFE303',
+           width:40,
+	       height:40,
+           bottom:3,
+	       left:(i*50)
+         });
+         scrollView.add(myView);
+
+         var setImageUrl = 'http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&set=' +
                            magicSets[setInfo].short_name + '&size=large&rarity=C';
-       var setImage = Ti.UI.createImageView({image:setImageUrl,
-                                             width:30,
-                                             height:30,
-                                             hires:true});
+         var imageView = Ti.UI.createImageView({image:setImageUrl,
+                                               width:30,
+                                               height:30,
+                                               hires:true});
+         myView.add(imageView);
 
-       myView.add(setImage);
-       i = i + 1;
+         i = i + 1;
+       }
      }
+     scrollView.contentWidth = (i * 50);
 
-     scrollView.contentWidth = (magicSets.length*50);
-
-
-     return scrollView;
+     return magicSetView;
    };
  })();

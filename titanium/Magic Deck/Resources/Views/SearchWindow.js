@@ -4,12 +4,18 @@ Ti.include('/Views/AdvancedSearchView.js');
 (function() {
 
 	MD.createSearchWindow = function() {
-		var searchBar = Titanium.UI.createSearchBar({
+                var basicSearchView = Titanium.UI.createView({
+                                                               top:0,
+                                                               height:75
+                                                             });
+
+		var basicSearchBar = Titanium.UI.createSearchBar({
     						barColor:'#000',
     						showCancel:false,
     						height:43,
    			 			top:0
 		        		});
+
                 var advancedSearchShow = Ti.UI.createLabel({
 			text:"Advanced Search",
     		        top:43,
@@ -19,6 +25,9 @@ Ti.include('/Views/AdvancedSearchView.js');
 			editable: false,
 			opacity: 0.67
 		});
+
+                basicSearchView.add(basicSearchBar);
+                basicSearchView.add(advancedSearchShow);
 
 		var deckInfoView = Ti.UI.createLabel({
 			text:"Currently Editing",
@@ -36,10 +45,10 @@ Ti.include('/Views/AdvancedSearchView.js');
   			if(e.value.length < 3) {return;}
   			var searchResults = Cards.searchCards({name:e.value});
   			searchTable.populate(searchResults);
-    		        searchBar.blur();
+    		        basicSearchBar.blur();
 		};
 
-		searchBar.addEventListener('return', search);
+		basicSearchBar.addEventListener('return', search);
 
 
    		var searchWindow = Ti.UI.createWindow({
@@ -62,9 +71,8 @@ Ti.include('/Views/AdvancedSearchView.js');
 
     	        searchTable = MD.createCardListingView();
                 searchWindow.add(advancedSearchView);
-   	        searchWindow.add(searchBar);
-                searchWindow.add(advancedSearchShow);
-   	        searchWindow.add(deckInfoView);
+   	        //searchWindow.add(basicSearchView);
+    	        //searchWindow.add(deckInfoView);
    	        deckInfoView.visible = true;
    	        return searchWindow;
         };

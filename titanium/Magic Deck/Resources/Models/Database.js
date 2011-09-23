@@ -40,10 +40,6 @@ var Database = {};
               magicBlocks[blockname].start_date = magicSets[setInfo].release_date;
             }
           }
-
-          for(key in magicBlocks) {
-            Ti.API.log("Key: " + key);
-            Ti.API.log("Number of Sets: " + magicBlocks[key]['magic_sets'].length);
-          }
+          return magicBlocks;
         };
  })();
